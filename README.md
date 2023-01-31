@@ -25,6 +25,7 @@ Update reports for Fasig
 
 ## To do
 
-- [ ] Get rid of the 3rd and 4th dam
+- [ ] Get rid of the 3rd and 4th dam in the original to compare
 - [ ] get the rest of the line numbers for different spots in the pedigree (1st dam, 2nd, where the horses are)
 - [ ] run the report off of the stringed out version of the pedigree and update
+- [ ] String it out so each horse is on a line of itself

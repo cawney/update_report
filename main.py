@@ -14,7 +14,9 @@ def main():
     hip_number_re = re.compile(r"(HIP NUMBER:)(?P<hip>\d{1,4})")
     source_file_re = re.compile(r"[A-Z]{2}\d{6}\.TXT")
     one_dam_re = re.compile(r'1st dam\n')
+    three_dam_re = re.compile(r'3rd dam\n')
     sex_sire_re = re.compile(r'\(\d{4}\s')
+    race_record_re = re.compile(r'RACE RECORD')
 
 
     ############################################################
@@ -28,23 +30,27 @@ def main():
     # Paths
     ############################################################
 
-    p_original = glob.glob(r"./source/original/")
-    p_update = r"./source/update"
-    p_report = r"./report"
+    p_source = os.getcwd() + r"\source"
+    p_original = p_source + r"\original"
+    p_update = p_source + r"\update"
+    p_report =  os.getcwd() + r"\report"
 
     ############################################################
     # Initializing difflib
     ############################################################
 
-
     # d = difflib.Differ()
+
+    ############################################################
+    # Functions
+    ############################################################
+
 
     def read_file_lines(file_name):
         '''Reads the file line by line and returns a list of lines'''
         with open(file_name, 'r') as f:
             global f1
             f1 = f.readlines()
-            # print(f.readlines())
             return f1
     f1 = read_file_lines(file_name)
 
@@ -62,10 +68,8 @@ def main():
                 if "WITHDRAWN" in line:
                     pass
                 else:
-                    # print(hip_number_re.search(line).group('hip'))
                     hip_list.append(hip_number_re.search(line).group('hip'))
             elif source_file_re.search(line):
-                # print(source_file_re.search(line).group())
                 source_list.append(source_file_re.search(line).group())
             else:
                 pass
@@ -89,25 +93,26 @@ def main():
                     if re_string.search(line) != None:
                         line_number.append(num)
                         # f2.writelines(line)
-                        # print(line_number)
                     num += 1
             i += 1
-        # print(f"Line numbers for {re_string}")
-        # print(line_number)
         return line_number
+
 
     def diff_report(original, update, report):
         '''Creates a report for each hip number. Takes the lists from get_meta_data() and the path to the report directory'''
         i = 0
-        files = glob.glob(report)
+        # Clear out the report directory
+        files = glob.glob(f'{report}/*')
         for f in files:
             os.remove(f)
+
+        # for f in files:
+        #     os.remove(f)
+        # print(os.getcwd())
         # hip_list = ["{:06d}".format(int(x)) for x in hip_list]
         for hip in zip(original, update):
-            # print(f"Original: {source_list[i]}")
-            # print(f"Update: {hip_list[i].zfill(6)}")
             # Need to add a check to see if the file exists in the directory
-            if os.path.isfile(f"{p_original}/{source_list[i]}") and os.path.isfile(f"{p_update}/PH{hip_list[i].zfill(6)}.TXT"):
+            if os.path.isfile(f"source/original/{source_list[i]}") and os.path.isfile(f"source/update/PH{hip_list[i].zfill(6)}.TXT"):
                 f = open(f"{p_original}/{source_list[i]}", "r")
                 f2 = open(f"{p_update}/PH{hip_list[i].zfill(6)}.TXT", "r")
                 flines = f.readlines()
@@ -118,27 +123,10 @@ def main():
                 with open(f"{p_report}/{hip_list[i]}.html", "w") as f:
                     print("Creating report for HIP", hip_list[i])
                     f.write(''.join(diffh))
-
                 i += 1
             else:
                 print(f"File not found for HIP {hip_list[i]}")
                 i += 1
-
-
-    # def get_line_number(file_name, new_file, string_to_search):
-    #     '''Rewrites the files so each horse will be on its own line'''
-    #     # global line_number
-    #     line_number = []
-    #     with open(file_name, 'r') as read_obj, open(new_file, 'w') as write_obj:
-    #         flines = read_obj.readlines()
-    #         num = 0
-    #         for line in flines:
-    #             if string_to_search.search(line) != None:
-    #                 line_number.append(num)
-    #                 write_obj.writelines(line)
-    #             num += 1
-    #     # print(line_number)
-    #     return line_number
 
 
     def get_difference(list):
@@ -146,7 +134,6 @@ def main():
         global list_difference
         list_difference = []
         list_difference = [list[i+1]-list[i] for i in range(len(list)-1)]
-        # print(list_difference)
         return list_difference
 
 
@@ -157,8 +144,6 @@ def main():
         lines = old_f.readlines()
         n = 0
         for i, v in enumerate(line_number, start=0):
-            # print(i, v)
-            # print(i, v)
             if i < len(list_difference):
                 group = old_l[v:v+list_difference[i]]
             else:
@@ -167,7 +152,6 @@ def main():
             string_group = string_group.replace("\n", "")
             if "2nd dam" in string_group:
                 string_group = string_group[:string_group.find("2nd dam")]
-            # print(string_group)
             new_f.writelines(string_group)
             new_f.write("\n")
 
@@ -177,21 +161,30 @@ def main():
 ##########################################################################################
 # Main part of the program
 ##########################################################################################
-    
-    print("reading file...")
-    read_file_lines(f"{file_name}")
+
+    print("reading files...")
+    read_file_lines(f"{file_name}") #file_name is from argv
+    print("Done reading files")
+    print("Getting meta data...")
     get_meta_data()
     print(hip_list)
     print(source_list)
     print("Done with meta data")
     ## Need to clean file first
-    print("Cleaning file...")
-    print("getting line numbers...")
-    i = 0
-    line_original_1d = get_line_number('source/original', one_dam_re)
+    print("getting line numbers of 1st dam...")
+    line_original_1d = get_line_number(p_original, one_dam_re)
     print(line_original_1d)
+    print("Getting line numbers of 3rd dam...")
+    line_original_3d = get_line_number(p_original, three_dam_re)
+    print(line_original_3d)
+    line_race_record = get_line_number(p_original, race_record_re)
+    print(line_race_record)
     print("Creating report...")
-    # diff_report(source_list, hip_list, './report/*')
+    print(os.getcwd())
+    print(p_report)
+    print(p_original)
+    print(p_update)
+    diff_report(source_list, hip_list, p_report)
     print("Done with report")
     # print(hip_list)
 
