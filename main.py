@@ -13,6 +13,8 @@ def main():
 
     hip_number_re = re.compile(r"(HIP NUMBER:)(?P<hip>\d{1,4})")
     source_file_re = re.compile(r"[A-Z]{2}\d{6}\.TXT")
+    one_dam_re = re.compile(r'1st dam\n')
+    sex_sire_re = re.compile(r'\(\d{4}\s')
 
 
     ############################################################
@@ -26,7 +28,7 @@ def main():
     # Paths
     ############################################################
 
-    p_original = r"./source/original"
+    p_original = glob.glob(r"./source/original/")
     p_update = r"./source/update"
     p_report = r"./report"
 
@@ -35,7 +37,7 @@ def main():
     ############################################################
 
 
-    d = difflib.Differ()
+    # d = difflib.Differ()
 
     def read_file_lines(file_name):
         '''Reads the file line by line and returns a list of lines'''
@@ -72,7 +74,30 @@ def main():
     hip_list = get_meta_data()[0]
     source_list = get_meta_data()[1]
 
+
+    def get_line_number(folder, re_string):
+        '''Cleans the files and puts each horse on its own line'''
+        i = 0
+        line_number = []
+        for f in glob.glob(f'{folder}/*_clean.txt'):
+            os.remove(f)
+        for horse in zip(hip_list, source_list):
+            with open(f"{folder}/{source_list[i]}", "r") as f: #, open(f"{folder}/{source_list[i].split('.')[0]}_clean.txt", "w") as f2:
+                flines = f.readlines()
+                num = 0
+                for line in flines:
+                    if re_string.search(line) != None:
+                        line_number.append(num)
+                        # f2.writelines(line)
+                        # print(line_number)
+                    num += 1
+            i += 1
+        # print(f"Line numbers for {re_string}")
+        # print(line_number)
+        return line_number
+
     def diff_report(original, update, report):
+        '''Creates a report for each hip number. Takes the lists from get_meta_data() and the path to the report directory'''
         i = 0
         files = glob.glob(report)
         for f in files:
@@ -100,7 +125,59 @@ def main():
                 i += 1
 
 
+    # def get_line_number(file_name, new_file, string_to_search):
+    #     '''Rewrites the files so each horse will be on its own line'''
+    #     # global line_number
+    #     line_number = []
+    #     with open(file_name, 'r') as read_obj, open(new_file, 'w') as write_obj:
+    #         flines = read_obj.readlines()
+    #         num = 0
+    #         for line in flines:
+    #             if string_to_search.search(line) != None:
+    #                 line_number.append(num)
+    #                 write_obj.writelines(line)
+    #             num += 1
+    #     # print(line_number)
+    #     return line_number
 
+
+    def get_difference(list):
+        n = 0
+        global list_difference
+        list_difference = []
+        list_difference = [list[i+1]-list[i] for i in range(len(list)-1)]
+        # print(list_difference)
+        return list_difference
+
+
+    def write_strings(line, length, old_file, new_file):
+        old_f = open(old_file, 'r')
+        new_f = open(new_file, 'w')
+        old_l = old_f.readlines()
+        lines = old_f.readlines()
+        n = 0
+        for i, v in enumerate(line_number, start=0):
+            # print(i, v)
+            # print(i, v)
+            if i < len(list_difference):
+                group = old_l[v:v+list_difference[i]]
+            else:
+                group = old_l[v:v+list_difference[i-1]]
+            string_group = ''.join(group)
+            string_group = string_group.replace("\n", "")
+            if "2nd dam" in string_group:
+                string_group = string_group[:string_group.find("2nd dam")]
+            # print(string_group)
+            new_f.writelines(string_group)
+            new_f.write("\n")
+
+
+
+
+##########################################################################################
+# Main part of the program
+##########################################################################################
+    
     print("reading file...")
     read_file_lines(f"{file_name}")
     get_meta_data()
@@ -108,8 +185,13 @@ def main():
     print(source_list)
     print("Done with meta data")
     ## Need to clean file first
+    print("Cleaning file...")
+    print("getting line numbers...")
+    i = 0
+    line_original_1d = get_line_number('source/original', one_dam_re)
+    print(line_original_1d)
     print("Creating report...")
-    diff_report(source_list, hip_list, './report/*')
+    # diff_report(source_list, hip_list, './report/*')
     print("Done with report")
     # print(hip_list)
 

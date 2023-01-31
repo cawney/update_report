@@ -9,7 +9,6 @@ Update reports for Fasig
 - See if I can get the difference in money
   - Don't put update horse if difference in update is little
 - Get rid of the 3rd and 4th dam
-- 
 
 ## What's needed to run
 
@@ -23,3 +22,9 @@ Update reports for Fasig
    1. the source file list
    2. the hip list (this is less important because the horse files are already in hip order)
 2. Get rid of horses that are withdrawn
+
+## To do
+
+- [ ] Get rid of the 3rd and 4th dam
+- [ ] get the rest of the line numbers for different spots in the pedigree (1st dam, 2nd, where the horses are)
+- [ ] run the report off of the stringed out version of the pedigree and update
