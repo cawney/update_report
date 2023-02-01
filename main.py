@@ -1,8 +1,10 @@
 import os # for file paths
+# import shutil # for copying files
 from sys import argv # for command line arguments, getting hipped file name
 import re # for regex
 import difflib # for diffing files
 import glob # for finding files in a directory
+import itertools # for iterating through lists
 
 def main():
     script, file_name = argv
@@ -74,33 +76,65 @@ def main():
         return hip_list, source_list
 
 
-    def seperate_lines(folder):
+    def seperate_lines(folder, status):
         '''Puts each horse on its own line'''
-        i = 0
-        # for f in glob.glob(f'{folder}/*_clean.txt'):
-        #     os.remove(f)
+
         for horse in zip(hip_list, source_list):
-            i = 0
-            with open(f"{folder}/{source_list[i]}.txt", "r") as f, open(f"{folder}/{source_list[i]}_string.txt", "w") as f2: #.split('.')[0]
-                list_sex_sire = get_line_number(f"{folder}/" + source_list[i], sex_sire_re)
-                print(list_sex_sire)
-                flines = f.readlines()
-                for line in flines:
-                    print("line", i)
-                    i += 1
-                
-                # l = 0
-            #     for line in flines:
-            #         print(l)
-            #         # print(line)
-            #         f2.writelines(line)
-            #         l += 1
-            # i += 1
+            print(horse[0], horse[1])
+            print("Working on horse number: ", horse[0])
+            if status == 'original':
+                fn = horse[1]
+            elif status == 'update':
+                fn = "PH" + horse[0].zfill(6)
+            # if fn 
+            with open(f"{folder}/{fn}.txt", "r") as f, open(f"{folder}/{fn}_string.txt", "w") as f2:
+                list_sex_sire = get_line_number(f"{folder}/" + fn, sex_sire_re)
+                list_sex_sire_diff = get_difference(list_sex_sire)
+                # f is the original file, f2 is the cleaned up file
+                flines = f.readlines() # read lines of file.
+                i = 0
+                n = 0
+                # print("Horse number: \n", horse[0], "of", horse[0][-1])
+                # i += 1
+                for n, m in enumerate(list_sex_sire, start=0):
+                    if n < len(list_sex_sire_diff):
+                        group = flines[m:m+list_sex_sire_diff[n]]
+                    else:
+                        group = flines[m:m+list_sex_sire_diff[n-1]]
+                    string_group = ''.join(group)
+                    string_group = string_group.replace('\n', '')
+                    if '2nd dam' in string_group:
+                        string_group = string_group[:string_group.find("2nd dam")]
+                    f2.write(string_group + '\n')
 
 
-    def get_line_number(file_name, re_string):
+# def write_strings(line, length, old_file, new_file):
+    #     old_f = open(old_file, 'r')
+    #     new_f = open(new_file, 'w')
+    #     old_l = old_f.readlines()
+    #     lines = old_f.readlines()
+    #     n = 0
+    #     for i, v in enumerate(line_number, start=0):
+    #         if i < len(list_difference):
+    #             group = old_l[v:v+list_difference[i]]
+    #         else:
+    #             group = old_l[v:v+list_difference[i-1]]
+    #         string_group = ''.join(group)
+    #         string_group = string_group.replace("\n", "")
+    #         if "2nd dam" in string_group:
+    #             string_group = string_group[:string_group.find("2nd dam")]
+    #         new_f.writelines(string_group)
+    #         new_f.write("\n")
+
+   
+
+    def get_line_number(file_name, re_string, status):
         '''Gets the line number of a specific regex in a file.'''
         line_number = []
+        if status == 'original':
+            pass
+        elif status == 'update':
+            pass
         f = open(f"{file_name}.txt", 'r')
         lines = f.readlines()
         num = 0
@@ -142,6 +176,7 @@ def main():
 
 
     def get_difference(list):
+        '''Gets the difference between each number in a list'''
         n = 0
         global list_difference
         list_difference = []
@@ -149,23 +184,6 @@ def main():
         return list_difference
 
 
-    # def write_strings(line, length, old_file, new_file):
-    #     old_f = open(old_file, 'r')
-    #     new_f = open(new_file, 'w')
-    #     old_l = old_f.readlines()
-    #     lines = old_f.readlines()
-    #     n = 0
-    #     for i, v in enumerate(line_number, start=0):
-    #         if i < len(list_difference):
-    #             group = old_l[v:v+list_difference[i]]
-    #         else:
-    #             group = old_l[v:v+list_difference[i-1]]
-    #         string_group = ''.join(group)
-    #         string_group = string_group.replace("\n", "")
-    #         if "2nd dam" in string_group:
-    #             string_group = string_group[:string_group.find("2nd dam")]
-    #         new_f.writelines(string_group)
-    #         new_f.write("\n")
 
 
 
@@ -187,18 +205,21 @@ def main():
     print("Hip list from step 1:\n", hip_list)
     print("Source list from step 1:\n", source_list)
     print("Done with meta data")
-    seperate_lines(p_original)
+    print("getting line numbers of 1st dam...")
+    line_original_1d = get_line_number(p_original, one_dam_re, 'original')
+    print(line_original_1d)
+    print("Getting line numbers of 3rd dam...")
+    line_original_3d = get_line_number(p_original, three_dam_re)
+    print(line_original_3d)
+    line_race_record = get_line_number(p_original, race_record_re)
+    print(line_race_record)
+
+    seperate_lines(p_original, 'original')
+    seperate_lines(p_update, 'update')
     # test = get_line_number('FM1-586', one_dam_re)
     # print(test)
-    ## Find locations of the 1st and 3rd dam, Race Record, and then sex and sire 
-    # print("getting line numbers of 1st dam...")
-    # line_original_1d = get_line_number(p_original, one_dam_re)
-    # print(line_original_1d)
-    # print("Getting line numbers of 3rd dam...")
-    # line_original_3d = get_line_number(p_original, three_dam_re)
-    # print(line_original_3d)
-    # line_race_record = get_line_number(p_original, race_record_re)
-    # print(line_race_record)
+    # Find locations of the 1st and 3rd dam, Race Record, and then sex and sire 
+    
 
 
     # sex_sire_list = get_line_number(p_original, sex_sire_re)

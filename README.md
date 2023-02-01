@@ -15,6 +15,7 @@ Update reports for Fasig
 - A folder, 'source\original', with the original files
 - A folder, 'source\update', with the updated files
 - A folder for reports, 'reports'
+- Both folders (update and orginal) should have all the files in them, if not it will break.
 
 ## Steps
 
