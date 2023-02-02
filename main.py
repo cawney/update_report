@@ -83,55 +83,29 @@ def main():
             print("HIP:\tHORSE:\n",horse[0], '\t', horse[1])
             if status == 'original':
                 fn = horse[1] + "_short.txt"
+                fn1 = horse[1]
             elif status == 'update':
-                fn = "PH" + horse[0].zfill(6)
-            # if fn 
-            with open(f"{folder}/{fn}", "r") as f, open(f"{folder}/{fn}_string.txt", "w") as f2:
+                fn = "PH" + horse[0].zfill(6) + ".txt"
+                fn1 = "PH" + horse[0].zfill(6)
+            with open(f"{folder}/{fn}", "r") as f, open(f"{folder}/{fn1}_string.txt", "w") as f2: # the _string is the final product. (i think)
                 list_sex_sire = get_line_number(f"{folder}/" + fn, sex_sire_re)
                 list_sex_sire_diff = get_difference(list_sex_sire)
-                # line_three_dam = get_line_number(f"{folder}/" + fn, three_dam_re)
-                # line_race_record = get_line_number(f"{folder}/" + fn, race_record_re)
-                # print(f"3rd Dam list: {line_three_dam}")
-                # print(f"Race Record: {line_race_record}")
-                # print(f"Sex Sire list: {list_sex_sire}")
-                # print(f"Sex Sire diff: {list_sex_sire_diff}")
-                # # print(len(list_sex_sire_diff))
-                # three_dam_line = None
-                # three_dam_line = 0
-                # race_line = 0
-                # flines = f.readlines()
-                # if len(line_three_dam) != 0:
-                #     three_dam_line = line_three_dam[0]
-                #     f2.writelines(flines[:three_dam_line])
-                # if len(line_race_record) != 0:
-                #     race_line = line_race_record[0]
-                #     f2.writelines(flines[race_line:])
-                # f is the original file, f2 is the cleaned up file
                 flines = f.readlines() # read lines of file.
-                # falt = open(f"{folder}/{fn}_allt.txt", "w")
-                # flines2 = f2.writelines(flines[0:three_dam_line])
-                # print(flines2)
+
                 i = 0
                 n = 0
-                # print("Horse number: \n", horse[0], "of", horse[0][-1])
-                # i += 1
+
                 for n, m in enumerate(list_sex_sire, start=0): # n is index of list, m is value of list.
-                    if n < len(list_sex_sire_diff): # if the index is less than the length of the list
-                        group = flines[m:m+list_sex_sire_diff[n]] # group the lines between the value of the first index and
-                    # elif n == three_dam:
-                    #     pass
-                    # elif n == line_race_record:
-                    #     pass
-                    # elif n >= three_dam_line and n < race_line:
-                    #     pass
+                    if n < len(list_sex_sire_diff): # if the index is less than the length of the list, sex_sire_diff length is the total number of horses.
+                        group = flines[m:m+list_sex_sire_diff[n]] # group the lines of the read file that are between the number in sex_sire_diff list and the next number in the list.
                     else:
-                        group = flines[m:m+list_sex_sire_diff[n-1]]
+                        pass
+                        # group = flines[m:m+list_sex_sire_diff[n-1]]
                     string_group = ''.join(group)
                     string_group = string_group.replace('\n', '')
                     if '2nd dam' in string_group:
                         string_group = string_group[:string_group.find("2nd dam")]
                     f2.write(string_group + '\n')
-                
                 # This code is looping through a list of strings (list_sex_sire) 
                 # and writing the values to a file. The enumerate function is used
                 # to keep track of the loop index and assign it to the variable n.
@@ -156,20 +130,26 @@ def main():
         n1 = 0
         n2 = 0
         if len(num1) != 0:
-            n1 = num1[0]
-        if len(num2) != 0:
-            n2 = num2[0]
+            n1 = int(num1[0])
+        # if len(num2) != 0 or num2 != 0:
+        #     n2 = num2[0]
+        if type(num2) == list:
+            if len(num2) != 0:
+                n2 = int(num2[0])
+        if type(num2) == int:
+            n2 = num2
         for i, line in enumerate(lines, start=0):
-            if i < n1:
+            if n1 == 0:
+                f2.writelines(line)
+            elif i < n1:
                 f2.writelines(line)
             elif i >= n1 and i < n2:
                 pass
-            elif i >= n2:
+            elif i >= n2 and n2 != 0:
                 f2.writelines(line)
             else:
                 pass
         return f2
-
 
 
     def get_line_number(file_name, re_string):
@@ -190,6 +170,8 @@ def main():
                 # print(num)
                 line_number.append(num)
                 # i += 1
+            else:
+               pass
             num += 1
         return line_number
 
@@ -204,13 +186,15 @@ def main():
         # hip_list = ["{:06d}".format(int(x)) for x in hip_list]
         for hip in zip(original, update):
             # Need to add a check to see if the file exists in the directory
-            if os.path.isfile(f"source/original/{source_list[i]}") and os.path.isfile(f"source/update/PH{hip_list[i].zfill(6)}.txt"):
-                f = open(f"{p_original}/{source_list[i]}", "r")
-                f2 = open(f"{p_update}/PH{hip_list[i].zfill(6)}.txt", "r")
+            fn = source_list[i]+'_alt.txt'
+            fnu = hip_list[i].zfill(6)+'_alt.txt'
+            if os.path.isfile(f"source/original/{fn}") and os.path.isfile(f"source/update/PH{fnu}"):
+                f = open(f"{p_original}/{fn}", "r")
+                f2 = open(f"{p_update}/PH{fnu}", "r")
                 flines = f.readlines()
                 flines2 = f2.readlines()
-                diff = difflib.unified_diff(flines, flines2, fromfile=f"{source_list[i]}", tofile=f"PH{hip_list[i].zfill(6)}.txt")
-                diffh = difflib.HtmlDiff().make_file(flines, flines2, f"{source_list[i]}", f"PH{hip_list[i].zfill(6)}.txt")
+                diff = difflib.unified_diff(flines, flines2, fromfile=f"{fn}", tofile=f"PH{fnu}")
+                diffh = difflib.HtmlDiff().make_file(flines, flines2, f"{fn}", f"PH{fnu}")
                 # print(''.join(diff))
                 with open(f"{p_report}/{hip_list[i]}.html", "w") as f:
                     print("Creating report for HIP", hip_list[i])
@@ -218,6 +202,7 @@ def main():
                 i += 1
             else:
                 print(f"File not found for HIP {hip_list[i]}")
+                print(f"Was looking for source/original/{source_list[i]} and source/update/PH{hip_list[i].zfill(6)}.txt")
                 i += 1
 
 
@@ -229,6 +214,24 @@ def main():
         list_difference = [list[i+1]-list[i] for i in range(len(list)-1)]
         return list_difference
 
+
+    def clean_file(file_name):
+        '''Cleans up the files by removing the extra lines and adding a blank line at the end of the file.'''
+        f = open(f"{file_name}_string.txt", 'r')
+        f2 = open(f"{file_name}_clean.txt", 'w')
+        lines = f.readlines()
+        # Regex for junk spaces:
+        re_junk = re.compile(r'(?!^)(\s{3}\.([\s\.])*)')
+        # print("Starting clean file")
+        for line in lines:
+            if re_junk.search(line):
+                # print("Found junk")
+                line = re.sub(re_junk, ' ', line)
+                f2.writelines(line)
+            else:
+                f2.writelines(line)
+        f2.writelines('\n')
+        return f2
 
 
 
@@ -248,22 +251,48 @@ def main():
     # get_meta_data()
     hip_list = get_meta_data()[0]
     source_list = get_meta_data()[1]
-    print("Hip list from step 1:\n", hip_list)
-    print("Source list from step 1:\n", source_list)
+    print("Hips in sale:\n", hip_list)
+    print("Source files in hip order:\n", source_list)
     print("Done with meta data")
     print("Shortening files...") # Get rid of the 3rd dam to the Race Record if it exists
     for horse in zip(source_list, hip_list):
-        line_third_dam = get_line_number(f"{p_original}/{horse[0]}.txt", three_dam_re)
-        line_race_record = get_line_number(f"{p_original}/{horse[0]}.txt", race_record_re)
-        shorten_file(f"{p_original}/{horse[0]}.txt", f"{p_original}/{horse[0]}_short.txt", line_third_dam, line_race_record)
-        # shorten_file(f"{p_update}/PH{horse[1].zfill(6)}.txt", f"{p_update}/PH{horse[1].zfill(6)}_short.txt", line_third_dam, line_race_record)
+        line_third_dam = get_line_number(f"{p_original}/{horse[0]}.txt", three_dam_re) # Gets the line number of the 3rd dam in the original file
+        line_race_record = get_line_number(f"{p_original}/{horse[0]}.txt", race_record_re) # Gets the race record in the origninal file
+        shorten_file(f"{p_original}/{horse[0]}.txt", f"{p_original}/{horse[0]}_short.txt", line_third_dam, line_race_record) # Shortens the original file
+        line_sex_sire = get_line_number(f"{p_original}/{horse[0]}.txt", sex_sire_re) # Gets the sex_sire line number of original file
+        shorten_file(f"{p_original}/{horse[0]}.txt", f"{p_original}/{horse[0]}_alt.txt", line_sex_sire, 0)
+        line_sex_sire = get_line_number(f"{p_update}/PH{horse[1].zfill(6)}.txt", sex_sire_re)
+        shorten_file(f"{p_update}/PH{horse[1].zfill(6)}.txt", f"{p_update}/PH{horse[1].zfill(6)}_alt.txt", line_sex_sire, 0)
 
     seperate_lines(p_original, 'original')
     seperate_lines(p_update, 'update')
-    # test = get_line_number('FM1-586', one_dam_re)
-    # print(test)
-    # Find locations of the 1st and 3rd dam, Race Record, and then sex and sire 
-    
+
+    # clean up the files...
+    for horse in zip(source_list, hip_list):
+        clean_file(f"{p_original}/{horse[0]}")
+        clean_file(f"{p_update}/PH{horse[1].zfill(6)}")
+        with open(f"{p_original}/{horse[0]}_clean.txt", 'r') as f, open(f"{p_original}/{horse[0]}_alt.txt", 'a') as f2:
+            for line in f:
+                f2.write(line)
+        with open(f"{p_update}/PH{horse[1].zfill(6)}_clean.txt", 'r') as f, open(f"{p_update}/PH{horse[1].zfill(6)}_alt.txt", 'a') as f2:
+            for line in f:
+                f2.write(line)
+
+    print("Running diff...")
+    # Original name is _alt.txt
+    diff_report(source_list, hip_list, p_report)
+
+    print('Cleaning the diff...')
+    for horse in os.listdir(p_report):
+        with open(f"{p_report}/{horse}", 'r') as f:
+            flines = f.readlines()
+        with open(f"{p_report}/{horse}", 'w') as f:
+            for line in flines:
+                # [1mCATNIP[22m
+                line = line.replace('[1m', '<strong>')
+                line = line.replace('[22m', '</strong>')
+                f.writelines(line)
+
 
 
     # sex_sire_list = get_line_number(p_original, sex_sire_re)
