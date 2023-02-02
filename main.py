@@ -80,25 +80,50 @@ def main():
         '''Puts each horse on its own line'''
 
         for horse in zip(hip_list, source_list):
-            print(horse[0], horse[1])
-            print("Working on horse number: ", horse[0])
+            print("HIP:\tHORSE:\n",horse[0], '\t', horse[1])
             if status == 'original':
-                fn = horse[1]
+                fn = horse[1] + "_short.txt"
             elif status == 'update':
                 fn = "PH" + horse[0].zfill(6)
             # if fn 
-            with open(f"{folder}/{fn}.txt", "r") as f, open(f"{folder}/{fn}_string.txt", "w") as f2:
+            with open(f"{folder}/{fn}", "r") as f, open(f"{folder}/{fn}_string.txt", "w") as f2:
                 list_sex_sire = get_line_number(f"{folder}/" + fn, sex_sire_re)
                 list_sex_sire_diff = get_difference(list_sex_sire)
+                # line_three_dam = get_line_number(f"{folder}/" + fn, three_dam_re)
+                # line_race_record = get_line_number(f"{folder}/" + fn, race_record_re)
+                # print(f"3rd Dam list: {line_three_dam}")
+                # print(f"Race Record: {line_race_record}")
+                # print(f"Sex Sire list: {list_sex_sire}")
+                # print(f"Sex Sire diff: {list_sex_sire_diff}")
+                # # print(len(list_sex_sire_diff))
+                # three_dam_line = None
+                # three_dam_line = 0
+                # race_line = 0
+                # flines = f.readlines()
+                # if len(line_three_dam) != 0:
+                #     three_dam_line = line_three_dam[0]
+                #     f2.writelines(flines[:three_dam_line])
+                # if len(line_race_record) != 0:
+                #     race_line = line_race_record[0]
+                #     f2.writelines(flines[race_line:])
                 # f is the original file, f2 is the cleaned up file
                 flines = f.readlines() # read lines of file.
+                # falt = open(f"{folder}/{fn}_allt.txt", "w")
+                # flines2 = f2.writelines(flines[0:three_dam_line])
+                # print(flines2)
                 i = 0
                 n = 0
                 # print("Horse number: \n", horse[0], "of", horse[0][-1])
                 # i += 1
-                for n, m in enumerate(list_sex_sire, start=0):
-                    if n < len(list_sex_sire_diff):
-                        group = flines[m:m+list_sex_sire_diff[n]]
+                for n, m in enumerate(list_sex_sire, start=0): # n is index of list, m is value of list.
+                    if n < len(list_sex_sire_diff): # if the index is less than the length of the list
+                        group = flines[m:m+list_sex_sire_diff[n]] # group the lines between the value of the first index and
+                    # elif n == three_dam:
+                    #     pass
+                    # elif n == line_race_record:
+                    #     pass
+                    # elif n >= three_dam_line and n < race_line:
+                    #     pass
                     else:
                         group = flines[m:m+list_sex_sire_diff[n-1]]
                     string_group = ''.join(group)
@@ -106,36 +131,57 @@ def main():
                     if '2nd dam' in string_group:
                         string_group = string_group[:string_group.find("2nd dam")]
                     f2.write(string_group + '\n')
+                
+                # This code is looping through a list of strings (list_sex_sire) 
+                # and writing the values to a file. The enumerate function is used
+                # to keep track of the loop index and assign it to the variable n.
+                # The start parameter is set to 0 so the loop index starts at 0.
+                # Inside the loop, an if-else statement is used to determine the
+                # group of strings to write to the file. The group is determined
+                # by slicing the list_sex_sire_diff list with the loop index. If
+                # the loop index is less than the length of the list_sex_sire_diff
+                # list, the group is set to the slice of list_sex_sire_diff with
+                # the loop index. Otherwise, the group is set to the slice of
+                # list_sex_sire_diff with the loop index minus 1. The next two lines
+                # of code join the strings in the group into one string, remove newline
+                # characters, and look for the string "2nd dam". If the string is
+                # found, the string is shortened to the index at which it was found.
+                # Finally, the string is written to the file.
 
 
-# def write_strings(line, length, old_file, new_file):
-    #     old_f = open(old_file, 'r')
-    #     new_f = open(new_file, 'w')
-    #     old_l = old_f.readlines()
-    #     lines = old_f.readlines()
-    #     n = 0
-    #     for i, v in enumerate(line_number, start=0):
-    #         if i < len(list_difference):
-    #             group = old_l[v:v+list_difference[i]]
-    #         else:
-    #             group = old_l[v:v+list_difference[i-1]]
-    #         string_group = ''.join(group)
-    #         string_group = string_group.replace("\n", "")
-    #         if "2nd dam" in string_group:
-    #             string_group = string_group[:string_group.find("2nd dam")]
-    #         new_f.writelines(string_group)
-    #         new_f.write("\n")
+    def shorten_file(og_file, new_file, num1, num2):
+        f = open(og_file, 'r')
+        f2 = open(new_file, 'w')
+        lines = f.readlines()
+        n1 = 0
+        n2 = 0
+        if len(num1) != 0:
+            n1 = num1[0]
+        if len(num2) != 0:
+            n2 = num2[0]
+        for i, line in enumerate(lines, start=0):
+            if i < n1:
+                f2.writelines(line)
+            elif i >= n1 and i < n2:
+                pass
+            elif i >= n2:
+                f2.writelines(line)
+            else:
+                pass
+        return f2
 
-   
 
-    def get_line_number(file_name, re_string, status):
+
+    def get_line_number(file_name, re_string):
         '''Gets the line number of a specific regex in a file.'''
         line_number = []
-        if status == 'original':
-            pass
-        elif status == 'update':
-            pass
-        f = open(f"{file_name}.txt", 'r')
+        # if status == 'original':
+        #     fn = f"/p_original/{file_name}.txt"
+        # elif status == 'update':
+        #     fn = f"/p_update/{file_name}.txt"
+        # else:
+        #     fn = f"{file_name}.txt"
+        f = open(file_name, 'r')
         lines = f.readlines()
         num = 0
         for line in lines:
@@ -205,14 +251,12 @@ def main():
     print("Hip list from step 1:\n", hip_list)
     print("Source list from step 1:\n", source_list)
     print("Done with meta data")
-    print("getting line numbers of 1st dam...")
-    line_original_1d = get_line_number(p_original, one_dam_re, 'original')
-    print(line_original_1d)
-    print("Getting line numbers of 3rd dam...")
-    line_original_3d = get_line_number(p_original, three_dam_re)
-    print(line_original_3d)
-    line_race_record = get_line_number(p_original, race_record_re)
-    print(line_race_record)
+    print("Shortening files...") # Get rid of the 3rd dam to the Race Record if it exists
+    for horse in zip(source_list, hip_list):
+        line_third_dam = get_line_number(f"{p_original}/{horse[0]}.txt", three_dam_re)
+        line_race_record = get_line_number(f"{p_original}/{horse[0]}.txt", race_record_re)
+        shorten_file(f"{p_original}/{horse[0]}.txt", f"{p_original}/{horse[0]}_short.txt", line_third_dam, line_race_record)
+        # shorten_file(f"{p_update}/PH{horse[1].zfill(6)}.txt", f"{p_update}/PH{horse[1].zfill(6)}_short.txt", line_third_dam, line_race_record)
 
     seperate_lines(p_original, 'original')
     seperate_lines(p_update, 'update')
