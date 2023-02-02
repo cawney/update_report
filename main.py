@@ -4,7 +4,7 @@ from sys import argv # for command line arguments, getting hipped file name
 import re # for regex
 import difflib # for diffing files
 import glob # for finding files in a directory
-import itertools # for iterating through lists
+import tempfile # for creating temporary files
 
 def main():
     script, file_name = argv
