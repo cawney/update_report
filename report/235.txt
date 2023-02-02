@@ -1,0 +1,81 @@
+--- PH001342_alt.txt
++++ PH000235_alt.txt
+@@ -1,12 +1,12 @@
+-Dec 15 2022 10:53AM          PH23 CONSIGNOR: 1 HORSE: 342 GROUP: 1 HIP NUMBER:                Page 1
++Jan 29 2023  9:58PM          PH23 CONSIGNOR: 1 HORSE: 342 GROUP: 1 HIP NUMBER: 00235          Page 1
+ 
+ 
+ ******************************************************************************************
+ 342  Kay Two  Bay  Mare (02/15/14)
+ By Medaglia d'Oro (99)  --  Snow Top Mountain (07)  By Najran (99)  --  Motokiks (95)
+ Virginia     Broodmare     None
+-2021 Produce:
+ 2022 Produce:
++2023 Produce:
+ Practical Joke (14)  Into Mischief (05)  Halo Humor (03)
+                    pregnant
+ ******************************************************************************************
+@@ -57,21 +57,39 @@
+    .  =Unnamed (2021 c. by =Kingman (GB)).
+    .  =Gem (GB) (2020 f. by =Frankel (GB)). Unraced in Great Britain.
+    .  Tashdeed (2016 c. by Kitten's Joy). Unraced. Sent from United States to United Arab Emirates in 2017.
+-   .  Taptana (2015 f. by Tapit). Unraced. Producer.
++   .  Taptana (2015 f. by Tapit). Unraced. Dam of 3 foals, 1 to race, 1 winner--
++   .  .  Kanthartana (2019 g. by Kantharos). Winner at 3, 2022, $21,599.
++   .  .  Unnamed (2022 c. by Maclean's Music).
++   .  .  Valerie Blue (2021 f. by Air Force Blue). Unraced.
+    .  American Heiress (GB) (2018 f. by American Pharoah). Unplaced in 2 starts, $1,200. Sent from Great Britain to United States in 2018.
+    <strong>SNOW TOP MOUNTAIN</strong> (2007 f. by Najran). Black type winner, see above.
+    Monastic (2009 g. by Rock Hard Ten). 2 wins at 2, $124,149.
+    Private Client (2013 f. by Kitten's Joy). Winner at 3 and 4, $111,575. Dam of 2 foals--
+-   .  Unnamed (2021 f. by Curlin).
++   .  Among the Roses (2021 f. by Curlin). Unraced.
+    .  Best in Class (2020 c. by Uncle Mo). Unraced.
+    Whitefish (2003 f. by Diesis (GB)). 3 wins at 4 and 5, $95,130. Dam of 7 foals, 7 to race, 3 winners--
+-   .  George's Peach (2011 f. by Pleasantly Perfect). 4 wins at 2 and 4, $87,601. Producer.
++   .  George's Peach (2011 f. by Pleasantly Perfect). 4 wins at 2 and 4, $87,601. Dam of 3 foals, 1 to race, 1 winner--
++   .  .  Peach Perfect (2019 f. by Cupid). 3 wins at 3 and 4, 2023, $161,866.
++   .  .  Unnamed (2021 c. by Smiling Tiger).
++   .  .  Unnamed (2017 f. by Include).
+    .  Boardwalk Bob (2017 g. by Bellamy Road). 2 wins at 4, $30,453.
+-   .  Lox (2012 f. by Hard Spun). Winner at 4, $17,853.
++   .  Lox (2012 f. by Hard Spun). Winner at 4, $17,853. Dam of 2 foals--
++   .  .  Atlas Rules (2021 c. by Disco Partner). Unraced.
++   .  .  War Chrome (2020 g. by Central Banker). Unraced.
+    .  Kanati Kid (2009 g. by Lemon Drop Kid). Placed at 3, $5,240.
+    .  Dover Sole (2014 f. by Cape Blanco (IRE)). Unplaced, $790.
+-   .  Swan Quarter (2010 f. by Mizzen Mast). Unplaced, $780. Sent from United States to Saudi Arabia in 2014.
+-   .  Cobia (2013 f. by Smoke Glacken). Unplaced in 2 starts, $595. Producer.
++   .  Swan Quarter (2010 f. by Mizzen Mast). Unplaced, $780. Sent from United States to Saudi Arabia in 2014. Dam of 6 foals, 4 to race--
++   .  .  =Unnamed (2020 c. by Commend).
++   .  .  =Unnamed (2015 c. by Curlin).
++   .  .  =Mahfood (KSA) (2016 c. by Spanish Steps). Unplaced, 14,400 Riyals, in Saudi Arabia. (Total: $3,839).
++   .  .  =Dafa'aeh (KSA) (2019 f. by Great Rumpuscat). Unplaced in 2 starts in Saudi Arabia.
++   .  .  =Tes'hernee (KSA) (2018 f. by Tranquil Manner). Unplaced in 2 starts in Saudi Arabia.
++   .  .  =Wahbat Allah (KSA) (2017 f. by Friends Lake). Unplaced in 1 start in Saudi Arabia.
++   .  Cobia (2013 f. by Smoke Glacken). Unplaced in 2 starts, $595. Dam of 4 foals, 1 to race, 1 winner--
++   .  .  Klimco (2019 g. by Klimt). Winner at 3 and 4, 2023, $36,949.
++   .  .  Painted Lad (2021 g. by Moro Tap). Unraced.
++   .  .  Moro Feather (2020 f. by Moro Tap). Unraced.
++   .  .  Queen Moro (2018 f. by Moro Tap). Unraced.
+    Kidmon (2014 g. by Lemon Drop Kid). 3 wins, 4 to 7, $91,877.
+    Money Clip (2010 g. by Afleet Alex). Winner at 3, $58,400.
+    Storm Engine (2005 g. by Volponi). 3 wins at 4 and 5, $24,340. Died 2011.
+@@ -82,12 +100,14 @@
+    Gaddis (2004 c. by Broad Brush). Unraced. Sire.
+    Pekani (2001 f. by Maria's Mon). Unplaced in 1 start, $1,250. Died 2010. Dam of 2 foals--
+    .  Mineral Man (2009 g. by Mingun). Unraced.
+-   .  Pekani Unbridled (2008 f. by Unbridled Energy). Unraced.
++   .  Pekani Unbridled (2008 f. by Unbridled Energy). Unraced. Dam of 1 foal--
++   .  .  Sinninonsmithland (2013 f. by Ready's Image). Unraced.
+    Educating (2012 f. by Elusive Quality). Unplaced in 2 starts, $500. Dam of 5 foals, 1 to race--
+-   .  Lexi's Spirit (2020 f. by Kantharos). Placed at 2, 2022, $25,938.
++   .  Lexi's Spirit (2020 f. by Kantharos). Placed at 2 and 3, 2023, $32,238.
+    .  Unnamed (2022 f. by Unbridled Express). (application pending)
+    .  Unnamed (2021 c. by Hard Spun).
+-   .  Family Rate (2018 f. by More Than Ready). Unraced.
++   .  Family Rate (2018 f. by More Than Ready). Unraced. Dam of 1 foal--
++   .  .  Unnamed (2022 f. by Oscar Performance).
+    .  Storyteller (2017 g. by Super Saver). Unraced.
+    .  Storyteller (2017 g. by Super Saver). Unraced.
+ 

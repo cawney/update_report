@@ -5,6 +5,10 @@ import re # for regex
 import difflib # for diffing files
 import glob # for finding files in a directory
 import tempfile # for creating temporary files
+from tqdm import tqdm # for progress bar
+import timeit # for timing the script
+
+start_time = timeit.default_timer() # I was curious how long the script takes to run
 
 def main():
     script, file_name = argv
@@ -13,20 +17,12 @@ def main():
     # Regex
     ############################################################
 
-    hip_number_re = re.compile(r"(HIP NUMBER:)(?P<hip>\d{1,4})")
-    source_file_re = re.compile(r"[A-Z]{2}\d{6}\.\w{3}")
-    one_dam_re = re.compile(r'1st dam\n')
-    three_dam_re = re.compile(r'3rd dam\n')
-    sex_sire_re = re.compile(r'\(\d{4}\s')
-    race_record_re = re.compile(r'RACE RECORD')
-
-
-    ############################################################
-    # Lists I'll need globally
-    ############################################################
-
-    hip_list = []
-    source_list = []
+    hip_number_re = re.compile(r"(HIP NUMBER:)(?P<hip>\d{1,4})") # Gets the hip number
+    source_file_re = re.compile(r"[A-Z]{2}\d{6}\.\w{3}") # Gets the source file name
+    one_dam_re = re.compile(r'1st dam\n') # Gets the first dam
+    three_dam_re = re.compile(r'3rd dam\n') # Gets the third dam
+    sex_sire_re = re.compile(r'\(\d{4}\s') # Gets the sex and sire (technically gets the YOB, but it's the same thing)
+    race_record_re = re.compile(r'RACE RECORD') # Gets the race record
 
     ############################################################
     # Paths
@@ -36,13 +32,6 @@ def main():
     p_original = p_source + r"/original"
     p_update = p_source + r"/update"
     p_report =  os.getcwd() + r"/report"
-
-    ############################################################
-    # Initializing difflib
-    ############################################################
-
-    # d = difflib.Differ()
-
 
     ############################################################
     # Functions
@@ -55,7 +44,7 @@ def main():
             global f1
             f1 = f.readlines()
             return f1
-    f1 = read_file_lines(file_name)
+    f1 = read_file_lines(file_name) # This is the file that is passed from the command line in argv
 
 
     def get_meta_data():
@@ -79,8 +68,8 @@ def main():
     def seperate_lines(folder, status):
         '''Puts each horse on its own line'''
 
-        for horse in zip(hip_list, source_list):
-            print("HIP:\tHORSE:\n",horse[0], '\t', horse[1])
+        for horse in tqdm(zip(hip_list, source_list)):
+            # print("HIP:\tHORSE:\n",horse[0], '\t', horse[1])
             if status == 'original':
                 fn = horse[1] + "_short.txt"
                 fn1 = horse[1]
@@ -184,7 +173,7 @@ def main():
         for f in files:
             os.remove(f)
         # hip_list = ["{:06d}".format(int(x)) for x in hip_list]
-        for hip in zip(original, update):
+        for hip in tqdm(zip(original, update)):
             # Need to add a check to see if the file exists in the directory
             fn = source_list[i]+'_alt.txt'
             fnu = hip_list[i].zfill(6)+'_alt.txt'
@@ -194,11 +183,12 @@ def main():
                 flines = f.readlines()
                 flines2 = f2.readlines()
                 diff = difflib.unified_diff(flines, flines2, fromfile=f"{fn}", tofile=f"PH{fnu}")
-                diffh = difflib.HtmlDiff().make_file(flines, flines2, f"{fn}", f"PH{fnu}")
+                diffh = difflib.HtmlDiff(wrapcolumn=90).make_file(flines, flines2, f"{fn}", f"PH{fnu}")
                 # print(''.join(diff))
-                with open(f"{p_report}/{hip_list[i]}.html", "w") as f:
-                    print("Creating report for HIP", hip_list[i])
+                with open(f"{p_report}/{hip_list[i]}.html", "w") as f, open(f"{p_report}/{hip_list[i]}.txt", "w") as f2:
+                    # print("Creating report for HIP", hip_list[i])
                     f.write(''.join(diffh))
+                    f2.write(''.join(diff))
                 i += 1
             else:
                 print(f"File not found for HIP {hip_list[i]}")
@@ -222,7 +212,6 @@ def main():
         lines = f.readlines()
         # Regex for junk spaces:
         re_junk = re.compile(r'(?!^)(\s{3}\.([\s\.])*)')
-        # print("Starting clean file")
         for line in lines:
             if re_junk.search(line):
                 # print("Found junk")
@@ -234,12 +223,10 @@ def main():
         return f2
 
 
-
-
-
 ##########################################################################################
 # Main part of the program
 ##########################################################################################
+
 
     # Read the files
     print("reading files...")
@@ -251,11 +238,9 @@ def main():
     # get_meta_data()
     hip_list = get_meta_data()[0]
     source_list = get_meta_data()[1]
-    print("Hips in sale:\n", hip_list)
-    print("Source files in hip order:\n", source_list)
     print("Done with meta data")
     print("Shortening files...") # Get rid of the 3rd dam to the Race Record if it exists
-    for horse in zip(source_list, hip_list):
+    for horse in tqdm(zip(source_list, hip_list)):
         line_third_dam = get_line_number(f"{p_original}/{horse[0]}.txt", three_dam_re) # Gets the line number of the 3rd dam in the original file
         line_race_record = get_line_number(f"{p_original}/{horse[0]}.txt", race_record_re) # Gets the race record in the origninal file
         shorten_file(f"{p_original}/{horse[0]}.txt", f"{p_original}/{horse[0]}_short.txt", line_third_dam, line_race_record) # Shortens the original file
@@ -263,12 +248,14 @@ def main():
         shorten_file(f"{p_original}/{horse[0]}.txt", f"{p_original}/{horse[0]}_alt.txt", line_sex_sire, 0)
         line_sex_sire = get_line_number(f"{p_update}/PH{horse[1].zfill(6)}.txt", sex_sire_re)
         shorten_file(f"{p_update}/PH{horse[1].zfill(6)}.txt", f"{p_update}/PH{horse[1].zfill(6)}_alt.txt", line_sex_sire, 0)
-
+    print("Done shortening files")
+    print("Seperating lines...")
     seperate_lines(p_original, 'original')
     seperate_lines(p_update, 'update')
-
+    print("Done seperating lines")
     # clean up the files...
-    for horse in zip(source_list, hip_list):
+    print("Cleaning files...")
+    for horse in tqdm(zip(source_list, hip_list)):
         clean_file(f"{p_original}/{horse[0]}")
         clean_file(f"{p_update}/PH{horse[1].zfill(6)}")
         with open(f"{p_original}/{horse[0]}_clean.txt", 'r') as f, open(f"{p_original}/{horse[0]}_alt.txt", 'a') as f2:
@@ -277,11 +264,11 @@ def main():
         with open(f"{p_update}/PH{horse[1].zfill(6)}_clean.txt", 'r') as f, open(f"{p_update}/PH{horse[1].zfill(6)}_alt.txt", 'a') as f2:
             for line in f:
                 f2.write(line)
-
+    print("Done cleaning files")
     print("Running diff...")
     # Original name is _alt.txt
     diff_report(source_list, hip_list, p_report)
-
+    print("Done running diff")
     print('Cleaning the diff...')
     for horse in os.listdir(p_report):
         with open(f"{p_report}/{horse}", 'r') as f:
@@ -292,21 +279,20 @@ def main():
                 line = line.replace('[1m', '<strong>')
                 line = line.replace('[22m', '</strong>')
                 f.writelines(line)
-
-
-
-    # sex_sire_list = get_line_number(p_original, sex_sire_re)
-    # print("Sex Sire line list:\n", sex_sire_list)
-    # print("Creating report...")
-    # print("Current source list:\n", source_list)
-    # print(source_list)
-    # print("Current hip list:\n", hip_list)
-    # diff_report(source_list, hip_list, p_report)
+    print("Done cleaning the diff")
+    print("Cleaning up...")
+    for horse in tqdm(zip(source_list, hip_list)):
+        os.remove(f"{p_original}/{horse[0]}_alt.txt")
+        os.remove(f"{p_original}/{horse[0]}_clean.txt")
+        os.remove(f"{p_original}/{horse[0]}_short.txt")
+        os.remove(f"{p_original}/{horse[0]}_string.txt")
+        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_alt.txt")
+        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_clean.txt")
+        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_string.txt")
+    print("Done")
+    stop_time = timeit.default_timer()
+    print("Total time: ", stop_time - start_time)
 
 
 if __name__ == "__main__":
     main()
-
-
-
-    # 256397809
