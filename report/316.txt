@@ -1,19 +1,174 @@
 --- PH001416_alt.txt
 +++ PH000316_alt.txt
-@@ -1,4 +1,4 @@
--Dec 19 2022  4:07PM          PH23 CONSIGNOR: 1 HORSE: 416 GROUP: 1 HIP NUMBER:                Page 1
-+Jan 29 2023 10:00PM          PH23 CONSIGNOR: 1 HORSE: 416 GROUP: 1 HIP NUMBER: 00316          Page 1
- 
- 
- ******************************************************************************************
-@@ -47,7 +47,9 @@
-    Honey's Hope (2020 c. by Mendelssohn). Unraced.
-    Sirius Princess (2019 f. by Speightster). Unplaced in 1 start, $4,000.
-    <strong>=VITA NOVA (IRE)</strong> (2007 f. by $Galileo (IRE)). 4 wins in 8 starts, 3 to 5, 125,272 Pounds, in England, 1st Betfred the Bonus King E.B.F. Daisy Warwick S. [L], 2nd Darley Yorkshire Oaks <strong>[G1]</strong>, Bet365 Lancashire Oaks <strong>[G2]</strong>, E.B.F. New Approach Grosvenor Casinos Pinnacle S. [L]. (Total: $204,613). Dam of 2 foals, 1 to race, 1 winner--
--   .  =Kohinur (GB) (2014 f. by Dubawi (IRE)). Winner at 4, 9,550 Euro, in France; placed at 3, 3,080 Pounds, in England. (Total: $15,161).
-+   .  =Kohinur (GB) (2014 f. by Dubawi (IRE)). Winner at 4, 9,550 Euro, in France; placed at 3, 3,080 Pounds, in England. (Total: $15,161). Dam of 2 foals--
+@@ -19,7 +19,9 @@
+    .     <strong>[G1]</strong>, Bet365 Lancashire Oaks <strong>[G2]</strong>, E.B.F. New Approach Grosvenor Casinos
+    .     Pinnacle S. [L]. (Total: $204,613). Dam of 2 foals, 1 to race, 1 winner--
+    .  =Kohinur (GB) (2014 f. by Dubawi (IRE)). Winner at 4, 9,550 Euro, in France; placed at 3, 3,080
+-   .  .     Pounds, in England. (Total: $15,161).
++   .  .     Pounds, in England. (Total: $15,161). Dam of 2 foals--
 +   .  .  =Catch Fire (GB) (2021 c. by =Sea The Stars (IRE)). Unraced in Great Britain.
 +   .  .  =Mont de Soleil (IRE) (2020 c. by =Siyouni (FR)). Unraced in Ireland.
     .  =Nova Scotia (IRE) (2015 c. by Oasis Dream (GB)). Unraced in Ireland.
-    =Heavenly Music (IRE) (2008 f. by Oratorio (IRE)). Placed at 3, 282 Pounds, in England. (Total: $438). Dam of 4 foals, 4 to race, 2 winners--
-    .  =High Ball (FR) (2016 f. by Doctor Dino (FR)). 3 wins, 2 to 4, 61,202 Euro, in France. (Total: $68,238).
+    =Heavenly Music (IRE) (2008 f. by Oratorio (IRE)). Placed at 3, 282 Pounds, in England. (Total: $438).
+    .     Dam of 4 foals, 4 to race, 2 winners--
+@@ -30,129 +32,6 @@
+    .  =Heighten (FR) (2015 f. by $Muhtathir (GB)). Unplaced, 1,500 Euro, in France. (Total: $1,714).
+    .  =High Tower (FR) (2013 f. by =Dark Angel (IRE)). Unplaced in France.
+    Miss Paget (IRE) (2009 f. by $Galileo (IRE)). See above.
+-
+-3rd dam
+-<strong>=CORTONA (IRE)</strong>, by Caerleon. Winner at 2 and 3, 113,118 Euro, in France, 1st Prix Imprudence
+-      [L], 2nd Dubai Poule d'Essai des Pouliches-French One Thousand Guineas <strong>[G1]</strong>, Prix Roland
+-      de Chambure [L], 3rd Prix d'Aumale <strong>[G3]</strong>; unplaced in 1 start in England. Sent from Ireland
+-      to India in 2010. (Total: $124,295). Died 2013. Half-sister to <strong>=CAPRAROLA</strong> (Total: $55,438,
+-      1st Prix Cleopatre <strong>[G3]</strong>), <strong>BORMIO (FR)</strong> (Total: $120,156, 1st Prix Edellic [L],
+-      etc., sire). Dam of 8 foals, 4 to race, 3 winners--
+-   =Padria (IRE) (2004 f. by $Mark of Esteem (IRE)). Winner at 3, 13,260 Euro, in France. (Total:
+-   .  $18,035).
+-   =Tick Tocker (IRE) (2008 g. by Beat Hollow (GB)). 2 wins at 5, 7,211 Pounds, in England. (Total:
+-   .  $11,168).
+-   =Corvo (IRE) (2007 c. by $Mark of Esteem (IRE)). 4 wins, 3 to 5 in Russia.
+-   =Bonorva (IRE) (2003 f. by Grand Lodge). Placed at 3, 1,200 Euro, in France. (Total: $1,514). Dam of 3
+-   .     foals, 1 to race, 1 winner--
+-   .  =Az Kaldi (TUR) (2010 c. by =Captain Rio (GB)). 5 wins in 9 starts at 2 and 3 in Turkey.
+-   .  =Unnamed (2013 f. by Win River Win).
+-   .  =Unnamed (2009 c. by =Pastoral Pursuits (GB)).
+-   =Treca (IRE) (2001 f. by =Darshaan (GB)). See above.
+-   =Unnamed (2011 c. by =Alhaarth (IRE)). Died 2011.
+-   =Arengo (IRE) (2009 c. by Peintre Celebre). Unraced in Ireland.
+-   =Unnamed (2002 c. by =Sinndar (IRE)).
+-
+-4th dam
+-=OLBIA (IRE), by Mill Reef. Placed at 3 in France. Half-sister to <strong>=ROMILDO (GB)</strong> (1st Prix
+-      Ganay<strong>-G1</strong>, etc., sire), <strong>PEVERO (IRE)</strong> (1st Prix Foy<strong>-G3</strong>, etc., sire),
+-      <strong>=STARINA</strong> (1st Prix Finlande). Dam of 14 foals, 11 to race, 6 winners--
+-   <strong>=CAPRAROLA</strong> (1987 f. by Bellypha (IRE)). Winner at 2 and 3, 49,920 Euro, in France, 1st Prix
+-   .     Cleopatre <strong>[G3]</strong>. (Total: $55,438). Dam of 3 foals, 3 to race, 3 winners--
+-   .  <strong>ARBATAX (IRE)</strong> (1993 c. by =Mtoto (GB)). 2 wins at 3, 99,899 Euro, in France, 1st Prix
+-   .  .  Hocquart <strong>[G2]</strong>, 2nd Prix Noailles <strong>[G2]</strong>; placed at 4, $15,170, in N.A./U.S. Sent
+-   .  .  from France to United States in 1997. (Total: $143,586).
+-   .  =Antioco (IRE) (1992 g. by Shernazar (IRE)). 6 wins, 4 to 6, 69,134 Euro, in France. (Total:
+-   .  .  $82,593).
+-   .  =Palermo (IRE) (1994 c. by Green Desert). 2 wins in 4 starts at 4, 15,550 Euro, in France. (Total:
+-   .  .  $17,328).
+-   <strong>=CORTONA (IRE)</strong> (1995 f. by Caerleon). Black type winner, see above.
+-   <strong>BORMIO (FR)</strong> (1988 c. by Lichine). 3 wins, 2 to 4, 71,043 Euro, in France, 1st Prix Edellic
+-   .  [L], Prix Jacques Le Bremond [L], 2nd Prix Herbager [L], 3rd Prix de la Butte Mortemart [L]; 4 wins
+-   .  at 7 and 8, $35,378, in N.A./U.S., 2nd C. B. Afflerbaugh S.-R (FPX, $8,500). Sent from France to
+-   .  United States in 1992. (Total: $120,156). Sire.
+-   =Selvino (1991 c. by Soviet Star). 4 wins at 4, 15,290 Euro, in France; winner at 6 in Belgium; placed
+-   .  at 5, 920 Euro, in Germany. Sent from England to France in 1900. (Total: $21,065).
+-   =Siniscola (IRE) (2003 f. by =Sinndar (IRE)). Winner at 3, 9,603 Euro, in Ireland. (Total: $12,354).
+-   .  Died 2006.
+-   =Tolmezzo (IRE) (1996 c. by Fairy King). Winner at 3, 6,750 Euro, in Germany. (Total: $7,030).
+-   =Trexenta (IRE) (1992 f. by Green Desert). Placed at 3, 5,183 Euro, in France. Sent from Ireland to
+-   .     Turkey in 2004. (Total: $7,035). Dam of 11 foals, 9 to race, 2 winners--
+-   .  =Miss Odlum (IRE) (1999 f. by =Mtoto (GB)). Winner at 3, 33,485 Euro, in Ireland. (Total: $36,245).
+-   .  .     Producer.
+-   .  =Trance Dancer (GB) (1998 f. by =Mtoto (GB)). Winner at 4, 3,260 Euro, in Germany; placed at 3 and
+-   .  .     4, 10,339 Euro, in France. (Total: $12,731). Producer.
+-   .  =Trexana (GB) (1997 f. by =Kaldoun (FR)). Placed in 2 starts at 3, 4,116 Euro, in France. (Total:
+-   .  .     $3,934). Dam of 10 foals, 9 to race, 7 winners--
+-   .  .  <strong>=BIENS NANTI (IRE)</strong> (2002 g. by $Montjeu (IRE)). 8 wins, 3 to 5, 176,000 Euro, in
+-   .  .  .  France, 1st Prix de Courcelles [L], 3rd Prix La Force <strong>[G3]</strong>. (Total: $231,289).
+-   .  =Kellsboro (IRE) (2000 g. by =Darshaan (GB)). Placed at 6 and 7, 3,872 Euro, in Ireland. (Total:
+-   .  .  $5,294).
+-   .  =Binbir Guzel (TUR) (2008 f. by =Ajmera (GB)). Placed at 2 in Turkey.
+-   .  =Midas Deva (IRE) (2003 c. by $Barathea (IRE)). Unraced in Ireland.
+-   .  =Uluwatu (IRE) (2002 f. by Unfuwain). Unraced in Ireland. Died 2011. Producer.
+-   .  =Duyguer (TUR) (2010 f. by =Ajmera (GB)). Unplaced in Turkey.
+-   .  =Volga River (TUR) (2009 f. by =Spectrando (IRE)). Unplaced in Turkey.
+-   .  =Jet Bijou (TUR) (2005 c. by =Bijou D'Inde (GB)). Unplaced in Turkey.
+-   .  =Cehennem Atesi (TUR) (2004 f. by =Spectrum (IRE)). Unplaced in 1 start in Turkey. Producer.
+-   =Varengo (IRE) (2002 g. by =Turtle Island (IRE)). Placed at 5, 1,966 Euro, in Ireland. (Total:
+-   .  $2,613).
+-   =Kyrenia (GB) (1990 f. by =Zino (GB)). Placed at 4, 455 Euro, in Ireland. (Total: $522). Died 2003.
+-   .     Dam of 4 foals, 3 to race, 2 winners--
+-   .  =Klu Kan (IRE) (1997 c. by Rainbows for Life). 11 wins, 3 to 6, 97,194 Euro, in Italy. (Total:
+-   .  .  $93,139).
+-   .  =Life Together (IRE) (1996 g. by Rainbows for Life). 3 wins at 3, 30,566 Euro, in France. Sent from
+-   .  .  Ireland to Mauritius in 2002. (Total: $32,194).
+-   .  =Kyrani (IRE) (1998 c. by =Kahyasi (IRE)). Unraced in Ireland.
+-   .  =Campione (IRE) (1995 c. by =Common Grounds (GB)). Unplaced in England.
+-   =Peralta (IRE) (1993 f. by Green Desert). Unraced in Ireland. Died 2008. Dam of 10 foals, 9 to race, 7
+-   .     winners--
+-   .  <strong>=CIMA ON FLY (IRE)</strong> (2005 g. by Kris Kin). 6 wins at 2 and 3, 175,105 Euro, in Italy, 1st
+-   .  .  Premio Merano [L], 2nd Premio Primi Passi <strong>[G3]</strong>, Premio Pisa [L], Premio Rumon [L].
+-   .  .  (Total: $254,178).
+-   .  =Tico Tico No Fuba (IRE) (2004 c. by Mujadil). 2 wins at 2, 48,340 Euro, in Italy. (Total:
+-   .  .  $62,235).
+-   .  =Good For All (IRE) (2007 g. by Intikhab). 3 wins at 4 and 8, 31,653 Euro, in Italy. (Total:
+-   .  .  $41,890).
+-   .  =Sovietic Sky (IRE) (2003 c. by Soviet Star). Winner at 4 and 6, 22,452 Euro, in Italy. (Total:
+-   .  .  $30,131).
+-   .  =Latina (IRE) (1998 f. by King's Theatre (IRE)). 2 wins at 2, 23,172 Euro, in France. (Total:
+-   .  .     $21,507). Producer.
+-   .  =Open Handed (IRE) (2000 g. by =Cadeaux Genereux (GB)). Winner at 3, 6,900 Euro, in Ireland; winner
+-   .  .  at 4, 2,625 Pounds, in England. (Total: $12,231).
+-   .  =Fable Satisfy (IRE) (2008 f. by Mujadil). Winner at 3, 3,500 Euro, in Italy. (Total: $5,187).
+-   .  =Mascalucia (IRE) (2001 f. by =Mtoto (GB)). Placed at 3, 2,102 Euro, in Ireland. (Total: $2,585).
+-   .  =Stucchi (IRE) (2006 g. by Bahri). Placed at 3, 960 Euro, in Italy. (Total: $1,352).
+-   .  Corridors of Power (IRE) (1999 g. by King's Theatre (IRE)). Unraced. Sent from Great Britain to
+-   .  .  United States in 2001.
+-   =Baia Turchese (IRE) (1997 c. by Caerleon). Unraced in Ireland. Died 2000.
+-   =Dolcezza (FR) (1989 f. by Lichine). Unraced in France. Died 2007. Dam of 10 foals, 9 to race, 6
+-   .     winners--
+-   .  =Sweet Golden (IRE) (1998 f. by $Charnwood Forest (IRE)). 4 wins at 2 and 3, 43,709 Euro, in Italy.
+-   .  .     (Total: $38,963). Producer.
+-   .  =C'Est Fantastique (IRE) (1997 f. by $Hernando (FR)). 2 wins at 3, 5,522 Euro, in Germany; unplaced
+-   .  .     in 2 starts in England; 2 wins at 6, 25,030 Euro, in Ireland. (Total: $34,380). Producer.
+-   .  =Martin House (IRE) (1999 g. by Mujadil). Winner at 2, 16,982 Pounds, in England. (Total:
+-   .  .  $25,426).
+-   .  =Dairen (FR) (1994 f. by =Kaldoun (FR)). Winner at 4, 22,380 Euro, in France. (Total: $24,531).
+-   .  .     Producer.
+-   .  =Pending (IRE) (2001 g. by Pennekamp). Winner at 4, 8,578 Pounds, in England. (Total: $15,271).
+-   .  =Mumbleswerve (IRE) (2004 c. by City On a Hill). Winner at 4, 6,993 Pounds, in England. (Total:
+-   .  .  $13,879).
+-   .  =Inistrahull Island (IRE) (2000 g. by =Flying Spur (AUS)). Placed at 3 and 4, 3,439 Pounds, in
+-   .  .  England. (Total: $5,848).
+-   .  =Dariola (FR) (1995 f. by Bering (GB)). Placed at 4 and 5, 5,046 Euro, in France. (Total: $5,111).
+-   .  .     Producer.
+-   .  =Daroub (GB) (1996 c. by Always Fair). Unraced in Great Britain.
+-   .  =Miss Sharapova (IRE) (2002 f. by Almutawakel (GB)). Unplaced in 1 start, 805 Pounds, in England.
+-   .  .     (Total: $1,462). Producer.
+-   =Cairo (IRE) (1999 c. by Danehill). Unplaced, 2,050 Euro, in France. (Total: $1,995).
+-   =Torretta (IRE) (1998 f. by =Indian Ridge (IRE)). Unplaced in 2 starts in France. Died 2007. Dam of 3
+-   .     foals, 2 to race, 1 winner--
+-   .  =Our Jo Jo (IRE) (2005 f. by Soviet Star). Winner at 2, 32,645 Euro, in Ireland. (Total: $45,088).
+-   .  .     Producer.
+-   .  =Corleone (IRE) (2004 c. by Key of Luck). Unraced in Ireland.
+-   .  =Style Princess (IRE) (2003 f. by =Desert Style (IRE)). Unplaced in 1 start in England.
+ RACE RECORD for Pallas Athene: At 2, unraced; at 3, once 2nd; at 4, three wins; at 5, twice 2nd; at 6,
+     2022, two wins, once 2nd, . Totals: 5 wins, 4 times 2nd. Earned $174,649
+ 2017 no report received.
+@@ -161,4 +40,30 @@
+ 2020 no report received.
+ 2021 no report received.
+ 2022 no report received.
++2023 no report received.
++   Pallas Athene (2016 f. by Declaration of War). See above.
++   Heliocentricity (2015 f. by Giant's Causeway). Placed at 3, $7,905. Dam of 2 foals--
++   .  Unnamed (2022 c. by Unified).
++   .  She's All Mine (2020 f. by Flintshire (GB)). Unraced.
++   Share My Moon (2017 f. by Distorted Humor). Placed at 4, $5,110.
++   Miss Cathy (2014 f. by =Invincible Spirit (IRE)). Placed in 2 starts at 3, 3,300 Euro, in France. Sent from United States to France in 2015. (Total: $3,646). Dam of 2 foals--
++   .  =Unnamed (2021 f. by =Harry Angel (IRE)).
++   .  =Freigeist (AUT) (2020 c. by =Camelot (GB)). Unraced in Austria.
++   Unnamed (2022 c. by World of Trouble). (application pending)
++   Unnamed (2021 c. by World of Trouble).
++   Honey's Hope (2020 c. by Mendelssohn). Unraced.
++   Sirius Princess (2019 f. by Speightster). Unplaced in 1 start, $4,000.
++2nd dam
++=TRECA (IRE), by =Darshaan (GB). Unraced in Ireland. Died 2011. Dam of 3 foals, 2 to race, 1 winner--
++   <strong>=VITA NOVA (IRE)</strong> (2007 f. by $Galileo (IRE)). 4 wins in 8 starts, 3 to 5, 125,272 Pounds, in England, 1st Betfred the Bonus King E.B.F. Daisy Warwick S. [L], 2nd Darley Yorkshire Oaks <strong>[G1]</strong>, Bet365 Lancashire Oaks <strong>[G2]</strong>, E.B.F. New Approach Grosvenor Casinos Pinnacle S. [L]. (Total: $204,613). Dam of 2 foals, 1 to race, 1 winner--
++   .  =Kohinur (GB) (2014 f. by Dubawi (IRE)). Winner at 4, 9,550 Euro, in France; placed at 3, 3,080 Pounds, in England. (Total: $15,161). Dam of 2 foals--
++   .  .  =Catch Fire (GB) (2021 c. by =Sea The Stars (IRE)). Unraced in Great Britain.
++   .  .  =Mont de Soleil (IRE) (2020 c. by =Siyouni (FR)). Unraced in Ireland.
++   .  =Nova Scotia (IRE) (2015 c. by Oasis Dream (GB)). Unraced in Ireland.
++   =Heavenly Music (IRE) (2008 f. by Oratorio (IRE)). Placed at 3, 282 Pounds, in England. (Total: $438). Dam of 4 foals, 4 to race, 2 winners--
++   .  =High Ball (FR) (2016 f. by Doctor Dino (FR)). 3 wins, 2 to 4, 61,202 Euro, in France. (Total: $68,238).
++   .  =Highgate (FR) (2014 f. by =Stormy River (FR)). Winner at 2, 20,900 Euro, in France. (Total: $23,303).
++   .  =Heighten (FR) (2015 f. by $Muhtathir (GB)). Unplaced, 1,500 Euro, in France. (Total: $1,714).
++   .  =High Tower (FR) (2013 f. by =Dark Angel (IRE)). Unplaced in France.
++   .  =High Tower (FR) (2013 f. by =Dark Angel (IRE)). Unplaced in France.
+ 

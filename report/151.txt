@@ -1,31 +1,266 @@
 --- PH001373_alt.txt
 +++ PH000151_alt.txt
-@@ -1,8 +1,8 @@
--Dec 19 2022  4:00PM          PH23 CONSIGNOR: 1 HORSE: 373 GROUP: 1 HIP NUMBER:                Page 1
-+Jan 29 2023  9:57PM          PH23 CONSIGNOR: 1 HORSE: 373 GROUP: 1 HIP NUMBER: 00151          Page 1
- 
- 
- ******************************************************************************************
--373    Unknown  Colt (02/17/22)
-+373    Chestnut  Colt (02/17/22)
- By Lord Nelson (12)  --  Famous Rose (08)  By Forest Danger (01)  --  Famous Story (02)
- Ohio     Yearling     None
- ******************************************************************************************
-@@ -19,7 +19,7 @@
-                                                   Miss Linda (ARG)
- 
- "UNNAMED"
--  Colt                                            Forestry
-+  Chestnut Colt                                   Forestry
-   Foaled February 17, 2022
-   in Ohio                     Forest Danger
-                                                   Starry Ice
-@@ -33,7 +33,7 @@
- FAMOUS ROSE, by Forest Danger. 6 wins, 3 to 5, $163,860. Dam of 3 foals, 2 to race, 1 winner--
+@@ -1,6 +1,6 @@
     Roseboro (2015 c. by Majestic Warrior). Winner in 2 starts at 4, $34,980.
     Bikini So Teeny (2019 f. by Race Day). Placed at 3, 2022, $6,753.
 -   Unnamed (2022 c. by Lord Nelson). (application pending) See above.
 +   Unnamed (2022 c. by Lord Nelson). See above.
-    Famous Rose (2008 f. by Forest Danger). See above.
-    Cat Girl (2009 f. by Discreet Cat). 4 wins at 4 and 5, $77,809. Dam of 2 foals, 2 to race, 1 winner--
-    .  Targarycat (2016 g. by Harris). 2 wins at 3, $54,730.
+ 
+ 2nd dam
+ FAMOUS STORY, by Rahy. Unraced. Sister to <strong>TUBROK</strong> ($317,930, 1st Everglades S. <strong>[G3]</strong>,
+@@ -15,242 +15,17 @@
+    Famous Graduate (2011 f. by Magna Graduate). Winner in 2 starts at 3, $12,810, in N.A./U.S.; placed at
+    .  3, $9,430, in Canada. (Total: $21,642).
+    Curlin's Story (2012 f. by Curlin). Unraced. Died 2014.
++   Roseboro (2015 c. by Majestic Warrior). Winner in 2 starts at 4, $34,980.
++   Bikini So Teeny (2019 f. by Race Day). Placed at 3, 2022, $6,753.
++   Unnamed (2022 c. by Lord Nelson). See above.
++2nd dam
++FAMOUS STORY, by Rahy. Unraced. Sister to <strong>TUBROK</strong> ($317,930, 1st Everglades S. <strong>[G3]</strong>,      etc.), half-sister to <strong>SUNSHINE FOR LIFE</strong> ($221,700, 1st Athenia H. <strong>[G3]</strong> (BEL,      $66,180)). Dam of 6 foals, 5 to race, 5 winners--
++   Famous Rose (2008 f. by Forest Danger). See above.
++   Cat Girl (2009 f. by Discreet Cat). 4 wins at 4 and 5, $77,809. Dam of 2 foals, 2 to race, 1 winner--
++   .  Targarycat (2016 g. by Harris). 2 wins at 3, $54,730.
++   .  Fast Cat M G (2018 f. by Bernster). Unplaced in 2 starts, $330.
++   Turwada (2007 g. by Tale of the Cat). 3 wins at 3, $33,390.
++   Let's Play (2013 g. by Archarcharch). 2 wins at 5, $35,272, in Canada. (Total: $26,941).
++   Famous Graduate (2011 f. by Magna Graduate). Winner in 2 starts at 3, $12,810, in N.A./U.S.; placed at 3, $9,430, in Canada. (Total: $21,642).
++   Famous Graduate (2011 f. by Magna Graduate). Winner in 2 starts at 3, $12,810, in N.A./U.S.; placed at 3, $9,430, in Canada. (Total: $21,642).
+ 
+-3rd dam
+-MILLION STORIES, by Exclusive Native. Winner at 3 in France. Sent from United States to France in 1985.
+-      Returned to United States from France in 1987. Died 2005. Half-sister to <strong>PEARL BRACELET</strong>
+-      (Total: $168,399, 1st Dubai Poule d'Essai des Pouliches-French One Thousand Guineas <strong>[G1]</strong>),
+-      <strong>Sugar Walls</strong> (Total: $22,773, 2nd Prix d'Aumale <strong>[G3]</strong>), <strong>Forest Buck</strong>
+-      (Total: $145,643, 2nd Premio Ambrosiano [L], etc.). Dam of 11 foals, 9 to race, 8 winners--
+-   <strong>TUBROK</strong> (1997 g. by Rahy). 5 wins, 2 to 6, $317,930, 1st Everglades S. <strong>[G3]</strong>, 2nd
+-   .  Fourstardave H. <strong>[G2]</strong>, 3rd Nassau H. [L] (BEL, $15,312). Died 2006.
+-   <strong>SUNSHINE FOR LIFE</strong> (2004 f. by Giant's Causeway). 4 wins at 3 and 4, $221,700, 1st Athenia H.
+-   .     <strong>[G3]</strong> (BEL, $66,180). Dam of 9 foals, 8 to race, 3 winners--
+-   .  Make the Sun Shine (2012 f. by Malibu Moon). Winner at 3, $50,869, in Canada; placed at 2, $39,237,
+-   .  .     in N.A./U.S. Sent from United States to Turkey in 2022. (Total: $77,418). Producer.
+-   .  Star of War (2016 f. by Declaration of War). Winner at 3, 9,138 Pounds, in England; winner at 5,
+-   .  .  placed at 6, 2022 in Qatar; placed at 6, 2022, 185,500 Riyals, in Saudi Arabia. Sent from United
+-   .  .  States to Ireland in 2017. (Total: $61,403).
+-   .  Mr Globetrotter (2013 c. by Henrythenavigator). 3 wins at 4, 11,472 Pounds, in England. Sent from
+-   .  .  United States to Ireland in 2014. (Total: $14,673).
+-   .  Tapin Through Life (2014 f. by Tapit). Placed at 5, $13,830.
+-   .  Mental Warfare (2018 c. by Verrazano). Placed at 4, 2022 in Jamaica. Sent from United States to
+-   .  .  Jamaica in 2019.
+-   .  Unnamed (2021 c. by Classic Empire). Sent from United States to Ireland in 2022.
+-   .  Call Her Sunny (2011 f. by Empire Maker). Unplaced in 1 start, $250. Died 2014.
+-   .  Sunny Mo (2017 c. by Uncle Mo). Unplaced in 1 start, $125.
+-   .  Elegant Maiden (2020 f. by American Pharoah). Unplaced in 2 starts in Japan. Sent from United
+-   .  .  States to Japan in 2021.
+-   Silver Lullaby (2005 f. by Najran). Winner at 2 and 3, $34,082. Dam of 11 foals, 7 to race, 6
+-   .     winners--
+-   .  <strong>BIG TROUBLE</strong> (2012 c. by Tiz Wonderful). 2 wins in 2 starts at 2, $235,000, 1st Sanford S.
+-   .  .  <strong>[G3]</strong> (SAR, $190,000).
+-   .  <strong>Silver Lining John</strong> (2010 g. by Tiz Wonderful). 7 wins, 3 to 7, $221,025, 2nd Sam Houston
+-   .  .  Sprint Cup S. (HOU, $10,000).
+-   .  <strong>Silver Sidney</strong> (2013 f. by Sidney's Candy). 5 wins, 3 to 6, $208,343, in Canada, 2nd Belle
+-   .  .  Mahone S. (WO, $20,000); unplaced in 2 starts, $640, in N.A./U.S. (Total: $160,515).
+-   .  Silver Take Charge (2017 f. by Will Take Charge). 3 wins at 3 and 4, $57,962.
+-   .  Somewhere (2016 f. by Quality Road). 2 wins at 2, $56,205.
+-   .  Nickle Plated (2014 g. by Cape Blanco (IRE)). Winner at 3, $23,022.
+-   .  Unnamed (2022 f. by Volatile).
+-   .  Unnamed (2021 c. by Tiznow).
+-   .  Silver Kingdom (2019 f. by Animal Kingdom). Unraced. Died 2021.
+-   .  Unnamed (2018 f. by Gemologist). Died 2019.
+-   .  Lullaby Moon (2009 f. by Silver Wagon). Unplaced in 2 starts, $965. Died 2012.
+-   The Author (1992 c. by Green Forest). Winner at 3 and 4, $81,330.
+-   Ousstoura (1998 f. by Capote). Winner at 3, $31,755.
+-   Million Stars (2000 f. by Hennessy). Winner in 1 start at 2, $15,660.
+-   Classic Story (1990 g. by Green Forest). Winner at 2, 2,960 Pounds, in England; winner at 3, $3,795,
+-   .  in N.A./U.S. Sent from United States to England in 1991. Returned to United States from Great
+-   .  Britain in 1992. (Total: $9,443).
+-   Stories to Tell (1994 g. by Shadeed). Winner at 4 and 6, 3,784 Euro, in Germany; placed at 2, 2,452
+-   .  Pounds, in England. Sent from United States to Great Britain in 1995. (Total: $7,934).
+-   Nara (1989 f. by Green Forest). Unraced. Dam of 12 foals, 10 to race, 10 winners--
+-   .  <strong>IRISH DAISY</strong> (1993 f. by Allen's Alydar). 6 wins, 3 to 5, $364,198, 1st Ticonderoga H.-R
+-   .  .     (BEL, $90,000), 2nd Athenia H. <strong>[G3]</strong>, Ticonderoga H.-R (BEL, $30,000), Yaddo H.-R
+-   .  .     (SAR, $17,205), 3rd Noble Damsel H. <strong>[G3]</strong>. Died 2014. Dam of 8 foals, 8 to race, 4
+-   .  .     winners--
+-   .  .  Silver Agave (2004 f. by Silver Deputy). Unplaced in 2 starts, $800. Dam of 10 foals, 8 to race,
+-   .  .  .     7 winners--
+-   .  .  .  <strong>Star Juancho</strong> (2015 g. by Kantharos). 10 wins, 2 to 7, 2022, $343,470, 2nd OBS Sprint
+-   .  .  .  .  S.-R (OTC, $16,800), 3rd Opening Lead S. (GP, $7,350).
+-   .  <strong>IRISH SILENCE</strong> (1994 g. by Seattle Song). 15 wins, 2 to 11, $360,897, 1st Tejano Run S.
+-   .  .  (TP, $24,800), 2nd Memorial Day H. [L] (MNR, $15,870), Memorial Day H. (MNR, $7,720), 3rd Dust
+-   .  .  Commander S. (TP, $4,000).
+-   .  Irish Glory (1999 f. by Dixie Brass). 5 wins, 3 to 5, $147,540.
+-   .  Preferred Guest (1998 g. by Anjiz). 3 wins, 3 to 6, $106,210 Set cre at Charleston, about 2 1/4
+-   .  .  miles in 4:23.00 (11/09/03). Set ncr at Foxfield, 2 1/8 miles in 4:03.80 (04/24/04).
+-   .  Brickens (1997 g. by Double Negative). Winner at 2 and 5, $75,050.
+-   .  Irish Patriot (1992 g. by Fortunate Prospect). Winner at 3, $56,945.
+-   .  Rally the Troops (2009 f. by War Chant). 2 wins at 4, $54,815. Producer.
+-   .  Goleta Summit (2004 c. by Tale of the Cat). 2 wins at 3, $36,065.
+-   .  Malibu Joe (2006 c. by Malibu Moon). Winner in 2 starts at 3, $19,260. Died 2009.
+-   .  Jack Got Even (2005 c. by Stephen Got Even). 5 wins at 4 and 5 in Russia; unplaced in England. Sent
+-   .  .  from United States to Great Britain in 2007. Sent from Great Britain to Russia in 2008.
+-   .  Bandit Queen (2002 f. by Dixie Brass). Unraced. Producer.
+-   .  Razamtaz (2000 c. by Tomorrows Cat). Unraced.
+-   Famous Story (2002 f. by Rahy). See above.
+-   Try the Sky (1996 c. by Time for a Change). Unplaced in 1 start. Sire.
+-
+-4th dam
+-<strong>PERLEE (FR)</strong>, by *Margouillat. 3 wins at 2 and 3 in France, 1st Prix de Minerve<strong>-G3</strong>, Prix
+-      Finlande, 3rd Prix Saint Alary<strong>-G1</strong>, Prix Marcel Boussac<strong>-G1</strong>. Sent from France to
+-      United States in 1982. Died 1997. Dam of 9 foals, 8 to race, 7 winners--
+-   <strong>PEARL BRACELET</strong> (1986 f. by Lyphard). Winner in 2 starts at 3, 154,736 Euro, in France, 1st
+-   .     Dubai Poule d'Essai des Pouliches-French One Thousand Guineas <strong>[G1]</strong>. Sent from United
+-   .     States to France in 1987. Returned to United States from France in 1989. Sent from United States
+-   .     to Great Britain in 1998. (Total: $168,399). Died 2000. Dam of 8 foals, 8 to race, 4 winners--
+-   .  <strong>FLEUR DE NUIT</strong> (1993 f. by Woodman). 4 wins, 2 to 4, $163,761, 1st Gainesway Matchmaker S.
+-   .  .     <strong>[G3]</strong>, 2nd Regret S. [L] (CD, $17,085), Suffolk County S. [L] (BEL, $11,060). Dam of
+-   .  .     4 foals, 4 to race, 2 winners--
+-   .  .  <strong>Dhabyan</strong> (2000 c. by Silver Hawk). Winner at 2, 12,899 Pounds, in England, 3rd Iveco
+-   .  .  .  Daily Solario S. <strong>[G3]</strong>. Sent from United States to United Arab Emirates in 2001.
+-   .  .  .  (Total: $19,900).
+-   .  <strong>=Precious Pearl (IRE)</strong> (2000 f. by Peintre Celebre). Placed at 3, 27,650 Euro, in France,
+-   .  .     3rd Prix Chloe <strong>[G3]</strong>, Prix de la Calonne [L]. (Total: $31,597). Dam of 9 foals, 4 to
+-   .  .     race, 1 winner--
+-   .  .  <strong>=PINTURICCHIO (IRE)</strong> (2008 g. by =Holy Roman Emperor (IRE)). 5 wins, 3 to 6, 344,190
+-   .  .  .  Euro, in France, 1st Prix Bertrand du Breuil Longines <strong>[G3]</strong>, Grand Prix Anjou
+-   .  .  .  Bretagne [L], Prix Altipan [L], 2nd Qatar Prix Daniel Wildenstein <strong>[G2]</strong>, Prix Perth
+-   .  .  .  <strong>[G3]</strong>. (Total: $459,007).
+-   .  .  <strong>=Precious Jewel (TUR)</strong> (2014 f. by Dehere). Placed at 2 in Turkey, 2nd Siay Ve Sah Der
+-   .  .  .     [L].
+-   .  <strong>Treasured Gift</strong> (1997 c. by Private Terms). 4 wins, 2 to 5, $118,823, 2nd Simply Majestic
+-   .  .  S. (CRC, $8,904). Sire.
+-   .  Prize of Gold (1991 g. by In Fijar). 13 wins, 3 to 6, $96,595.
+-   .  Change for a Buck (1994 f. by Time for a Change). Winner in 2 starts at 3, 4,036 Pounds, in
+-   .  .     England. Sent from United States to Great Britain in 1995. Returned to United States from
+-   .  .     Great Britain in 2002. (Total: $6,582). Producer.
+-   .  Time for Pearls (1996 f. by Time for a Change). Placed at 3, 7,546 Euro, in France. Sent from
+-   .  .     United States to France in 1997. (Total: $7,820). Producer.
+-   .  Sala (1995 f. by Cryptoclearance). Unplaced in 1 start, $825. Sent from United States to Turkey in
+-   .  .     1998. Producer.
+-   .  Cobra Bracelet (1992 f. by Criminal Type). Unplaced in 1 start, $145.
+-   <strong>Sugar Walls</strong> (1985 f. by Lyphard). Winner at 2, 22,028 Euro, in France, 2nd Prix d'Aumale
+-   .     <strong>[G3]</strong>. Sent from United States to France in 1986. Returned to United States from Great
+-   .     Britain in 1990. (Total: $22,773). Died 1997. Dam of 8 foals, 7 to race, 7 winners--
+-   .  Seek the Power (1994 f. by Seeking the Gold). 3 wins at 3, $79,481. Died 1998.
+-   .  Closing Time (1995 c. by Time for a Change). 3 wins at 3 and 4, $44,842.
+-   .  Sugar Walls Babe (1997 f. by Private Terms). 2 wins at 3, $41,040. Producer.
+-   .  Swiss Candy (1991 f. by Siberian Express). 2 wins at 3, $40,075. Died 1995.
+-   .  Turkish Ruler (1993 c. by Woodman). 2 wins in 4 starts at 2, $23,835, in N.A./U.S.; 4 wins at 4 and
+-   .  .  7 in Hong Kong. Racing in Hong Kong as Touchwood. Sent from United States to Hong Kong in 1996.
+-   .  .  (Total: $23,835).
+-   .  Sugar Street (1992 g. by Miswaki). Winner at 3 and 5, $22,094.
+-   .  Les Etoiles (IRE) (1990 f. by Siberian Express). Winner at 3, $15,905, in N.A./U.S.; unplaced in 1
+-   .  .  start in England. Sent from Great Britain to United States in 1990. Sent from United States to
+-   .  .  England in 1991. Returned to United States from Great Britain in 1992. (Total: $15,905). Died
+-   .  .  1993.
+-   .  Nasra (GB) (1989 f. by In Fijar). Unraced. Sent from Ireland to United States in 1989. Died 1991.
+-   <strong>Forest Buck</strong> (1993 c. by Green Forest). Winner in 4 starts at 2 and 3, 15,472 Pounds, in
+-   .  England, 3rd Baring International Darley S. [L]; 4 wins, 5 to 7, 105,461 Euro, in Italy, 2nd Premio
+-   .  Ambrosiano [L]; winner in 2 starts at 7, 12,806 Euro, in France. Sent from United States to Great
+-   .  Britain in 1994. (Total: $145,643).
+-   Misk (1997 f. by Quiet American). Winner at 2 and 3, $66,905. Sent from United States to Turkey in
+-   .     2012. Dam of 6 foals, 4 to race, 4 winners--
+-   .  <strong>ANAK NAKAL</strong> (2005 c. by Victory Gallop). 4 wins, 2 to 6, $1,047,214, in N.A./U.S., 1st
+-   .  .  Pennsylvania Derby <strong>[G2]</strong> (PHA, $532,000), Kentucky Jockey Club S. <strong>[G2]</strong> (CD,
+-   .  .  $168,156), 2nd Meadowlands Cup H. <strong>[G2]</strong> (MED, $70,000), Nashua S. <strong>[G3]</strong> (AQU,
+-   .  .  $21,560), 3rd Belmont S. <strong>[G1]</strong> (BEL, $85,000), Meadowlands Cup S. <strong>[G2]</strong> (MED,
+-   .  .  $33,000); unplaced in 1 start in United Arab Emirates. Sent from United States to United Arab
+-   .  .  Emirates in 2009. Returned to United States from United Arab Emirates in 2009. Sent from United
+-   .  .  States to Argentina in 2013. (Total: $1,047,214). Sire.
+-   .  Naughty Nightie (2010 f. by Red Giant). Winner at 3, $15,205. Dam of 5 foals, 4 to race, 3
+-   .  .     winners--
+-   .  .  <strong>NAUGHTY TIGER</strong> (2016 f. by Smiling Tiger). 2 wins at 2, $123,284, 1st California
+-   .  .  .     Thoroughbred Breeders' Association S.-R (DMR, $57,000), 3rd Barretts Debutante S.-R (LRC,
+-   .  .  .     $13,000).
+-   .  Pistols At Dawn (2007 c. by Grand Slam). 4 wins, 3 to 5, $132,969.
+-   .  Mistress Quickly (2009 f. by Invisible Ink). Winner at 2, $27,901.
+-   .  Unnamed (2012 f. by Eskendereya).
+-   .  Unnamed (2002 f. by Tale of the Cat). Died 2003.
+-   Million Stories (1984 f. by Exclusive Native). See above.
+-   Forest Tiger (1989 g. by Green Forest). Winner at 3, 2,427 Pounds, in England; 2 wins at 4, $18,755,
+-   .  in N.A./U.S. Sent from United States to England in 1990. Returned to United States from Great
+-   .  Britain in 1992. (Total: $23,010).
+-   Forest Ending (1995 c. by Green Forest). Winner at 3, 3,860 Pounds, in England. Sent from United
+-   .  States to Great Britain in 1996. (Total: $6,260). Died 2000.
+-   Green Meadows (1988 f. by Green Forest). Unraced. Sent from United States to England in 1989.
+-   Turkish Star (1987 g. by Blushing Groom (FR)). Unplaced in England. Sent from United States to England
+-   .  in 1988.
+-   <strong>TUBROK</strong> (1997 g. by Rahy). 5 wins, 2 to 6, $317,930, 1st Everglades S. <strong>[G3]</strong>, 2nd Fourstardave H. <strong>[G2]</strong>, 3rd Nassau H. [L] (BEL, $15,312). Died 2006.
+-   <strong>SUNSHINE FOR LIFE</strong> (2004 f. by Giant's Causeway). 4 wins at 3 and 4, $221,700, 1st Athenia H. <strong>[G3]</strong> (BEL, $66,180). Dam of 9 foals, 8 to race, 3 winners--
+-   .  Make the Sun Shine (2012 f. by Malibu Moon). Winner at 3, $50,869, in Canada; placed at 2, $39,237, in N.A./U.S. Sent from United States to Turkey in 2022. (Total: $77,418). Producer.
+-   .  Star of War (2016 f. by Declaration of War). Winner at 3, 9,138 Pounds, in England; winner at 5, placed at 6, 2022 in Qatar; placed at 6, 2022, 185,500 Riyals, in Saudi Arabia. Sent from United States to Ireland in 2017. (Total: $61,403).
+-   .  Mr Globetrotter (2013 c. by Henrythenavigator). 3 wins at 4, 11,472 Pounds, in England. Sent from United States to Ireland in 2014. (Total: $14,673).
+-   .  Tapin Through Life (2014 f. by Tapit). Placed at 5, $13,830.
+-   .  Mental Warfare (2018 c. by Verrazano). Placed at 4, 2022 in Jamaica. Sent from United States to Jamaica in 2019.
+-   .  Unnamed (2021 c. by Classic Empire). Sent from United States to Ireland in 2022.
+-   .  Call Her Sunny (2011 f. by Empire Maker). Unplaced in 1 start, $250. Died 2014.
+-   .  Sunny Mo (2017 c. by Uncle Mo). Unplaced in 1 start, $125.
+-   .  Elegant Maiden (2020 f. by American Pharoah). Unplaced in 2 starts in Japan. Sent from United States to Japan in 2021.
+-   Silver Lullaby (2005 f. by Najran). Winner at 2 and 3, $34,082. Dam of 11 foals, 7 to race, 6 winners--
+-   .  <strong>BIG TROUBLE</strong> (2012 c. by Tiz Wonderful). 2 wins in 2 starts at 2, $235,000, 1st Sanford S. <strong>[G3]</strong> (SAR, $190,000).
+-   .  <strong>Silver Lining John</strong> (2010 g. by Tiz Wonderful). 7 wins, 3 to 7, $221,025, 2nd Sam Houston Sprint Cup S. (HOU, $10,000).
+-   .  <strong>Silver Sidney</strong> (2013 f. by Sidney's Candy). 5 wins, 3 to 6, $208,343, in Canada, 2nd Belle Mahone S. (WO, $20,000); unplaced in 2 starts, $640, in N.A./U.S. (Total: $160,515).
+-   .  Silver Take Charge (2017 f. by Will Take Charge). 3 wins at 3 and 4, $57,962.
+-   .  Somewhere (2016 f. by Quality Road). 2 wins at 2, $56,205.
+-   .  Nickle Plated (2014 g. by Cape Blanco (IRE)). Winner at 3, $23,022.
+-   .  Unnamed (2022 f. by Volatile).
+-   .  Unnamed (2021 c. by Tiznow).
+-   .  Silver Kingdom (2019 f. by Animal Kingdom). Unraced. Died 2021.
+-   .  Unnamed (2018 f. by Gemologist). Died 2019.
+-   .  Lullaby Moon (2009 f. by Silver Wagon). Unplaced in 2 starts, $965. Died 2012.
+-   The Author (1992 c. by Green Forest). Winner at 3 and 4, $81,330.
+-   Ousstoura (1998 f. by Capote). Winner at 3, $31,755.
+-   Million Stars (2000 f. by Hennessy). Winner in 1 start at 2, $15,660.
+-   Classic Story (1990 g. by Green Forest). Winner at 2, 2,960 Pounds, in England; winner at 3, $3,795, in N.A./U.S. Sent from United States to England in 1991. Returned to United States from Great Britain in 1992. (Total: $9,443).
+-   Stories to Tell (1994 g. by Shadeed). Winner at 4 and 6, 3,784 Euro, in Germany; placed at 2, 2,452 Pounds, in England. Sent from United States to Great Britain in 1995. (Total: $7,934).
+-   Nara (1989 f. by Green Forest). Unraced. Dam of 12 foals, 10 to race, 10 winners--
+-   .  <strong>IRISH DAISY</strong> (1993 f. by Allen's Alydar). 6 wins, 3 to 5, $364,198, 1st Ticonderoga H.-R (BEL, $90,000), 2nd Athenia H. <strong>[G3]</strong>, Ticonderoga H.-R (BEL, $30,000), Yaddo H.-R (SAR, $17,205), 3rd Noble Damsel H. <strong>[G3]</strong>. Died 2014. Dam of 8 foals, 8 to race, 4 winners--
+-   .  .  Silver Agave (2004 f. by Silver Deputy). Unplaced in 2 starts, $800. Dam of 10 foals, 8 to race, 7 winners--
+-   .  .  .  <strong>Star Juancho</strong> (2015 g. by Kantharos). 10 wins, 2 to 7, 2022, $343,470, 2nd OBS Sprint S.-R (OTC, $16,800), 3rd Opening Lead S. (GP, $7,350).
+-   .  <strong>IRISH SILENCE</strong> (1994 g. by Seattle Song). 15 wins, 2 to 11, $360,897, 1st Tejano Run S. (TP, $24,800), 2nd Memorial Day H. [L] (MNR, $15,870), Memorial Day H. (MNR, $7,720), 3rd Dust Commander S. (TP, $4,000).
+-   .  Irish Glory (1999 f. by Dixie Brass). 5 wins, 3 to 5, $147,540.
+-   .  Preferred Guest (1998 g. by Anjiz). 3 wins, 3 to 6, $106,210 Set cre at Charleston, about 2 1/4 miles in 4:23.00 (11/09/03). Set ncr at Foxfield, 2 1/8 miles in 4:03.80 (04/24/04).
+-   .  Brickens (1997 g. by Double Negative). Winner at 2 and 5, $75,050.
+-   .  Irish Patriot (1992 g. by Fortunate Prospect). Winner at 3, $56,945.
+-   .  Rally the Troops (2009 f. by War Chant). 2 wins at 4, $54,815. Producer.
+-   .  Goleta Summit (2004 c. by Tale of the Cat). 2 wins at 3, $36,065.
+-   .  Malibu Joe (2006 c. by Malibu Moon). Winner in 2 starts at 3, $19,260. Died 2009.
+-   .  Jack Got Even (2005 c. by Stephen Got Even). 5 wins at 4 and 5 in Russia; unplaced in England. Sent from United States to Great Britain in 2007. Sent from Great Britain to Russia in 2008.
+-   .  Bandit Queen (2002 f. by Dixie Brass). Unraced. Producer.
+-   .  Razamtaz (2000 c. by Tomorrows Cat). Unraced.
+-   Famous Story (2002 f. by Rahy). See above.
+-   Try the Sky (1996 c. by Time for a Change). Unplaced in 1 start. Sire.4th dam<strong>PERLEE (FR)</strong>, by *Margouillat. 3 wins at 2 and 3 in France, 1st Prix de Minerve<strong>-G3</strong>, Prix      Finlande, 3rd Prix Saint Alary<strong>-G1</strong>, Prix Marcel Boussac<strong>-G1</strong>. Sent from France to      United States in 1982. Died 1997. Dam of 9 foals, 8 to race, 7 winners--
+-   <strong>PEARL BRACELET</strong> (1986 f. by Lyphard). Winner in 2 starts at 3, 154,736 Euro, in France, 1st Dubai Poule d'Essai des Pouliches-French One Thousand Guineas <strong>[G1]</strong>. Sent from United States to France in 1987. Returned to United States from France in 1989. Sent from United States to Great Britain in 1998. (Total: $168,399). Died 2000. Dam of 8 foals, 8 to race, 4 winners--
+-   .  <strong>FLEUR DE NUIT</strong> (1993 f. by Woodman). 4 wins, 2 to 4, $163,761, 1st Gainesway Matchmaker S. <strong>[G3]</strong>, 2nd Regret S. [L] (CD, $17,085), Suffolk County S. [L] (BEL, $11,060). Dam of 4 foals, 4 to race, 2 winners--
+-   .  .  <strong>Dhabyan</strong> (2000 c. by Silver Hawk). Winner at 2, 12,899 Pounds, in England, 3rd Iveco Daily Solario S. <strong>[G3]</strong>. Sent from United States to United Arab Emirates in 2001. (Total: $19,900).
+-   .  <strong>=Precious Pearl (IRE)</strong> (2000 f. by Peintre Celebre). Placed at 3, 27,650 Euro, in France, 3rd Prix Chloe <strong>[G3]</strong>, Prix de la Calonne [L]. (Total: $31,597). Dam of 9 foals, 4 to race, 1 winner--
+-   .  .  <strong>=PINTURICCHIO (IRE)</strong> (2008 g. by =Holy Roman Emperor (IRE)). 5 wins, 3 to 6, 344,190 Euro, in France, 1st Prix Bertrand du Breuil Longines <strong>[G3]</strong>, Grand Prix Anjou Bretagne [L], Prix Altipan [L], 2nd Qatar Prix Daniel Wildenstein <strong>[G2]</strong>, Prix Perth <strong>[G3]</strong>. (Total: $459,007).
+-   .  .  <strong>=Precious Jewel (TUR)</strong> (2014 f. by Dehere). Placed at 2 in Turkey, 2nd Siay Ve Sah Der [L].
+-   .  <strong>Treasured Gift</strong> (1997 c. by Private Terms). 4 wins, 2 to 5, $118,823, 2nd Simply Majestic S. (CRC, $8,904). Sire.
+-   .  Prize of Gold (1991 g. by In Fijar). 13 wins, 3 to 6, $96,595.
+-   .  Change for a Buck (1994 f. by Time for a Change). Winner in 2 starts at 3, 4,036 Pounds, in England. Sent from United States to Great Britain in 1995. Returned to United States from Great Britain in 2002. (Total: $6,582). Producer.
+-   .  Time for Pearls (1996 f. by Time for a Change). Placed at 3, 7,546 Euro, in France. Sent from United States to France in 1997. (Total: $7,820). Producer.
+-   .  Sala (1995 f. by Cryptoclearance). Unplaced in 1 start, $825. Sent from United States to Turkey in 1998. Producer.
+-   .  Cobra Bracelet (1992 f. by Criminal Type). Unplaced in 1 start, $145.
+-   <strong>Sugar Walls</strong> (1985 f. by Lyphard). Winner at 2, 22,028 Euro, in France, 2nd Prix d'Aumale <strong>[G3]</strong>. Sent from United States to France in 1986. Returned to United States from Great Britain in 1990. (Total: $22,773). Died 1997. Dam of 8 foals, 7 to race, 7 winners--
+-   .  Seek the Power (1994 f. by Seeking the Gold). 3 wins at 3, $79,481. Died 1998.
+-   .  Closing Time (1995 c. by Time for a Change). 3 wins at 3 and 4, $44,842.
+-   .  Sugar Walls Babe (1997 f. by Private Terms). 2 wins at 3, $41,040. Producer.
+-   .  Swiss Candy (1991 f. by Siberian Express). 2 wins at 3, $40,075. Died 1995.
+-   .  Turkish Ruler (1993 c. by Woodman). 2 wins in 4 starts at 2, $23,835, in N.A./U.S.; 4 wins at 4 and 7 in Hong Kong. Racing in Hong Kong as Touchwood. Sent from United States to Hong Kong in 1996. (Total: $23,835).
+-   .  Sugar Street (1992 g. by Miswaki). Winner at 3 and 5, $22,094.
+-   .  Les Etoiles (IRE) (1990 f. by Siberian Express). Winner at 3, $15,905, in N.A./U.S.; unplaced in 1 start in England. Sent from Great Britain to United States in 1990. Sent from United States to England in 1991. Returned to United States from Great Britain in 1992. (Total: $15,905). Died 1993.
+-   .  Nasra (GB) (1989 f. by In Fijar). Unraced. Sent from Ireland to United States in 1989. Died 1991.
+-   <strong>Forest Buck</strong> (1993 c. by Green Forest). Winner in 4 starts at 2 and 3, 15,472 Pounds, in England, 3rd Baring International Darley S. [L]; 4 wins, 5 to 7, 105,461 Euro, in Italy, 2nd Premio Ambrosiano [L]; winner in 2 starts at 7, 12,806 Euro, in France. Sent from United States to Great Britain in 1994. (Total: $145,643).
+-   Misk (1997 f. by Quiet American). Winner at 2 and 3, $66,905. Sent from United States to Turkey in 2012. Dam of 6 foals, 4 to race, 4 winners--
+-   .  <strong>ANAK NAKAL</strong> (2005 c. by Victory Gallop). 4 wins, 2 to 6, $1,047,214, in N.A./U.S., 1st Pennsylvania Derby <strong>[G2]</strong> (PHA, $532,000), Kentucky Jockey Club S. <strong>[G2]</strong> (CD, $168,156), 2nd Meadowlands Cup H. <strong>[G2]</strong> (MED, $70,000), Nashua S. <strong>[G3]</strong> (AQU, $21,560), 3rd Belmont S. <strong>[G1]</strong> (BEL, $85,000), Meadowlands Cup S. <strong>[G2]</strong> (MED, $33,000); unplaced in 1 start in United Arab Emirates. Sent from United States to United Arab Emirates in 2009. Returned to United States from United Arab Emirates in 2009. Sent from United States to Argentina in 2013. (Total: $1,047,214). Sire.
+-   .  Naughty Nightie (2010 f. by Red Giant). Winner at 3, $15,205. Dam of 5 foals, 4 to race, 3 winners--
+-   .  .  <strong>NAUGHTY TIGER</strong> (2016 f. by Smiling Tiger). 2 wins at 2, $123,284, 1st California Thoroughbred Breeders' Association S.-R (DMR, $57,000), 3rd Barretts Debutante S.-R (LRC, $13,000).
+-   .  Pistols At Dawn (2007 c. by Grand Slam). 4 wins, 3 to 5, $132,969.
+-   .  Mistress Quickly (2009 f. by Invisible Ink). Winner at 2, $27,901.
+-   .  Unnamed (2012 f. by Eskendereya).
+-   .  Unnamed (2002 f. by Tale of the Cat). Died 2003.
+-   Million Stories (1984 f. by Exclusive Native). See above.
+-   Forest Tiger (1989 g. by Green Forest). Winner at 3, 2,427 Pounds, in England; 2 wins at 4, $18,755, in N.A./U.S. Sent from United States to England in 1990. Returned to United States from Great Britain in 1992. (Total: $23,010).
+-   Forest Ending (1995 c. by Green Forest). Winner at 3, 3,860 Pounds, in England. Sent from United States to Great Britain in 1996. (Total: $6,260). Died 2000.
+-   Green Meadows (1988 f. by Green Forest). Unraced. Sent from United States to England in 1989.
+-   Green Meadows (1988 f. by Green Forest). Unraced. Sent from United States to England in 1989.
+-

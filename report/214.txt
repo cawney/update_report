@@ -1,22 +1,251 @@
 --- PH001235_alt.txt
 +++ PH000214_alt.txt
-@@ -1,12 +1,12 @@
--Dec  7 2022  5:24PM          PH23 CONSIGNOR: 1 HORSE: 235 GROUP: 1 HIP NUMBER:                Page 1
-+Jan 29 2023  9:58PM          PH23 CONSIGNOR: 1 HORSE: 235 GROUP: 1 HIP NUMBER: 00214          Page 1
- 
- 
- ******************************************************************************************
- 235  In Gold Blood  Gray or Roan  Mare (02/24/14)
- By My Golden Song (03)  --  Bonita Belle (06)  By Magic Cat (95)  --  Alysbelle (89)
- Texas     Broodmare     None
--2021 Produce:
- 2022 Produce:
-+2023 Produce:
- Yoshida (JPN) (14)  Heart's Cry (JPN) (01)  Hilda's Passion (07)
-                    pregnant
- ******************************************************************************************
-@@ -50,17 +50,32 @@
-    Moro Trendsetter (2020 c. by Moro Tap). Unplaced in 2 starts, $100.
+@@ -31,20 +31,41 @@
+    .  .     Division-R (LS, $45,000), 2nd Remington Park Oaks [L] (RP, $40,000), Zia Park Oaks (ZIA,
+    .  .     $67,980), Donnie Wilhite Memorial S. (LAD, $10,000), 3rd Santa Margarita S. <strong>[G1]</strong>
+    .  .     (SA, $48,000), Santa Maria S. <strong>[G2]</strong> (SA, $24,000), Torrey Pines S. <strong>[G3]</strong>
+-   .  .     (DMR, $12,000), Darby's Daughter Texas Stallion S.-R (RET, $8,250). Producer.
++   .  .     (DMR, $12,000), Darby's Daughter Texas Stallion S.-R (RET, $8,250). Dam of 3 foals, 2 to
++   .  .     race, 2 winners--
++   .  .  =Super Favor (JPN) (2018 c. by Super Saver). 4 wins at 3 and 4, 2022, 39,223,000 Yen, in Japan.
++   .  .  .  (Total: $328,579).
++   .  .  =Sing That Song (JPN) (2020 f. by =Duramente (JPN)). Winner in 2 starts at 2, 2022, 8,030,000
++   .  .  .  Yen, in Japan. (Total: $54,820).
++   .  .  Serena's Voice (2017 f. by Honor Code). Unraced. Dam of 1 foal--
++   .  .  .  =Unnamed (2021 c. by =Orfevre (JPN)).
+    .  <strong>Jet Over</strong> (2013 g. by Jet Phone). 7 wins, 2 to 5, $123,493, 3rd Jim's Orbit S.-R (HOU,
+    .  .  $8,250). Died 2020.
+    .  <strong>My Golden Belle</strong> (2010 f. by My Golden Song). 2 wins at 2, $79,230, 2nd Yellow Rose S.-R
+-   .  .     (HOU, $10,000). Producer.
++   .  .     (HOU, $10,000). Dam of 4 foals, 3 to race, 1 winner--
++   .  .  Spin to Gold (2016 f. by Hard Spun). Winner at 2, $17,355. Dam of 2 foals--
++   .  .  .  Unnamed (2022 c. by Solomini).
++   .  .  .  Unnamed (2021 f. by Maximus Mischief).
++   .  .  Unnamed (2021 f. by The Factor).
++   .  .  Vandy Candy (2018 f. by Animal Kingdom). Unplaced, $3,100.
++   .  .  Dark Candy (2020 c. by Twirling Candy). Unplaced in 1 start, $680.
+    .  Fly South (2007 g. by Early Flyer). 13 wins, 2 to 7, $174,838.
+    .  Cowboy Shoes (2005 g. by Maria's Mon). 6 wins, 2 to 5, $68,741.
+    .  Band Director (2002 g. by Gold Regent). 3 wins at 3, $41,672.
+    .  Niles City (2009 g. by My Golden Song). 4 wins, 4 to 8, $38,819.
+    .  War Hymn (2006 g. by Gold Regent). Winner at 2 and 3, $30,741.
+    .  Belle of Infinity (2012 f. by Silver City). Winner at 3, $26,129. Sent from United States to Saudi
+-   .  .     Arabia in 2019. Producer.
++   .  .     Arabia in 2019. Dam of 3 foals, 2 to race, 2 winners--
++   .  .  Epica (2018 f. by Lookin At Lucky). 8 wins at 2 and 3, placed at 4, 2022, 50,070 New Sol, in
++   .  .  .  Peru. Sent from United States to Peru in 2019. (Total: $13,203).
++   .  .  =Yatganem (KSA) (2020 c. by Anchor Down). Winner in 2 starts at 2, 2022, 7,500 Riyals, in Saudi
++   .  .  .  Arabia. (Total: $2,000).
++   .  .  Slow Down Sam (2019 c. by First Samurai). Unraced.
+    .  Belle of the Bayou (2003 f. by Gold Legend). Unraced. Died 2005.
+-   .  Celebrationoflife (2004 f. by Festival of Light). Unplaced in 2 starts. Producer.
++   .  Celebrationoflife (2004 f. by Festival of Light). Unplaced in 2 starts. Dam of 2 foals, 1 to race,
++   .  .     1 winner--
++   .  .  Vivaro (2015 g. by My Golden Song). Winner at 4, $18,342.
++   .  .  Alexabelle (2014 f. by Grasshopper). Unraced.
+    Golden Spur (2000 c. by Touch Gold). 4 wins, 3 to 5, $102,760.
+    Alpha Male (2003 g. by Gold Legend). 3 wins at 3 and 4, $32,464.
+    Bonita Belle (2006 f. by Magic Cat). See above.
+@@ -59,16 +80,49 @@
+    .  =Welcome Gold (JPN) (2015 c. by =Gold Allure (JPN)). 4 wins, 2 to 6, 65,403,000 Yen, in Japan.
+    .  .  (Total: $601,181).
+    .  =Get Closer (JPN) (2012 f. by Wild Rush). Winner at 3 and 4, 16,541,000 Yen, in Japan. (Total:
+-   .  .     $139,784). Producer.
++   .  .     $139,784). Dam of 3 foals, 1 to race, 1 winner--
++   .  .  =Close Combat (JPN) (2019 c. by =Kinshasa no Kiseki (AUS)). Winner at 3, 2022, 620,000 Yen, in
++   .  .  .  Japan. (Total: $4,313).
++   .  .  =Unnamed (2022 c. by =Castelvecchio (AUS)).
++   .  .  =Unnamed (2020 c. by =Daiwa Major (JPN)).
+    .  =Close to Me (JPN) (2017 c. by =Real Impact (JPN)). Winner at 3 and 4, placed at 5, 2022,
+-   .  .  13,940,000 Yen, in Japan. (Total: $128,272).
++   .  .  14,300,000 Yen, in Japan. (Total: $130,981).
+    .  =Ashen Light (JPN) (2009 c. by Fantastic Light). Winner at 2, 7,000,000 Yen, in Japan. (Total:
+    .  .  $90,040).
+    .  =Matikanesekigahara (JPN) (2006 f. by =Fuji Kiseki (JPN)). Winner at 3, 6,850,000 Yen, in Japan.
+-   .  .     (Total: $75,489). Producer.
++   .  .     (Total: $75,489). Dam of 10 foals, 8 to race, 5 winners--
++   .  .  =Quer Dancar (JPN) (2015 f. by Kurofune). Winner at 2 and 3, 19,000,000 Yen, in Japan. (Total:
++   .  .  .  $170,657).
++   .  .  =Kisekino Kagayaki (JPN) (2016 f. by =Tosen Homareboshi (JPN)). Winner at 2 and 6, 2022,
++   .  .  .  15,580,000 Yen, in Japan. (Total: $135,656).
++   .  .  =Rugby Boy (JPN) (2017 c. by =Eishin Flash (JPN)). Winner at 2, 9,860,000 Yen, in Japan. (Total:
++   .  .  .  $92,267).
++   .  .  =Vip Cat's Eye (JPN) (2014 f. by Symboli Kris S). Winner at 3 and 5, 9,170,000 Yen, in Japan.
++   .  .  .  (Total: $81,475).
++   .  .  =Vermillon (JPN) (2013 c. by =Vermilion (JPN)). 2 wins at 2, 6,855,000 Yen, in Japan. (Total:
++   .  .  .  $57,481).
++   .  .  =Mieno Appare (JPN) (2019 c. by =Rulership (JPN)). Placed at 3, 2022, 1,300,000 Yen, in Japan.
++   .  .  .  (Total: $11,248).
++   .  .  =Unnamed (2021 f. by =Strong Return (JPN)).
++   .  .  =Unnamed (2018 c. by =Eishin Flash (JPN)).
++   .  .  =Green Sleeves (JPN) (2012 f. by Symboli Kris S). Unplaced in 1 start in Japan.
++   .  .  =An Teplitz (JPN) (2011 f. by =King Kamehameha (JPN)). Unplaced in Japan. Dam of 5 foals, 5 to
++   .  .  .     race, 3 winners--
++   .  .  .  =Cadfael (JPN) (2017 c. by =World Ace (JPN)). 12 wins, 3 to 5, 2022, 11,305,000 Yen, in
++   .  .  .  .  Japan. (Total: $98,339).
++   .  .  .  =Glamis (JPN) (2016 f. by Kurofune). 4 wins at 3 and 4, 1,940,000 Yen, in Japan. (Total:
++   .  .  .  .  $18,048).
++   .  .  .  =Blairii (JPN) (2018 c. by =Epiphaneia (JPN)). Winner at 3 and 4, placed at 5, 2023,
++   .  .  .  .  1,808,000 Yen, in Japan. (Total: $14,570).
++   .  .  .  =Escapade (JPN) (2019 f. by =Transcend (JPN)). Placed at 3 and 4, 2023, 867,000 Yen, in
++   .  .  .  .  Japan. (Total: $6,285).
++   .  .  .  =Highness (JPN) (2020 f. by =World Ace (JPN)). Unplaced, 700,000 Yen, in Japan. (Total:
++   .  .  .  .  $4,747).
+    .  =Danon Cyclone (JPN) (2011 f. by Symboli Kris S). 10 wins at 3 and 5, 4,463,000 Yen, in Japan.
+-   .  .     (Total: $42,853). Producer.
+-   Better Than Most (2004 f. by Elusive Quality). Unraced. Died 2020. Dam of 11 foals, 7 to race, 7
++   .  .     (Total: $42,853). Dam of 1 foal, 1 to race, 1 winner--
++   .  .  =Light Gift (JPN) (2020 f. by Dunkirk). Winner at 2, 2022, 913,000 Yen, in Japan. (Total:
++   .  .  .  $6,490).
++   Better Than Most (2004 f. by Elusive Quality). Unraced. Died 2020. Dam of 11 foals, 8 to race, 7
+    .     winners--
+    .  <strong>RED GHOST</strong> (2018 f. by Ghostzapper). 3 wins at 2 and 3, placed at 4, 2022, $263,700, 1st
+    .  .  Miss Preakness S. <strong>[G3]</strong> (PIM, $90,000), 2nd Incredible Revenge S. (MTH, $20,000).
+@@ -76,7 +130,10 @@
+    .  .     La Senorita S. [L] (RET, $45,000), Texas Stallion S.-R (LS, $45,000), Lane's End Stallion
+    .  .     Scholarship S.-R (LS, $30,000), Fiesta Mile S.-R (RET, $30,000), San Jacinto Turf S.-R (HOU,
+    .  .     $30,000), 3rd She's All In H. (RP, $11,000), Allen Black Cat LaCombe Memorial Overnight S.
+-   .  .     (FG, $4,800). Producer.
++   .  .     (FG, $4,800). Dam of 3 foals, 1 to race, 1 winner--
++   .  .  Chrome King (2019 g. by Munnings). Winner at 2 and 3, placed at 4, 2023, $115,441.
++   .  .  Unnamed (2022 c. by Competitive Edge).
++   .  .  Unnamed (2021 c. by Munnings).
+    .  <strong>WORLDVENTURER</strong> (2010 g. by Wimbledon). 5 wins at 2 and 3, $270,508, 1st TTA Sales
+    .  .  Futurity-R (LS, $56,652), Emerald Downs Derby (EMD, $35,750), Jim's Orbit S.-R (HOU, $45,000),
+    .  .  Groovy S.-R (HOU, $30,000), 2nd El Joven S. [L] (RET, $15,000), 3rd Remington Springboard Mile
+@@ -90,14 +147,27 @@
+    .  .     (HOU, $20,000), Bara Lass S.-R (HOU, $10,000). Dam of 7 foals, 5 to race, 5 winners--
+    .  .  <strong>COWGIRLS LIKE US</strong> (2016 f. by My Golden Song). 6 wins, 2 to 4, $247,664, 1st Trapeze S.
+    .  .  .     (RP, $60,000), La Senorita S. (RET, $45,000), Darby's Daughter Division of the Clarence
+-   .  .  .     Scharbauer, Jr. Texas Stallion S. (RET, $39,000), Two Altazano S.-R (HOU, $39,000).
++   .  .  .     Scharbauer, Jr. Texas Stallion S. (RET, $39,000), Two Altazano S.-R (HOU, $39,000). Dam of
++   .  .  .     1 foal--
++   .  .  .  Unnamed (2022 f. by Competitive Edge).
+    .  .  <strong>HOWBOUTTHISCOWGIRL</strong> (2015 f. by My Golden Song). 4 wins at 2 and 3, $133,070, 1st
+    .  .  .     Darby's Daughter Division of the Clarence Scharbauer, Jr. Texas Stallion S. (RET,
+-   .  .  .     $39,000), Two Altazano S.-R (HOU, $39,000), 3rd Texas Stallion S. (LS, $7,150). Producer.
++   .  .  .     $39,000), Two Altazano S.-R (HOU, $39,000), 3rd Texas Stallion S. (LS, $7,150). Dam of 2
++   .  .  .     foals, 1 to race, 1 winner--
++   .  .  .  Fast Track (2020 f. by Fast Anna). Winner at 2, 2022, $28,850.
++   .  .  .  Unnamed (2021 f. by Too Much Bling).
+    .  .  <strong>Mostly Distorted</strong> (2018 f. by Jimmy Creed). Winner at 2, $50,710, 2nd Bara Lass S.-R
+-   .  .  .     (HOU, $19,600).
++   .  .  .     (HOU, $19,600). Dam of 1 foal--
++   .  .  .  Unnamed (2022 c. by Coal Front).
++   .  .  Better Belle (2014 f. by Early Flyer). 3 wins at 2 and 3, $31,885. Dam of 1 foal--
++   .  .  .  Unnamed (2020 f. by Spellbinder). (application pending)
++   .  .  Two too Many (2017 g. by Bodemeister). Winner at 2, $14,290.
++   .  .  Unnamed (2022 f. by Violence).
++   .  .  Ben Quick (2019 g. by My Golden Song). Unraced.
+    .  <strong>Flight Queen</strong> (2015 f. by Early Flyer). 2 wins at 2, $77,925, 2nd Texas Stallion S. (LS,
+-   .  .     $13,000), 3rd Valor Farm S.-R (LS, $5,500).
++   .  .     $13,000), 3rd Valor Farm S.-R (LS, $5,500). Dam of 2 foals, 1 to race--
++   .  .  High Tone Woman (2021 f. by Bradester). Unraced.
++   .  .  Gold Memories (2020 f. by My Golden Song). Unplaced, $2,764.
+    .  Most Mischief (2016 c. by Into Mischief). 4 wins, 2 to 4, $101,663.
+    .  Most Magic (2007 f. by Magic Cat). Unraced. Died 2021. Dam of 6 foals, 6 to race, 4 winners--
+    .  .  <strong>Better Than Magic</strong> (2013 g. by My Golden Song). 10 wins, 2 to 6, $162,180, 2nd El Joven
+@@ -106,9 +176,14 @@
+    .  .  <strong>Gold Buyer</strong> (2016 g. by My Golden Song). 4 wins at 3 and 5, $108,906, in N.A./U.S., 2nd
+    .  .  .  Texas Stallion Stymie Division S.-R (LS, $13,000), 3rd Jim's Orbit S.-R (HOU, $7,150); 4 wins
+    .  .  .  at 4 and 5, $53,533, in Canada. (Total: $150,919).
+-   .  Dias Alegres (2020 f. by Uncle Mo). Unraced.
++   .  .  Alamo City (2012 g. by Silver City). 13 wins, 2 to 7, $138,436.
++   .  .  Early Bid (2014 g. by Early Flyer). 4 wins at 3, $53,140. Died 2018.
++   .  .  Soundslikeawinner (2018 f. by Too Much Bling). Placed at 3, $5,447.
++   .  .  Golden Magic (2017 f. by My Golden Song). Unplaced in 1 start, $690.
+    .  Gold Queen (2019 f. by Union Rags). Unraced.
+-   .  Better Than Mo (2017 f. by Uncle Mo). Unraced.
++   .  Better Than Mo (2017 f. by Uncle Mo). Unraced. Dam of 1 foal--
++   .  .  Unnamed (2022 c. by Competitive Edge).
++   .  Dias Alegres (2020 f. by Uncle Mo). Unplaced in 1 start, $465.
+    Cats Meow (1995 f. by Storm Cat). Unplaced in 2 starts. Died 2020. Dam of 13 foals, 12 to race, 11
+    .     winners--
+    .  <strong>SCREEN PASS</strong> (2000 g. by Hadif). 4 wins at 2 and 3, $102,131, 1st Friendship S.-R (LAD,
+@@ -118,15 +193,40 @@
+    .  .     foals, 5 to race, 5 winners--
+    .  .  <strong>CIRCUSTOWN ROSE</strong> (2008 f. by Wimbledon). 4 wins at 3 and 4, $86,993, 1st Lane's End
+    .  .  .     Stallion Scholarship S.-R (LS, $30,000). Dam of 7 foals, 4 to race, 4 winners--
+-   .  .  .  <strong>Irish Cork</strong> (2017 g. by Flat Out). 5 wins at 3 and 4, placed at 5, 2022, $288,572,
++   .  .  .  <strong>Irish Cork</strong> (2017 g. by Flat Out). 5 wins at 3 and 4, placed at 5, 2022, $290,432,
+    .  .  .  .  3rd Storm Cat S.-R (PRX, $9,700).
++   .  .  .  That's History (2015 g. by Flat Out). 12 wins, 3 to 6, placed at 7, 2022, $134,214.
++   .  .  .  Freedom Rose (2019 f. by Constitution). Winner at 2, placed at 3, 2022, $72,675.
++   .  .  .  Rose's Cause (2018 f. by Brody's Cause). 2 wins at 3, placed at 4, 2022, $34,779.
++   .  .  .  Karlierose'sdream (2021 f. by Always Dreaming). Unraced.
++   .  .  .  Thanksfornoticinme (2020 c. by Army Mule). Unraced.
++   .  .  .  This Is the Sea (2016 f. by Line of David). Unraced.
++   .  .  She's Smart Enough (2017 f. by Smarty Jones). 4 wins, 2 to 5, 2022, $86,918.
++   .  .  Trophy Club (2009 f. by Early Flyer). 4 wins at 3, $57,401. Dam of 5 foals, 1 to race, 1
++   .  .  .     winner--
++   .  .  .  Inewagallikethat (2016 f. by Monhocracy). 3 wins at 6, 2022, $21,727.
++   .  .  .  Unnamed (2021 f. by Holiday Justice).
++   .  .  .  Tiz Trophy Time (2020 g. by Tiznow My Way). Unraced.
++   .  .  .  My Trophy (2018 f. by Holiday Justice). Unraced.
++   .  .  .  Blind Gold (2017 f. by Monhocracy). Unraced.
++   .  .  Flo Time (2019 f. by Not This Time). 3 wins at 2 and 3, 2022, $41,198.
++   .  .  Nev's Legend (2010 g. by Wimbledon). Winner at 2 and 5, $26,621.
++   .  .  Plaza Cafe (2013 f. by Silver City). Unraced.
++   .  .  Lookin Pretty (2012 f. by Early Flyer). Unraced.
++   .  .  Unnamed (2011 c. by My Golden Song).
+    .  <strong>Gray Cat</strong> (2008 f. by Wimbledon). Winner at 2 and 3, $43,518, 3rd Darby's Daughter Texas
+    .  .  Stallion S.-R (RET, $11,000).
++   .  .  Unnamed (2013 g. by Fort Prado). (application cancelled)
+    .  Hadif Cat (2004 f. by Hadif). Winner at 2, $9,650. Dam of 7 foals, 4 to race, 4 winners--
+    .  .  <strong>FIFTYSHADESOFGOLD</strong> (2011 f. by My Golden Song). 4 wins at 2 and 3, $420,521, 1st Eight
+    .  .  .     Belles S. <strong>[G3]</strong> (CD, $119,472), Debutante S. [L] (CD, $66,090), Two Altazano S.-R
+    .  .  .     (HOU, $45,000), 2nd Fair Grounds Oaks <strong>[G2]</strong> (FG, $80,000), 3rd Adirondack S.
+-   .  .  .     <strong>[G2]</strong> (SAR, $20,000). Producer.
++   .  .  .     <strong>[G2]</strong> (SAR, $20,000). Dam of 5 foals, 1 to race, 1 winner--
++   .  .  .  Gold Double (2017 c. by Medaglia d'Oro). Winner at 4, $55,877.
++   .  .  .  Unnamed (2021 c. by American Pharoah).
++   .  .  .  Gold Ghost (2020 c. by Uncle Mo). Unraced.
++   .  .  .  Gold Baron (2019 c. by Medaglia d'Oro). Unraced.
++   .  .  .  Gold Trader (2018 c. by Uncle Mo). Unraced. Died 2020.
+    .  .  <strong>SWORD TRICK</strong> (2009 g. by Early Flyer). 4 wins at 2 and 3, $210,130, 1st Texas Stallion
+    .  .  .  S.-R (LS, $60,000), My DandyTexas Stallion S.-R (RET, $60,000), Groovy S.-R (HOU, $30,000),
+    .  .  .  2nd Texas Stallion S.-R (LS, $15,000), Oh Say S. (DEL, $10,000), 3rd Jim's Orbit S.-R (HOU,
+@@ -136,26 +236,35 @@
+    .  .  .     Altazano S.-R (HOU, $15,000). Died 2016. Dam of 1 foal, 1 to race, 1 winner--
+    .  .  .  <strong>Gold Label</strong> (2015 g. by My Golden Song). 6 wins, 2 to 7, 2022, $79,590, 3rd Groovy
+    .  .  .  .  S.-R (HOU, $5,500). Died 2022.
++   .  .  Flying Cat (2013 g. by Early Flyer). Winner in 4 starts at 2 and 3, $30,447.
++   .  .  Screen Cat (2018 f. by Quality Road). Unraced.
++   .  .  Snuff (2017 f. by Ghostzapper). Unraced. Dam of 1 foal--
++   .  .  .  Unnamed (2022 c. by Twirling Candy).
++   .  .  Gold Belle (2008 f. by Gold Legend). Unraced.
+    .  Indian Nation (2005 f. by Pleasant Tap). Winner at 2, $23,968. Died 2013. Dam of 2 foals, 2 to
+    .  .     race, 1 winner--
+    .  .  <strong>Silverhill</strong> (2012 g. by Silver City). 4 wins at 2 and 3, $109,546, 2nd Bashford Manor S.
+    .  .  .  <strong>[G3]</strong> (CD, $21,620), My Dandy Texas Stallion S.-R (RET, $15,000). Died 2015.
++   .  .  Chalk Mountain (2009 g. by Gold Legend). Unplaced in 2 starts, $160.
+    .  Little Kinkaid (2010 g. by My Golden Song). 6 wins, 2 to 4, $70,968.
+    .  Ghost Trail (2013 g. by Silver City). Winner at 2, $37,423.
+    .  Brick Cat (1999 g. by Rare Brick). 2 wins at 3, $28,494.
+    .  Western Song (2001 g. by Unbridled's Song). Winner at 3, $28,250.
+    .  Las Vegas Storm (2015 g. by My Golden Song). Winner at 2, $8,870. Died 2018.
+    .  Camp Flyer (2007 g. by Early Flyer). Winner at 2, $6,437.
+-   .  Lindsays Song (2009 f. by My Golden Song). Placed at 2 and 3, $15,592.
++   .  Lindsays Song (2009 f. by My Golden Song). Placed at 2 and 3, $15,592. Dam of 2 foals, 1 to race--
++   .  .  Unnamed (2015 f. by Circular Quay). (application pending)
++   .  .  Pointing At Pete (2016 g. by Point Given). Unplaced in 2 starts, $230.
+    .  Crop Duster (2011 g. by Early Flyer). Unraced. Died 2013.
+ RACE RECORD for In Gold Blood: At 2, unraced; at 3, unplaced in 2 starts; at 2, unplaced in 2 starts.
+     Earned $2,164
+ PRODUCE RECORD for In Gold Blood:
+-2018 Policy Limit, g. by Bradester. Winner at 3, placed at 4, 2022, $57,719.
++2018 Policy Limit, g. by Bradester. Winner at 3 and 5, 2023, $65,027.
+ 2019 Unnamed, g. by Bradester. (application pending)
+-2020 Satin Heart, f. by Bradester. Unplaced in 2 starts, $984.
++2020 Satin Heart, f. by Bradester. Placed at 3, 2023, $8,024.
+ 2021 Unnamed, c. by Practical Joke.
+ 2022 Unnamed, f. by Spun to Run. (application pending)
++2023 Bred to Yoshida (JPN).
+    Early Flight (2010 g. by Early Flyer). 2 wins at 3, $22,016, in N.A./U.S.; placed at 5 and 6, $5,579, in Canada. (Total: $26,395).
+    Infinite Jetsetter (2017 g. by Jet Phone). Winner at 5, 2022, $26,297.
+    Colorado City (2012 g. by Silver City). Winner at 2 and 3, $20,471.
+@@ -171,17 +280,32 @@
+ <strong>ALYSBELLE</strong>, by Alydar. 4 wins at 3 and 4, $355,875, 1st La Canada S. <strong>[G2]</strong>, Variety Queen      S.-R (HOL, $31,450), 3rd Hollywood Oaks <strong>[G1]</strong>, Santa Maria H. <strong>[G1]</strong>, Del Mar      Invitational Oaks <strong>[G2]</strong>, San Clemente H. [L] (DMR, $11,250), Santa Lucia H.-R (SA,      $11,250), Allez France H.-R (HOL, $11,250). Sister to <strong>ALYSHEBA</strong> ($6,679,242, horse of the      year in U.S. (1988), champion 3-year-old colt in U.S. (1987), champion older horse in U.S. (1988),      1st Kentucky Derby <strong>[G1]</strong>, etc., sire), <strong>ENJOY PLAN</strong> (Total: $85,848, 1st Prix      Lovelace [L], etc., sire), half-sister to <strong>PORT MASTER</strong> ($175,050, 1st Fair Play S., etc.,      sire), <strong>GRABELST</strong> (1st Premio Tullio Righetti [L]). Dam of 8 foals, 6 to race, 4 winners--
     <strong>MATIKANE KINNOHOSI</strong> (1996 c. by Seattle Slew). 4 wins, 2 to 4, 282,753,000 Yen, in Japan, 1st American Jockey Club Cup [LR], Copa Republica Argentina [LR], 2nd Nikkei Sho [LR], Kyoto Kinen [LR], Meguro Kinen [LR], Radio Tampa Hai Sansai S. [LR]. Sent from United States to Ireland in 1997. Sent from Ireland to Japan in 1998. (Total: $2,517,208). Sire.
     Belle of the Band (1997 f. by Dixieland Band). Winner at 2, $13,235. Died 2013. Dam of 11 foals, 10 to race, 9 winners--
 -   .  <strong>THEGIRLINTHATSONG</strong> (2011 f. by My Golden Song). 5 wins, 2 to 4, $480,195, 1st La Canada S. <strong>[G2]</strong> (SA, $120,000), Happy Ticket S. [L] (LAD, $60,000), Texas Stallion S. Got Koko Division-R (LS, $45,000), 2nd Remington Park Oaks [L] (RP, $40,000), Zia Park Oaks (ZIA, $67,980), Donnie Wilhite Memorial S. (LAD, $10,000), 3rd Santa Margarita S. <strong>[G1]</strong> (SA, $48,000), Santa Maria S. <strong>[G2]</strong> (SA, $24,000), Torrey Pines S. <strong>[G3]</strong> (DMR, $12,000), Darby's Daughter Texas Stallion S.-R (RET, $8,250). Producer.
@@ -52,7 +281,7 @@
     Golden Spur (2000 c. by Touch Gold). 4 wins, 3 to 5, $102,760.
     Alpha Male (2003 g. by Gold Legend). 3 wins at 3 and 4, $32,464.
     Bonita Belle (2006 f. by Magic Cat). See above.
-@@ -68,47 +83,117 @@
+@@ -189,47 +313,117 @@
     .  <strong>=MACHIKANENIHOMBARE (JPN)</strong> (2005 c. by Symboli Kris S). 11 wins, 3 to 9, 183,375,000 Yen, in Japan, 1st Elm S. <strong>[G3]</strong>, Brilliant S. [L], Marine S. [LR], 2nd Brilliant S. [L]. (Total: $1,971,282).
     .  <strong>=SATONO TITAN (JPN)</strong> (2013 c. by Symboli Kris S). 6 wins, 3 to 6, 138,134,000 Yen, in Japan, 1st March S. <strong>[G3]</strong>, Brazil Cup [L], 3rd Elm S. <strong>[G3]</strong>, Brilliant S. [L]. (Total: $1,262,960).
     .  =Welcome Gold (JPN) (2015 c. by =Gold Allure (JPN)). 4 wins, 2 to 6, 65,403,000 Yen, in Japan. (Total: $601,181).

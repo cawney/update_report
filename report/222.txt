@@ -1,17 +1,168 @@
 --- PH001438_alt.txt
 +++ PH000222_alt.txt
-@@ -1,4 +1,4 @@
--Dec 19 2022  4:11PM          PH23 CONSIGNOR: 1 HORSE: 438 GROUP: 1 HIP NUMBER:                Page 1
-+Jan 29 2023  9:58PM          PH23 CONSIGNOR: 1 HORSE: 438 GROUP: 1 HIP NUMBER: 00222          Page 1
- 
- 
- ******************************************************************************************
-@@ -33,7 +33,7 @@
- <strong>Va Va Va Boombaby</strong>, by Violence. Winner at 2 and 3, $65,450, 3rd Oklahoma Classics Distaff Sprint
-       S.-R (RP, $14,300). Dam of 2 foals, 1 to race, 1 winner--
+@@ -1,5 +1,5 @@
     <strong>JACKPOT BABY</strong> (2020 f. by Goldencents). Black type winner, see above.
 -   Boom Baby Flats (2021 c. by Flat Out).
 +   Boom Baby Flats (2021 c. by Flat Out). Unraced.
-    <strong>Va Va Va Boombaby</strong> (2015 f. by Violence). Black type-placed winner, see above.
+ 
+ 2nd dam
+ <strong>Scat Baby</strong>, by Scat Daddy. Winner at 2 and 3, $53,750, 3rd Optimistic Gal S. (CD, $5,600).
+@@ -11,150 +11,14 @@
     Scat for the Cause (2018 f. by Creative Cause). 2 wins at 3, $56,704.
     Scat Thru Traffic (2017 f. by Cross Traffic). Placed at 2, $17,799.
+    Unnamed (2021 f. by Vino Rosso).
+-
+-3rd dam
+-ROSIEVILLE, by Boston Harbor. 3 wins at 2 and 3, $32,500. Half-sister to <strong>MAYSVILLE SLEW</strong>
+-      ($1,046,409, 1st Essex H. <strong>[G3]</strong>, etc.), <strong>Lexus Lad</strong> ($21,432, 3rd Gold Rush Futurity
+-      [L] (ARP, $10,000)). Dam of 9 foals, 8 to race, 8 winners--
+-   <strong>SHOTGUN GULCH</strong> (2007 f. by Thunder Gulch). 7 wins, 2 to 4, $528,976, 1st Vinery Madison S.
+-   .     <strong>[G1]</strong> (KEE, $180,000), Oklahoma Classics Filly Sprint S.-R (RP, $68,700), E. L. Gaylord
+-   .     Memorial S. (RP, $32,450), Dixie Belle S. (OP, $30,000), Oklahoma Classics Lassie S.-R (RP,
+-   .     $36,000), 2nd Cinemine S. [L] (LS, $20,000), 3rd La Brea S. <strong>[G1]</strong> (SA, $30,000), Presque
+-   .     Isle Downs Masters S. <strong>[G2]</strong> (PID, $40,000), Treasure Chest S. [L] (DED, $12,500). Sent
+-   .     from United States to France in 2012. Dam of 8 foals, 4 to race, 3 winners--
+-   .  <strong>=Watan (GB)</strong> (2016 c. by Toronado (IRE)). 2 wins at 2, 57,748 Pounds, in England, 2nd
+-   .  .  Tattersalls Acomb S. <strong>[G3]</strong>, 3rd Al Basti Equiworld Dubai Garrowby S. [L], Betway King
+-   .  .  Charles II S. [L]; unplaced in 1 start in France. (Total: $74,826).
+-   .  <strong>=Rabdan (GB)</strong> (2015 g. by =Frankel (GB)). 2 wins in 4 starts at 3, 46,150 Euro, in France,
+-   .  .  3rd Prix de l'Avre [L]. (Total: $55,270).
+-   .  =Al Tibr (GB) (2014 c. by =New Approach (IRE)). 3 wins at 3 and 4, 28,050 Euro, in France. (Total:
+-   .  .  $32,365). Died 2018.
+-   .  =Qurtajana (FR) (2018 f. by =Shalaa (IRE)). Placed at 3, 3,461 Pounds, in England. (Total:
+-   .  .  $4,803).
+-   .  =Unnamed (2021 f. by =Wootton Bassett (GB)).
+-   .  =Al Hakam (FR) (2020 g. by =Shalaa (IRE)). Unraced in France.
+-   .  =Unnamed (2019 c. by =Al Wukair (IRE)).
+-   .  =Al Agrab (FR) (2013 g. by Bernardini). Unraced in France.
+-   <strong>Rose of Malibu</strong> (2015 f. by Malibu Moon). 4 wins, 2 to 4, $250,819, 2nd Zia Park Oaks [L]
+-   .     (ZIA, $55,000), Trapeze S. (RP, $20,000), E. L. Gaylord Memorial S. (RP, $10,000). Sent from
+-   .     United States to France in 2020. Dam of 1 foal--
+-   .  Cubano Libre (IRE) (2021 c. by Uncle Mo). Sent from France to United States in 2022.
+-   <strong>Sundayville Break</strong> (2006 f. by Sunday Break (JPN)). Winner at 3, $64,241, 3rd Cinemine S. [L]
+-   .     (LS, $11,000). Dam of 8 foals, 6 to race, 6 winners--
+-   .  <strong>SUNDAY FLASHBACK</strong> (2018 f. by Flashback). 5 wins at 2 and 3, placed at 4, 2022, $230,100,
+-   .  .  1st Oklahoma Classics Distaff Sprint S.-R (RP, $68,880), Useeit S.-R (RP, $42,000), 3rd Oklahoma
+-   .  .  Classics Distaff Sprint S.-R (RP, $12,628), Oklahoma Classics Lassie S.-R (RP, $11,000).
+-   .  <strong>SUNDAY NIGHT MISS</strong> (2014 f. by Mr. Nightlinger). 4 wins, 2 to 5, $193,298, 1st Oklahoma
+-   .  .     Stallion Fillies S.-R (RP, $30,000), 2nd Oklahoma Classics Distaff Turf S.-R (RP, $26,000)
+-   .  .     twice, 3rd Bob Barry Memorial S.-R (RP, $7,700). Died 2022.
+-   .  <strong>BRING IT ON DUDE</strong> (2013 g. by Munnings). 3 wins in 6 starts at 2, $134,063, 1st Kip Deville
+-   .  .  S. [L] (RP, $49,500), Oklahoma Classics Juvenile S.-R (RP, $53,550).
+-   .  <strong>Slew Hunter</strong> (2012 f. by Evansville Slew). 3 wins at 3 and 4, $87,959, 3rd Oklahoma
+-   .  .     Classics Distaff Sprint S.-R (RP, $13,079). Producer.
+-   .  Cash in the Ticket (2016 g. by Flat Out). 4 wins at 3 and 4, $145,578.
+-   .  Sunday's Vision (2017 f. by Pollard's Vision). 7 wins, 3 to 5, 2022, $96,123.
+-   .  Letta's Legacy (2021 f. by Practical Joke).
+-   .  Unnamed (2019 c. by Den's Legacy). (application pending)
+-   <strong>Harlan's Romance</strong> (2012 f. by Harlan's Holiday). Winner at 2 and 3, $60,943, 3rd Remington
+-   .     Park Oaks [L] (RP, $22,000). Dam of 5 foals, 2 to race--
+-   .  Contrabandista (2019 g. by Gun Runner). Placed at 3, 2022, $7,050.
+-   .  C R's Girl (2018 f. by Candy Ride (ARG)). Placed at 4, 2022, $6,703.
+-   .  Unnamed (2022 c. by Constitution). (application pending)
+-   .  Unnamed (2021 f. by Candy Ride (ARG)).
+-   .  Uncorrelated (2020 c. by Arrogate). Unraced.
+-   <strong>Scat Baby</strong> (2009 f. by Scat Daddy). Black type-placed winner, see above.
+-   Speightsville (2019 g. by Speightster). Winner at 2 and 3, 2022, $42,794.
+-   Scat's Your Daddy (2010 g. by Scat Daddy). Winner in 2 starts at 3, $28,000.
+-   Rosie's City Boy (2017 g. by Temple City). 3 wins at 4, $22,684.
+-   Spun a Rose (2014 f. by Hard Spun). Unraced. Dam of 3 foals--
+-   .  Spin Out (2021 f. by Flat Out).
+-   .  Unnamed (2019 f. by Munnings). (application pending)
+-   .  Shanghai Rosie (2018 f. by Shanghai Bobby). Unraced.
+-
+-4th dam
+-SHOTGUN ROMANCE, by Smile. Unraced. Died 2002. Dam of 8 foals, 6 to race, 5 winners--
+-   <strong>MAYSVILLE SLEW</strong> (1996 g. by Slew City Slew). 17 wins, 3 to 8, $1,046,409, 1st Essex H.
+-   .  <strong>[G3]</strong>, Dallas Turf Cup H. [L] (LS, $120,000), Remington Green H. [L] (RP, $60,000),
+-   .  Canterbury Park Derby [L] (CBY, $60,000), Colorado Derby [L] (ARP, $60,000), Louisiana Downs H. [L]
+-   .  (LAD, $60,000), Independence Breeders' Cup H. [L] (LAD, $60,000), Arapahoe Park H. [L]-ntr, 1 1/8
+-   .  miles in 1:49.00 (ARP, $45,000), Prospector's Gamble H. (ARP, $39,120), Northern Spur S. (OP,
+-   .  $24,000), 2nd Lone Star Park H. <strong>[G3]</strong> (LS, $46,500), Edward J. DeBartolo Sr. Memorial
+-   .  Breeders' Cup H. [L] (RP, $25,000), Edward J. DeBartolo, Sr. Memorial Breeders' Cup H. [L] (RP,
+-   .  $25,000), Remington Green H. [L] (RP, $20,000), Louisiana Downs H. [L] (LAD, $20,000), 3rd Clark H.
+-   .  <strong>[G2]</strong>, Razorback H. <strong>[G3]</strong>, Essex H. <strong>[G3]</strong>, Edward J. Debartolo Sr. Memorial
+-   .  Breeders' Cup H. [L] (RP, $16,500), Governor's Cup H. [L] (RP, $8,250), Governor's Cup H. [L] (RP,
+-   .  $7,500), Gold Rush Futurity (ARP, $4,740). Etr at Arapahoe Park, 7 furlongs in 1:22.80 (06/20/99).
+-   <strong>Lexus Lad</strong> (1992 g. by Septieme Ciel). Winner at 2 and 3, $21,432, 3rd Gold Rush Futurity [L]
+-   .  (ARP, $10,000).
+-   Rosieville (2001 f. by Boston Harbor). See above.
+-   Janeville Slew (1997 f. by Evansville Slew). Winner at 3, $18,750. Died 2012. Dam of 7 foals, 6 to
+-   .     race, 3 winners--
+-   .  Shayeville Slew (2007 f. by Cape Canaveral). 5 wins at 3 and 4, $77,044.
+-   .  Ragin Gagin (2004 f. by Unome). 4 wins, 3 to 6, $48,234.
+-   .  Brewski Slew (2006 g. by Milwaukee Brew). Winner at 2, $19,166.
+-   .  Thunder Boomer (2009 f. by Indy Thunder). Placed at 3, $5,694.
+-   .  Logan County Lass (2003 f. by Sahm). Placed in 1 start at 2, $2,520, in N.A./U.S.; unplaced in 1
+-   .  .     start in Canada. (Total: $2,520).
+-   .  Cash Lane (2005 f. by Zavata). Unraced.
+-   .  Caughtupinthechase (2010 g. by It'sallinthechase). Unplaced, $245.
+-   Curtville Slew (1998 g. by Evansville Slew). Winner at 3, $8,235.
+-   Momie Marie (1994 f. by Wolf Power (SAF)). Placed at 3, $9,920. Dam of 8 foals, 6 to race, 5
+-   .     winners--
+-   .  <strong>CHERYLVILLE SLEW</strong> (1999 f. by Evansville Slew). 10 wins, 3 to 5, $329,780, 1st Irving
+-   .  .     Distaff S. [L] (LS, $45,000), Sangue H. (LAD, $30,000), Margarita Breeder's Cup H. (RET,
+-   .  .     $30,000), Ricks Memorial S. (RP, $24,000), Baby Doe H. (ARP, $21,510), Lady's Secret S. (RP,
+-   .  .     $21,000), 2nd Lady Canterbury Breeders' Cup S. [L] (CBY, $20,000), Old South H. (LAD,
+-   .  .     $8,000), Sam Houston Distaff H. (HOU, $8,000), Lady's Secret S. (RP, $6,000), 3rd Golden
+-   .  .     Triangle S. (DED, $5,500), Ricks Memorial S. (RP, $3,850). Died 2009. Dam of 2 foals, 2 to
+-   .  .     race, 2 winners--
+-   .  .  Successful Slew (2006 f. by Successful Appeal). Winner at 3, $61,747. Dam of 9 foals, 6 to race,
+-   .  .  .     6 winners--
+-   .  .  .  <strong>HAILSTORM SLEW</strong> (2013 f. by Munnings). 7 wins, 2 to 4, $325,807, 1st Dream Supreme S.
+-   .  .  .  .  (CD, $46,009), Oklahoma Classics Distaff Sprint S.-R (RP, $78,000), Great Lady M. S.-R
+-   .  .  .  .  (WRD, $33,000), Useeit S.-R (RP, $30,000), 2nd Slide Show S.-R (RP, $15,000), More Than
+-   .  .  .  .  Even S.-R (WRD, $11,000). Producer.
+-   .  .  .  <strong>Daaher's Success</strong> (2015 g. by Daaher). 7 wins, 3 to 6, placed at 7, 2022, $180,880,
+-   .  .  .  .  2nd Jim Thorpe S.-R (RP, $14,000).
+-   .  <strong>Top Notch Slew</strong> (2011 g. by Evansville Slew). 3 wins at 3 and 4, $58,172, 3rd Tishomingo
+-   .  .  S.-R (RP, $5,500).
+-   .  Lucky Repete (2005 g. by Evansville Slew). Winner at 2, $25,110.
+-   .  Wild Momie (2003 f. by Wild Zone). 4 wins, 3 to 6, $24,757. Died 2014.
+-   .  Bankitbaby (2002 f. by Burbank). Winner at 2, $12,785. Producer.
+-   .  Nuttin But Fast (2009 f. by Slew City Slew). Unraced. Producer.
+-   .  Pesticator (2001 f. by Evansville Slew). Unraced.
+-   .  Jomomie (2006 f. by Johar). Unplaced in 2 starts, $864.
+-   Shotgun Jane (2002 f. by Siphon (BRZ)). Unraced. Dam of 12 foals, 6 to race, 4 winners--
+-   .  <strong>SHOTGUN KOWBOY</strong> (2012 g. by Kodiak Kowboy). 15 wins, 2 to 7, $1,548,684, 1st Oklahoma Derby
+-   .  .  <strong>[G3]</strong> (RP, $264,000), Lone Star Park H. <strong>[G3]</strong> (LS, $130,500), Clever Trevor S.
+-   .  .  [L] (RP, $66,000), Oklahoma Classics Cup S.-R (RP, $105,000) 3 times, Oklahoma Classics Cup S.-R
+-   .  .  (RP, $91,050), Oklahoma Classics Juvenile S.-R (RP, $51,300), 2nd Prairie Meadows Cornhusker H.
+-   .  .  <strong>[G3]</strong> (PRM, $59,700), Texas Mile S. <strong>[G3]</strong> (LS, $38,000), Lone Star Park H.
+-   .  .  <strong>[G3]</strong> (LS, $38,000), Remington Springboard Mile S. [L] (RP, $55,000), 3rd Lone Star Park
+-   .  .  H. <strong>[G3]</strong> (LS, $20,000), Steve Sexton Mile S. <strong>[G3]</strong> (LS, $20,000), Governor's Cup
+-   .  .  S. [L] (RP, $21,175), Kip Deville S. [L] (RP, $9,075), Jeffrey A. Hawk Memorial S. (RP,
+-   .  .  $12,100), Jeffrey A. Hawk Memorial S. (RP, $9,075).
+-   .  <strong>EURO K SHOTGUN</strong> (2013 f. by Euroears). 5 wins at 3 and 4, $204,227, 1st Oklahoma Classics
+-   .  .     Distaff Sprint S.-R (RP, $71,340), Oklahoma Stallion Fillies S.-R (RP, $30,000).
+-   .  <strong>Shotgun's Night</strong> (2015 g. by Mr. Nightlinger). 3 wins at 2 and 4, $81,637, 2nd Oklahoma
+-   .  .  Stallion S.-R (RP, $10,000).
+-   .  Easter Bunny Babe (2008 f. by Evansville Slew). Winner at 3 and 4, $36,443.
+-   .  Shotgun Up (2019 g. by Upstart). Placed at 2 and 3, 2022, $26,111.
+-   .  Unnamed (2022 f. by Outwork). (application pending)
+-   .  Shotgun Janester (2020 f. by Speightster). Unraced.
+-   .  Shotgun Strong (2017 f. by Wicked Strong). Unraced.
+-   .  Letta's Lil Bit (2010 f. by Evansville Slew). Unraced.
+-   .  K K's Thunder (2009 f. by Indy Thunder). Unraced.
+-   .  Zoomin Zavata (2007 c. by Zavata). Unraced. Died 2008.
+-   .  Shotgun's Star (2014 f. by Include). Unplaced, $5,943. Producer.
+-   Soonerville Slew (2000 f. by Evansville Slew). Unraced. Died 2017. Dam of 6 foals, 1 to race, 1
+-   .     winner--
+-   .  <strong>Sooner Luck</strong> (2008 f. by Lucky Lionel). Winner at 3, $32,852, 2nd Oklahoma Stallion S.-R
+-   .  .  (WRD, $11,600). Died 2017.
+-   .  Chasing Slewsgizmo (2017 c. by It'sallinthechase). Unraced.
+-   .  Unnamed (2013 c. by Indy Thunder). (application pending)
+-   .  Duchess of Dazzle (2011 f. by It'sallinthechase). Unraced.
+-   .  Sooner On Sunday (2006 f. by Sunday Break (JPN)). Unraced.
+-   .  Super Sooner (2005 c. by Touch Tone). Unraced. Died 2007.
+ RACE RECORD for Jackpot Baby: At 2, 2022, two wins (E. L. Gaylord Memorial S. (RP, $33,000)) in 2 starts;
+     . Totals: 2 wins in 2 starts. Earned $56,207
++   <strong>JACKPOT BABY</strong> (2020 f. by Goldencents). Black type winner, see above.
++   Boom Baby Flats (2021 c. by Flat Out). Unraced.
++2nd dam
++<strong>Scat Baby</strong>, by Scat Daddy. Winner at 2 and 3, $53,750, 3rd Optimistic Gal S. (CD, $5,600).      Half-sister to <strong>SHOTGUN GULCH</strong> ($528,976, 1st Vinery Madison S. <strong>[G1]</strong> (KEE,      $180,000), etc.), <strong>Rose of Malibu</strong> ($250,819, 2nd Zia Park Oaks [L] (ZIA, $55,000), etc.),      <strong>Sundayville Break</strong> ($64,241, 3rd Cinemine S. [L] (LS, $11,000)), <strong>Harlan's Romance</strong>      ($60,943, 3rd Remington Park Oaks [L] (RP, $22,000)). Dam of 4 foals, 3 to race, 2 winners--
++   <strong>Va Va Va Boombaby</strong> (2015 f. by Violence). Black type-placed winner, see above.
++   Scat for the Cause (2018 f. by Creative Cause). 2 wins at 3, $56,704.
++   Scat Thru Traffic (2017 f. by Cross Traffic). Placed at 2, $17,799.
++   Scat Thru Traffic (2017 f. by Cross Traffic). Placed at 2, $17,799.
+ 

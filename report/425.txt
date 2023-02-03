@@ -1,32 +1,112 @@
 --- PH001001_alt.txt
 +++ PH000425_alt.txt
-@@ -1,12 +1,12 @@
--Dec  7 2022  4:25PM          PH23 CONSIGNOR: 1 HORSE: 1 GROUP: 1 HIP NUMBER:                  Page 1
-+Jan 29 2023 10:02PM          PH23 CONSIGNOR: 1 HORSE: 1 GROUP: 1 HIP NUMBER: 00425            Page 1
- 
- 
- ******************************************************************************************
- 1  Tizdaria  Bay  Mare (05/31/17)
- By Tiznow (97)  --  Bridaria (11)  By Harlan's Holiday (99)  --  R Charlie's Angel (05)
- Kentucky     Broodmare     None
--2021 Produce:
- 2022 Produce:
-+2023 Produce:
- Blame (06)  Arch (95)  Liable (95)
-                    pregnant
- ******************************************************************************************
-@@ -44,11 +44,11 @@
-    <strong>Cullum Road</strong> (2015 g. by Quality Road). 6 wins, 3 to 7, 2022, $485,283, 2nd River City H. <strong>[G3]</strong> (CD, $33,250), Exacta Systems Dueling Grounds Derby [L] (KD, $76,000), Old Friends S. [LR] (KD, $48,800), 3rd Baltimore/Washington International Turf Cup S. <strong>[G3]</strong> (LRL, $20,000), Fort Marcy S. <strong>[G3]</strong> (BEL, $18,000).
+@@ -14,89 +14,32 @@
+    .  $20,000), Fort Marcy S. <strong>[G3]</strong> (BEL, $18,000).
     <strong>Bridaria</strong> (2011 f. by Harlan's Holiday). Black type-placed winner, see above.
     Daria's Angel (2014 f. by Gemologist). 12 wins, 3 to 7, placed at 8, 2022, $553,482.
--   Fieldsman (2012 c. by Hard Spun). 12 wins, 2 to 10, 2022, 94,582 Pounds, in England. Sent from United States to Ireland in 2013. (Total: $129,705).
-+   Fieldsman (2012 c. by Hard Spun). 12 wins, 2 to 10, 2022, 95,908 Pounds, in England. Sent from United States to Ireland in 2013. (Total: $131,328).
+-   Fieldsman (2012 c. by Hard Spun). 12 wins, 2 to 10, 2022, 94,582 Pounds, in England. Sent from United
+-   .  States to Ireland in 2013. (Total: $129,705).
++   Fieldsman (2012 c. by Hard Spun). 12 wins, 2 to 10, 2022, 95,908 Pounds, in England. Sent from United
++   .  States to Ireland in 2013. (Total: $131,328).
     Majestic Angel (2013 f. by Majestic Warrior). 4 wins at 3 and 4, $122,369. Dam of 2 foals--
     .  Unnamed (2021 c. by Collected).
     .  Princess Tenko (2020 f. by Good Magic). Unraced.
 -   Angel Raphael (2017 f. by Flashback). 5 wins, 2 to 5, 2022, $116,040.
 -   Unnamed (2021 f. by Good Samaritan).
--   Unnamed (2021 f. by Good Samaritan).
++   Angel Raphael (2017 f. by Flashback). 5 wins, 2 to 5, 2022, $116,290.
++   Winter Hymnal (2021 f. by Good Samaritan). Unraced.
+    Unnamed (2020 f. by Jimmy Creed).
+-
+-3rd dam
+-YES MA'AM, by Cormorant. Winner at 3, $28,548. Half-sister to <strong>Our Main Man</strong> ($236,206, 2nd Dallas
+-      Turf Cup H. [L] (LS, $50,000), etc.), <strong>Resiliency</strong> ($109,500, 2nd Mike Lee S.-R (BEL,
+-      $10,970)). Dam of 11 foals, 8 to race, 5 winners--
+-   <strong>R CHARLIE'S ANGEL</strong> (2005 f. by Indian Charlie). Black type winner, see above.
+-   Serendipity Grove (2010 g. by Forest Grove). 15 wins, 2 to 7, $166,467, in Canada. Set tre at Century
+-   .  Downs, 6 furlongs in 1:11.24 (10/29/17); 2 wins at 4, $14,087, in N.A./U.S. (Total: $159,907).
+-   Certainly Yes (2006 f. by Include). 3 wins at 4, $46,816. Dam of 2 foals--
+-   .  El Brillar Rojo (2016 c. by Mt. Glittermore). Unraced.
+-   .  Nutshell (2015 c. by Mt. Glittermore). Unraced.
+-   Golden Percentage (2002 g. by Banker's Gold). Winner at 4, $37,235. Died 2007.
+-   Irritating (2014 g. by Forest Grove). Winner in 1 start at 2, $8,938, in Canada. (Total: $6,721). Died
+-   .  2017.
+-   Zip Two (2012 g. by Forest Grove). Placed at 2, $5,400, in Canada. (Total: $4,927). Died 2015.
+-   Full Speed Ahead (2008 c. by Canadian Frontier). Unraced.
+-   Bailiff (2004 c. by Doneraile Court). Unraced.
+-   Banker's Prospect (2003 f. by Banker's Gold). Unraced.
+-   Stroker Joe (2013 g. by Stephanotis). Unplaced, $1,888, in Canada. (Total: $1,448).
+-   Think First (2009 f. by Forest Grove). Unplaced, $1,045, in Canada. (Total: $1,019).
+-
+-4th dam
+-AFFIRMING, by Affirmed. 4 wins, 3 to 5, $92,952. Died 2008. Sister to <strong>PERFECTING</strong> ($190,869, 1st
+-      La Jolla H. <strong>[G3]</strong>, etc., sire), <strong>Predecessor</strong> ($189,723, 2nd Gateway To Glory S. [L]
+-      (FPX, $8,500), etc., sire), <strong>Rekindling</strong> ($120,065, 2nd Bam's Penny S. [L] (GG, $11,970),
+-      etc.), half-sister to <strong>Currant Mountain</strong> ($94,968, 2nd Old Ironsides H. (SUF, $5,000),
+-      etc.). Dam of 11 foals, 11 to race, 10 winners--
+-   <strong>Our Main Man</strong> (1998 g. by Maria's Mon). 4 wins, 2 to 4, $236,206, 2nd Dallas Turf Cup H. [L]
+-   .  (LS, $50,000), 3rd Quicken Tree S.-R (HOL, $12,000), Oceanside S.-R (DMR, $10,452), Jim Murray
+-   .  Memorial H.-R (HOL, $11,997).
+-   <strong>Resiliency</strong> (1994 g. by Talc). 4 wins at 3 and 5, $109,500, 2nd Mike Lee S.-R (BEL, $10,970).
+-   Yes Ma'am (1995 f. by Cormorant). See above.
+-   Previously (1991 f. by Garthorn). Winner at 3, $23,060. Dam of 7 foals, 6 to race, 5 winners--
+-   .  Previous Selection (2001 f. by Tank's Number). 5 wins at 3 and 4, $147,907. Dam of 8 foals, 7 to
+-   .  .     race, 4 winners--
+-   .  .  <strong>Previous Honor</strong> (2009 f. by Congressionalhonor). 17 wins, 2 to 10, $434,332, 2nd Power
+-   .  .  .  by Far H.-R (PRX, $18,750), 3rd Mrs. Penny S.-R (PRX, $11,000), Power by Far H.-R (PRX,
+-   .  .  .  $8,250).
+-   .  Waterundrthebridge (1999 c. by Thunder Puddles). 10 wins, 3 to 6, $93,591.
+-   .  Before Today (2003 g. by Western Expression). 2 wins at 3, $18,577.
+-   .  Me First Then You (2002 f. by Western Expression). Winner at 3, $6,551.
+-   .  Chilean Princess (2005 f. by Western Expression). Winner at 3, $6,510. Died 2018.
+-   .  Beforthewestwaswon (2004 f. by Western Expression). Placed at 2 and 3, $9,425.
+-   .  Speak Quietly (1998 f. by Thunder Puddles). Unraced.
+-   Cobblers Rock (1996 g. by Cure the Blues). 9 wins, 3 to 7, $323,371. Died 2005.
+-   Songbird (1993 f. by Talc). 3 wins at 3 and 4, $118,280. Dam of 8 foals, 6 to race, 4 winners--
+-   .  Decisive (1998 g. by Crusader Sword). 2 wins at 3, $114,107.
+-   .  Flying Excess (2003 g. by In Excess (IRE)). Winner at 5, $13,644. Died 2009.
+-   .  Dontbeshort (2007 g. by Tribunal). Winner at 3, $5,536.
+-   .  Magic Memo (2002 g. by Memo (CHI)). Winner at 3, $2,820.
+-   .  Importante (2005 g. by In Excess (IRE)). Placed at 3 and 4, $13,399.
+-   .  Yodelers Song (2004 c. by Swiss Yodeler). Unraced.
+-   .  Lady Cobra (2000 f. by Cobra King). Unraced.
+-   .  Olympio's Song (2001 c. by Olympio). Unplaced in 1 start, $400. Died 2004.
+-   Accuracy (1992 f. by Duns Scotus). 6 wins, 3 to 5, $41,646. Dam of 5 foals, 5 to race, 3 winners--
+-   .  Scatter Shot (2004 g. by Scatmandu). 11 wins, 2 to 10, $79,185.
+-   .  Executive Coach (2006 g. by Flatter). 4 wins, 2 to 5, $79,143.
+-   .  Number Two (2000 g. by Ordway). Winner at 3, $6,148.
+-   .  Scheduled Flight (1999 f. by A. P Jet). Placed at 4, $10,501. Producer.
+-   .  Accurate Trick (2003 c. by Favorite Trick). Placed in 2 starts at 2, $2,100. Died 2005.
+-   Definite Maybe (2002 f. by Moscow Ballet). Winner at 4, $25,757. Dam of 4 foals, 2 to race, 2
+-   .     winners--
+-   .  Baba Be Gone (2014 f. by Terrell). 3 wins at 4 and 5, $22,605.
+-   .  Kathia (2016 f. by World Renowned). Winner at 4, $19,760.
+-   .  Calzona (2012 g. by Spensive). Unraced.
+-   .  Bubba B Gone (2011 f. by Terrell). Unraced.
+-   Ok Bay (2003 g. by Cee's Tizzy). 4 wins at 4 and 6, $24,476.
+-   Highly Affirmed (1999 f. by High Brite). Winner at 3, $9,940. Dam of 5 foals, 5 to race, 5 winners--
+-   .  Highly Unusual (2005 g. by Unusual Heat). 12 wins, 4 to 7, $82,158.
+-   .  I'lbeamonkeysuncle (2008 g. by Uncle Denny). 16 wins, 2 to 9, $60,913. Died 2019.
+-   .  High Class Cat (2006 g. by Royal Cat). 8 wins, 3 to 7, $47,115.
+-   .  Jans Iva (2009 f. by Uncle Denny). 3 wins at 4, $22,690.
+-   .  Lee's High Bidder (2004 g. by Valid Wager). Winner at 3 and 4, $13,680.
+-   Excess Yes (2000 g. by In Excess (IRE)). Placed at 4, $2,495.
+ RACE RECORD for Tizdaria: Unraced.
+ PRODUCE RECORD for Tizdaria:
+ 2022 Unnamed, f. by Goldencents. (application pending)
++2023 Bred to Blame.
++   Noble Bid (2019 f. by Bernardini). 3 wins at 3, 2022, $124,040.
++   Unnamed (2021 c. by Cloud Computing).
++   Tizmerized (2018 f. by Tiznow). Unraced.
++   Tizdaria (2017 f. by Tiznow). See above.
++2nd dam
++<strong>R CHARLIE'S ANGEL</strong>, by Indian Charlie. 6 wins, 2 to 4, $211,288, 1st Island Fashion S. (SUN,      $30,000), 2nd Harry W. Henson H. [L] (SUN, $34,144), Santa Teresa H. (SUN, $10,750), 3rd WinStar      Sunland Park Oaks [L] (SUN, $20,000), El Paso Times H. (SUN, $5,000). Dam of 8 foals, 6 to race, 6      winners--
++   <strong>Cullum Road</strong> (2015 g. by Quality Road). 6 wins, 3 to 7, 2022, $485,283, 2nd River City H. <strong>[G3]</strong> (CD, $33,250), Exacta Systems Dueling Grounds Derby [L] (KD, $76,000), Old Friends S. [LR] (KD, $48,800), 3rd Baltimore/Washington International Turf Cup S. <strong>[G3]</strong> (LRL, $20,000), Fort Marcy S. <strong>[G3]</strong> (BEL, $18,000).
++   <strong>Bridaria</strong> (2011 f. by Harlan's Holiday). Black type-placed winner, see above.
++   Daria's Angel (2014 f. by Gemologist). 12 wins, 3 to 7, placed at 8, 2022, $553,482.
++   Fieldsman (2012 c. by Hard Spun). 12 wins, 2 to 10, 2022, 95,908 Pounds, in England. Sent from United States to Ireland in 2013. (Total: $131,328).
++   Majestic Angel (2013 f. by Majestic Warrior). 4 wins at 3 and 4, $122,369. Dam of 2 foals--
++   .  Unnamed (2021 c. by Collected).
++   .  Princess Tenko (2020 f. by Good Magic). Unraced.
 +   Angel Raphael (2017 f. by Flashback). 5 wins, 2 to 5, 2022, $116,290.
 +   Winter Hymnal (2021 f. by Good Samaritan). Unraced.
 +   Winter Hymnal (2021 f. by Good Samaritan). Unraced.

@@ -1,31 +1,17 @@
 --- PH001393_alt.txt
 +++ PH000227_alt.txt
-@@ -1,12 +1,12 @@
--Dec 19 2022  4:04PM          PH23 CONSIGNOR: 1 HORSE: 393 GROUP: 1 HIP NUMBER:                Page 1
-+Jan 29 2023  9:58PM          PH23 CONSIGNOR: 1 HORSE: 393 GROUP: 1 HIP NUMBER: 00227          Page 1
- 
- 
- ******************************************************************************************
- 393  Jet Black Magic  Dark Bay or Brown  Mare (03/09/13)
- By Hold Me Back (06)  --  Rhodelia (98)  By Silver Deputy (85)  --  Alittlebitsuperior (87)
- Louisiana     Broodmare     None
--2021 Produce:
- 2022 Produce:
-+2023 Produce:
- Connect (13)  Curlin (04)  Bullville Belle (97)
-                    pregnant
- ******************************************************************************************
-@@ -52,12 +52,20 @@
+@@ -29,13 +29,21 @@
     .  Super Constitution (2017 g. by Constitution). 2 wins at 4, placed at 5, 2022, $217,095.
     .  Speitful Sam (2018 g. by Speightster). 2 wins at 3, placed at 4, 2022, $123,943.
     .  Superior's Boy (2015 g. by Old Fashioned). 4 wins at 3 and 4, $85,482.
 -   .  I Am Superior Too (2012 f. by Afleet Alex). 5 wins, 3 to 5, $69,341.
--   .  Iron Heroine (2013 f. by Congrats). Winner at 3, 4,750,000 Yen, in Japan. Sent from United States to Japan in 2014. (Total: $43,613).
 +   .  I Am Superior Too (2012 f. by Afleet Alex). 5 wins, 3 to 5, $69,341. Dam of 3 foals--
 +   .  .  Paramount Paycheck (2021 c. by Mo for the Money). Unraced.
 +   .  .  Afleet Azula (2020 f. by Laurie's Rocket). Unraced.
 +   .  .  Forty Ounce (2019 g. by Fort Larned). Unraced.
-+   .  Iron Heroine (2013 f. by Congrats). Winner at 3, 4,750,000 Yen, in Japan. Sent from United States to Japan in 2014. (Total: $43,613). Dam of 2 foals, 1 to race--
+    .  Iron Heroine (2013 f. by Congrats). Winner at 3, 4,750,000 Yen, in Japan. Sent from United States
+-   .  .     to Japan in 2014. (Total: $43,613).
++   .  .     to Japan in 2014. (Total: $43,613). Dam of 2 foals, 1 to race--
 +   .  .  =Unnamed (2021 c. by =Kizuna (JPN)).
 +   .  .  =Elfin Doll (JPN) (2020 f. by =Daiwa Major (JPN)). Unplaced in 1 start in Japan.
     .  Super Costly (2022 f. by Dialed In).
@@ -37,17 +23,127 @@
 +   .  .  Devlish Hour (2019 g. by Half Ours). Placed at 3, 2022, $7,323.
 +   .  .  Devlish Gal (2021 f. by Mark Valeski). Unraced.
 +   .  .  Michael's Bet (2020 f. by Gentlemen's Bet). Unraced. Died 2020.
-    <strong>TAFFY</strong> (1995 f. by Saratoga Six). 11 wins, 3 to 6, $322,746, 1st Claiming Crown Tiara S.-R (CBY, $68,750), Delicada S. (LAD, $24,000), 2nd Honeymoon S. (LAD, $8,000). Dam of 5 foals, 2 to race, 2 winners--
-    .  Our Sweet Cecilia (2010 f. by Lunarpal). Winner at 4, $26,905.
-    .  Sweet Expectations (2003 g. by Valid Expectations). 3 wins at 3 and 4, $22,296.
-@@ -65,10 +73,16 @@
-    .  Taffy Delight (2005 f. by Valid Expectations). Unraced.
-    .  Homemade Taffy (2004 c. by Open Forum). Unraced.
-    Thornhill (2001 f. by Good and Tough). 4 wins, 2 to 6, $117,123. Dam of 9 foals, 8 to race, 7 winners--
--   .  <strong>STORM THE HILL</strong> (2014 f. by Get Stormy). 5 wins at 3 and 4, $438,485, 1st Wilshire S. <strong>[G3]</strong> (SA, $60,000), Senator Ken Maddy S. <strong>[G3]</strong> (SA, $60,000), Unzip Me S. (SA, $46,500), 2nd Yellow Ribbon H. <strong>[G2]</strong> (DMR, $40,000), 3rd Autumn Miss S. <strong>[G3]</strong> (SA, $12,000), Wilshire S. <strong>[G3]</strong> (SA, $12,000), Las Cienegas S. <strong>[G3]</strong> (SA, $12,000), Special Goddess S. (SA, $9,300), Tropical Park Oaks (GP, $6,900). Sent from United States to Japan in 2021.
--   .  <strong>DRAGON DREW</strong> (2015 g. by Get Stormy). 8 wins, 3 to 7, 2022, $177,397, 1st Black Gold Overnight S. (FG, $29,760).
--   .  <strong>Fleur de Lilly</strong> (2008 f. by Bowman's Band). 6 wins, 2 to 5, $122,206, 3rd Kentucky Downs Ladies Marathon S. (KD, $7,400). Producer.
--   .  She's Messi (2010 f. by Purim). 3 wins at 5 and 6, $41,379, in N.A./U.S.; placed at 6, $13,824, in Canada. (Total: $51,852).
+    <strong>TAFFY</strong> (1995 f. by Saratoga Six). 11 wins, 3 to 6, $322,746, 1st Claiming Crown Tiara S.-R
+    .     (CBY, $68,750), Delicada S. (LAD, $24,000), 2nd Honeymoon S. (LAD, $8,000). Dam of 5 foals, 2 to
+    .     race, 2 winners--
+@@ -51,13 +59,19 @@
+    .  .     (SA, $46,500), 2nd Yellow Ribbon H. <strong>[G2]</strong> (DMR, $40,000), 3rd Autumn Miss S.
+    .  .     <strong>[G3]</strong> (SA, $12,000), Wilshire S. <strong>[G3]</strong> (SA, $12,000), Las Cienegas S.
+    .  .     <strong>[G3]</strong> (SA, $12,000), Special Goddess S. (SA, $9,300), Tropical Park Oaks (GP,
+-   .  .     $6,900). Sent from United States to Japan in 2021.
+-   .  <strong>DRAGON DREW</strong> (2015 g. by Get Stormy). 8 wins, 3 to 7, 2022, $177,397, 1st Black Gold
++   .  .     $6,900). Sent from United States to Japan in 2021. Dam of 1 foal--
++   .  .  =Unnamed (2022 f. by Nyquist).
++   .  <strong>DRAGON DREW</strong> (2015 g. by Get Stormy). 9 wins, 3 to 8, 2023, $197,085, 1st Black Gold
+    .  .  Overnight S. (FG, $29,760).
+    .  <strong>Fleur de Lilly</strong> (2008 f. by Bowman's Band). 6 wins, 2 to 5, $122,206, 3rd Kentucky Downs
+-   .  .     Ladies Marathon S. (KD, $7,400). Producer.
++   .  .     Ladies Marathon S. (KD, $7,400). Dam of 2 foals, 2 to race, 1 winner--
++   .  .  Bati Bati (2017 f. by Afleet Alex). Winner at 3, $13,541. Died 2022.
++   .  .  Bj'sworstnightmare (2014 f. by Tizway). Placed at 3, $2,750.
+    .  She's Messi (2010 f. by Purim). 3 wins at 5 and 6, $41,379, in N.A./U.S.; placed at 6, $13,824, in
+-   .  .     Canada. (Total: $51,852).
++   .  .     Canada. (Total: $51,852). Dam of 3 foals--
++   .  .  Unnamed (2022 f. by Get Stormy).
++   .  .  Unnamed (2021 f. by Astern (AUS)).
++   .  .  Cloud Rider (2020 f. by Cloud Computing). Unraced.
+    .  Already Bettye (2012 f. by Greeley's Conquest). 3 wins at 4 and 5, $39,173.
+    .  Stormy Summit (2019 g. by Get Stormy). 2 wins at 3, 2022, $16,131, in Canada; placed at 2 and 3,
+    .  .  2022, $7,833, in N.A./U.S. (Total: $20,333).
+@@ -78,52 +92,82 @@
+    .  Rub On Ya (2006 f. by Rubiyat). Unplaced in 1 start, $250.
+    Ashley's Doll (2007 f. by Joy's Report). Unraced.
+    Ms. Jerry (2003 f. by Souvenir Copy). Unraced.
+-
+-3rd dam
+-GALLANT LADY J., by Lyphard. Winner at 3, $8,250. Died 1994. Half-sister to <strong>Dr. McGuire</strong>
+-      ($71,693, 2nd Youthful S., sire). Dam of 7 foals, 4 to race, 2 winners--
+-   <strong>Alittlebitsuperior</strong> (1987 f. by Total Departure). Black type-placed winner, see above.
+-   Gallant Departure (1986 f. by Total Departure). 12 wins, 3 to 7, $57,201.
+-   Gallant Geisha (1990 f. by Our Gary). Unraced. Died 1993.
+-   Apalachee Laddie (1988 c. by Apalachee). Unraced.
+-   Unnamed (1984 c. by Effervescing).
+-   Wind Roper (1992 g. by Wind Flyer). Unplaced.
+-   Shamalot (1989 g. by Sham). Unplaced. Died 1992.
+-
+-4th dam
+-KATIE JONES, by Sir Ivor. Placed at 2, $3,240. Half-sister to <strong>Smelling Salts</strong> ($90,193, 3rd
+-      Patriot S.), <strong>Dancing Lad</strong> (2nd Rank Cup H.). Dam of 7 foals, 7 to race, 6 winners--
+-   <strong>Dr. McGuire</strong> (1977 c. by Dr. Fager). 4 wins, 2 to 4, $71,693, 2nd Youthful S. Sire. Died
+-   .  1994.
+-   Gallant Lady J. (1979 f. by Lyphard). See above.
+-   Katie's Noblest (1985 g. by Noble Nashua). 11 wins, 3 to 6, $162,620.
+-   Katie Blum (1989 f. by Dr. Blum). Winner at 3, $31,820. Died 1994. Dam of 1 foal, 1 to race, 1
+-   .     winner--
+-   .  Jockey Rocket (1994 f. by Expensive Decision). 11 wins, 2 to 5, $77,585.
+-   Katie's Pop (1986 g. by Noble Nashua). Winner at 4, $21,249.
+-   Grammy Katie (1984 f. by Screen King). Winner at 3, $8,400. Died 1991. Dam of 2 foals, 1 to race--
+-   .  Em Dee Katie (1991 c. by Dr. Blum). Unraced.
+-   .  Grammy Nell (1989 f. by Noble Nashua). Unplaced, $64.
+-   Katie's Gray (1983 f. by *Grey Dawn II). Unplaced. Dam of 7 foals, 6 to race, 5 winners--
+-   .  <strong>Exclusiveandcatty</strong> (1996 f. by Exclusive Era). 7 wins, 3 to 6, $253,114, 2nd California
+-   .  .     Sires S.-R (GG, $20,000), 3rd Valkyr S.-R (HOL, $9,225). Sent from United States to Republic
+-   .  .     of Korea in 2006. Producer.
+-   .  Trio Princess (1988 f. by Triocala). 8 wins, 3 to 6, $69,880.
+-   .  Jet Gray (1991 f. by Northjet (IRE)). Winner at 4, $39,450.
+-   .  Pouring Down Rain (1993 g. by River of Kings (IRE)). 4 wins, 3 to 6, $37,665.
+-   .  Gray Nashua (1987 c. by Noble Nashua). 6 wins, 3 to 5, $24,413.
+-   .  Singing Leaves (2006 f. by Tomorrow's Comet). (application cancelled)
+-   .  Unnamed (1995 c. by Caros Love). Died 1996.
+-   .  Oberon's Tale (2002 g. by Sunrise Shower). Unplaced, $260.
+ RACE RECORD for Jet Black Magic: At 2, unraced; at 3, one win (Azalea S.-R (DED, $60,000)), twice 2nd (LA
+     Bred Premier Night Starlet S.-R (DED, $22,500), Crescent City Oaks-R (FG, $15,000)), once 3rd
+     (Silverbulletday S. [L] (FG, $15,000)); at 2, two wins (Delta Downs Princess S. <strong>[G3]</strong> (DED,
+     $240,000)), once 2nd, once 3rd (My Trusty Cat S. [L] (DED, $10,000)) in 4 starts; . Totals: 3 wins, 3
+     times 2nd, twice 3rd. Earned $399,430
+ PRODUCE RECORD for Jet Black Magic:
+-2018 Texas Magic, f. by California Chrome. 3 wins at 4, 2022, $71,468.
+-2019 Magia Nera, c. by Bernardini. Winner at 3, 2022, $48,055.
+-2020 Unnamed, c. by Mendelssohn.
+-2021 Unnamed, c. by Good Magic.
++2018 Texas Magic, f. by California Chrome. 3 wins at 4, placed at 5, 2023, $79,679.
++2019 Magia Nera, c. by Bernardini. Winner at 3, 2022, $48,875.
++2020 Midnight Rising, c. by Mendelssohn. Unraced.
++2021 Unnamed, c. by Good Magic. Sent from United States to Ireland in 2022.
+ 2022 Unnamed, f. by McKinzie. (application pending)
++2023 Bred to Connect.
++   <strong>JET BLACK MAGIC</strong> (2013 f. by Hold Me Back). Black type winner, see above.
++   <strong>JACK SNIPE'S</strong> (2014 g. by Half Ours). 5 wins, 2 to 4, $246,179, 1st Louisiana Futurity-R (FG, $62,640), A. L. "Red" Erwin S.-R (LAD, $45,000), 2nd Shakopee Juvenile S. (CBY, $15,000), 3rd Louisiana Legacy S.-R (DED, $15,000), Louisiana Champions Day Juvenile S.-R (FG, $11,000), Crescent City Derby-R (FG, $8,250).
++   Done Gone (2008 g. by Five Star Day). 6 wins at 4 and 5, $166,545.
++   Soldanelle (2005 f. by Catienus). 4 wins at 2 and 3, $33,056.
++   Sweet Victoria (2007 f. by Victory Gallop). Winner in 2 starts at 4, $6,675. Dam of 2 foals--
++   .  Broadway Tap (2016 f. by Gentle Tap). Unraced.
++   .  Cozy Me (2014 f. by Bullet Train (GB)). (application pending)
++   Rocket Robb (2010 c. by Champali). Unraced.
++   Ezekiel (2006 c. by Horse Chestnut (SAF)). Unraced.
++2nd dam
++<strong>Alittlebitsuperior</strong>, by Total Departure. 4 wins at 2 and 3, $64,015, 2nd Redbud H. (RP, $6,546).      Dam of 11 foals, 9 to race, 8 winners--
++   <strong>SUPERIOR STORM</strong> (2005 f. by Stormy Atlantic). 16 wins in 29 starts, 2 to 5, $1,066,873, 1st Premier Night Distaff S.-R (DED, $90,000) twice, Premier Night Starlet S.-R (DED, $75,000), Louisiana Champions Day Lassie S.-R (FG, $60,000), Louisiana Champions Day Ladies S.-R (FG, $60,000), Louisiana Cup Distaff S.-R (LAD, $60,000), Louisiana Champions Day Ladies S.-R (FG, $60,000), Magnolia S.-R (DED, $60,000), Louisiana Breeders' Oaks-R (LAD, $60,000), J. Archie Sebastien Memorial S.-R (EVD, $60,000), Frank A. (Buddy) Abadie Memorial S.-R (EVD, $45,000), Salute S.-R (EVD, $36,000), Fantasia S.-R (LAD, $30,500), 2nd Apple Blossom H. <strong>[G1]</strong> (OP, $100,000), Ouija Board Distaff H. <strong>[G3]</strong> (LS, $40,000), Premier Night Distaff S.-R (DED, $30,000), Louisiana Champions Day Ladies S.-R (FG, $20,000). Dam of 10 foals, 7 to race, 6 winners--
++   .  <strong>MISYNEEDSACOCKTAIL</strong> (2019 f. by Bernardini). 2 wins in 4 starts at 2, $51,380, 1st Shakopee Juvenile S. (CBY, $30,000).
++   .  Super Constitution (2017 g. by Constitution). 2 wins at 4, placed at 5, 2022, $217,095.
++   .  Speitful Sam (2018 g. by Speightster). 2 wins at 3, placed at 4, 2022, $123,943.
++   .  Superior's Boy (2015 g. by Old Fashioned). 4 wins at 3 and 4, $85,482.
++   .  I Am Superior Too (2012 f. by Afleet Alex). 5 wins, 3 to 5, $69,341. Dam of 3 foals--
++   .  .  Paramount Paycheck (2021 c. by Mo for the Money). Unraced.
++   .  .  Afleet Azula (2020 f. by Laurie's Rocket). Unraced.
++   .  .  Forty Ounce (2019 g. by Fort Larned). Unraced.
++   .  Iron Heroine (2013 f. by Congrats). Winner at 3, 4,750,000 Yen, in Japan. Sent from United States to Japan in 2014. (Total: $43,613). Dam of 2 foals, 1 to race--
++   .  .  =Unnamed (2021 c. by =Kizuna (JPN)).
++   .  .  =Elfin Doll (JPN) (2020 f. by =Daiwa Major (JPN)). Unplaced in 1 start in Japan.
++   .  Super Costly (2022 f. by Dialed In).
++   .  Lightning Liz (2021 f. by Palace Malice). Unraced.
++   .  Jackandmacsbelle (2020 f. by Broken Vow). Unraced.
++   .  Devlishly Superior (2014 f. by Tapizar). Unplaced, $785. Dam of 3 foals, 1 to race--
++   .  .  Devlish Hour (2019 g. by Half Ours). Placed at 3, 2022, $7,323.
++   .  .  Devlish Gal (2021 f. by Mark Valeski). Unraced.
++   .  .  Michael's Bet (2020 f. by Gentlemen's Bet). Unraced. Died 2020.
++   <strong>TAFFY</strong> (1995 f. by Saratoga Six). 11 wins, 3 to 6, $322,746, 1st Claiming Crown Tiara S.-R (CBY, $68,750), Delicada S. (LAD, $24,000), 2nd Honeymoon S. (LAD, $8,000). Dam of 5 foals, 2 to race, 2 winners--
++   .  Our Sweet Cecilia (2010 f. by Lunarpal). Winner at 4, $26,905.
++   .  Sweet Expectations (2003 g. by Valid Expectations). 3 wins at 3 and 4, $22,296.
++   .  Ella's Sweet Taffy (2007 f. by Valid Expectations). Unraced.
++   .  Taffy Delight (2005 f. by Valid Expectations). Unraced.
++   .  Homemade Taffy (2004 c. by Open Forum). Unraced.
++   Thornhill (2001 f. by Good and Tough). 4 wins, 2 to 6, $117,123. Dam of 9 foals, 8 to race, 7 winners--
 +   .  <strong>STORM THE HILL</strong> (2014 f. by Get Stormy). 5 wins at 3 and 4, $438,485, 1st Wilshire S. <strong>[G3]</strong> (SA, $60,000), Senator Ken Maddy S. <strong>[G3]</strong> (SA, $60,000), Unzip Me S. (SA, $46,500), 2nd Yellow Ribbon H. <strong>[G2]</strong> (DMR, $40,000), 3rd Autumn Miss S. <strong>[G3]</strong> (SA, $12,000), Wilshire S. <strong>[G3]</strong> (SA, $12,000), Las Cienegas S. <strong>[G3]</strong> (SA, $12,000), Special Goddess S. (SA, $9,300), Tropical Park Oaks (GP, $6,900). Sent from United States to Japan in 2021. Dam of 1 foal--
 +   .  .  =Unnamed (2022 f. by Nyquist).
 +   .  <strong>DRAGON DREW</strong> (2015 g. by Get Stormy). 9 wins, 3 to 8, 2023, $197,085, 1st Black Gold Overnight S. (FG, $29,760).
@@ -58,6 +154,23 @@
 +   .  .  Unnamed (2022 f. by Get Stormy).
 +   .  .  Unnamed (2021 f. by Astern (AUS)).
 +   .  .  Cloud Rider (2020 f. by Cloud Computing). Unraced.
-    .  Already Bettye (2012 f. by Greeley's Conquest). 3 wins at 4 and 5, $39,173.
-    .  Stormy Summit (2019 g. by Get Stormy). 2 wins at 3, 2022, $16,131, in Canada; placed at 2 and 3, 2022, $7,833, in N.A./U.S. (Total: $20,333).
-    .  Western Hills (2016 g. by Get Stormy). Winner at 3, $6,272.
++   .  Already Bettye (2012 f. by Greeley's Conquest). 3 wins at 4 and 5, $39,173.
++   .  Stormy Summit (2019 g. by Get Stormy). 2 wins at 3, 2022, $16,131, in Canada; placed at 2 and 3, 2022, $7,833, in N.A./U.S. (Total: $20,333).
++   .  Western Hills (2016 g. by Get Stormy). Winner at 3, $6,272.
++   .  Unnamed (2021 f. by Divisidero).
++   .  Stormy Thunder (2018 g. by Get Stormy). Unplaced, $5,502.
++   Rhodelia (1998 f. by Silver Deputy). See above.
++   Kinda Proper (1997 f. by Proper Reality). 5 wins, 3 to 6, $67,582.
++   Jacks Catastrophe (2006 g. by Catastrophe). 4 wins at 3 and 7, $45,722.
++   Doppler Effect (1994 g. by Kentucky Jazz). Winner at 3 and 4, $24,240.
++   Lettheparadebegin (2010 f. by Ide). Winner at 5, $8,739. Dam of 1 foal, 1 to race--
++   .  More Than Miles (2017 g. by Gemologist). Placed at 3, $5,650.
++   Onya (1999 f. by Williamstown). Placed at 3 and 4, $6,840. Dam of 5 foals, 4 to race, 2 winners--
++   .  Harvest of Hope (2007 f. by Lord Ofthe Thunder). 3 wins at 4 and 7, $96,990.
++   .  Offlee Charmer (2014 f. by Offlee Wild). Winner at 3, $17,547. Died 2018.
++   .  Cimarron (2005 g. by Artax). Placed at 3, $5,048.
++   .  Show Business (2008 c. by Pies Prospect). Unraced.
++   .  Rub On Ya (2006 f. by Rubiyat). Unplaced in 1 start, $250.
++   Ashley's Doll (2007 f. by Joy's Report). Unraced.
++   Ashley's Doll (2007 f. by Joy's Report). Unraced.
+ 

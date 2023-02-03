@@ -1,40 +1,85 @@
 --- PH001271_alt.txt
 +++ PH000100_alt.txt
-@@ -1,4 +1,4 @@
--Dec  7 2022  5:33PM          PH23 CONSIGNOR: 1 HORSE: 271 GROUP: 1 HIP NUMBER:                Page 1
-+Jan 29 2023  9:56PM          PH23 CONSIGNOR: 1 HORSE: 271 GROUP: 1 HIP NUMBER: 00100          Page 1
- 
- 
- ******************************************************************************************
-@@ -35,24 +35,35 @@
-       of Edmonton Distaff H. [L] (NP, $45,000), etc.), <strong>CHEROKEE ECHO</strong> ($68,830, 1st Barbara
-       Shinpoch S. [L] (EMD, $37,125), etc.), <strong>Smarty's Echo</strong> ($127,363, 2nd Dixiana Breeders'
-       Futurity <strong>[G1]</strong> (KEE, $80,000)). Dam of 7 foals, 4 to race, 2 winners--
+@@ -1,9 +1,9 @@
 -   F Five (2019 c. by Not This Time). Winner in 1 start at 3, 2022, $69,000.
 +   F Five (2019 c. by Not This Time). Winner in 2 starts at 3, 2022, $69,610.
-    Stsipion (2016 c. by Revolutionary). Winner at 2 in Russia. Sent from United States to Russia in 2017.
+    Stsipion (2016 c. by Revolutionary). Winner at 2 in Russia. Sent from United States to Russia in
+    .  2017.
     Corvina (2020 f. by Tapwrit). See above.
     Unnamed (2022 f. by Outwork).
 -   Unnamed (2021 f. by Midnight Lute).
 +   Miss Tonasket (2021 f. by Midnight Lute). Unraced.
     Unnamed (2017 f. by Congrats).
-    Dayton Tesoro (2018 f. by Violence). Unplaced, 1,610,000 Yen, in Japan. Sent from United States to Japan in 2019. (Total: $15,243).
-    <strong>NOTORIOUSLY</strong> (2007 f. by Cherokee Run). Winner at 2 and 3, $22,210, in N.A./U.S.; 6 wins at 3 and 4, $222,100, in Canada, 1st City of Edmonton Distaff H. [L] (NP, $45,000), Chariot Chaser H. (NP, $30,000), Northlands Oaks (NP, $30,000), Sonoma H. (NP, $30,000), Madamoiselle H. (NP, $30,000), 2nd Brighouse Belles S. (HST, $10,000), Matron S. (ASD, $10,200), 3rd Brighouse Belles S. (HST, $5,500). (Total: $241,915). Dam of 3 foals, 2 to race, 1 winner--
+    Dayton Tesoro (2018 f. by Violence). Unplaced, 1,610,000 Yen, in Japan. Sent from United States to
+    .  Japan in 2019. (Total: $15,243).
+@@ -19,22 +19,36 @@
+    .     S. (HST, $5,500). (Total: $241,915). Dam of 3 foals, 2 to race, 1 winner--
     .  Norabelle (2014 f. by Forestry). 2 wins at 3, $28,103, in Canada. (Total: $22,351). Died 2017.
     .  Notorious North (2017 f. by Exhi). (application pending)
 -   .  With It's Feet (2015 f. by Cape Canaveral). Unplaced in 1 start, $120, in Canada. (Total: $92).
++   .  With It's Feet (2015 f. by Cape Canaveral). Unplaced in 1 start, $120, in Canada. (Total: $92). Dam
++   .  .     of 1 foal--
++   .  .  Little Foot (2021 f. by Mank). (application pending)
+    <strong>CHEROKEE ECHO</strong> (2006 f. by Cherokee Run). 2 wins at 2, $68,830, 1st Barbara Shinpoch S. [L]
+    .     (EMD, $37,125), 2nd Corte Madera S. [L] (GG, $15,000). Sent from United States to Australia in
+    .     2011. Dam of 8 foals, 6 to race, 4 winners--
+-   .  =Sea Echo (AUS) (2015 g. by =Sepoy (AUS)). 4 wins, 4 to 6, $103,640(AUS), in Australia. (Total:
+-   .  .  $74,315).
++   .  =Sea Echo (AUS) (2015 g. by =Sepoy (AUS)). 4 wins, 4 to 6, placed at 7, 2022, $109,040(AUS), in
++   .  .  Australia. (Total: $78,040).
+    .  =Chorus (AUS) (2014 f. by =Snitzel (AUS)). 4 wins at 4 and 5, $76,025(AUS), in Australia. (Total:
+-   .  .     $53,850).
++   .  .     $53,850). Dam of 1 foal--
++   .  .  =Unnamed (2021 f. by Highland Reel (IRE)).
+    .  =Chief Artie (AUS) (2018 g. by =Flying Artie (AUS)). Winner at 3, placed at 4, 2022, $54,725(AUS),
+    .  .  in Australia. (Total: $39,198).
+    .  =Deep Echo (AUS) (2016 f. by =Deep Field (AUS)). Winner at 3, $20,375(AUS), in Australia. (Total:
+-   .  .     $14,039).
++   .  .     $14,039). Dam of 2 foals--
++   .  .  =Unnamed (2022 f. by =Brutal (NZ)).
++   .  .  =Unnamed (2021 c. by =Bull Point (AUS)).
+    .  =Not A Cherry (AUS) (2012 f. by =Not A Single Doubt (AUS)). Placed at 3, $26,145(AUS), in
+-   .  .     Australia. (Total: $19,792).
++   .  .     Australia. (Total: $19,792). Dam of 4 foals, 1 to race--
++   .  .  =Cherokee Cherry (NZ) (2018 f. by =Preferment (NZ)). Placed at 3 and 4, 2022, $26,185(AUS), in
++   .  .  .  Australia. (Total: $17,779).
++   .  .  =Unnamed (2021 c. by =Grunt (NZ)).
++   .  .  =Rhythm Of Love (AUS) (2020 g. by =Grunt (NZ)). Unraced in Australia.
++   .  .  =Unnamed (2019 f. by =Preferment (NZ)).
+    .  =Native American (AUS) (2013 f. by =Snitzel (AUS)). Placed at 3 and 4, $15,820(AUS), in Australia.
+-   .  .     (Total: $12,021).
++   .  .     (Total: $12,021). Dam of 3 foals, 1 to race, 1 winner--
++   .  .  =Diddley Squat (AUS) (2019 g. by =Mikki Isle (JPN)). Winner in 1 start at 3, 2022, $20,625(AUS),
++   .  .  .  in Australia. (Total: $14,180).
++   .  .  =Unnamed (2022 f. by =Graff (AUS)).
++   .  .  =Unnamed (2020 f. by =Real Steel (JPN)).
+    .  =Unnamed (2021 c. by Frosted). Died 2021.
+    .  =Unnamed (2019 c. by =Flying Artie (AUS)).
+    <strong>Smarty's Echo</strong> (2011 g. by Smarty Jones). Winner at 2 and 4, $127,363, 2nd Dixiana Breeders'
+@@ -50,51 +64,47 @@
+    .  Cat Mon Blue (2010 g. by Bluegrass Cat). 3 wins, 2 to 5, $23,320, in N.A./U.S.; winner at 4,
+    .  .  $2,777, in Canada. (Total: $25,728).
+    =Midas Chief (KOR) (2014 c. by Chapel Royal). Placed at 4 in Republic of Korea.
++RACE RECORD for Corvina: At 2, 2022, once 3rd in 2 starts. Earned $6,230
++   F Five (2019 c. by Not This Time). Winner in 2 starts at 3, 2022, $69,610.
++   Stsipion (2016 c. by Revolutionary). Winner at 2 in Russia. Sent from United States to Russia in 2017.
++   Corvina (2020 f. by Tapwrit). See above.
++   Unnamed (2022 f. by Outwork).
++   Miss Tonasket (2021 f. by Midnight Lute). Unraced.
++   Unnamed (2017 f. by Congrats).
++   Dayton Tesoro (2018 f. by Violence). Unplaced, 1,610,000 Yen, in Japan. Sent from United States to Japan in 2019. (Total: $15,243).
++2nd dam
++<strong>Silver Echo</strong>, by Eastern Echo. Winner at 2 and 3, $45,528, 2nd Angie C. S. (EMD, $8,820), Kent H.      (EMD, $8,700), 3rd Irish Day H. (EMD, $6,000). Sent from United States to Republic of Korea in      2011. Dam of 10 foals, 8 to race, 7 winners--
++   <strong>NOTORIOUSLY</strong> (2007 f. by Cherokee Run). Winner at 2 and 3, $22,210, in N.A./U.S.; 6 wins at 3 and 4, $222,100, in Canada, 1st City of Edmonton Distaff H. [L] (NP, $45,000), Chariot Chaser H. (NP, $30,000), Northlands Oaks (NP, $30,000), Sonoma H. (NP, $30,000), Madamoiselle H. (NP, $30,000), 2nd Brighouse Belles S. (HST, $10,000), Matron S. (ASD, $10,200), 3rd Brighouse Belles S. (HST, $5,500). (Total: $241,915). Dam of 3 foals, 2 to race, 1 winner--
++   .  Norabelle (2014 f. by Forestry). 2 wins at 3, $28,103, in Canada. (Total: $22,351). Died 2017.
++   .  Notorious North (2017 f. by Exhi). (application pending)
 +   .  With It's Feet (2015 f. by Cape Canaveral). Unplaced in 1 start, $120, in Canada. (Total: $92). Dam of 1 foal--
 +   .  .  Little Foot (2021 f. by Mank). (application pending)
-    <strong>CHEROKEE ECHO</strong> (2006 f. by Cherokee Run). 2 wins at 2, $68,830, 1st Barbara Shinpoch S. [L] (EMD, $37,125), 2nd Corte Madera S. [L] (GG, $15,000). Sent from United States to Australia in 2011. Dam of 8 foals, 6 to race, 4 winners--
--   .  =Sea Echo (AUS) (2015 g. by =Sepoy (AUS)). 4 wins, 4 to 6, $103,640(AUS), in Australia. (Total: $74,315).
--   .  =Chorus (AUS) (2014 f. by =Snitzel (AUS)). 4 wins at 4 and 5, $76,025(AUS), in Australia. (Total: $53,850).
++   <strong>CHEROKEE ECHO</strong> (2006 f. by Cherokee Run). 2 wins at 2, $68,830, 1st Barbara Shinpoch S. [L] (EMD, $37,125), 2nd Corte Madera S. [L] (GG, $15,000). Sent from United States to Australia in 2011. Dam of 8 foals, 6 to race, 4 winners--
 +   .  =Sea Echo (AUS) (2015 g. by =Sepoy (AUS)). 4 wins, 4 to 6, placed at 7, 2022, $109,040(AUS), in Australia. (Total: $78,040).
 +   .  =Chorus (AUS) (2014 f. by =Snitzel (AUS)). 4 wins at 4 and 5, $76,025(AUS), in Australia. (Total: $53,850). Dam of 1 foal--
 +   .  .  =Unnamed (2021 f. by Highland Reel (IRE)).
-    .  =Chief Artie (AUS) (2018 g. by =Flying Artie (AUS)). Winner at 3, placed at 4, 2022, $54,725(AUS), in Australia. (Total: $39,198).
--   .  =Deep Echo (AUS) (2016 f. by =Deep Field (AUS)). Winner at 3, $20,375(AUS), in Australia. (Total: $14,039).
--   .  =Not A Cherry (AUS) (2012 f. by =Not A Single Doubt (AUS)). Placed at 3, $26,145(AUS), in Australia. (Total: $19,792).
--   .  =Native American (AUS) (2013 f. by =Snitzel (AUS)). Placed at 3 and 4, $15,820(AUS), in Australia. (Total: $12,021).
++   .  =Chief Artie (AUS) (2018 g. by =Flying Artie (AUS)). Winner at 3, placed at 4, 2022, $54,725(AUS), in Australia. (Total: $39,198).
 +   .  =Deep Echo (AUS) (2016 f. by =Deep Field (AUS)). Winner at 3, $20,375(AUS), in Australia. (Total: $14,039). Dam of 2 foals--
 +   .  .  =Unnamed (2022 f. by =Brutal (NZ)).
 +   .  .  =Unnamed (2021 c. by =Bull Point (AUS)).
@@ -47,6 +92,62 @@
 +   .  .  =Diddley Squat (AUS) (2019 g. by =Mikki Isle (JPN)). Winner in 1 start at 3, 2022, $20,625(AUS), in Australia. (Total: $14,180).
 +   .  .  =Unnamed (2022 f. by =Graff (AUS)).
 +   .  .  =Unnamed (2020 f. by =Real Steel (JPN)).
-    .  =Unnamed (2021 c. by Frosted). Died 2021.
-    .  =Unnamed (2019 c. by =Flying Artie (AUS)).
-    <strong>Smarty's Echo</strong> (2011 g. by Smarty Jones). Winner at 2 and 4, $127,363, 2nd Dixiana Breeders' Futurity <strong>[G1]</strong> (KEE, $80,000).
++   .  =Unnamed (2021 c. by Frosted). Died 2021.
++   .  =Unnamed (2019 c. by =Flying Artie (AUS)).
++   <strong>Smarty's Echo</strong> (2011 g. by Smarty Jones). Winner at 2 and 4, $127,363, 2nd Dixiana Breeders' Futurity <strong>[G1]</strong> (KEE, $80,000).
++   Rocky's Quest (2008 g. by Rockport Harbor). Winner in 2 starts at 3, $10,176, in Canada; 9 wins, 4 to 6, $135,776, in N.A./U.S. (Total: $146,403).
++   Puerto Montt (2004 g. by Orientate). 5 wins, 4 to 6, $41,812, in Canada; placed at 2 and 3, $14,480, in N.A./U.S. (Total: $54,269).
++   Chelan Echo (2009 f. by Lion Heart). See above.
++   =Midas Road (KOR) (2012 g. by Quality Road). 6 wins at 4 in Republic of Korea.
++   =Midas Park (KOR) (2016 f. by Eurosilver). Unraced in Republic of Korea.
++   Sonia Alfaro (2005 f. by Maria's Mon). Unraced. Dam of 1 foal, 1 to race, 1 winner--
++   .  Cat Mon Blue (2010 g. by Bluegrass Cat). 3 wins, 2 to 5, $23,320, in N.A./U.S.; winner at 4, $2,777, in Canada. (Total: $25,728).
++   .  Cat Mon Blue (2010 g. by Bluegrass Cat). 3 wins, 2 to 5, $23,320, in N.A./U.S.; winner at 4, $2,777, in Canada. (Total: $25,728).
+ 
+-3rd dam
+-<strong>SILVER AND JADE</strong>, by Jade Hunter. 3 wins at 2 and 3, $90,398, 1st Mercer Girls S. (LGA, $36,153),
+-      San Jose Breeders' Cup H. (BM, $29,200), 2nd Miss California S.-R (GG, $8,000), 3rd Pleasanton
+-      Senorita H. (PLN, $4,500), Brazen S.-R (GG, $4,500). Half-sister to <strong>Silver Tower</strong>
+-      ($115,515, 3rd Budweiser-Hawthorne Gold Cup H. <strong>[G2]</strong>, etc.). Dam of 9 foals, 8 to race, 8
+-      winners--
+-   <strong>Silver Echo</strong> (1998 f. by Eastern Echo). Black type-placed winner, see above.
+-   Bluegrass Chapp (2009 g. by Bluegrass Cat). 5 wins, 2 to 5, $69,706.
+-   Feels Like Rain (2007 f. by Vindication). 8 wins, 2 to 4, $52,974, in N.A./U.S.; unplaced in 1 start
+-   .     in Canada. (Total: $52,974). Dam of 2 foals, 2 to race, 1 winner--
+-   .  Vinny From Dixie (2017 g. by Sixthirteen). 2 wins at 3, $18,379.
+-   .  Harbor Bar (2014 g. by Harbor the Gold). Unplaced, $1,212.
+-   Jadetown (1997 g. by Williamstown). 5 wins, 4 to 6, $37,198.
+-   Eastern Jade (1996 g. by Eastern Echo). 3 wins at 2 and 4, $29,615.
+-   Key to the Vault (2004 c. by Monarchos). Winner at 2, $22,374.
+-   Debbie's Ferrari (2008 f. by Henny Hughes). 3 wins, 2 to 4, $20,794. Dam of 1 foal--
+-   .  Newdale (2014 f. by The Pamplemousse). Unraced.
+-   Hot Silver (2005 f. by Aptitude). Winner at 3, $20,205. Sent from United States to Republic of Korea
+-   .     in 2009. Dam of 5 foals, 5 to race, 3 winners--
+-   .  =Solrasido (KOR) (2012 c. by Hawk Wing). Winner at 3 in Republic of Korea.
+-   .  =Harvest Time (KOR) (2011 c. by One Cool Cat). 3 wins at 3 in Republic of Korea.
+-   .  =Jangsan Gonmae (KOR) (2010 c. by Langfuhr). 3 wins at 3 in Republic of Korea.
+-   .  =Mj Hot (KOR) (2013 f. by Forest Camp). Placed at 2 and 3 in Republic of Korea.
+-   .  =Master Win (KOR) (2015 c. by Peace Rules). Unplaced in 1 start in Republic of Korea.
+-   Stolen Code (1999 f. by Lost Code). Unraced. Dam of 1 foal, 1 to race, 1 winner--
+-   .  Tripod (2004 g. by Ihtimam). Winner at 3, $4,260, in Canada; winner at 4, $10,484, in N.A./U.S.
+-   .  .  (Total: $14,333).
+-   .  Unnamed (2005 f. by Vitesse). (application cancelled)
+-
+-4th dam
+-BRETT'S QUACK, by Quack. Unraced. Half-sister to <strong>STAR OF MANILA</strong> ($315,742, 1st W. L. McKnight H.
+-      <strong>[G2]</strong>, etc., sire), <strong>MIO ROBERTINO</strong> (Total: $157,110, 1st Tidal H. <strong>[G2]</strong>,
+-      etc., sire), <strong>Hot Silver</strong> (2nd Prix des Lilas [L], etc.). Dam of 9 foals, 8 to race, 6
+-      winners--
+-   <strong>SILVER AND JADE</strong> (1990 f. by Jade Hunter). Black type winner, see above.
+-   <strong>Silver Tower</strong> (1987 c. by Irish Tower). 3 wins at 3, $115,515, 3rd Budweiser-Hawthorne Gold
+-   .  Cup H. <strong>[G2]</strong>, Beulah Park Budweiser Breeders' Cup H. (BEU, $7,855).
+-   Rahy's Quackerjack (1995 c. by Rahy). 5 wins, 3 to 5, $164,704. Sire.
+-   Thunder n Hail (1993 g. by Risen Star). 6 wins at 4 and 6, $35,046.
+-   Mallard (1998 g. by Rahy). Winner at 4, $17,149.
+-   Silver Kalem (1991 g. by Siyah Kalem). Winner at 5, $9,396.
+-   Brett's Gulch (1997 c. by Gulch). Placed at 4, $2,787.
+-   Jade and Silver (1992 f. by Jade Hunter). Unraced. Died 1993.
+-   Flin Flon (1994 f. by Mining). Unplaced. Dam of 1 foal, 1 to race, 1 winner--
+-   .  Mining Cash (1999 c. by Truman C.). 3 wins at 2 and 3, $36,828.
+-RACE RECORD for Corvina: At 2, 2022, once 3rd in 2 starts. Earned $6,230
+-

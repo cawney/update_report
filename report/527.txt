@@ -1,26 +1,196 @@
 --- PH001559_alt.txt
 +++ PH000527_alt.txt
-@@ -1,4 +1,4 @@
--Jan 16 2023 12:21PM          PH23 CONSIGNOR: 1 HORSE: 559 GROUP: 1 HIP NUMBER:                Page 1
-+Jan 29 2023 10:04PM          PH23 CONSIGNOR: 1 HORSE: 559 GROUP: 1 HIP NUMBER: 00527          Page 1
- 
- 
- ******************************************************************************************
-@@ -45,7 +45,7 @@
-    Hammer and Jammer (2020 f. by Uncle Mo). Unraced.
-    <strong>POWER BROKER</strong> (2010 c. by Pulpit). 4 wins at 2 and 3, $865,612, 1st FrontRunner S. <strong>[G1]</strong> (SA, $150,000), Indiana Derby <strong>[G2]</strong> (IND, $286,812), Easy Goer S. (BEL, $90,000), 2nd William Hill Haskell Invitational S. <strong>[G1]</strong> (MTH, $200,000), Oak Tree Juvenile Turf S. [L] (DMR, $20,000). Sent from United States to Saudi Arabia in 2017. Sire.
-    <strong>FIERCE BOOTS</strong> (2011 f. by Tiznow). Winner at 2 and 3, $103,147, 1st Busanda S. (AQU, $60,000). Dam of 4 foals, 1 to race, 1 winner--
--   .  <strong>Portos</strong> (2017 c. by Tapit). Winner at 2 and 4, placed at 5, 2022, $252,174, 2nd Flat Out S. [L] (BEL, $20,000), 3rd Withers S. <strong>[G3]</strong> (AQU, $30,000), Isaac Murphy Marathon Overnight S. (CD, $12,820).
-+   .  <strong>Portos</strong> (2017 c. by Tapit). Winner at 2 and 4, placed at 5, 2022, $254,174, 2nd Flat Out S. [L] (BEL, $20,000), 3rd Withers S. <strong>[G3]</strong> (AQU, $30,000), Isaac Murphy Marathon Overnight S. (CD, $12,820).
+@@ -18,7 +18,7 @@
+    .  Turf S. [L] (DMR, $20,000). Sent from United States to Saudi Arabia in 2017. Sire.
+    <strong>FIERCE BOOTS</strong> (2011 f. by Tiznow). Winner at 2 and 3, $103,147, 1st Busanda S. (AQU, $60,000).
+    .     Dam of 4 foals, 1 to race, 1 winner--
+-   .  <strong>Portos</strong> (2017 c. by Tapit). Winner at 2 and 4, placed at 5, 2022, $252,174, 2nd Flat Out S.
++   .  <strong>Portos</strong> (2017 c. by Tapit). Winner at 2 and 4, placed at 5, 2022, $254,174, 2nd Flat Out S.
+    .  .  [L] (BEL, $20,000), 3rd Withers S. <strong>[G3]</strong> (AQU, $30,000), Isaac Murphy Marathon Overnight
+    .  .  S. (CD, $12,820).
     .  Talonnade (2021 f. by Tapit). Unraced.
-    .  Talentueux (2019 c. by Bodemeister). Unraced.
-    .  Bootstown (2018 f. by Speightstown). Unraced.
-@@ -57,7 +57,7 @@
-    Mana Pools (2009 f. by Gone West). See above.
-    Jasper Great (2019 c. by Arrogate). Winner at 2 and 3, placed at 4, 2023, 31,682,000 Yen, in Japan; unplaced in 1 start, $20,000, in N.A./U.S. Sent from United States to Japan in 2020. Returned to United States from Japan in 2021. Sent from United States to Japan in 2021. (Total: $269,141).
+@@ -36,7 +36,7 @@
+    .  unplaced in 1 start, $20,000, in N.A./U.S. Sent from United States to Japan in 2020. Returned to
+    .  United States from Japan in 2021. Sent from United States to Japan in 2021. (Total: $269,141).
     Fast Retailing (2012 f. by Malibu Moon). Winner at 3, $72,325. Dam of 4 foals, 2 to race--
 -   .  Biggie (2018 g. by Uncle Mo). Placed at 3 and 4, 2022, $28,043.
 +   .  Biggie (2018 g. by Uncle Mo). Placed, 3 to 5, 2023, $30,418.
     .  Cinq Souers (2019 f. by Curlin). Placed at 3, 2022, $11,317.
     .  Speed Shopper (2021 f. by Quality Road). Unraced.
     .  Branch Office (2020 c. by Justify). Unraced.
+@@ -56,134 +56,49 @@
+    .  Martin Fierro (2018 g. by Cairo Prince). Unplaced, $670.
+    Habitue (2016 g. by Pioneerof the Nile). Unplaced in 2 starts, $6,120.
+    Strategic Dialogue (2018 g. by Pioneerof the Nile). Unplaced in 1 start, $354.
+-
+-3rd dam
+-SHOPPING, by Private Account. 3 wins at 3, $61,375. Half-sister to <strong>LAY DOWN</strong> ($593,423, 1st
+-      Excelsior H. <strong>[G2]</strong>, etc.), <strong>KARLY'S HARLEY</strong> ($248,943, 1st Herat S. [L] (LRL,
+-      $32,415), etc.), <strong>Boyish Charm</strong> ($147,957, 2nd Governor's H. [L] (ELP, $12,700), etc.,
+-      sire). Dam of 14 foals, 11 to race, 9 winners--
+-   <strong>MISS SHOP</strong> (2003 f. by Deputy Minister). 9 wins, 2 to 4, $1,126,038, 1st Personal Ensign S.
+-   .     <strong>[G1]</strong> (SAR, $240,000), Rampart H. <strong>[G2]</strong> (GP, $120,000), Turnback the Alarm H.
+-   .     <strong>[G3]</strong> (AQU, $64,680), Sunshine Millions Filly and Mare Turf S.-R (GP, $275,000), Castle
+-   .     Royale S. (BEL, $40,620), Beru S. (BEL, $39,870), 2nd Ruffian H. <strong>[G1]</strong> (BEL, $60,000),
+-   .     Go for Wand H. <strong>[G1]</strong> (SAR, $50,000), Little Silver S. (MTH, $12,000), 3rd Coaching Club
+-   .     American Oaks <strong>[G1]</strong> (BEL, $30,000), Ruffian H. <strong>[G1]</strong> (BEL, $30,000), Top Flight
+-   .     H. <strong>[G2]</strong> (AQU, $15,000), Herecomesthebride S. <strong>[G3]</strong> (GP, $11,000). Dam of 8
+-   .     foals, 6 to race, 3 winners--
+-   .  <strong>TIN TYPE GAL</strong> (2013 f. by Tapit). 3 wins at 2 and 3, $292,609, 1st Miss Grillo S.
+-   .  .     <strong>[G3]</strong> (BEL, $120,000), Boiling Springs S. <strong>[G3]</strong> (MTH, $60,000), 3rd Sands
+-   .  .     Point S. <strong>[G2]</strong> (BEL, $50,000).
+-   .  Stop Shoppin Tammy (2017 f. by Tapit). Winner at 3, $73,166.
+-   .  Round Midnight (2009 g. by A.P. Indy). Winner at 5, $36,099.
+-   .  Shopping Spree (2011 g. by Street Cry (IRE)). Placed at 3, $14,330.
+-   .  Shop Lifting (2021 f. by Into Mischief). Unraced.
+-   .  Impulse Buy (2016 f. by Super Saver). Unraced. Died 2018.
+-   .  Mrs. Postman (2019 f. by Pioneerof the Nile). Unplaced, $4,737.
+-   .  Jazz Fest (2010 c. by Smart Strike). Unplaced in 1 start, $125.
+-   <strong>TRAPPE SHOT</strong> (2007 c. by Tapit). 6 wins in 12 starts at 3 and 4, $703,884, 1st True North H.
+-   .  <strong>[G2]</strong> (BEL, $150,000), Long Branch S. [L] (MTH, $105,000), Waldoboro S. (BEL, $36,000), 2nd
+-   .  Izod Haskell Invitational S. <strong>[G1]</strong> (MTH, $200,000), Alfred G. Vanderbilt H. <strong>[G1]</strong>
+-   .  (SAR, $50,000). Sent from United States to Turkey in 2019. Sire.
+-   <strong>BOUGHT IN DIXIE</strong> (1996 c. by Dixieland Band). 7 wins, 3 to 6, $319,183, 1st Chief Pennekeck S.
+-   .  [L] (MED, $30,000), 2nd Mr. Nickerson H. (PHA, $8,580), 3rd Fall Highweight H. <strong>[G2]</strong>,
+-   .  Jaipur H. [L] (BEL, $12,222).
+-   <strong>SHOP AGAIN</strong> (2002 f. by Wild Again). Black type winner, see above.
+-   <strong>Bulling</strong> (1997 g. by Holy Bull). 4 wins, 2 to 6, $203,302, 3rd Sanford S. <strong>[G2]</strong>.
+-   Shop Here (1998 f. by Dehere). 2 wins at 2, $69,757. Dam of 11 foals, 7 to race, 5 winners--
+-   .  <strong>FIFTH AVENUE</strong> (2003 f. by Monarchos). 2 wins at 2, $110,314, 1st Fashion S. [L] (BEL,
+-   .  .     $48,600), 2nd Adirondack S. <strong>[G2]</strong> (SAR, $30,000). Producer.
+-   .  <strong>Shoptate</strong> (2004 c. by Orientate). 3 wins at 4 and 5, $138,270, 3rd Paumonok S. (AQU,
+-   .  .  $6,500).
+-   .  Shoppers Return (2006 f. by Put It Back). 3 wins at 4, $56,320. Dam of 8 foals, 5 to race, 2
+-   .  .     winners--
+-   .  .  <strong>IMPRIMIS</strong> (2014 g. by Broken Vow). 9 wins, 4 to 7, $873,120, in N.A./U.S., 1st
+-   .  .  .  Shakertown S. <strong>[G2]</strong> (KEE, $120,000), Runhappy Turf Sprint S. <strong>[G3]</strong> (KD,
+-   .  .  .  $291,400), Jim McKay Turf Sprint S. [L] (PIM, $60,000), Silks Run S. [L] (GP, $46,035), Janus
+-   .  .  .  S. [L] (GP, $46,035), Wolf Hill S. (MTH, $45,000), 2nd Shakertown S. <strong>[G2]</strong> (KEE,
+-   .  .  .  $40,000), Turf Dash S. [L] (TAM, $20,000), 3rd Woodford S. <strong>[G2]</strong> (KEE, $20,000), Troy
+-   .  .  .  S. <strong>[G3]</strong> (SAR, $24,000); unplaced in 1 start, $2,500, in Canada; unplaced in 1 start,
+-   .  .  .  6,750 Pounds, in England. Sent from United States to Great Britain in 2019. Returned to
+-   .  .  .  United States from Great Britain in 2019. (Total: $883,483).
+-   .  .  <strong>Warranty</strong> (2013 f. by Artie Schiller). 5 wins, 3 to 5, $201,505, 3rd Millions Filly and
+-   .  .  .     Mare Turf Preview S.-R (GPW, $7,275).
+-   .  Shopit (2005 f. by Yes It's True). Winner at 3, $90,907. Dam of 10 foals, 6 to race, 5 winners--
+-   .  .  <strong>SHOPLIFTED</strong> (2017 c. by Into Mischief). 2 wins at 2, $583,635, 1st Remington Springboard
+-   .  .  .  Mile S. [L] (RP, $240,000), 2nd Runhappy Hopeful S. <strong>[G1]</strong> (SAR, $70,000), 3rd
+-   .  .  .  Runhappy H. Allen Jerkens S. <strong>[G1]</strong> (SAR, $36,000), Woody Stephens S. <strong>[G1]</strong>
+-   .  .  .  (BEL, $30,000), Smarty Jones S. [L] (OP, $15,000).
+-   .  Tippany (2012 f. by Tapit). 2 wins at 3, $60,692, in N.A./U.S.; unplaced in 1 start, $1,250, in
+-   .  .     Canada. (Total: $61,637).
+-   .  Hummingbird Hill (2010 f. by Tapit). Placed at 3, $18,265. Producer.
+-   .  Our Gal El (2011 f. by Tapit). Unraced. Dam of 5 foals, 3 to race, 3 winners--
+-   .  .  <strong>ELOQUIST</strong> (2019 g. by Nyquist). 5 wins at 2 and 3, 2022, $243,010, 1st Discovery S. [L]
+-   .  .  .  (AQU, $82,500).
+-   .  Unnamed (2016 c. by To Honor and Serve).
+-   .  Unnamed (2014 f. by To Honor and Serve). Died 2015.
+-   .  Shop for Gold (2008 f. by Speightstown). Unraced. Producer.
+-   .  Holiday Shopping (2009 f. by Harlan's Holiday). Unplaced, $3,240. Dam of 6 foals, 4 to race, 4
+-   .  .     winners--
+-   .  .  <strong>Anmer Hall</strong> (2019 g. by Palace Malice). Winner at 2, placed at 3, 2022, $80,000, 2nd
+-   .  .  .  Oceanside S. [LR] (DMR, $20,000).
+-   Looking Around (1999 g. by Crafty Prospector). 5 wins, 3 to 7, $115,945.
+-   Band Dixie (2001 c. by Dixieland Band). Winner at 4 and 5, $34,335.
+-   Let Go Ego (2011 g. by Wildcat Heir). Winner at 5 in Bahrain. Sent from United States to Ireland in
+-   .  2012.
+-   Wildaboutshopping (2012 f. by Wildcat Heir). Unraced. Dam of 7 foals, 3 to race, 2 winners--
+-   .  <strong>Affable</strong> (2018 c. by Flatter). Winner at 3 and 4, 2022, $149,000, 3rd John Shear Mile S.
+-   .  .  [L] (SA, $9,720).
+-   .  Lord Jaxston (2019 g. by Lord Nelson). 2 wins at 3, 2022, $36,040.
+-   .  Unnamed (2022 f. by Tiz the Law). (application pending)
+-   .  Unnamed (2021 f. by Preservationist).
+-   .  Shopping Spree (2020 f. by Bolt d'Oro). Unraced.
+-   .  Dontstopshopping (2017 f. by Bodemeister). Unraced.
+-   .  Sensuous (2016 g. by Distorted Humor). Unplaced, $4,471.
+-   Zaroof (2009 f. by Street Cry (IRE)). Unraced. Sent from United States to United Arab Emirates in
+-   .     2010. Returned to United States from Great Britain in 2013. Died 2020. Dam of 6 foals, 5 to
+-   .     race, 3 winners--
+-   .  <strong>Mohaafeth</strong> (2018 g. by Tapit). Winner at 3 and 4, 2022, $131,520, 2nd Frank Y. Whiteley S.
+-   .  .  (LRL, $20,000).
+-   .  Ajwibah (2015 g. by Tapit). 2 wins at 4, placed at 7, 2022, $33,402.
+-   .  Tadreeb (2016 g. by Bernardini). Winner in 1 start at 3, $10,800.
+-   .  Motbeq (2017 c. by Speightstown). Placed at 4, 1,440 Euro, in Ireland. Sent from United States to
+-   .  .  United Arab Emirates in 2018. (Total: $1,715).
+-   .  Pick Me Gurl (2020 f. by Mohaymen). Unraced.
+-   .  Mohallela (2014 f. by =Teofilo (IRE)). Unplaced in 1 start in England. Sent from United States to
+-   .  .     United Arab Emirates in 2015.
+-   Shop Around (1995 f. by Theatrical (IRE)). Unraced. Sent from United States to Argentina in 2004. Dam
+-   .     of 5 foals, 2 to race, 1 winner--
+-   .  Say Amen (2001 f. by Pulpit). Winner at 3 and 4, $42,554. Sent from United States to Republic of
+-   .  .     Korea in 2016. Dam of 7 foals, 5 to race, 3 winners--
+-   .  .  Say Afleet (2006 f. by Northern Afleet). Unraced. Dam of 8 foals, 6 to race, 6 winners--
+-   .  .  .  <strong>SAY CHARLIE</strong> (2011 g. by My Pal Charlie). 14 wins, 2 to 7, $266,340, 1st Louisiana
+-   .  .  .  .  Stallion S.-R (LAD, $54,000).
+-   .  .  .  <strong>Fleet Halo</strong> (2015 f. by My Pal Charlie). 3 wins at 2 and 3, $92,803, 3rd Magnolia
+-   .  .  .  .  S.-R (DED, $10,000).
+-   .  =Winning Pleasure (ARG) (2005 c. by Military). Unraced in Argentina.
+-   .  Gartega (2003 f. by Cozzene). Unraced. Sent from USA and Canada to Mexico in 2005.
+-   .  Shecanshop (2002 f. by Thunder Gulch). Unraced. Producer.
+-   .  Shopper (2000 g. by Jade Hunter). Unplaced, $1,080.
+-   Shop Glack (2005 f. by Smoke Glacken). Unplaced, $10,940. Dam of 11 foals, 5 to race, 4 winners--
+-   .  Ultimate Shopper (2010 f. by Yes It's True). 3 wins, 3 to 5, $152,205. Dam of 5 foals, 3 to race, 2
+-   .  .     winners--
+-   .  .  <strong>Taylors Tap</strong> (2020 f. by Tapwrit). Winner at 2, 2022, $32,090, 3rd My Trusty Cat S.
+-   .  .  .  (DED, $11,000).
+-   .  Family Fortune (2016 f. by Super Saver). 3 wins at 3 and 5, $78,994.
+-   .  Bluegrassislegal (2009 f. by Bluegrass Cat). 2 wins at 4, $44,850. Producer.
+-   .  Whizwit (2019 c. by Vancouver (AUS)). Winner at 3, 2022, $34,405.
+-   .  Tiz Shopping (2012 f. by Tiznow). Placed at 5, $4,095.
+-   .  Unnamed (2022 f. by Cross Traffic).
+-   .  Unnamed (2020 c. by Cross Traffic). Died 2022.
+-   .  Unnamed (2017 c. by Super Saver). Died 2018.
+-   .  Shopardini (2015 f. by Bernardini). Unraced.
+-   .  Causeway Lights (2013 g. by Giant's Causeway). Unraced.
+-   .  Unnamed (2011 c. by Bernardini). Died 2012.
+-   Blakely's Smile (2014 f. by Wildcat Heir). Unplaced, $2,520. Dam of 4 foals, 1 to race, 1 winner--
+-   .  Princess Blakely (2019 f. by Cairo Prince). Winner at 3, 2022, $33,610.
+-   .  Unnamed (2022 c. by Vekoma).
+-   .  Unnamed (2021 c. by Bolt d'Oro).
+-   .  Unnamed (2020 f. by Malibu Moon).
+ RACE RECORD for Point Wild: At 2, unraced; at 3, unraced; at 4, 2022, one win, once 2nd in 2 starts; at
+     2, once 2nd in 1 start; at 3, one win, once 3rd, . Totals: 2 wins, twice 2nd, once 3rd. Earned
+     $71,936
+ 2023 Bred to Ghostzapper.
++   <strong>Readyforprimetime</strong> (2016 c. by More Than Ready). 4 wins at 3 and 4, $195,222, in N.A./U.S., 3rd Lucky Coin S. [LR] (SAR, $10,200), Duncan F. Kenner S. (FG, $10,000); unplaced, $3,800, in Canada. (Total: $198,261).
++   Bantu (2015 g. by Stormy Atlantic). 3 wins, 2 to 4, $152,908.
++   Point Wild (2018 f. by Point of Entry). See above.
++   Unnamed (2021 c. by Arrogate).
++   Hammer and Jammer (2020 f. by Uncle Mo). Unraced.
++2nd dam
++<strong>SHOP AGAIN</strong>, by Wild Again. 4 wins at 4, $122,274, 1st Ada S. (RP, $30,000). Half-sister to      <strong>MISS SHOP</strong> ($1,126,038, 1st Personal Ensign S. <strong>[G1]</strong> (SAR, $240,000), etc.),      <strong>TRAPPE SHOT</strong> ($703,884, 1st True North H. <strong>[G2]</strong> (BEL, $150,000), etc., sire),      <strong>BOUGHT IN DIXIE</strong> ($319,183, 1st Chief Pennekeck S. [L] (MED, $30,000), etc.),      <strong>Bulling</strong> ($203,302, 3rd Sanford S. <strong>[G2]</strong>). Dam of 13 foals, 9 to race, 6 winners--
++   <strong>POWER BROKER</strong> (2010 c. by Pulpit). 4 wins at 2 and 3, $865,612, 1st FrontRunner S. <strong>[G1]</strong> (SA, $150,000), Indiana Derby <strong>[G2]</strong> (IND, $286,812), Easy Goer S. (BEL, $90,000), 2nd William Hill Haskell Invitational S. <strong>[G1]</strong> (MTH, $200,000), Oak Tree Juvenile Turf S. [L] (DMR, $20,000). Sent from United States to Saudi Arabia in 2017. Sire.
++   <strong>FIERCE BOOTS</strong> (2011 f. by Tiznow). Winner at 2 and 3, $103,147, 1st Busanda S. (AQU, $60,000). Dam of 4 foals, 1 to race, 1 winner--
++   .  <strong>Portos</strong> (2017 c. by Tapit). Winner at 2 and 4, placed at 5, 2022, $254,174, 2nd Flat Out S. [L] (BEL, $20,000), 3rd Withers S. <strong>[G3]</strong> (AQU, $30,000), Isaac Murphy Marathon Overnight S. (CD, $12,820).
++   .  Talonnade (2021 f. by Tapit). Unraced.
++   .  Talentueux (2019 c. by Bodemeister). Unraced.
++   .  Bootstown (2018 f. by Speightstown). Unraced.
++   <strong>Smart Shopping</strong> (2013 f. by Smart Strike). Winner at 2, $43,890, 3rd Suncoast S. (TAM, $5,000). Dam of 4 foals, 1 to race, 1 winner--
++   .  <strong>Shoppingforpharoah</strong> (2019 f. by American Pharoah). Winner at 2, placed at 3, 2022, $85,026, 2nd Blue Norther S. [L] (SA, $20,000).
++   .  Unnamed (2022 f. by Justify).
++   .  Unnamed (2021 c. by Arrogate).
++   .  Yard Sale (2020 f. by Uncle Mo). Unraced.
++   Mana Pools (2009 f. by Gone West). See above.
++   Jasper Great (2019 c. by Arrogate). Winner at 2 and 3, placed at 4, 2023, 31,682,000 Yen, in Japan; unplaced in 1 start, $20,000, in N.A./U.S. Sent from United States to Japan in 2020. Returned to United States from Japan in 2021. Sent from United States to Japan in 2021. (Total: $269,141).
++   Fast Retailing (2012 f. by Malibu Moon). Winner at 3, $72,325. Dam of 4 foals, 2 to race--
++   .  Biggie (2018 g. by Uncle Mo). Placed, 3 to 5, 2023, $30,418.
++   .  Cinq Souers (2019 f. by Curlin). Placed at 3, 2022, $11,317.
++   .  Speed Shopper (2021 f. by Quality Road). Unraced.
++   .  Branch Office (2020 c. by Justify). Unraced.
++   Celebrity Glitter (2015 f. by Tapit). Placed at 2 and 4, $26,280. Dam of 1 foal--
++   .  Unnamed (2021 f. by City of Light).
++   Unnamed (2022 f. by Oscar Performance).
++   Unnamed (2021 c. by Union Rags). Sent from United States to Ireland in 2022.
++   Capria (2017 f. by Curlin). Unraced. Dam of 2 foals--
++   .  Unnamed (2022 c. by Violence). (application pending)
++   .  Unnamed (2021 f. by Kantharos).
++   Meiann (2008 f. by First Samurai). Unraced. Dam of 6 foals, 2 to race--
++   .  Arisaema (2019 f. by California Chrome). Placed at 3, 2022, $18,940.
++   .  Akiva (2020 f. by Accelerate). Unraced.
++   .  Unnamed (2017 c. by Mr Speaker).
++   .  Country Code (2016 g. by City Zip). Unraced.
++   .  Unnamed (2015 f. by Mission Impazible). Died 2016.
++   .  Martin Fierro (2018 g. by Cairo Prince). Unplaced, $670.
++   Habitue (2016 g. by Pioneerof the Nile). Unplaced in 2 starts, $6,120.
++   Habitue (2016 g. by Pioneerof the Nile). Unplaced in 2 starts, $6,120.
+ 

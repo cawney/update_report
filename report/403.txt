@@ -1,38 +1,22 @@
 --- PH001248_alt.txt
 +++ PH000403_alt.txt
-@@ -1,12 +1,12 @@
--Dec  7 2022  5:28PM          PH23 CONSIGNOR: 1 HORSE: 248 GROUP: 1 HIP NUMBER:                Page 1
-+Jan 29 2023 10:01PM          PH23 CONSIGNOR: 1 HORSE: 248 GROUP: 1 HIP NUMBER: 00403          Page 1
- 
- 
- ******************************************************************************************
- 248  Stormin Wendy  Gray or Roan  Mare (02/28/11)
- By Ecclesiastic (01)  --  Hidden Fever (06)  By Stormin Fever (94)  --  Hidden Ransom (00)
- Kentucky     Broodmare     None
--2021 Produce:
- 2022 Produce:
-+2023 Produce:
- Runhappy (12)  Super Saver (07)  Bella Jolie (07)
-                    pregnant
- ******************************************************************************************
-@@ -38,7 +38,7 @@
-       2019. Half-sister to <strong>SAMYSILVER</strong> (Total: $152,107, 1st Gran Premio Citta' di Napoli [L],
-       sire). Dam of 6 foals, 6 to race, 4 winners--
+@@ -1,5 +1,5 @@
     <strong>Stormin Wendy</strong> (2011 f. by Ecclesiastic). Black type-placed winner, see above.
 -   Rad Paisley (2018 g. by Liaison). 3 wins at 3 and 4, 2022, $143,620.
 +   Rad Paisley (2018 g. by Liaison). 3 wins at 3 and 4, 2022, $149,860.
     Blue Moon Runner (2014 g. by Concord Point). Winner at 2, $19,120.
     Grandma Neta (2015 f. by Tapizar). Winner at 3, $9,865.
     Simmer (2012 f. by Latent Heat). Placed at 2, $9,540.
-@@ -47,14 +47,16 @@
-    =Cat In Vegas (SWE) (2012 g. by Swing That Cat). 5 wins, 3 to 5, 490,360 Krona, in Sweden. (Total: $58,984).
+@@ -19,177 +19,56 @@
+    .  $58,984).
     Tiz Hidden (2007 f. by Tiznow). Winner at 2 and 4, $30,047. Dam of 2 foals, 1 to race, 1 winner--
     .  Tiz Luna (2016 g. by Soldat). Winner at 3, $65,033.
 -   .  Slovianka (2012 f. by Sun King). Unraced.
 +   .  Slovianka (2012 f. by Sun King). Unraced. Dam of 2 foals--
 +   .  .  Unnamed (2020 f. by Cordon). (application pending)
 +   .  .  Salentina (2018 f. by Baletmeister). Unraced.
-    Raize's Ransom (2010 f. by Tapit). Placed in 2 starts at 2, $6,560. Dam of 7 foals, 3 to race, 3 winners--
+    Raize's Ransom (2010 f. by Tapit). Placed in 2 starts at 2, $6,560. Dam of 7 foals, 3 to race, 3
+    .     winners--
 -   .  Demand Ransom (2015 g. by Munnings). 4 wins, 2 to 6, placed at 7, 2022, $104,819.
 +   .  Demand Ransom (2015 g. by Munnings). 4 wins, 2 to 6, placed at 7, 2022, $111,959.
     .  Spittintumbleweeds (2014 g. by High Cotton). 3 wins, 2 to 4, $27,149.
@@ -44,3 +28,195 @@
     .  Unnamed (2019 c. by Fury Kapcori).
     =Cat O Nine (SWE) (2013 c. by Swing That Cat). Unraced in Sweden.
     Adorabull Ransom (2009 f. by Holy Bull). Unraced.
+    Hidden Fever (2006 f. by Stormin Fever). See above.
+-
+-3rd dam
+-RANSOM DANCE, by Red Ransom. Placed in 2 starts at 3, $8,500. Half-sister to <strong>INTENTIONAL FEVER</strong>
+-      ($219,266, 1st Walking in Da Sun S. (DEL, $35,790), etc.), <strong>Ghostly Moves</strong> ($272,259, 2nd
+-      Widener H. <strong>[G3]</strong>, etc., sire), <strong>Dancehall Fever</strong> ($255,174, 2nd H. Steward Mitchell
+-      S. (LRL, $10,000)), <strong>State Craft</strong> ($189,471, 3rd Sunny Slope S. [L] (SA, $11,250), sire).
+-      Dam of 10 foals, 10 to race, 9 winners--
+-   <strong>GHOST DANCING</strong> (2004 f. by Silver Ghost). 5 wins in 9 starts at 3 and 4, $163,897, 1st Oakley
+-   .     S.-R (CNL, $36,000). Died 2020. Dam of 7 foals, 4 to race, 4 winners--
+-   .  <strong>ROADSTER</strong> (2016 c. by Quality Road). 3 wins at 2 and 3, $901,500, 1st Santa Anita Derby
+-   .  .  <strong>[G1]</strong> (SA, $600,000), 2nd Malibu S. <strong>[G1]</strong> (SA, $60,000), San Carlos S.
+-   .  .  <strong>[G2]</strong> (SA, $40,000), Affirmed S. <strong>[G3]</strong> (SA, $20,000), Damascus S. (SA, $20,000),
+-   .  .  3rd Del Mar Futurity <strong>[G1]</strong> (DMR, $36,000), Polynesian S. (LRL, $10,000).
+-   .  <strong>ASCEND</strong> (2012 g. by Candy Ride (ARG)). 6 wins at 4 and 5, $859,980, 1st Woodford Reserve
+-   .  .  Manhattan S. <strong>[G1]</strong> (BEL, $535,000), Henry S. Clark S. (LRL, $45,000). Set ncr at
+-   .  .  Keeneland, 1 1/16 miles in 1:43.55 (10/19/16).
+-   .  <strong>Moro Tap</strong> (2010 c. by Tapit). 3 wins at 3, $161,816, 3rd Louisville H. <strong>[G3]</strong> (CD,
+-   .  .  $10,689), Centaur S. [L] (IND, $22,151). Set ncr at Kentucky Downs, 1 mile 70 yards in 1:43.45
+-   .  .  (09/18/13). Sire.
+-   .  Quasar Power (2011 g. by Tale of the Cat). Winner at 2, $52,266, in Canada; unplaced in 1 start,
+-   .  .  $435, in N.A./U.S. (Total: $49,578).
+-   .  Arising (2019 f. by Candy Ride (ARG)). Unraced.
+-   .  Scream (2018 g. by Twirling Candy). Unraced.
+-   .  Nico Ex (2015 g. by Trappe Shot). Unraced.
+-   <strong>Diamond Spirit</strong> (2003 f. by Holy Bull). Winner at 2, $173,292, 2nd Valley Stream S.
+-   .     <strong>[G3]</strong> (AQU, $21,440), Sands Point S. <strong>[G3]</strong> (BEL, $22,024), Herecomesthebride S.
+-   .     <strong>[G3]</strong> (GP, $20,000), 3rd Go for Wand S. [L] (DEL, $11,000), Gaily Gaily S. (GP, $6,600).
+-   .     Dam of 2 foals--
+-   .  Spirit of Autumn (2010 c. by Eddington). Unraced.
+-   .  Unnamed (2008 c. by War Front).
+-   <strong>Hidden Ransom</strong> (2000 f. by Silver Ghost). Black type-placed winner, see above.
+-   <strong>Maria's Dance</strong> (2002 f. by Maria's Mon). 3 wins at 3, $116,660, 3rd Adena Springs Oakley S.-R
+-   .     (CNL, $6,600). Dam of 8 foals, 7 to race, 5 winners--
+-   .  <strong>MARIA'S HEART</strong> (2016 f. by Shanghai Bobby). 6 wins, 3 to 6, 2022, 135,438,000 Yen, in
+-   .  .  Japan, 1st Lumiere Autumn Dash [L], 2nd Shunrai S. [L] twice. Sent from United States to Japan
+-   .  .  in 2018. (Total: $1,183,754).
+-   .  Dance of Freedom (2012 g. by Bluegrass Cat). Winner at 2, $41,840.
+-   .  Victoria's Dance (2018 f. by First Dude). Winner at 3 and 4, 2022, $30,525.
+-   .  Bullish Babe (2009 f. by Holy Bull). 2 wins at 4, $15,630. Producer.
+-   .  Dancingwiththeboss (2010 g. by Street Boss). 3 wins at 3, $15,063.
+-   .  Alternate Rhythm (2015 g. by Alternation). Placed at 3, $16,985.
+-   .  Bessant (2014 f. by Colonel John). Placed in 1 start at 3, $1,650.
+-   .  Kenneth (2011 c. by Tale of the Cat). Unraced.
+-   American Ransom (2008 g. by Quiet American). 3 wins at 3 and 5, $53,555.
+-   Daylight Express (2005 c. by Seeking Daylight). 9 wins in 16 starts at 3 and 4 in Barbados; winner at
+-   .  4, $47,500, in Canada. Sent from United States to Barbados in 2007. Returned to United States from
+-   .  Barbados in 2009. Sent from United States to Barbados in 2009. (Total: $45,451).
+-   Merango Tango (2011 g. by Lemon Drop Kid). 3 wins at 3 and 8, $44,837.
+-   Holy Ransom (2007 f. by Holy Bull). Winner at 3, $28,300. Dam of 2 foals, 2 to race, 1 winner--
+-   .  Holy Cross (2017 g. by Cross Traffic). Winner at 5, 2022, $50,075.
+-   .  Saint Commissaire (2019 g. by Commissioner). Unplaced, $795.
+-   Dance Instructor (2001 f. by Grand Slam). Winner at 3, $17,150. Sent from United States to Chile in
+-   .     2005. Dam of 8 foals, 7 to race, 6 winners--
+-   .  =Un Totito (CHI) (2014 g. by Sudan (IRE)). 12 wins, 3 to 6, 46,271,000 Pesos, in Chile. Registered
+-   .  .  in Chile as Super Danzarin. (Total: $65,657).
+-   .  =Gordo Walter (CHI) (2008 c. by Ocean Terrace). 10 wins, 3 to 7, 19,850,000 Pesos, in Chile.
+-   .  .  (Total: $35,568).
+-   .  =Dark Day (CHI) (2009 c. by Ivan Denisovich (IRE)). 3 wins at 3, 15,943,750 Pesos, in Chile.
+-   .  .  (Total: $32,392).
+-   .  Stormy Rain (2005 f. by Stormin Fever). 3 wins at 3, $25,797.
+-   .  =Huaso Sonador (CHI) (2010 g. by Ocean Terrace). Winner at 2 and 3, 5,020,000 Pesos, in Chile.
+-   .  .  (Total: $9,843).
+-   .  =Dance Prentice (CHI) (2006 f. by Zavata). Winner at 3, 862,500 Pesos, in Chile. (Total: $1,608).
+-   .  .     Producer.
+-   .  =Unnamed (2013 c. by Sudan (IRE)).
+-   .  =Chino Besador (CHI) (2007 c. by Ocean Terrace). Unplaced in 1 start in Chile.
+-   Lemon Dancer (2012 f. by Lemon Drop Kid). Unplaced in 1 start. Dam of 4 foals, 3 to race, 3 winners--
+-   .  Will Lemon Dance (2019 f. by Will Take Charge). 2 wins at 3, 2022, $60,910.
+-   .  Lemon Ice (2018 f. by Street Sense). Winner at 3, placed at 4, 2022, $15,540.
+-   .  Rarerare (2017 g. by Elusive Quality). Winner at 2, $11,500.
+-   .  Unnamed (2021 f. by Audible).
+-
+-4th dam
+-<strong>DANCE TEACHER</strong>, by Smarten. Winner at 3, 11,240 Pounds, in England, 2nd Wallis S. [L]; 5 wins at
+-      4, $306,821, in N.A./U.S., 1st Ladies H. <strong>[G1]</strong>, Gallorette H. <strong>[G3]</strong>, Bal Harbour S.
+-      (HIA, $18,000), 2nd Vineland H. <strong>[G3]</strong>, 3rd First Flight H. <strong>[G3]</strong>, Spicy Living H.
+-      [L] (RKM, $10,000). Sent from United States to Great Britain in 1986. Returned to United States
+-      from Great Britain in 1988. (Total: $327,912). Died 2010. Half-sister to <strong>GOLD MOVER</strong>
+-      ($1,523,010, 1st Princess Rooney H. <strong>[G2]</strong> (CRC, $294,000), etc.), <strong>LUNAR MOVER</strong>
+-      (Total: $57,778, , etc.). Dam of 8 foals, 7 to race, 5 winners--
+-   <strong>INTENTIONAL FEVER</strong> (2004 f. by Stormin Fever). 4 wins at 2 and 3, $219,266, 1st Walking in Da
+-   .     Sun S. (DEL, $35,790), Beautiful Day S. (DEL, $35,130), 2nd Miss Woodford S. [L] (MTH, $40,000),
+-   .     Interborough H. (AQU, $13,853), Drumtop S. (SUF, $10,000), 3rd Sweet and Sassy S. [L] (DEL,
+-   .     $11,000), Heed S.-R (SAR, $8,700), Correction H. (AQU, $7,046). Dam of 8 foals, 5 to race, 2
+-   .     winners--
+-   .  Invest (2016 g. by Super Saver). 8 wins, 3 to 6, 2022, $214,492.
+-   .  Caught a Heater (2014 c. by Congrats). Winner in 2 starts at 2, $36,667.
+-   .  Dubai Fever (2015 c. by Candy Ride (ARG)). Placed in 1 start at 4, 8,250 Dirhams, in United Arab
+-   .  .  Emirates. Sent from United States to United Arab Emirates in 2017. (Total: $2,246).
+-   .  Feverdini (2017 c. by Bernardini). Placed at 4 in Republic of Korea. Sent from United States to
+-   .  .  Republic of Korea in 2018.
+-   .  Unnamed (2022 c. by Accelerate).
+-   .  Unnamed (2021 f. by Catalina Cruiser).
+-   .  Rugcutter (2019 f. by Lord Nelson). Unraced.
+-   .  Martine's Kitties (2010 f. by Not For Love). Unplaced in 1 start, $400.
+-   <strong>Ghostly Moves</strong> (1992 c. by Silver Ghost). 6 wins, 2 to 5, $272,259, 2nd Widener H.
+-   .  <strong>[G3]</strong>, 3rd Pegasus H. <strong>[G2]</strong>, Broward H. <strong>[G3]</strong>, Kenny Noe Jr. H. [L] (CRC,
+-   .  $11,000). Sire.
+-   <strong>Dancehall Fever</strong> (2003 g. by Stormin Fever). 15 wins, 2 to 10, $255,174, 2nd H. Steward
+-   .  Mitchell S. (LRL, $10,000).
+-   <strong>State Craft</strong> (1991 c. by Deputy Minister). 10 wins, 2 to 5, $189,471, 3rd Sunny Slope S. [L]
+-   .  (SA, $11,250). Sire.
+-   Squall (1997 c. by Summer Squall). 5 wins at 3 and 4, $59,717. Sire.
+-   Ransom Dance (1996 f. by Red Ransom). See above.
+-   Dance Move (1994 f. by Capote). Unraced. Dam of 8 foals, 7 to race, 6 winners--
+-   .  <strong>CAT MOVES</strong> (2006 f. by Tale of the Cat). 3 wins in 6 starts at 3, $315,350, 1st Prioress S.
+-   .  .     <strong>[G1]</strong> (BEL, $180,000), 3rd Test S. <strong>[G1]</strong> (SAR, $30,000), My Juliet S. [L]
+-   .  .     (PHA, $27,500). Sent from United States to Australia in 2018. Dam of 8 foals, 7 to race, 5
+-   .  .     winners--
+-   .  .  Cat d'Oro (2014 f. by Medaglia d'Oro). Unraced. Dam of 4 foals, 3 to race, 3 winners--
+-   .  .  .  <strong>AIN'T LIFE GRAND</strong> (2019 c. by Not This Time). 6 wins in 10 starts at 2 and 3, 2022,
+-   .  .  .  .  $489,283, 1st Iowa Derby [L] (PRM, $199,400), Iowa Cradle S.-R (PRM, $54,820), 3rd Prairie
+-   .  .  .  .  Mile S. (PRM, $6,713), Iowa Stallion Futurity-R (PRM, $9,248).
+-   .  <strong>DANCE HALL DAYS</strong> (2005 f. by Seeking Daylight). 3 wins at 2 and 3, $105,040, 1st Serena's
+-   .  .     Song S. (MTH, $42,000). Producer.
+-   .  <strong>Forty Moves</strong> (2001 f. by Gold Fever). 4 wins, 2 to 4, $198,540, 2nd Hurricane Bertie H.
+-   .  .     <strong>[G3]</strong> (GP, $20,000), Miss Woodford S. (MTH, $12,000), 3rd Crank It Up S. (MTH,
+-   .  .     $6,600). Set ntr at Gulfstream Park, 6 1/2 furlongs in 1:15.82 (01/28/05). Died 2015. Dam of
+-   .  .     7 foals, 7 to race, 4 winners--
+-   .  .  <strong>Black Canary</strong> (2014 f. by War Front). Winner at 2 and 4, $140,320, in N.A./U.S., 3rd
+-   .  .  .     Floral Park S. (BEL, $12,000); winner at 4, $65,123, in Canada. (Total: $190,805).
+-   .  .  <strong>Joe Tess</strong> (2010 g. by Macho Uno). 8 wins, 3 to 6, $182,544, 2nd Decathlon S. [L] (MTH,
+-   .  .  .  $15,000), 3rd Elkwood S. (MTH, $7,500).
+-   .  .  Beautiful Liar (2012 f. by Candy Ride (ARG)). Placed in 2 starts at 2, $8,970. Dam of 6 foals, 3
+-   .  .  .     to race, 2 winners--
+-   .  .  .  <strong>CHEAPSKATE DIVA</strong> (2018 f. by Animal Kingdom). 4 wins at 4, 2022, $101,740, 1st
+-   .  .  .  .  Louisiana Cup Distaff S.-R (LAD, $40,200).
+-   .  Kat Can Dance (1998 f. by Miesque's Son). 3 wins at 3 and 5, $46,848. Dam of 8 foals, 8 to race, 7
+-   .  .     winners--
+-   .  .  <strong>R S Watson</strong> (2010 g. by Zanjero). 2 wins at 3, $94,390, 3rd Gold Rush Futurity [L] (ARP,
+-   .  .  .  $9,000).
+-   .  Feverish Move (2002 g. by Gold Fever). 3 wins at 3, $62,214.
+-   .  Dance Demon (1999 c. by Silver Ghost). Winner at 3, $16,748.
+-   .  Dancin Queen (2004 f. by Monarchos). Unraced. Producer.
+-   .  More Hennessy (2007 f. by Hennessy). Unplaced in 1 start, $350. Sent from United States to Ireland
+-   .  .     in 2014. Returned to United States from Ireland in 2015. Dam of 9 foals, 7 to race, 5
+-   .  .     winners--
+-   .  .  <strong>HOOTENANNY</strong> (2012 c. by Quality Road). 4 wins, 2 to 4, $655,070, in N.A./U.S., 1st
+-   .  .  .  Breeders' Cup Juvenile Turf <strong>[G1]</strong> (SA, $550,000), 3rd Rollicking S. (PIM, $8,250);
+-   .  .  .  winner in 2 starts at 2, 34,026 Pounds, in England, 1st Windsor Castle S. [L]; placed in 1
+-   .  .  .  start at 2, 80,010 Euro, in France, 2nd Darley Prix Morny <strong>[G1]</strong>; placed at 4 and 5,
+-   .  .  .  $75,000, in Canada, 2nd King Edward S. <strong>[G2]</strong> (WO, $35,000), Jacques Cartier S. [L]
+-   .  .  .  (WO, $26,250). Sent from United States to Great Britain in 2014. Returned to United States
+-   .  .  .  from Great Britain in 2014. Sent from United States to France in 2014. Returned to United
+-   .  .  .  States from France in 2014. Sent from United States to Great Britain in 2015. Returned to
+-   .  .  .  United States from Great Britain in 2015. Sent from United States to Chile in 2019. Returned
+-   .  .  .  to United States from Chile in 2019. (Total: $876,698). Sire.
+-   .  .  <strong>Ryder Ryder Ryder</strong> (2020 f. by Quality Road). Winner in 2 starts at 2, 2022, $73,200, in
+-   .  .  .  Canada, 2nd Mazarine S. <strong>[G3]</strong> (WO, $30,000). (Total: $54,264).
+-   Upstage (2000 g. by Polish Numbers). Unplaced, $380.
+ RACE RECORD for Stormin Wendy: At 2, unraced; at 3, two wins, twice 2nd, twice 3rd; at 4, twice 2nd; at
+     5, unplaced; at 2, two wins, once 2nd, twice 3rd (Irish Sonnet S. (DEL, $6,600)), . Totals: 4 wins, 5
+     times 2nd, 4 times 3rd. Earned $183,556
+ PRODUCE RECORD for Stormin Wendy:
+-2018 Chargina, f. by Fed Biz. Winner at 3 and 4, 2022, $83,263, in N.A./U.S.; placed at 3, $14,225, in
+-        Canada. (Total: $94,761).
++2018 Chargina, f. by Fed Biz. 3 wins at 3 and 4, 2022, $95,559, in N.A./U.S.; placed at 3, $14,225, in
++        Canada. (Total: $107,057).
+ 2019 Stormin Beauty, f. by Mosler. Unraced.
+-2020 Ruxton Rocks, f. by Mo Town. Unplaced in 1 start, $870.
++2020 Ruxton Rocks, f. by Mo Town. Winner at 2, 2022, $18,640.
+ 2021 Bred to Madefromlucky.
+ 2022 Unnamed, c. by Bolt d'Oro.
++2023 Bred to Runhappy.
++   <strong>Stormin Wendy</strong> (2011 f. by Ecclesiastic). Black type-placed winner, see above.
++   Rad Paisley (2018 g. by Liaison). 3 wins at 3 and 4, 2022, $149,860.
++   Blue Moon Runner (2014 g. by Concord Point). Winner at 2, $19,120.
++   Grandma Neta (2015 f. by Tapizar). Winner at 3, $9,865.
++   Simmer (2012 f. by Latent Heat). Placed at 2, $9,540.
++   =Silvia (KSA) (2019 f. by Friesan Fire). Placed at 3, 2022, 30,000 Riyals, in Saudi Arabia. (Total: $8,000).
++2nd dam
++<strong>Hidden Ransom</strong>, by Silver Ghost. 4 wins at 3 and 4, $182,307, 2nd Thomas J. Malley S. (MTH,      $12,000), Betsy Ross S. (MTH, $12,000), 3rd Regret S. [L] (MTH, $11,000). Sent from United States      to Sweden in 2011. Sister to <strong>GHOST DANCING</strong> ($163,897, 1st Oakley S.-R (CNL, $36,000)),      half-sister to <strong>Diamond Spirit</strong> ($173,292, 2nd Valley Stream S. <strong>[G3]</strong> (AQU,      $21,440), etc.), <strong>Maria's Dance</strong> ($116,660, 3rd Adena Springs Oakley S.-R (CNL, $6,600)).      Dam of 7 foals, 5 to race, 3 winners--
++   <strong>SAMYSILVER</strong> (2008 c. by Indian Charlie). 11 wins, 3 to 7, 111,523 Euro, in Italy, 1st Gran Premio Citta' di Napoli [L]. Sent from United States to Italy in 2010. (Total: $152,107). Sire.
++   =Cat In Vegas (SWE) (2012 g. by Swing That Cat). 5 wins, 3 to 5, 490,360 Krona, in Sweden. (Total: $58,984).
++   Tiz Hidden (2007 f. by Tiznow). Winner at 2 and 4, $30,047. Dam of 2 foals, 1 to race, 1 winner--
++   .  Tiz Luna (2016 g. by Soldat). Winner at 3, $65,033.
++   .  Slovianka (2012 f. by Sun King). Unraced. Dam of 2 foals--
++   .  .  Unnamed (2020 f. by Cordon). (application pending)
++   .  .  Salentina (2018 f. by Baletmeister). Unraced.
++   Raize's Ransom (2010 f. by Tapit). Placed in 2 starts at 2, $6,560. Dam of 7 foals, 3 to race, 3 winners--
++   .  Demand Ransom (2015 g. by Munnings). 4 wins, 2 to 6, placed at 7, 2022, $111,959.
++   .  Spittintumbleweeds (2014 g. by High Cotton). 3 wins, 2 to 4, $27,149.
++   .  Her Hush Money (2016 f. by Bullet Train (GB)). Winner at 2, $25,740.
++   .  Unnamed (2022 c. by Speightster). (application pending)
++   .  Unnamed (2021 c. by Tourist).
++   .  Hold Her Hostage (2020 f. by Tourist). Unraced.
++   .  Unnamed (2019 c. by Fury Kapcori).
++   =Cat O Nine (SWE) (2013 c. by Swing That Cat). Unraced in Sweden.
++   Adorabull Ransom (2009 f. by Holy Bull). Unraced.
++   Adorabull Ransom (2009 f. by Holy Bull). Unraced.
+ 

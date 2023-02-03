@@ -1,23 +1,21 @@
 --- PH001374_alt.txt
 +++ PH000247_alt.txt
-@@ -1,4 +1,4 @@
--Dec 19 2022  4:00PM          PH23 CONSIGNOR: 1 HORSE: 374 GROUP: 1 HIP NUMBER:                Page 1
-+Jan 29 2023  9:59PM          PH23 CONSIGNOR: 1 HORSE: 374 GROUP: 1 HIP NUMBER: 00247          Page 1
- 
- 
- ******************************************************************************************
-@@ -46,8 +46,8 @@
-    .  =So Lonely (IRE) (2014 f. by So You Think (NZ)). 3 wins at 5, 18,135 Pounds, in England; placed at 4, 7,400 Euro, in Ireland. (Total: $32,090).
-    .  =Amanirenas (IRE) (2019 f. by War Command). Winner at 3, 2022, 13,475 Euro, in Ireland; unplaced in 1 start in England. (Total: $13,833).
-    .  =Street Art (IRE) (2012 g. by Excellent Art (GB)). 3 wins at 3 and 5, 8,836 Pounds, in England. (Total: $12,007).
--   .  =Cheerful Chap (IRE) (2017 g. by =Pour Moi (IRE)). Winner at 5, 2022, 8,455 Euro, in Ireland. (Total: $8,830).
--   .  =Unbridled Power (IRE) (2018 g. by =Power (GB)). Placed in 2 starts at 4, 2022, 2,028 Pounds, in England; unplaced in Ireland. (Total: $2,961).
-+   .  =Cheerful Chap (IRE) (2017 g. by =Pour Moi (IRE)). Winner at 5, 2022, 8,135 Euro, in Ireland. (Total: $8,498).
-+   .  =Unbridled Power (IRE) (2018 g. by =Power (GB)). Placed at 4, 2022, 2,713 Pounds, in England; unplaced in Ireland. (Total: $3,793).
+@@ -29,10 +29,10 @@
+    .  .  1 start in England. (Total: $13,833).
+    .  =Street Art (IRE) (2012 g. by Excellent Art (GB)). 3 wins at 3 and 5, 8,836 Pounds, in England.
+    .  .  (Total: $12,007).
+-   .  =Cheerful Chap (IRE) (2017 g. by =Pour Moi (IRE)). Winner at 5, 2022, 8,455 Euro, in Ireland.
+-   .  .  (Total: $8,830).
+-   .  =Unbridled Power (IRE) (2018 g. by =Power (GB)). Placed in 2 starts at 4, 2022, 2,028 Pounds, in
+-   .  .  England; unplaced in Ireland. (Total: $2,961).
++   .  =Cheerful Chap (IRE) (2017 g. by =Pour Moi (IRE)). Winner at 5, 2022, 8,135 Euro, in Ireland.
++   .  .  (Total: $8,498).
++   .  =Unbridled Power (IRE) (2018 g. by =Power (GB)). Placed at 4, 2022, 2,713 Pounds, in England;
++   .  .  unplaced in Ireland. (Total: $3,793).
     .  =Unnamed (2022 f. by =Equiano (FR)).
     .  =Billetero (IRE) (2020 c. by =Fast Company (IRE)). Unraced in Ireland.
     .  =Unnamed (2016 c. by =Pour Moi (IRE)). Died 2017.
-@@ -76,13 +76,20 @@
+@@ -78,7 +78,9 @@
     .  =Unnamed (2022 c. by =Vadamos (FR)).
     .  =Unnamed (2021 f. by Starspangledbanner (AUS)).
     .  =Sea of Turbulence (IRE) (2017 f. by =Born To Sea (IRE)). Unraced in Ireland.
@@ -25,18 +23,853 @@
 +   .  =Ginandawin (IRE) (2016 f. by =Big Bad Bob (IRE)). Unraced in Ireland. Dam of 2 foals--
 +   .  .  =Unnamed (2022 f. by Highland Reel (IRE)).
 +   .  .  =Unnamed (2021 c. by Highland Reel (IRE)).
-    =Goldthroat (IRE) (1999 f. by Zafonic). See above.
-    =Warrior Wings (GB) (1998 f. by =Indian Ridge (IRE)). Winner at 2, 18,024 Euro, in Ireland. (Total: $15,633). Dam of 10 foals, 8 to race, 4 winners--
-    .  <strong>=Warriors Key (IRE)</strong> (2004 g. by Key of Luck). Winner at 2 and 3, 68,346 Euro, in Ireland, 3rd El Gran Senor S. [L]; winner at 6 and 7, 86,950 Dirhams, in United Arab Emirates; unplaced in Oman; unplaced, 3,250 Euro, in France. (Total: $120,352).
-    .  <strong>=Lone Warrior (IRE)</strong> (2011 g. by Oratorio (IRE)). Winner at 2, 8,815 Pounds, in England, 3rd Titanic Belfast Winkfield S. [L]. (Total: $13,733).
-    .  =Hurricane Ridge (IRE) (2009 g. by Hurricane Run (IRE)). 7 wins, 2 to 5, 72,530 Euro, in Ireland; placed at 8, 1,049 Pounds, in England. (Total: $95,441).
--   .  =Queen of Cash (IRE) (2008 f. by Ad Valorem). 4 wins at 2 and 3, 16,028 Pounds, in England; winner at 4, 99,140 Riyals, in Saudi Arabia. (Total: $52,259).
+ 
+ 2nd dam
+ WINGER (GB), by $In the Wings (GB). Winner at 3, 4,057 Euro, in Ireland. Sent from Ireland to United
+@@ -97,7 +99,13 @@
+    .  =Hurricane Ridge (IRE) (2009 g. by Hurricane Run (IRE)). 7 wins, 2 to 5, 72,530 Euro, in Ireland;
+    .  .  placed at 8, 1,049 Pounds, in England. (Total: $95,441).
+    .  =Queen of Cash (IRE) (2008 f. by Ad Valorem). 4 wins at 2 and 3, 16,028 Pounds, in England; winner
+-   .  .     at 4, 99,140 Riyals, in Saudi Arabia. (Total: $52,259).
++   .  .     at 4, 99,140 Riyals, in Saudi Arabia. (Total: $52,259). Dam of 5 foals, 3 to race--
++   .  .  =Rasd (KSA) (2016 c. by =Byron (GB)). Placed at 3, 6,000 Riyals, in Saudi Arabia. (Total:
++   .  .  .  $1,600).
++   .  .  =Unnamed (2020 c. by First Defence).
++   .  .  =Unnamed (2019 c. by First Defence).
++   .  .  =Moesef (KSA) (2017 c. by Wathab (IRE)). Unplaced in Saudi Arabia.
++   .  .  =Mariann (KSA) (2015 f. by =Byron (GB)). Unplaced in Saudi Arabia.
+    .  =Colori d'Ozeville (IRE) (2003 f. by King's Best). Placed at 2, 2,640 Euro, in Italy; unplaced in
+    .  .  France. (Total: $3,155).
+    .  =Unnamed (2013 f. by Starspangledbanner (AUS)).
+@@ -122,748 +130,6 @@
+    .  =Unnamed (2011 f. by Key of Luck). Died 2013.
+    .  =Nama (IRE) (2007 g. by Mull of Kintyre). Unraced in Ireland. Died 2011.
+    .  =Indian Luck (IRE) (2008 g. by Key of Luck). Unplaced in Ireland.
+-
+-3rd dam
+-<strong>=RAPPA TAP TAP (FR)</strong>, by =Tap On Wood (IRE). 3 wins at 2 and 3 in England, 1st Blue Seal S. [L].
+-      Died 2000. Half-sister to <strong>$CEZANNE (GB)</strong> (Total: $460,084, hwt. older horse at 5 on German
+-      Free Hand., 9 1/2 - 11 fur. (1994), hwt. older horse at 5 on Irish Free Hand., 9 1/2 - 11 fur.
+-      (1994), hwt. older horse at 5 on United Arab Emirates Free Hand., 11 - 14 fur. (1994), hwt. older
+-      horse at 5 on United Arab Emirates Free Hand., 9 1/2 - 11 fur. (1994), 1st Guinness Champion S.
+-      <strong>[G1]</strong>, etc.), <strong>=COLORSPIN</strong> (1st Gilltown Stud Irish Oaks <strong>[G1]</strong>, etc.),
+-      <strong>=BELLA COLORA (GB)</strong> (1st Prix de l'Opera <strong>[G2]</strong>, etc.), <strong>Lafitte the Pirate
+-      (GB)</strong> (Total: $104,753, 2nd Seneca H. <strong>[G3]</strong>, etc.). Dam of 12 foals, 9 to race, 7
+-      winners--
+-   <strong>=Pick of The Pops (GB)</strong> (1986 f. by =High Top (IRE)). Winner at 2, 27,353 Pounds, in England,
+-   .     2nd Hoover Mile S. <strong>[G2]</strong>. (Total: $51,327). Died 2002. Dam of 10 foals, 6 to race, 4
+-   .     winners--
+-   .  =Migwar (GB) (1993 g. by Unfuwain). 5 wins at 3 and 6, 29,589 Pounds, in England. (Total:
+-   .  .  $45,591).
+-   .  =Instant Hit (GB) (1999 g. by =Indian Ridge (IRE)). Winner at 4, 15,390 Euro, in Ireland; unplaced,
+-   .  .  267 Pounds, in England. (Total: $18,716).
+-   .  =Paganini (GB) (1995 c. by Polish Precedent). 2 wins at 4, 9,152 Euro, in Germany. (Total:
+-   .  .  $9,682).
+-   .  Fascinating Rhythm (GB) (1994 f. by =Slip Anchor (GB)). Winner at 2, 3,926 Pounds, in England. Sent
+-   .  .     from Great Britain to United States in 2000. Sent from United States to Great Britain in
+-   .  .     2002. (Total: $6,146). Producer.
+-   .  =Atlantic Record (GB) (1992 f. by =Slip Anchor (GB)). Unraced in Great Britain. Died 2003. Dam of 6
+-   .  .     foals, 6 to race, 4 winners--
+-   .  .  <strong>=SANTA ISOBEL (GB)</strong> (1998 f. by Nashwan). Winner at 3, 17,776 Pounds, in England, 1st
+-   .  .  .     Cantor Index Fillies Trial S. [L]. (Total: $25,615). Dam of 6 foals, 6 to race, 5
+-   .  .  .     winners--
+-   .  .  .  <strong>=Whiplash Willie (GB)</strong> (2008 g. by Phoenix Reach (IRE)). 4 wins, 2 to 6, 116,501
+-   .  .  .  .  Pounds, in England, 2nd Socialites Electric Cigarettes Doncaster Cup <strong>[G2]</strong>, Win
+-   .  .  .  .  10,000,000 On Betdaq Colossus Chester H. [L], 3rd Cantor Fitzgerald Henry II S.
+-   .  .  .  .  <strong>[G3]</strong>; unplaced in 1 start, 17,130 Euro, in France. (Total: $212,377).
+-   .  .  =Face The Storm (IRE) (2000 f. by $Barathea (IRE)). Winner at 2, 4,721 Pounds, in England.
+-   .  .  .     (Total: $7,343). Dam of 11 foals, 10 to race, 7 winners--
+-   .  .  .  <strong>=Roi de Vitesse (IRE)</strong> (2007 c. by =Chineur (FR)). 2 wins at 2, 36,675 Pounds, in
+-   .  .  .  .  England, 2nd Meydan Superlative S. <strong>[G2]</strong>; 3 wins, 4 to 6 in Bahrain; 3 wins in 5
+-   .  .  .  .  starts, 6 to 9 in Qatar; placed in 1 start at 2, 4,323 Euro, in Ireland, 3rd Kerry Spring
+-   .  .  .  .  Water Rochestown S. [L]; placed at 8 and 9, 222,854 Dirhams, in United Arab Emirates;
+-   .  .  .  .  unplaced in 2 starts, 5,500 Euro, in France. (Total: $133,914).
+-   .  .  .  <strong>=Rebel Surge (IRE)</strong> (2013 f. by =Kodiac (GB)). 3 wins, 2 to 5, 51,186 Pounds, in
+-   .  .  .  .  England, 3rd Dubai Life British E.B.F. Boadicea S. [L]; unplaced in 1 start in France;
+-   .  .  .  .  unplaced in 1 start in Germany. (Total: $68,602). Producer.
+-   .  =Piccadilly Circus (GB) (2001 f. by $Daylami (IRE)). Unraced in Great Britain.
+-   .  =Quick Return (GB) (1997 f. by Polish Precedent). Unraced in Great Britain. Died 2017. Producer.
+-   .  =Pop Queen (GB) (1996 f. by Nashwan). Unraced in Great Britain. Producer.
+-   .  =Westfield Boy (GB) (2002 g. by Unfuwain). Unplaced in England.
+-   .  =Chart Buster (GB) (1991 f. by =Reference Point (GB)). Unplaced in Ireland.
+-   <strong>=Oriane</strong> (1993 f. by Nashwan). Winner at 3, 10,469 Euro, in Ireland, 3rd Alexander Hotel
+-   .     Knockaire S. [L], Natural Gas Energy Rated Home Trigo S. [L], Ali Retza & Mamadi Soudavar Garnet
+-   .     S. [L]. (Total: $13,119). Dam of 12 foals, 10 to race, 7 winners--
+-   .  <strong>=Barati (IRE)</strong> (2001 g. by Sadler's Wells). Winner at 3 and 5, 43,739 Euro, in Ireland, 3rd
+-   .  .  Airlie Stud Gallinule S. <strong>[G3]</strong>; placed at 3 and 7, 16,576 Pounds, in England, 3rd King
+-   .  .  Edward VII S. <strong>[G2]</strong>; unplaced in 1 start in France. (Total: $85,584).
+-   .  =Lysandra (IRE) (2002 f. by Danehill). 4 wins at 3 and 4, 25,881 Pounds, in England. (Total:
+-   .  .     $47,753). Producer.
+-   .  =Odin's Raven (IRE) (2005 g. by =Dalakhani (IRE)). 4 wins at 6 and 6, 19,141 Pounds, in England;
+-   .  .  placed at 4 and 5, 4,300 Euro, in Ireland. (Total: $36,722).
+-   .  Kossu (IRE) (2000 g. by $Barathea (IRE)). Winner at 4, $26,569, in N.A./U.S.; placed at 2, 6,960
+-   .  .  Euro, in Ireland; unplaced, $970, in Canada. Sent from Great Britain to United States in 2002.
+-   .  .  (Total: $34,198).
+-   .  Cassirer (IRE) (1999 g. by Zafonic). Winner at 2, 7,213 Pounds, in England; placed at 4, $22,092,
+-   .  .  in N.A./U.S. Sent from France to United States in 2002. (Total: $32,631).
+-   .  =Violani (IRE) (2003 c. by Peintre Celebre). Winner at 2, 20,842 Euro, in Ireland; unplaced in Hong
+-   .  .  Kong. Racing in Hong Kong as Classabove. (Total: $25,172).
+-   .  =Della'alba (IRE) (2007 f. by =Namid (GB)). Winner at 3, 10,980 Euro, in Ireland; placed at 4,
+-   .  .  16,000 Krona, in Sweden; unplaced in 2 starts in Denmark; unplaced in 2 starts in Norway.
+-   .  .  (Total: $17,356).
+-   .  =Grand Aurora (IRE) (2004 f. by Grand Lodge). Placed in 1 start at 4, 504 Pounds, in England;
+-   .  .  unplaced in Ireland. (Total: $801).
+-   .  =Princess Oriane (IRE) (2009 f. by =Manduro (GER)). Unraced in Ireland. Died 2020. Producer.
+-   .  =Orions Dance (IRE) (2008 f. by Fasliyev). Unraced in Ireland.
+-   .  =Shakuru (IRE) (2006 g. by =Alhaarth (IRE)). Unplaced, 595 Euro, in Ireland. (Total: $876).
+-   .  =Sharaar (IRE) (2010 c. by =Choisir (AUS)). Unplaced in England.
+-   =Tap On Air (GB) (1990 f. by Caerleon). 2 wins at 3, 19,610 Pounds, in England. (Total: $29,463). Dam
+-   .     of 7 foals, 5 to race, 2 winners--
+-   .  <strong>=Softshoe (IRE)</strong> (2000 f. by Zafonic). Winner at 2, 32,350 Euro, in France, 2nd Prix La
+-   .  .     Fleche [L]. (Total: $32,519). Died 2008. Dam of 4 foals, 4 to race, 4 winners--
+-   .  .  <strong>=Bugsytwoshoes (AUS)</strong> (2004 g. by Tobougg (IRE)). 5 wins at 4 and 5, $123,700(AUS), in
+-   .  .  .  Australia, 3rd Winning Edge Trophies Members H. [L]. (Total: $101,804).
+-   .  =Tenzan Mark (JPN) (2002 c. by $Mark of Esteem (IRE)). 8 wins, 3 to 7, 2,038,000 Yen, in Japan.
+-   .  .  (Total: $18,406).
+-   .  =Hamimaq (GB) (2001 g. by =Indian Ridge (IRE)). Placed at 5, 17,550 Dirhams, in United Arab
+-   .  .  Emirates. (Total: $4,779).
+-   .  =Sontup (JPN) (2004 g. by =Bachir (IRE)). Placed at 3, 468,000 Yen, in Japan. (Total: $3,916).
+-   .  =Midnight (GB) (1998 f. by $Mark of Esteem (IRE)). Unraced in Great Britain. Producer.
+-   .  =Taphra (IRE) (1996 f. by Fairy King). Unraced in Ireland. Producer.
+-   .  =Reflex (GB) (1999 c. by Nashwan). Unplaced, 1,020 Euro, in Italy. (Total: $1,127).
+-   Winger (GB) (1992 f. by $In the Wings (GB)). See above.
+-   Foreign Accent (GB) (1999 g. by Machiavellian). Winner in 2 starts at 2, 4,349 Pounds, in England;
+-   .  winner at 4 and 5, $22,760, in N.A./U.S.; unplaced in 1 start in France; unplaced in 1 start,
+-   .  13,340 Euro, in Ireland. Sent from Great Britain to United States in 2002. (Total: $41,299).
+-   Killer Instinct (GB) (1996 c. by Zafonic). Winner at 3, 20,619 Pounds, in England; unplaced in 2
+-   .  starts, $3,240, in N.A./U.S. Sent from Great Britain to United States in 1999. Sent from United
+-   .  States to Great Britain in 2001. (Total: $36,453). Sire.
+-   =Zap Attack (GB) (2000 g. by Zafonic). Winner at 3 and 7, 13,573 Pounds, in England. (Total: $23,865).
+-   .  Died 2012.
+-   =Indian Beat (GB) (1997 g. by =Indian Ridge (IRE)). Placed, 4 to 8, 7,173 Pounds, in England. (Total:
+-   .  $11,704).
+-   =Rapacki (GB) (1998 c. by Polish Precedent). Unraced in Great Britain.
+-   =Glorious (GB) (1995 f. by Nashwan). Unraced in Great Britain. Dam of 11 foals, 9 to race, 7
+-   .     winners--
+-   .  =Closertobelieving (GB) (2005 r. by =Xaar (GB)). 3 wins at 3, 23,764 Pounds, in England; unplaced
+-   .  .  in Hong Kong. Sent from England to Hong Kong in 2009. (Total: $43,047).
+-   .  =Plush (GB) (2003 g. by =Medicean (GB)). 7 wins, 5 to 7, 25,718 Pounds, in England; unplaced in 2
+-   .  .  starts in Ireland. (Total: $40,015).
+-   .  =Athboy (GB) (2001 g. by =Entrepreneur (GB)). 2 wins at 3, 6,811 Pounds, in England. (Total:
+-   .  .  $12,806).
+-   .  =Miss Whippy (GB) (2007 f. by Whipper). Winner at 2 and 3, 6,907 Pounds, in England. (Total:
+-   .  .  $11,105).
+-   .  =Abundant (GB) (2000 f. by Zafonic). Winner at 2, 6,849 Pounds, in England. (Total: $10,776). Died
+-   .  .     2014. Producer.
+-   .  =Tazaamun (IRE) (2008 g. by Shirocco (GER)). Winner at 4, 2,487 Pounds, in England; unplaced, 400
+-   .  .  Euro, in Ireland. (Total: $4,436).
+-   .  =Wondrous (GB) (2002 c. by =Danzero (AUS)). 4 wins at 4 and 5 in Greece.
+-   .  =Unnamed (2010 c. by =Authorized (IRE)). Died 2013.
+-   .  =Our Charlie (GB) (2004 g. by Zamindar). Unraced in Great Britain.
+-   .  =Pageantry (IRE) (2009 g. by =Manduro (GER)). Unplaced in Ireland.
+-   .  =Thomas Paine (GB) (1999 c. by Green Desert). Unplaced in England.
+-   =Teufelberg (1991 c. by Unfuwain). Unraced in Great Britain.
+-   =Rapinski (GB) (1989 g. by =Petoski (GB)). Unplaced in England.
+-
+-4th dam
+-<strong>=REPROCOLOR (GB)</strong>, by =Jimmy Reppin (GB). 3 wins at 3 in England, 1st Oaks Trial S.<strong>-G3</strong>,
+-      Lancashire Oaks<strong>-G3</strong>, Pretty Polly S., 3rd Yorkshire Oaks<strong>-G1</strong>, Somerville Tattersall
+-      S. Died 2008. Dam of 18 foals, 13 to race, 9 winners--
+-   <strong>$CEZANNE (GB)</strong> (1989 c. by Ajdal). 4 wins, 3 to 10, 68,892 Pounds, in England, 2nd Burtonwood
+-   .  Brewery Rose of Lancaster S. <strong>[G3]</strong>; 5 wins in 8 starts at 4 and 5, 634,390 Dirhams, in
+-   .  United Arab Emirates, hwt. older horse at 5 on United Arab Emirates Free Hand., 11 - 14 fur.
+-   .  (1994), hwt. older horse at 5 on United Arab Emirates Free Hand., 9 1/2 - 11 fur. (1994), 2nd His
+-   .  Highness Sheikh Maktoum bin Rashid Al Maktoum Challenge-Round 3 [L]; winner in 1 start at 5, 38,347
+-   .  Euro, in Germany, hwt. older horse at 5 on German Free Hand., 9 1/2 - 11 fur. (1994), 1st 39
+-   .  Spreti-Rennen <strong>[G3]</strong>; winner in 1 start at 5, 110,848 Euro, in Ireland, hwt. older horse at
+-   .  5 on Irish Free Hand., 9 1/2 - 11 fur. (1994), 1st Guinness Champion S. <strong>[G1]</strong>; unplaced in
+-   .  1 start in Italy; unplaced in 1 start in N.A./U.S. Sent from England to United Arab Emirates in
+-   .  1993. Returned to United States from Great Britain in 1994. (Total: $460,084).
+-   <strong>=COLORSPIN</strong> (1983 f. by =High Top (IRE)). 2 wins at 2 in England, 1st Rochford Thompson
+-   .     Newbury S. [L], 3rd Tattersalls Musidora S. <strong>[G3]</strong>, 4th Gold Seal Epsom Oaks
+-   .     <strong>[G1]</strong>, Yorkshire Oaks <strong>[G1]</strong>; winner at 3 in Ireland, 1st Gilltown Stud Irish
+-   .     Oaks <strong>[G1]</strong>. Dam of 16 foals, 13 to race, 7 winners--
+-   .  <strong>=KAYF TARA (GB)</strong> (1994 c. by Sadler's Wells). 6 wins in 10 starts, 3 to 6, 399,135 Pounds,
+-   .  .  in England, hwt. older horse at 4 on English Free Hand., 14 fur. & up (1998), hwt. older horse
+-   .  .  at 5 on English Free Hand., 14 fur. & up (1999), hwt. older horse at 6 on English Free Hand., 14
+-   .  .  fur. & up (2000), 1st Gold Cup <strong>[G1]</strong>, Ascot Gold Cup <strong>[G1]</strong>, Merewood Homes
+-   .  .  Yorkshire Cup <strong>[G2]</strong>, Goodwood Cup <strong>[G2]</strong>, 3rd Gold Cup <strong>[G1]</strong>, Bonusprint
+-   .  .  Henry II S. <strong>[G3]</strong>; winner in 2 starts at 4 and 5, 250,901 Euro, in Ireland, hwt. older
+-   .  .  horse at 4 on Irish Free Hand., 14 fur. & up (1998), hwt. older horse at 5 on Irish Free Hand.,
+-   .  .  14 fur. & up (1999), 1st Jefferson Smurfit Memorial Irish St. Leger <strong>[G1]</strong> twice; 2 wins
+-   .  .  in 3 starts at 5, 96,043 Euro, in France, 1st Prix Vicomtesse Vigier <strong>[G2]</strong>, Prix
+-   .  .  Kergorlay <strong>[G2]</strong>. European Champion Stayer (1998), European champion stayer (1999),
+-   .  .  European champion stayer (2000), hwt. older horse at 4 on European Free Hand., 14 fur. & up
+-   .  .  (1998), hwt. older horse at 5 on European Free Hand., 14 fur. & up (1999). (Total: $1,006,660).
+-   .  .  Sire.
+-   .  <strong>$OPERA HOUSE (GB)</strong> (1988 c. by Sadler's Wells). 7 wins in 13 starts, 2 to 5, 666,429
+-   .  .  Pounds, in England, hwt. older horse at 5 on English Free Hand., 11 - 14 fur. (1993), hwt. older
+-   .  .  horse at 5 on English Free Hand., 9 1/2 - 11 fur. (1993), 1st King George VI & Queen Elizabeth
+-   .  .  Diamond S. <strong>[G1]</strong>, Coral-Eclipse S. <strong>[G1]</strong>, Ever Ready Coronation Cup
+-   .  .  <strong>[G1]</strong>, Hoover Cumberland Lodge S. <strong>[G3]</strong>, Brigadier Gerard S. <strong>[G3]</strong>, 2nd
+-   .  .  Coral-Eclipse S. <strong>[G1]</strong>, ROA Foundation S. [L], 3rd King George VI & Queen Elizabeth
+-   .  .  Diamond S. <strong>[G1]</strong>, TGI Friday's Gordon Richards E.B.F. S. <strong>[G3]</strong>; winner in 2
+-   .  .  starts at 4, 91,325 Euro, in Ireland, hwt. older horse at 4 on Irish Free Hand., 11 - 14 fur.
+-   .  .  (1992), 1st Tattersalls Rogers Gold Cup <strong>[G2]</strong>, 2nd Guinness Champion S. <strong>[G1]</strong>;
+-   .  .  placed in 2 starts at 5, 182,939 Euro, in France, hwt. older horse at 5 on French Free Hand., 11
+-   .  .  - 14 fur. (1993), 2nd Prix Ganay <strong>[G1]</strong>, 3rd CIGA Prix de l'Arc de Triomphe
+-   .  .  <strong>[G1]</strong>; unplaced in 1 start in N.A./U.S. European Champion older horse (1993), hwt. older
+-   .  .  horse at 5 on European Free Hand., 11 - 13 1/2 fur. (1993). Returned to United States from Great
+-   .  .  Britain in 1993. (Total: $1,397,456). Among the leading sires in Japan (2000)Sire.
+-   .  <strong>=ZEE ZEE TOP (GB)</strong> (1999 f. by Zafonic). Winner at 3 and 4, 57,360 Pounds, in England, 1st
+-   .  .     Tote.co.uk Middleton S. [L], 2nd Lanwades Stud Severals S. [L], 3rd Vodafone Nassau S.
+-   .  .     <strong>[G1]</strong>; winner in 1 start at 4, 142,850 Euro, in France, 1st Prix de l'Opera Casino
+-   .  .     Barriere d'Enghien Les Bains <strong>[G1]</strong>; placed in 1 start at 4, 11,700 Euro, in Ireland,
+-   .  .     3rd Audi Pretty Polly S. <strong>[G2]</strong>. (Total: $270,501). Dam of 12 foals, 7 to race, 6
+-   .  .     winners--
+-   .  .  <strong>=IZZI TOP (GB)</strong> (2008 f. by =Pivotal (GB)). 3 wins at 3 and 4, 147,945 Pounds, in
+-   .  .  .     England, 1st Betfred Middleton S. <strong>[G2]</strong>, Qatar Bloodstock Dahlia S. <strong>[G3]</strong>,
+-   .  .  .     Swettenham Stud Fillies' Trial [L], 3rd Investec Epsom Oaks <strong>[G1]</strong>, Tweenhills
+-   .  .  .     Pretty Polly S. [L]; winner in 3 starts at 3 and 4, 274,290 Euro, in France, 1st Darley
+-   .  .  .     Prix Jean Romanet <strong>[G1]</strong>, Prix de Flore <strong>[G3]</strong>, 2nd Prix de l'Opera Longines
+-   .  .  .     <strong>[G1]</strong>; winner in 1 start at 4, 114,000 Euro, in Ireland, 1st Barclays Bank Ireland
+-   .  .  .     Pretty Polly S. <strong>[G1]</strong>. (Total: $734,076). Dam of 8 foals, 5 to race, 5 winners--
+-   .  .  .  <strong>=PRINCE EIJI (GB)</strong> (2016 g. by Dubawi (IRE)). Winner at 2, 36,257 Pounds, in England,
+-   .  .  .  .  2nd Charlie Waller Trust Paradise S. [L], 3rd Darley S. <strong>[G3]</strong>, Tattersalls
+-   .  .  .  .  Somerville S. <strong>[G3]</strong>; winner at 6, 2022, 123,543 Dirhams, in United Arab Emirates,
+-   .  .  .  .  1st Reserve Forces Command Dubai Creek Mile [L]; unplaced in 1 start, 3,000 Euro, in
+-   .  .  .  .  France. (Total: $84,241).
+-   .  .  .  <strong>=ZAGATO (GB)</strong> (2018 g. by =Frankel (GB)). Winner at 3, 10,512 Pounds, in England; 2
+-   .  .  .  .  wins in 4 starts at 4, 2022 in Bahrain, 1st His Majesty King Hamad bin Isa Al Khalifa Cup
+-   .  .  .  .  King of Bahrain Sponsored by BAPCO [LR]. (Total: $14,404).
+-   .  .  .  <strong>=Willie John (GB)</strong> (2015 g. by $Dansili (GB)). Winner at 2 and 3, 24,887 Pounds, in
+-   .  .  .  .  England, 2nd Betfair Best Odds On ITV Races Festival S. [L]; unplaced in 1 start in
+-   .  .  .  .  France. (Total: $32,119).
+-   .  .  <strong>=JAZZI TOP (GB)</strong> (2012 f. by =Danehill Dancer (IRE)). 2 wins at 3, 59,703 Pounds, in
+-   .  .  .     England, 1st Tweenhills Stallions Pretty Polly S. [L]; winner in 2 starts at 3, 165,540
+-   .  .  .     Euro, in France, 1st Prix de la Nonette <strong>[G2]</strong>, 2nd Prix de l'Opera Longines
+-   .  .  .     <strong>[G1]</strong>. (Total: $275,616). Producer.
+-   .  .  <strong>EMARAATY (GB)</strong> (2015 g. by Dubawi (IRE)). Winner at 2 and 3, 27,856 Pounds, in England;
+-   .  .  .  4 wins, 4 to 7, 2022, $348,960, in N.A./U.S., 1st Bernard Baruch H. <strong>[G3]</strong> (SAR,
+-   .  .  .  $110,000). Sent from Great Britain to United States in 2018. (Total: $386,443).
+-   .  .  =Zee Zee Gee (GB) (2005 f. by $Galileo (IRE)). Unraced in Great Britain. Dam of 10 foals, 8 to
+-   .  .  .     race, 4 winners--
+-   .  .  .  <strong>=Farzeen (GB)</strong> (2016 f. by =Farhh (GB)). 2 wins at 3, 26,785 Pounds, in England, 2nd
+-   .  .  .  .  Betfred Valiant S. <strong>[G3]</strong>, 3rd Betvictor British E.B.F. Dick Hern S. [L], Queen
+-   .  .  .  .  Charlotte S. [L]; unplaced in 1 start in France. (Total: $33,561).
+-   .  <strong>=Highland Dress</strong> (1989 c. by Lomond). 4 wins, 3 to 5, 39,106 Pounds, in England, 2nd
+-   .  .  Brigadier Gerard S. <strong>[G3]</strong>, 3rd Hardwicke S. <strong>[G2]</strong>, Magnolia S. [L]; placed at 6
+-   .  .  and 7, 20,000 Dirhams, in United Arab Emirates; unplaced in 1 start, 952 Euro, in Ireland. Sent
+-   .  .  from Great Britain to United Arab Emirates in 1900. (Total: $67,735).
+-   .  =Feel Good Factor (GB) (2000 g. by $Singspiel (IRE)). Placed at 3, 1,284 Pounds, in England; winner
+-   .  .  at 5 and 7, 32,359 Euro, in Ireland. (Total: $43,270).
+-   .  =Justification (GB) (2008 g. by $Montjeu (IRE)). Winner at 3 and 5, 19,605 Euro, in Ireland; winner
+-   .  .  at 9, 8,718 Pounds, in England. (Total: $37,632).
+-   .  =Turn of A Century (GB) (1998 f. by Halling). Winner at 3, 6,117 Pounds, in England. (Total:
+-   .  .     $8,689). Producer.
+-   .  =Polanski (GB) (1991 c. by Polish Precedent). Placed in 2 starts at 3, 1,110 Pounds, in England;
+-   .  .  unplaced in 2 starts in United Arab Emirates. Sent from Great Britain to United Arab Emirates in
+-   .  .  1900. (Total: $1,706). Died 2009.
+-   .  =Galaxy Highflyer (GB) (2004 f. by $Galileo (IRE)). Unraced in Great Britain. Dam of 11 foals, 7 to
+-   .  .     race, 5 winners--
+-   .  .  <strong>=Oklahoma City (GB)</strong> (2011 c. by Oasis Dream (GB)). Winner at 2, 40,405 Euro, in
+-   .  .  .  Ireland, 2nd Juddmonte Beresford S. <strong>[G2]</strong>, Jebel Ali Racecourse & Stables Anglesey S.
+-   .  .  .  <strong>[G3]</strong>; winner in 2 starts at 2, 279,150 Pounds, in England, 2nd Autumn S.
+-   .  .  .  <strong>[G3]</strong>. (Total: $500,359).
+-   .  .  <strong>=Cosmic Princess (GB)</strong> (2017 f. by =Kingman (GB)). Winner at 3, 7,313 Pounds, in
+-   .  .  .  England, 3rd British Stallion Studs E.B.F. Chalice S. [L]; placed in 1 start at 3, 8,100
+-   .  .  .  Euro, in France, 2nd Prix des Tourelles F.E.E. [L]; unplaced in 1 start in Germany. (Total:
+-   .  .  .  $18,980).
+-   .  =Colorado Dawn (GB) (2006 f. by Fantastic Light). Unraced in Great Britain. Died 2015. Producer.
+-   .  =Color Precedent (1993 f. by Polish Precedent). Unraced in Great Britain.
+-   .  =Spinning The Yarn (GB) (1996 f. by $Barathea (IRE)). Unplaced in 1 start in England. Died 2009.
+-   .  .     Dam of 8 foals, 6 to race, 3 winners--
+-   .  .  <strong>NECKLACE (GB)</strong> (2001 f. by =Darshaan (GB)). 2 wins in 4 starts at 2, 223,100 Euro, in
+-   .  .  .     Ireland, hwt. filly at 2 on Irish Free Hand. (2003), 1st Moyglare Stud S. <strong>[G1]</strong>,
+-   .  .  .     Robert H. Griffin Debutante S. <strong>[G3]</strong>; placed in 2 starts at 3, $85,000, in
+-   .  .  .     N.A./U.S., 3rd Beverly D. S. <strong>[G1]</strong> (AP, $75,000); unplaced in 1 start in France;
+-   .  .  .     unplaced in 2 starts, 17,500 Pounds, in England. Sent from Ireland to United States in
+-   .  .  .     2004. Sent from United States to Ireland in 2004. Returned to United States from Ireland
+-   .  .  .     in 2004. Sent from United States to Ireland in 2004. (Total: $364,457). Producer.
+-   .  .  =Unreachable Star (GB) (2004 f. by Halling). Placed at 3, 2,043 Pounds, in England. (Total:
+-   .  .  .     $4,133). Dam of 6 foals, 6 to race, 2 winners--
+-   .  .  .  <strong>=Truth Or Dare (GB)</strong> (2011 g. by =Invincible Spirit (IRE)). 3 wins at 2 and 6, 77,940
+-   .  .  .  .  Pounds, in England, 3rd Autumn S. <strong>[G3]</strong>, ebm-papst Feilden S. [L], Tamdown Fairway
+-   .  .  .  .  S. [L]. (Total: $112,014).
+-   .  .  =Pivotting (GB) (2006 f. by =Pivotal (GB)). Unraced in Great Britain. Dam of 8 foals, 6 to race,
+-   .  .  .     3 winners--
+-   .  .  .  <strong>=GOOD OLD BOY LUKEY (GB)</strong> (2011 c. by Selkirk). 3 wins in 3 starts at 2, 51,837
+-   .  .  .  .  Pounds, in England, 1st 32Red.com Superlative S. <strong>[G2]</strong>; winner at 3,
+-   .  .  .  .  $1,577,575(HK), in Hong Kong. Registered in Hong Kong as Selkirk Star. (Total: $281,803).
+-   .  .  .  <strong>Oakley Girl (GB)</strong> (2012 f. by =Sir Percy (GB)). 3 wins at 3 and 4, 48,596 Pounds, in
+-   .  .  .  .  England, 2nd Betfred 1400 Shops Nationwide E.B.F. Conqueror S. [L], 3rd Betfred TV/E.B.F.
+-   .  .  .  .  Stallions Hoppings S. [L]; placed in 2 starts at 4, $14,667, in N.A./U.S., 3rd Kentucky
+-   .  .  .  .  Downs Ladies Marathon S. [L] (KD, $14,250). Sent from Great Britain to United States in
+-   .  .  .  .  2016. Sent from United States to Ireland in 2016. (Total: $86,452). Producer.
+-   .  .  =Remarkable Story (GB) (2002 f. by $Mark of Esteem (IRE)). Unplaced in 1 start in England. Dam
+-   .  .  .     of 8 foals, 8 to race, 5 winners--
+-   .  .  .  <strong>=GRENDISAR (IRE)</strong> (2010 c. by =Invincible Spirit (IRE)). 10 wins, 3 to 6, 418,648
+-   .  .  .  .  Pounds, in England, 1st Coral Winter Derby S. <strong>[G3]</strong>, Coral.co.uk Winter Derby
+-   .  .  .  .  Trial [L] twice, Coral App Download From The App Store Quebec S. [L], Betdaq 50%
+-   .  .  .  .  Commission Refund Floodlit S. [L], 2nd Coral.co.uk Winter Derby <strong>[G3]</strong>, Coral.co.uk
+-   .  .  .  .  Churchill S. [L], Betbright.com Wild Flower S. [L], Coral Quebec S. [L], 3rd Betway Quebec
+-   .  .  .  .  S. [L]; unplaced in 1 start in Turkey. (Total: $618,850).
+-   .  =Mafnood (GB) (1997 c. by Rainbow Quest). Unplaced in 1 start, 1,650 Dirhams, in United Arab
+-   .  .  Emirates. (Total: $449).
+-   .  =Chioroscuro (GB) (2005 g. by =Act One (GB)). Unplaced in England.
+-   .  =Team Player (GB) (2001 c. by $Mark of Esteem (IRE)). Unplaced in 1 start in England; unplaced in 1
+-   .  .  start in France. Sire.
+-   .  =Stencil (1992 g. by Nashwan). Unplaced in 1 start in England.
+-   <strong>=BELLA COLORA (GB)</strong> (1982 f. by Bellypha (IRE)). 3 wins at 2 and 3 in England, 1st Waterford
+-   .     Candelabra S.<strong>-G3</strong>, Sheraton Park Tower Lupe S. [L], 2nd Nell Gwyn S. <strong>[G3]</strong>,
+-   .     Sceptre S. [L], 3rd General Accident One Thousand Guineas <strong>[G1]</strong>, Child S. <strong>[G3]</strong>;
+-   .     winner in 1 start at 3 in France, 1st Prix de l'Opera <strong>[G2]</strong>. Died 2008. Dam of 13 foals,
+-   .     11 to race, 7 winners--
+-   .  <strong>STAGECRAFT (GB)</strong> (1987 c. by Sadler's Wells). 4 wins at 3 and 4, 178,475 Pounds, in
+-   .  .  England, hwt. older horse at 4 on English Free Hand., 9 1/2 - 11 fur. (1991), 1st Prince of
+-   .  .  Wales's S. <strong>[G2]</strong>, Brigadier Gerard S. <strong>[G3]</strong>, James Seymour S. [L], 2nd
+-   .  .  Coral-Eclipse S. <strong>[G1]</strong>, 3rd Juddmonte International S. <strong>[G1]</strong>; 2 wins at 6,
+-   .  .  $237,820, in N.A./U.S., 1st Gulfstream Park Budweiser Breeders' Cup H. <strong>[G2]</strong>-ncr, 1 3/8
+-   .  .  miles in 2:13.24, Canadian Turf H. <strong>[G2]</strong>, 2nd Pan American H. <strong>[G2]</strong>, 3rd River
+-   .  .  City H. [L] (CD, $11,240); placed in 1 start at 4, 9,147 Euro, in France, hwt. older horse at 4
+-   .  .  on French Free Hand., 9 1/2 - 11 fur. (1991), 3rd CIGA Prix Dollar <strong>[G2]</strong>; placed in 1
+-   .  .  start at 4, 17,522 Euro, in Ireland, 3rd Meadow Meats Irish Champion S. <strong>[G1]</strong>. Hwt.
+-   .  .  older horse at 4 on European Free Hand., 9 1/2 - 11 fur. (1991). Sent from Great Britain to
+-   .  .  United States in 1991. Sent from United States to Chile in 1993. (Total: $566,228). Sire.
+-   .  <strong>=BALALAIKA (GB)</strong> (1993 f. by Sadler's Wells). Winner at 3 and 4, 28,327 Pounds, in England,
+-   .  .     hwt. older mare at 4 on English Free Hand., 7 - 9 1/2 fur. (1997), 1st Dahlia S. [L], 2nd
+-   .  .     John Musker S. [L], Food Brokers Aphrodite S. [L], Ben Marshall S. [L], 3rd Strensall S. [L];
+-   .  .     unplaced in 1 start, 6,098 Euro, in France. (Total: $52,097). Dam of 12 foals, 8 to race, 5
+-   .  .     winners--
+-   .  .  <strong>=ALKAADHEM (GB)</strong> (2000 c. by Green Desert). 5 wins at 3 and 4, 102,861 Pounds, in
+-   .  .  .  England, 1st Select Racing UK On Sky 432 S. <strong>[G3]</strong>, Peters Fairline Festival S. [L],
+-   .  .  .  Merbury Catering Consultants Foundation S. [L], 3rd Daily Record Scottish Derby
+-   .  .  .  <strong>[G2]</strong>, Glorious S. [L]; winner in 2 starts at 5, 964,010 Dirhams, in United Arab
+-   .  .  .  Emirates, 1st Bulgari Jebel Hatta <strong>[G2]</strong>. (Total: $442,861). Sire.
+-   .  .  <strong>=Raising Sand (GB)</strong> (2012 g. by Oasis Dream (GB)). 9 wins, 4 to 10, 2022, 350,688
+-   .  .  .  Pounds, in England, 3rd Bet In Play On The Betfair Exchange Superior Mile S. <strong>[G3]</strong>.
+-   .  .  .  (Total: $444,775).
+-   .  .  =Play Bouzouki (GB) (2001 f. by Halling). Placed at 3, 904 Pounds, in England. (Total: $1,633).
+-   .  .  .     Died 2020. Dam of 11 foals, 7 to race, 4 winners--
+-   .  .  .  <strong>=ZANETTO (GB)</strong> (2010 g. by =Medicean (GB)). 4 wins, 2 to 7, 141,713 Pounds, in
+-   .  .  .  .  England, 1st Bathwick Tyres Carnarvon S. [L], 2nd Betfred the Bonus King Sirenia S.
+-   .  .  .  .  <strong>[G3]</strong>; unplaced in 1 start in Germany. (Total: $219,561).
+-   .  .  =Lady Babooshka (GB) (2011 f. by $Cape Cross (IRE)). Unraced in Great Britain. Dam of 5 foals, 3
+-   .  .  .     to race, 3 winners--
+-   .  .  .  <strong>=RUSSIAN CAMELOT (IRE)</strong> (2017 c. by =Camelot (GB)). 4 wins at 2 and 3,
+-   .  .  .  .  $2,346,225(AUS), in Australia, 1st Hyland Race Colours Underwood S. <strong>[G1]</strong>, Tab
+-   .  .  .  .  South Australian Derby <strong>[G1]</strong>, 2nd Neds Caulfield S. <strong>[G1]</strong>, PFD Food
+-   .  .  .  .  Services Makybe Diva S. <strong>[G1]</strong>, All-Star Mile [L], TCL TV Batman S. [L], 3rd
+-   .  .  .  .  Ladbrokes Cox Plate <strong>[G1]</strong>. (Total: $1,698,314).
+-   .  .  =Likeable (GB) (2005 f. by =Dalakhani (IRE)). Unraced in Great Britain. Dam of 10 foals, 9 to
+-   .  .  .     race, 6 winners--
+-   .  .  .  <strong>=CHECKANDCHALLENGE (GB)</strong> (2019 c. by =Fast Company (IRE)). Winner at 2 and 3, 2022,
+-   .  .  .  .  150,338 Pounds, in England, 1st Coral Burradon S. [L]; winner in 2 starts at 3, 2022,
+-   .  .  .  .  61,000 Euro, in France, 1st Prix Daphnis <strong>[G3]</strong>, 3rd Qatar Prix Daniel Wildenstein
+-   .  .  .  .  <strong>[G2]</strong>. (Total: $243,340).
+-   .  <strong>=MULLINS BAY (GB)</strong> (2001 c. by Machiavellian). Winner at 3, 20,117 Euro, in Ireland; 2 wins
+-   .  .  at 4, 155,685 Pounds, in England, 1st William Hill Poker Grand Prix Strensall S. <strong>[G3]</strong>,
+-   .  .  2nd Lexus Darley S. <strong>[G3]</strong>, Wolferton H. [L], 3rd Select Racing UK On Sky 432 S.
+-   .  .  <strong>[G3]</strong>; placed in 1 start at 5, 28,050 Euro, in Italy, 2nd Premio Ribot <strong>[G2]</strong>;
+-   .  .  placed in 2 starts at 6, 514,138 Dirhams, in United Arab Emirates, 2nd Haafhd Sheikh Maktoum bin
+-   .  .  Rashid Al Maktoum Challenge-Round 2 <strong>[G3]</strong>, 3rd Etisalat Godolphin Mile <strong>[G2]</strong>.
+-   .  .  (Total: $474,805). Sire.
+-   .  <strong>=HYABELLA (GB)</strong> (1988 f. by =Shirley Heights (GB)). 3 wins at 3, 24,945 Pounds, in England,
+-   .  .     1st Ben Marshall S. [L], Atalanta S. [L]. (Total: $42,847). Died 2020. Dam of 15 foals, 11 to
+-   .  .     race, 7 winners--
+-   .  .  <strong>=POET (GB)</strong> (2005 g. by =Pivotal (GB)). 4 wins at 3 and 4, 173,460 Euro, in Ireland, 1st
+-   .  .  .  At the Races Kilternan S. <strong>[G3]</strong>, Vincent O'Brien Memorial Ruby S. [L], 2nd Solonaway
+-   .  .  .  S. <strong>[G3]</strong>, Jockey Club of Turkey Trigo S. [L], 3rd Desmond S. <strong>[G3]</strong>; 4 wins, 5
+-   .  .  .  to 7, 132,216 Pounds, in England, 1st Totesport.com Rose of Lancaster S. <strong>[G3]</strong>,
+-   .  .  .  Williamhill.com Doonside Cup S. [L], Calico Cat at Chrisbeekracing.com Steventon S. [L], 2nd
+-   .  .  .  John Smith's St. Simon S. <strong>[G3]</strong>, Bet365 Gordon Richards S. <strong>[G3]</strong>, Piper
+-   .  .  .  Heidsieck Champagne Brigadier Gerard S. <strong>[G3]</strong>, 3rd Whiteley Clinic Select S.
+-   .  .  .  <strong>[G3]</strong>, John Porter Dubai Duty Free Finest Surprise S. <strong>[G3]</strong>, Shadwell Beech
+-   .  .  .  House Stud Steventon S. [L], Tuddenham Mill Feilden S. [L]; placed in 1 start at 6, 5,500
+-   .  .  .  Euro, in Germany, 3rd Hessen-Pokal <strong>[G3]</strong>; unplaced in 2 starts in United Arab
+-   .  .  .  Emirates; unplaced, 25,100 Euro, in France. (Total: $500,496).
+-   .  .  <strong>=Hothaifah (GB)</strong> (1999 c. by Green Desert). 2 wins at 2, 54,268 Euro, in France, 2nd
+-   .  .  .  Prix Eclipse <strong>[G3]</strong>; unplaced in 1 start in Saudi Arabia; unplaced in 1 start in
+-   .  .  .  United Arab Emirates. (Total: $49,606).
+-   .  .  Summer Dance (GB) (1994 f. by Sadler's Wells). Winner at 3, 5,305 Pounds, in England. Sent from
+-   .  .  .     Great Britain to United States in 1997. Sent from United States to Great Britain in 2001.
+-   .  .  .     (Total: $8,520). Dam of 9 foals, 6 to race, 4 winners--
+-   .  .  .  <strong>=CIELO CANARIAS (IRE)</strong> (2008 g. by =Exceed And Excel (AUS)). 12 wins, 3 to 7 in
+-   .  .  .  .  Spain, champion grass horse in Spain (2012), champion miler in Spain (2012), champion
+-   .  .  .  .  miler in Spain (2013), 1st Gran Premio de La Hispanidad [L], Gran Premio Gobierno Vasco
+-   .  .  .  .  [L]; placed at 5 and 7, 14,000 Euro, in France, 3rd Prix Jacques de Bremond [L]; unplaced
+-   .  .  .  .  in 1 start in Italy. (Total: $16,996).
+-   .  .  =Hyperspectra (GB) (1995 f. by Rainbow Quest). Winner at 3, 3,636 Pounds, in England. (Total:
+-   .  .  .     $6,204). Dam of 11 foals, 10 to race, 9 winners--
+-   .  .  .  <strong>FRANCE (GB)</strong> (2000 c. by $Desert Prince (IRE)). Winner at 2 and 3, 171,400 Euro, in
+-   .  .  .  .  Ireland, 1st Rock of Gibraltar E.B.F. Tetrarch S. <strong>[G3]</strong>, 2nd Entenmanns Irish Two
+-   .  .  .  .  Thousand Guineas <strong>[G1]</strong>, 3rd Goffs International S. <strong>[G2]</strong>, Killavullan S.
+-   .  .  .  .  <strong>[G3]</strong>; placed at 2, 1,178 Pounds, in England; unplaced in 1 start, $20,000, in
+-   .  .  .  .  N.A./U.S.; unplaced in 1 start, 19,985 Euro, in France. Sent from Ireland to United States
+-   .  .  .  .  in 2003. Sent from United States to Ireland in 2003. (Total: $238,190). Sire.
+-   .  .  .  <strong>=MEDIA HYPE (GB)</strong> (2007 c. by =Tiger Hill (IRE)). 5 wins, 4 to 8, 52,471 Pounds, in
+-   .  .  .  .  England, 1st Betdaq Casino Games Wild Flower S. [L]; placed in 1 start at 5, 168,000
+-   .  .  .  .  Krona, in Sweden, 3rd Stockholm Cup International <strong>[G3]</strong>; unplaced in 1 start,
+-   .  .  .  .  2,600 Euro, in France. (Total: $111,662).
+-   .  .  .  <strong>=HIPPY HIPPY SHAKE (GB)</strong> (2009 f. by =Danehill Dancer (IRE)). 3 wins at 3 and 4,
+-   .  .  .  .  54,056 Pounds, in England, 1st British Stallion Studs Supporting British Racing E.B.F.
+-   .  .  .  .  Lyric Fillies' S. [L], 2nd E.B.F. Upavon Fillies S. [L]. (Total: $84,094). Producer.
+-   .  .  =Ventura Highway (GB) (2000 f. by Machiavellian). Unraced in Great Britain. Died 2016. Dam of 11
+-   .  .  .     foals, 11 to race, 5 winners--
+-   .  .  .  <strong>=ALESSANDRO VOLTA (GB)</strong> (2005 g. by $Montjeu (IRE)). Winner at 2, 83,927 Euro, in
+-   .  .  .  .  Ireland, 1st Eyrefield S. [L]; winner at 3, 53,144 Pounds, in England, 1st Totesport.com
+-   .  .  .  .  Derby Trial S. <strong>[G3]</strong>; unplaced in 1 start in France; unplaced, $3,850(AUS), in
+-   .  .  .  .  Australia. (Total: $235,758).
+-   .  =Bella Lambada (GB) (1997 f. by Lammtarra). Winner in 2 starts at 3, 5,642 Pounds, in England.
+-   .  .     (Total: $8,545). Died 2015. Dam of 10 foals, 8 to race, 6 winners--
+-   .  .  <strong>=MARSH DAISY (GB)</strong> (2011 f. by =Pivotal (GB)). 2 wins at 3, 33,520 Pounds, in England,
+-   .  .  .     1st Bibendum Height Of Fashion S. [L], 3rd R H Hall Foundation S. [L]; winner at 4, 24,000
+-   .  .  .     Euro, in France, 1st Grand Prix de Fontainebleau - Fonds Europeen de l'Elevage [L];
+-   .  .  .     unplaced in 1 start in Ireland. (Total: $83,138). Dam of 5 foals, 3 to race, 2 winners--
+-   .  .  .  <strong>=Light Blush (IRE)</strong> (2017 f. by =Kodiac (GB)). Winner at 2, 14,213 Pounds, in
+-   .  .  .  .  England, 2nd British Stallion Studs E.B.F. Star S. [L]; winner in 2 starts at 3, 13,500
+-   .  .  .  .  Euro, in France; placed in 2 starts at 3, 3,250 Euro, in Germany, 2nd Schloss
+-   .  .  .  .  Roland-Stutenpreis [L]; placed in 2 starts at 3, 64,267 Dirhams, in United Arab Emirates,
+-   .  .  .  .  3rd Mohammed Bin Rashid Al Maktoum City District One Meydan Classic [L]. (Total:
+-   .  .  .  .  $55,100).
+-   .  .  <strong>=Yankee Doodle (GB)</strong> (2006 c. by =Dalakhani (IRE)). Winner at 3, 25,467 Euro, in
+-   .  .  .  Ireland, 2nd Challenge S. [L], 3rd At the Races Curragh Cup <strong>[G3]</strong>; placed in 1 start
+-   .  .  .  at 3, 15,064 Pounds, in England, 2nd Queen's Vase <strong>[G3]</strong>. (Total: $59,989).
+-   .  .  <strong>=Fontana Amorosa (GB)</strong> (2004 f. by =Cadeaux Genereux (GB)). Winner at 2 and 3, 14,857
+-   .  .  .  Pounds, in England, 2nd Ultimate Travel Carnarvon S. [L]. (Total: $28,896).
+-   .  .  =Belle Josephine (GB) (2008 f. by Dubawi (IRE)). 2 wins in 3 starts at 4, 5,275 Pounds, in
+-   .  .  .     England. (Total: $8,346). Dam of 9 foals, 6 to race, 2 winners--
+-   .  .  .  <strong>=MILDENBERGER (GB)</strong> (2015 c. by =Teofilo (IRE)). 7 wins, 2 to 6, 203,673 Pounds, in
+-   .  .  .  .  England, 1st Bet365 Feilden S. [L], British Stallion Studs E.B.F. Stonehenge S. [L], 2nd
+-   .  .  .  .  Betfred Dante S. <strong>[G2]</strong>, Betway Sagaro S. <strong>[G3]</strong>, 3rd Qatar Vintage S.
+-   .  .  .  .  <strong>[G2]</strong>, Matchbook Yorkshire Cup <strong>[G2]</strong>, Roaring Lion Jockey Club S.
+-   .  .  .  .  <strong>[G2]</strong>, Juddmonte Royal Lodge S. <strong>[G2]</strong>, Coral Marathon Esher S. [L];
+-   .  .  .  .  unplaced in 1 start, 187,500 Riyals, in Saudi Arabia. (Total: $320,978).
+-   .  .  =Strictly Lambada (GB) (2007 f. by Red Ransom). Placed at 3, 2,811 Pounds, in England. (Total:
+-   .  .  .     $4,370). Dam of 9 foals, 6 to race, 6 winners--
+-   .  .  .  <strong>=Last Tango Inparis (GB)</strong> (2013 f. by =Aqlaam (GB)). Winner at 2, 7,779 Pounds, in
+-   .  .  .  .  England; placed in 2 starts at 3, 11,000 Euro, in France, 2nd Prix de Thiberville [L].
+-   .  .  .  .  (Total: $23,948). Producer.
+-   .  Bella Ballerina (GB) (1990 f. by Sadler's Wells). Winner at 3, 4,627 Pounds, in England. Sent from
+-   .  .     Great Britain to United States in 1997. Sent from United States to Great Britain in 2002.
+-   .  .     (Total: $7,166). Dam of 7 foals, 5 to race, 2 winners--
+-   .  .  <strong>Design Perfection</strong> (2000 f. by Diesis (GB)). Winner in 1 start at 3, 5,694 Pounds, in
+-   .  .  .     England; placed in 1 start at 3, 6,150 Euro, in France, 3rd Prix de Liancourt [L]. Sent
+-   .  .  .     from United States to Great Britain in 2000. (Total: $15,737). Producer.
+-   .  .  Ballet Ballon (2002 f. by Rahy). Winner at 3, 5,669 Pounds, in England. Sent from United States
+-   .  .  .     to Great Britain in 2002. (Total: $10,112). Died 2016. Dam of 7 foals, 7 to race, 5
+-   .  .  .     winners--
+-   .  .  .  <strong>=BALLET CONCERTO (GB)</strong> (2013 g. by $Dansili (GB)). 6 wins at 3 and 4, 257,005 Pounds,
+-   .  .  .  .  in England, 1st Totepool Sovereign S. <strong>[G3]</strong>, 32red Superior Mile S. <strong>[G3]</strong>.
+-   .  .  .  .  (Total: $334,535).
+-   .  .  .  <strong>=Havane Smoker (GB)</strong> (2008 g. by Dubawi (IRE)). 3 wins at 2, 166,370 Euro, in France,
+-   .  .  .  .  2nd Poule d'Essai des Poulains-French Two Thousand Guineas <strong>[G1]</strong>, Prix Djebel
+-   .  .  .  .  <strong>[G3]</strong>, Prix des Chenes <strong>[G3]</strong>; winner at 6, $511,250(HK), in Hong Kong;
+-   .  .  .  .  unplaced in 1 start in England. Racing in Hong Kong as Leeli's Star. (Total: $295,408).
+-   .  =Alum Bay (1989 c. by =Reference Point (GB)). Winner at 4, 4,845 Pounds, in England. (Total:
+-   .  .  $8,355).
+-   .  =Jubilee Time (GB) (2000 c. by $Mark of Esteem (IRE)). Placed in 2 starts at 3, 449 Pounds, in
+-   .  .  England. (Total: $760).
+-   .  =Bella Cantata (GB) (2002 f. by $Singspiel (IRE)). Unraced in Great Britain. Dam of 9 foals, 9 to
+-   .  .     race, 5 winners--
+-   .  .  <strong>CASPAR NETSCHER (GB)</strong> (2009 c. by =Dutch Art (GB)). 4 wins at 2 and 3, 233,940 Pounds,
+-   .  .  .  in England, 1st Irish Thoroughbred Marketing Gimcrack S. <strong>[G2]</strong>, Dubai Duty Free Mill
+-   .  .  .  Reef S. <strong>[G2]</strong>, AON Greenham S. <strong>[G3]</strong>, 2nd Bet365 Lennox S. <strong>[G2]</strong>,
+-   .  .  .  Totescoop6 E.B.F. Guisborough S. [L], Compton Beauchamp Estates Rose Bowl S. [L], 3rd
+-   .  .  .  Tanqueray Richmond S. <strong>[G2]</strong>, Windsor Castle S. [L]; winner in 1 start at 3, 100,000
+-   .  .  .  Euro, in Germany, 1st Mehl-Mulhens-Rennen-German Two Thousand Guineas <strong>[G2]</strong>; winner
+-   .  .  .  in 1 start at 5, $180,000, in Canada, 1st Nearctic S. <strong>[G2]</strong> (WO, $180,000); placed in
+-   .  .  .  2 starts at 6, 64,291 Dirhams, in United Arab Emirates, 3rd Arabian Adventures Meydan Sprint
+-   .  .  .  <strong>[G3]</strong>; unplaced in 2 starts in N.A./U.S.; unplaced, 42,855 Euro, in France. Sent from
+-   .  .  .  Great Britain to United States in 2011. Sent from United States to Great Britain in 2011.
+-   .  .  .  Returned to United States from Great Britain in 2014. Sent from United States to Great
+-   .  .  .  Britain in 2014. (Total: $733,294).
+-   .  .  <strong>=BELLA SONATA (SAF)</strong> (2012 f. by Silvano (GER)). 5 wins, 3 to 5, 981,900 Rands, in South
+-   .  .  .     Africa, 1st Joburg Spring Fillies & Mares Challenge <strong>[G2]</strong>, 2nd HSH Princess
+-   .  .  .     Charlene Empress Club S. <strong>[G1]</strong>, Joburg Spring Fillies & Mares Challenge
+-   .  .  .     <strong>[G2]</strong>, Acacia H. <strong>[G3]</strong>, 3rd Jonsson Workwear Garden Province S.
+-   .  .  .     <strong>[G1]</strong>. (Total: $72,235).
+-   .  =Warning Belle (GB) (1995 f. by Warning (GB)). Unraced in Great Britain. Died 2014. Dam of 8 foals,
+-   .  .     7 to race, 5 winners--
+-   .  .  =Sierra (GB) (2001 f. by Dr Fong). 2 wins at 5, 3,775 Pounds, in England. (Total: $6,753). Dam
+-   .  .  .     of 5 foals, 5 to race, 2 winners--
+-   .  .  .  <strong>=Mister Music (GB)</strong> (2009 g. by $Singspiel (IRE)). 11 wins, 2 to 10, 165,001 Pounds,
+-   .  .  .  .  in England, 2nd Blue Square Feilden S. [L]. (Total: $246,513).
+-   .  .  =Siren Sound (GB) (2005 f. by $Singspiel (IRE)). Winner at 3, 4,508 Pounds, in England. (Total:
+-   .  .  .     $7,852). Died 2018. Dam of 5 foals, 5 to race, 5 winners--
+-   .  .  .  <strong>=Passion Blanche (GB)</strong> (2011 f. by =Dutch Art (GB)). 5 wins at 2 and 4, 92,350 Euro,
+-   .  .  .  .  in France, 3rd Prix de la Californie [L]. (Total: $120,624). Producer.
+-   .  =Questabelle (GB) (1996 f. by Rainbow Quest). Unplaced in 2 starts, 453 Pounds, in England. (Total:
+-   .  .     $734). Dam of 7 foals, 6 to race, 3 winners--
+-   .  .  <strong>=YOUR OLD PAL (GB)</strong> (2006 c. by Rock of Gibraltar (IRE)). Winner at 2 and 3, 71,552
+-   .  .  .  Pounds, in England, 1st Stanjames.com Newmarket S. [L], 2nd King Edward VII S. <strong>[G2]</strong>;
+-   .  .  .  4 wins, 4 to 8, $3,574,600(HK), in Hong Kong. Sent from England to Hong Kong in 2010. Racing
+-   .  .  .  in Hong Kong as Ride With The Wind (GB). (Total: $572,755).
+-   .  .  <strong>=QUEBELLO (GER)</strong> (2017 g. by =Sea The Moon (GER)). 3 wins in 6 starts at 4, 152,500
+-   .  .  .  Krona, in Sweden; 3 wins in 5 starts at 4 and 5, 2022, 373,300 Krone, in Norway, 1st Oslo Cup
+-   .  .  .  [L]; unplaced in 1 start in Denmark; unplaced in 2 starts, 3,000 Euro, in Germany. (Total:
+-   .  .  .  $59,204).
+-   .  .  =Questabella (GER) (2011 f. by Rock of Gibraltar (IRE)). Unraced in Germany. Dam of 5 foals, 3
+-   .  .  .     to race, 3 winners--
+-   .  .  .  <strong>=QUEST THE MOON (GER)</strong> (2016 g. by =Sea The Moon (GER)). Winner at 2 and 4, 139,450
+-   .  .  .  .  Euro, in Germany, 1st Kronimus - Grosser Preis der Badischen Wirtschaft - Ehrenpatronat
+-   .  .  .  .  <strong>[G2]</strong>, Wackenhut Mercedes-Benz-Preis Zukunftsrennen <strong>[G3]</strong>, 2nd Grosser
+-   .  .  .  .  Dallmayr-Preis - Bayerisches Zuchtrennen <strong>[G1]</strong>, Pferdewetten.de - Bavarian Classic
+-   .  .  .  .  <strong>[G3]</strong>, 3rd Grosser Dallmayr Bayerisches Zuchtrennen <strong>[G1]</strong>, Preis der
+-   .  .  .  .  Sparkassen Finanzgruppe <strong>[G3]</strong>; 3 wins in 6 starts at 3 and 6, 2022, 92,970 Euro,
+-   .  .  .  .  in France, 1st Prix du Lys <strong>[G3]</strong>, Grand Prix de Compiegne - Etape du Defi du Galop
+-   .  .  .  .  [L]; placed in 2 starts at 2 and 4, 79,280 Euro, in Italy, 2nd Premio Gran Criterium
+-   .  .  .  .  <strong>[G2]</strong>, 3rd Gran Premio di Milano <strong>[G2]</strong>. (Total: $349,745).
+-   .  =Panache Arabelle (GB) (1991 f. by Nashwan). Unplaced in 1 start in England. Died 2009. Dam of 8
+-   .  .     foals, 3 to race, 2 winners--
+-   .  .  <strong>=MAIDAAN (GB)</strong> (1996 c. by Midyan). Winner at 2, 52,362 Pounds, in England, 2nd Victor
+-   .  .  .  Chandler Challenge S. <strong>[G2]</strong>, Egerton Stud Darley S. [L]; winner at 4, 317,874
+-   .  .  .  Dirhams, in United Arab Emirates, 1st His Highness The President Cup [L], 3rd His Highness
+-   .  .  .  The President Cup [L]; placed in 1 start at 4, 4,571 Euro, in Ireland, 3rd Aon MacDonagh
+-   .  .  .  Boland S. <strong>[G3]</strong>; unplaced in 1 start in Singapore. (Total: $174,029). Sire.
+-   .  .  =Tory Brae Lulu (IRE) (2008 f. by Hurricane Run (IRE)). Unraced in Ireland. Dam of 7 foals, 2 to
+-   .  .  .     race, 1 winner--
+-   .  .  .  <strong>=BRIGHT HOPE (TUR)</strong> (2019 c. by =Torok (IRE)). Winner at 3, 2022 in Turkey, 1st Cevre
+-   .  .  .  .  Sehircilik ve Iklim Degisikligi Bakanligi [L], 2nd Marmara [L].
+-   .  .  =Real Pzazz (GB) (2001 f. by Green Desert). Unraced in Great Britain. Dam of 12 foals, 10 to
+-   .  .  .     race, 6 winners--
+-   .  .  .  <strong>=Renewed Vitality (AUS)</strong> (2007 g. by =Redoute's Choice (AUS)). 4 wins, 3 to 6,
+-   .  .  .  .  $229,530(AUS), in Australia, 3rd Panthers Hawkesbury Gold Cup <strong>[G3]</strong>. (Total:
+-   .  .  .  .  $224,432).
+-   .  .  =Garabelle (IRE) (2005 f. by $Galileo (IRE)). Unraced in Ireland. Dam of 8 foals, 5 to race, 3
+-   .  .  .     winners--
+-   .  .  .  <strong>=Bella Vita (GB)</strong> (2016 f. by Aussie Rules). 4 wins at 3, 55,483 Pounds, in England,
+-   .  .  .  .  2nd British Stallion Studs E.B.F. Chalice S. [L]. (Total: $70,004).
+-   .  =Arco Colora (GB) (1994 f. by Rainbow Quest). Unplaced, 250 Pounds, in England. (Total: $402). Died
+-   .  .  2014.
+-   <strong>=RAPPA TAP TAP (FR)</strong> (1981 f. by =Tap On Wood (IRE)). Black type winner, see above.
+-   <strong>Lafitte the Pirate (GB)</strong> (1993 g. by Sadler's Wells). 3 wins at 4, 15,530 Euro, in Ireland;
+-   .  winner at 5, $86,730, in N.A./U.S., 2nd Seneca H. <strong>[G3]</strong>, 3rd Mac Diarmida H. <strong>[G3]</strong>.
+-   .  Sent from Ireland to United States in 1997. (Total: $104,753).
+-   =Compton Drake (GB) (1999 g. by $Mark of Esteem (IRE)). 7 wins, 4 to 6, 39,251 Pounds, in England.
+-   .  (Total: $70,464).
+-   =General Alarm (GB) (1997 g. by Warning (GB)). Winner at 8, 17,749 Euro, in Ireland; 4 wins at 9 and
+-   .  11, 22,959 Pounds, in England. (Total: $65,786).
+-   =Colorful Ambition (GB) (1990 g. by =Slip Anchor (GB)). 7 wins, 4 to 7, 29,358 Pounds, in England.
+-   .  (Total: $46,227).
+-   =Colour Code (GB) (1992 g. by Polish Precedent). 3 wins at 4 and 5, 8,559 Pounds, in England. (Total:
+-   .  $14,213).
+-   =Repeat Warning (GB) (1996 f. by Warning (GB)). Placed in 2 starts at 3, 372 Pounds, in England.
+-   .     (Total: $604). Died 2005. Dam of 4 foals, 2 to race, 2 winners--
+-   .  <strong>SUEZ (GB)</strong> (2002 f. by Green Desert). 2 wins in 3 starts at 2, 71,237 Pounds, in England,
+-   .  .     1st E.B.F. Irish Thoroughbred Marketing Dick Poole Fillies' S. [L], 2nd Sky Bet Cheveley Park
+-   .  .     S. <strong>[G1]</strong>. Sent from Great Britain to United States in 2007. Sent from United States
+-   .  .     to Great Britain in 2008. Returned to United States from Great Britain in 2011. Sent from
+-   .  .     United States to Great Britain in 2014. (Total: $128,762). Dam of 11 foals, 7 to race, 6
+-   .  .     winners--
+-   .  .  <strong>=LYRIC OF LIGHT (GB)</strong> (2009 f. by Street Cry (IRE)). 3 wins in 4 starts at 2, 136,946
+-   .  .  .     Pounds, in England, 1st Shadwell Fillies' Mile <strong>[G1]</strong>, Barrett Steel May Hill S.
+-   .  .  .     <strong>[G2]</strong>. (Total: $212,991). Dam of 7 foals, 5 to race, 4 winners--
+-   .  .  .  <strong>=Bright Melody (IRE)</strong> (2017 g. by Dubawi (IRE)). Winner at 3, 13,348 Pounds, in
+-   .  .  .  .  England, 3rd Unibet Classic Trial <strong>[G3]</strong>; winner in 2 starts at 4, 363,569 Dirhams,
+-   .  .  .  .  in United Arab Emirates, 2nd Longines Zabeel Turf [L]; placed in 1 start at 3, 6,420 Euro,
+-   .  .  .  .  in France, 3rd Prix Ridgway [L]. (Total: $123,672).
+-   .  .  Bitter Lake (2012 f. by Halling). Winner at 2, 5,282 Pounds, in England. Sent from United States
+-   .  .  .     to Great Britain in 2013. (Total: $8,765). Dam of 5 foals, 1 to race, 1 winner--
+-   .  .  .  <strong>=Loch Lundie (IRE)</strong> (2019 f. by Shamardal). Winner at 3, 2022, 4,586 Pounds, in
+-   .  .  .  .  England; placed in 2 starts at 3, 2022, 4,500 Euro, in Germany, 2nd Grosser Preis der
+-   .  .  .  .  Heise Gruppe [L]; unplaced in 2 starts, 700 Euro, in France. (Total: $11,077).
+-   .  <strong>=POLISH PRINCESS (GB) (NZ)</strong> (2003 f. by Polish Precedent). 4 wins at 2 and 3 in New
+-   .  .     Zealand, 1st Mason Appliances [L], 3rd First Sovereign Trust Champions Mile <strong>[G1]</strong>,
+-   .  .     Fairdale Stud Flying H. [L], Platinumhomesnz.co.nz Rotorua S. [L]. Died 2018. Dam of 8 foals,
+-   .  .     5 to race, 5 winners--
+-   .  .  <strong>=LEEBAZ (NZ)</strong> (2009 g. by =Zabeel (NZ)). 9 wins, 3 to 6, $1,098,025(AUS), in Australia,
+-   .  .  .  1st Sky Thoroughbred Central A.D. Hollindale S. <strong>[G2]</strong>, All New Jaguar F-Pace A.D.
+-   .  .  .  Hollindale S. <strong>[G2]</strong>, Panthers Hawkesbury Gold Cup <strong>[G3]</strong>, Le Pine Funerals
+-   .  .  .  Easter Cup <strong>[G3]</strong>, 2nd Titan Energy Services Doomben Cup <strong>[G1]</strong>, Doncaster
+-   .  .  .  Prelude <strong>[G3]</strong>, Japan Racing Association Plate <strong>[G3]</strong>, 3rd Hyland Race Colours
+-   .  .  .  Doncaster Prelude <strong>[G3]</strong>, David Jones Cup <strong>[G3]</strong>. (Total: $900,149).
+-   .  .  <strong>=POLISH KNIGHT (NZ)</strong> (2008 g. by =Encosta de Lago (AUS)). 2 wins at 3, $439,125(AUS), in
+-   .  .  .  Australia, 1st Myer Tulloch S. <strong>[G2]</strong>, 2nd David Jones Australian Derby <strong>[G1]</strong>.
+-   .  .  .  (Total: $453,658).
+-   .  .  <strong>=ZEBROWSKI (NZ)</strong> (2016 g. by =Savabeel (AUS)). 2 wins at 3, $366,590(AUS), in Australia,
+-   .  .  .  2nd Bentley Australian Derby <strong>[G1]</strong>, Neds Herbert Power S. <strong>[G2]</strong>, Tab Tulloch
+-   .  .  .  S. <strong>[G2]</strong>; 3 wins at 5 and 6, 2022, $7,410,000(HK), in Hong Kong, 1st January Cup H.
+-   .  .  .  <strong>[G3]</strong>, Centenary Vase H. <strong>[G3]</strong>. Racing in Hong Kong as Zebrowski. (Total:
+-   .  .  .  $1,184,225).
+-   .  .  <strong>=EURO ANGEL (NZ)</strong> (2012 f. by Rip Van Winkle (IRE)). 3 wins at 3 and 4, $310,735(AUS),
+-   .  .  .     in Australia, 1st Nick Johnstone Real Estate Ladies Day Vase <strong>[G3]</strong>, 2nd Ranvet
+-   .  .  .     Millie Fox S. <strong>[G2]</strong>, Sydney Markets Toy Show Quality <strong>[G3]</strong>, 3rd Theo Marks
+-   .  .  .     S. <strong>[G2]</strong>. (Total: $234,687). Dam of 4 foals, 1 to race, 1 winner--
+-   .  .  .  <strong>=MR MOZART (AUS)</strong> (2018 c. by =Snitzel (AUS)). 5 wins at 2 and 3, placed at 4, 2022,
+-   .  .  .  .  $788,150(AUS), in Australia, 1st Chandon Phar Lap S. <strong>[G2]</strong>, Blacktown Workers Club
+-   .  .  .  .  Group Hawkesbury Guineas <strong>[G3]</strong>, ACY Securities The Doncaster Prelude
+-   .  .  .  .  <strong>[G3]</strong>, Exford Plate [L], 2nd Aspect Kitchens Stutt S. <strong>[G2]</strong>, Fujitsu
+-   .  .  .  .  General Theo Marks S. <strong>[G2]</strong>, Silver Eagle [L]. (Total: $551,965).
+-   .  =Masaafat (GB) (2004 f. by =Act One (GB)). Unraced in Great Britain. Died 2021. Dam of 7 foals, 5
+-   .  .     to race, 5 winners--
+-   .  .  <strong>=ZEYAADAH (IRE)</strong> (2018 f. by =Tamayuz (GB)). 4 wins in 7 starts at 2 and 3, 200,507
+-   .  .  .  Pounds, in England, 1st William Hill Hoppings S. <strong>[G3]</strong>, British Stallion Studs E.B.F.
+-   .  .  .  Montrose Fillies S. [L], 2nd Qatar Nassau S. <strong>[G1]</strong>, Weatherbys ePassport Robert
+-   .  .  .  Sangster Memorial Cup Cheshire Oaks [L]; unplaced in 2 starts in France. (Total: $276,555).
+-   .  =Patrimony (GB) (2001 f. by =Cadeaux Genereux (GB)). Unraced in Great Britain. Dam of 11 foals, 7
+-   .  .     to race, 6 winners--
+-   .  .  <strong>=ROCKATELLA (IRE)</strong> (2007 f. by Rock of Gibraltar (IRE)). Winner in 4 starts at 3 and 4,
+-   .  .  .     79,600 Euro, in Italy, 1st Premio Royal Mares [L] twice, 3rd Premio Sergio Cumani
+-   .  .  .     <strong>[G3]</strong>; placed at 3, 12,000 Euro, in France, 3rd Shadwell Prix de Lieurey
+-   .  .  .     <strong>[G3]</strong>; placed at 3 and 4, 29,500 Euro, in Germany, 2nd Walther J.
+-   .  .  .     Jacobs-Stutenmeile <strong>[G3]</strong>, E.B.F. Festa Rennen [L]; unplaced in 1 start in England;
+-   .  .  .     unplaced in 1 start in Turkey. (Total: $163,870).
+-   .  .  =Patrimonium (IRE) (2009 f. by Green Desert). Winner at 3, 9,900 Euro, in Ireland; 2 wins at 3,
+-   .  .  .     $25,650(NZ), in New Zealand. (Total: $34,571). Dam of 7 foals, 4 to race, 2 winners--
+-   .  .  .  <strong>=Patrician (NZ)</strong> (2014 g. by =Savabeel (AUS)). 5 wins at 3 and 4, placed at 8, 2022,
+-   .  .  .  .  $400,950(AUS), in Australia, 2nd Chalker Accountants Hawkesbury Gold Cup <strong>[G3]</strong>,
+-   .  .  .  .  Iron Jack Festival S. <strong>[G3]</strong>, 3rd Lord Mayors Cup [L]; placed in 1 start at 3,
+-   .  .  .  .  $2,000(NZ), in New Zealand. Registered in Australia as Live And Free. (Total: $288,688).
+-   .  .  .  <strong>=Clementina (NZ)</strong> (2015 f. by =Savabeel (AUS)). Winner at 4, $55,900(NZ), in New
+-   .  .  .  .  Zealand, 2nd McKee Family Sunline Vase <strong>[G3]</strong>, Fasttrack Insurance Oaks Prelude
+-   .  .  .  .  [L]; winner at 4, $74,990(AUS), in Australia. (Total: $86,703).
+-   =Street Colour (GB) (1998 c. by $Mark of Esteem (IRE)). Placed at 5, 2,030 Euro, in Ireland. (Total:
+-   .  $2,265). Died 2012.
+-   =Colorsnap (GB) (1987 f. by =Shirley Heights (GB)). Unraced in Great Britain. Died 2006. Dam of 11
+-   .     foals, 8 to race, 7 winners--
+-   .  <strong>=CROESO CARIAD (GB)</strong> (1997 f. by Most Welcome (GB)). Winner at 2, 35,736 Pounds, in
+-   .  .     England, 2nd Sportingodds.com Falmouth S. <strong>[G2]</strong>, The Link-The Easy Route to the Right
+-   .  .     Mobile Phone-Prestige S. <strong>[G3]</strong>; winner in 2 starts at 2, 23,241 Euro, in Italy, hwt.
+-   .  .     filly at 2 on Italian Free Hand. (1999), 1st Premio Novella [L]. (Total: $79,476). Died 2018.
+-   .  .     Dam of 9 foals, 8 to race, 5 winners--
+-   .  .  =London Welsh (GB) (2009 f. by $Cape Cross (IRE)). Unplaced in 1 start in England. Dam of 7
+-   .  .  .     foals, 4 to race, 2 winners--
+-   .  .  .  <strong>=WICK POWELL (GB)</strong> (2014 g. by =Sakhee's Secret (GB)). 3 wins at 2 and 3, 132,849
+-   .  .  .  .  Pounds, in England, 1st Totepool Two-Year-Old Trophy [LR]; 5 wins, 4 to 6, 374,368 SIN$,
+-   .  .  .  .  in Singapore; placed in 1 start at 2, 58,000 Euro, in Ireland; unplaced in 1 start in
+-   .  .  .  .  Malaysia. Registered in Singapore as Elite Power. (Total: $512,008).
+-   .  <strong>MONA LISA (GB)</strong> (2002 f. by Giant's Causeway). Winner at 3, 89,710 Euro, in Ireland, 1st
+-   .  .     Irish Stallion Farms E.B.F. Give Thanks S. [L], 3rd Darley Irish Oaks <strong>[G1]</strong>; placed
+-   .  .     in 1 start at 3, 57,150 Euro, in France, 2nd Prix de l'Opera Casino Barriere d'Enghien Les
+-   .  .     Bains <strong>[G1]</strong>; placed at 3, 39,532 Pounds, in England, 3rd Coronation S. <strong>[G1]</strong>;
+-   .  .     unplaced in N.A./U.S. Sent from Ireland to United States in 2004. Sent from United States to
+-   .  .     Ireland in 2004. Returned to United States from Ireland in 2005. Sent from United States to
+-   .  .     Ireland in 2005. Returned to United States from Ireland in 2005. Sent from United States to
+-   .  .     Ireland in 2005. (Total: $249,334). Dam of 14 foals, 10 to race, 7 winners--
+-   .  .  =Fastnet Monsoon (IRE) (2013 g. by =Fastnet Rock (AUS)). 7 wins at 4 and 5 in Greece, champion
+-   .  .  .  Stayer in Greece (2018); unplaced in 2 starts in England.
+-   .  <strong>=PHOTOGENIC (GB)</strong> (1995 f. by Midyan). 2 wins at 2, 26,317 Euro, in Ireland, 1st Debutante
+-   .  .     S. [L], 3rd Flame of Tara Tyros S. [L]; unplaced in 1 start, 238 Pounds, in England. (Total:
+-   .  .     $30,762). Died 2011. Dam of 10 foals, 9 to race, 4 winners--
+-   .  .  =Baby Houseman (GB) (2005 f. by Oasis Dream (GB)). Winner at 3, 6,007 Pounds, in England.
+-   .  .  .     (Total: $11,900). Dam of 7 foals, 4 to race, 4 winners--
+-   .  .  .  <strong>=BABY FOOT (IRE)</strong> (2011 c. by =Footstepsinthesand (GB)). 4 wins in 6 starts at 2 and
+-   .  .  .  .  3, 90,400 Euro, in France, 1st Prix de la Californie [L], 2nd Criterium du Fonds Europeen
+-   .  .  .  .  de l'Elevage [L]. (Total: $121,624).
+-   .  .  .  <strong>=Plaza Mayor (FR)</strong> (2010 f. by =Kyllachy (GB)). 4 wins at 2 and 3, 60,100 Euro, in
+-   .  .  .  .  France, 3rd Prix de la Vallee d'Auge [L]. (Total: $78,471). Producer.
+-   .  .  =Miss Gibraltar (GB) (2004 f. by Rock of Gibraltar (IRE)). Unplaced in 1 start in England. Dam
+-   .  .  .     of 11 foals, 8 to race, 6 winners--
+-   .  .  .  <strong>=JAAMEH (IRE)</strong> (2013 g. by =Iffraaj (GB)). 3 wins at 3 and 4, 70,169 Pounds, in
+-   .  .  .  .  England; 4 wins at 4 and 5, $475,600(AUS), in Australia, 1st Queen Elizabeth S.
+-   .  .  .  .  <strong>[G3]</strong>, 2nd Bart Cummings <strong>[G3]</strong>, 3rd Lexus S. <strong>[G3]</strong>. (Total:
+-   .  .  .  .  $435,590).
+-   .  .  .  <strong>=Grand Rock (IRE)</strong> (2017 g. by =Acclamation (GB)). 2 wins at 2, 20,837 Pounds, in
+-   .  .  .  .  England, 3rd Ebfstallions.com Silver Tankard S. [L]; placed at 4, $30,175(AUS), in
+-   .  .  .  .  Australia. (Total: $47,419).
+-   .  =Flashing Green (GB) (1998 f. by Green Desert). Winner at 3, 3,068 Euro, in Germany. (Total:
+-   .  .     $2,741). Died 2020. Dam of 14 foals, 12 to race, 8 winners--
+-   .  .  <strong>=THA'IR (IRE)</strong> (2010 g. by =New Approach (IRE)). 8 wins, 2 to 9, 128,236 Pounds, in
+-   .  .  .  England, 1st Chesham S. [L], Ambant Gala S. [L], 2nd Candy Kittens Solario S. <strong>[G3]</strong>,
+-   .  .  .  Best Odds Guaranteed on Racing at Coral.co.uk Fairway S. [L], 3rd One Call Insurance
+-   .  .  .  Champagne S. <strong>[G2]</strong>, Ambant Gala S. [L]; winner at 4 and 5, 629,183 Dirhams, in United
+-   .  .  .  Arab Emirates; winner in 1 start at 5 in Turkey, 1st International France Galop/FRBC Anatolia
+-   .  .  .  Trophy [L]; unplaced in 1 start in France. (Total: $368,002).
+-   .  .  <strong>=FLASHING COLOUR (GER)</strong> (2004 f. by =Pivotal (GB)). 3 wins, 2 to 4, 40,000 Euro, in
+-   .  .  .     Germany, 1st BMW Preis Dusseldorf [L], 2nd Preis der Spielbank Hamburg <strong>[G3]</strong>,
+-   .  .  .     Grosser Preis Stuten-Meile der Frankfurter Volksbank [L]. (Total: $61,141). Producer.
+-   .  .  <strong>=Flash Dance (GER)</strong> (2007 g. by =Monsun (GER)). 3 wins, 3 to 5, 18,100 Euro, in Germany,
+-   .  .  .  2nd Preis der Ostdeutschen Sparkasse Dresdner Herbstpreis [L]; winner at 4, 14,600 Euro, in
+-   .  .  .  France; placed at 5 in Switzerland; unplaced in 1 start, 2,280 Euro, in Italy. (Total:
+-   .  .  .  $48,337).
+-   .  .  =Tautou Montjeu (IRE) (2011 f. by $Montjeu (IRE)). Winner at 3 in Czechoslovakia/Czech Republic.
+-   .  .  .     Dam of 5 foals, 4 to race, 2 winners--
+-   .  .  .  <strong>=Montussan (FR)</strong> (2019 f. by =Dabirsim (FR)). 3 wins at 2 and 3, 2022, 90,910 Euro,
+-   .  .  .  .  in France, 3rd Criterium du Bequet - Ventes Osarus [L]. (Total: $99,559).
+-   .  .  =Timbuktu (IRE) (2012 f. by =Fastnet Rock (AUS)). Placed at 2, 2,940 Euro, in Ireland. (Total:
+-   .  .  .     $4,059). Dam of 5 foals, 3 to race, 2 winners--
+-   .  .  .  <strong>=Ontario (IRE)</strong> (2018 c. by $Galileo (IRE)). Winner at 2, 30,495 Euro, in Ireland,
+-   .  .  .  .  2nd Coolmore Churchill S. [L], 3rd Galileo Irish E.B.F. Futurity S. <strong>[G2]</strong>; placed
+-   .  .  .  .  at 2 and 3, 25,266 Pounds, in England, 2nd Juddmonte Royal Lodge S. <strong>[G2]</strong>, 3rd
+-   .  .  .  .  Bet365 European Free H. [L]. (Total: $68,313).
+-   .  .  .  <strong>=Ivy League (IRE)</strong> (2019 g. by $Galileo (IRE)). 2 wins at 3, 2022, 43,850 Euro, in
+-   .  .  .  .  Ireland, 2nd Amethyst S. <strong>[G3]</strong>; unplaced in 1 start in France; unplaced in 1 start
+-   .  .  .  .  in Hong Kong. Registered in Hong Kong as Ivy League. (Total: $47,214).
+-   .  =General's Star (GB) (1994 c. by Night Shift). 2 wins at 2, 11,523 Pounds, in England; winner at 7,
+-   .  .  29,930 Dirhams, in United Arab Emirates. (Total: $26,139).
+-   .  =Crusoe's Return (GB) (2005 g. by Selkirk). Winner at 3, 5,568 Pounds, in England; winner at 6,
+-   .  .  9,131 Euro, in Ireland. (Total: $23,108).
+-   .  Ishtak (GB) (1999 f. by Nashwan). Winner at 3, 5,862 Pounds, in England. Sent from Great Britain to
+-   .  .     United States in 2002. (Total: $9,086).
+-   .  =Caught On Camera (GB) (2006 f. by Red Ransom). Placed at 3, 308 Pounds, in England. (Total: $508).
+-   .  .     Died 2021. Producer.
+-   .  =La Jwaab (GB) (2004 f. by =Alhaarth (IRE)). Unraced in Great Britain. Producer.
+-   .  =Picturesque (GB) (2000 f. by Polish Precedent). Unraced in Great Britain. Producer.
+-   .  =Unnamed (1996 c. by $Distant Relative (IRE)).
+-   =Sistabelle (GB) (1984 f. by Bellypha (IRE)). Unraced in England. Died 2002. Dam of 10 foals, 7 to
+-   .     race, 3 winners--
+-   .  <strong>TORCH ROUGE (GB)</strong> (1991 c. by Warning (GB)). Winner at 2 and 3, 22,510 Pounds, in England,
+-   .  .  3rd Scottish Equitable Gimcrack S. <strong>[G2]</strong>; winner in 1 start at 3, 112,484 Euro, in
+-   .  .  Germany, 1st Berlin Brandenburg-Trophy der Landesbank Berlin <strong>[G2]</strong>; 4 wins at 4 and 5,
+-   .  .  $410,717, in N.A./U.S., 1st Arlington H. <strong>[G2]</strong>, Laurance Armour H. <strong>[G3]</strong>, 2nd
+-   .  .  River City H. [L] (CD, $23,280), 3rd San Francisco Mile H. <strong>[G2]</strong>, New Hampshire
+-   .  .  Sweepstakes H. <strong>[G3]</strong>, Morvich H. [L] (SA, $12,000); unplaced in 1 start in France. Sent
+-   .  .  from Great Britain to United States in 1994. (Total: $582,601).
+-   .  =Volunteer (GB) (1992 g. by Midyan). 3 wins, 3 to 6, 10,937 Pounds, in England. (Total: $17,554).
+-   .  =Filmore West (GB) (1993 g. by $In the Wings (GB)). Winner at 3, 8,581 Pounds, in England. (Total:
+-   .  .  $13,612).
+-   .  =Sistadari (1988 f. by =Shardari (IRE)). Placed at 3, 2,656 Pounds, in England. Sent from England
+-   .  .     to Germany in 1993. (Total: $4,560). Dam of 8 foals, 6 to race, 5 winners--
+-   .  .  <strong>=SIMONAS (IRE)</strong> (1999 g. by =Sternkoenig (IRE)). 9 wins, 4 to 10, 258,770 Euro, in
+-   .  .  .  Germany, 1st Idee Hansa-Preis <strong>[G2]</strong>, Heel-Baden-Wurttemberg-Trophy <strong>[G3]</strong>, 2nd
+-   .  .  .  IVG Preis von Europa <strong>[G1]</strong>, Gerling-Preis <strong>[G2]</strong>, 3rd Deutschland Preis-Preis
+-   .  .  .  der Freunde und Forderer des Dusseldorfer Reiter und Rennvereins <strong>[G1]</strong>; 3 wins in 6
+-   .  .  .  starts at 5, 125,400 Euro, in Italy, hwt. older horse at 5 on Italian Free Hand., 14 fur. &
+-   .  .  .  up (2004), 1st Premio Carlo d'Alessio <strong>[G2]</strong>, 2nd St. Leger Italiano [L]; placed in 1
+-   .  .  .  start at 5, $300,000, in N.A./U.S., 2nd Pattison Canadian International S. <strong>[G1]</strong> (WO,
+-   .  .  .  $300,000(CAN)); placed in 1 start at 9, 9,000 Euro, in France, 3rd Grand Prix de la Region
+-   .  .  .  Alsace [L]; unplaced in 1 start in Hong Kong; unplaced in 1 start, $60,000, in Canada.
+-   .  .  .  (Total: $831,074).
+-   .  .  <strong>=SYRAKUS (GER)</strong> (1998 c. by =Kris (GB)). 4 wins at 3 and 4, 53,581 Euro, in Germany, 1st
+-   .  .  .  Grosser Preis der Stadtsparkasse Dortmund [L], Preis des Koelner Stadt-Anzeigers [L], 2nd
+-   .  .  .  Kolner Grand Prix Aufgalopp [L], 3rd Etzel-Rennen [L]; 5 wins, 4 to 8, 160,660 Euro, in
+-   .  .  .  Italy, 1st Premio Ambrosiano [L], 2nd Premio Ambrosiano [L], Premio Andred [L], 3rd Premio
+-   .  .  .  Mediterraneo [L]; 3 wins at 7 and 8, 29,550 Euro, in France. (Total: $260,046).
+-   .  .  <strong>=SIR WARREN (IRE)</strong> (1993 c. by Warning (GB)). 4 wins at 2 and 4, 97,860 Euro, in
+-   .  .  .  Germany, 1st Excelsior Hotel Ernst-Criterium [L], 2nd Made In Europe Val des Pres-Trophy
+-   .  .  .  <strong>[G2]</strong>, Grosser Preis der Lampart-Emaillierwerke Budapest-Frankfurt-Pokal
+-   .  .  .  <strong>[G3]</strong>, 3rd Prix Zino Davidoff-Preis der Deutschen Einheit <strong>[G3]</strong>, Preis BMW
+-   .  .  .  Handler-Trophy <strong>[G3]</strong>. (Total: $125,830). Sire.
+-   .  .  =Sisika (IRE) (2004 f. by King's Theatre (IRE)). Unraced in Ireland. Dam of 7 foals, 6 to race,
+-   .  .  .     2 winners--
+-   .  .  .  <strong>=Sharin (GER)</strong> (2011 f. by =Areion (GER)). 3 wins at 2 and 3, 14,000 Euro, in
+-   .  .  .  .  Germany, 3rd Kolner Zweijahrigen Trophy [L]. (Total: $18,784). Producer.
+-   .  =Well Ahead (GB) (1989 f. by Last Tycoon (IRE)). Placed at 3, 2,140 Pounds, in England. (Total:
+-   .  .     $4,203). Died 1998. Producer.
+-   .  =Harvard Kid (GB) (1996 g. by Warning (GB)). Placed at 4, 744 Euro, in Italy. (Total: $667).
+-   .  =Belle Esprit (GB) (1994 f. by Warning (GB)). Unraced in Great Britain. Dam of 11 foals, 10 to
+-   .  .     race, 6 winners--
+-   .  .  <strong>=ESPIRITA (FR)</strong> (2008 f. by =Iffraaj (GB)). 2 wins at 2, 75,300 Euro, in France, 1st
+-   .  .  .     Prix des Reservoirs-Haras d'Etreham <strong>[G3]</strong>. (Total: $104,257). Producer.
+-   .  =Blorenge (GB) (1999 f. by =Prince Sabo (GB)). Unraced in Great Britain. Producer.
+-   .  =Belladari (GB) (1990 f. by =Shardari (IRE)). Unraced in Great Britain. Producer.
+-   .  =Dashing Gent (GB) (2000 g. by =Prince Sabo (GB)). Unplaced in England.
+-   =Colorvista (GB) (1986 f. by =Shirley Heights (GB)). Unraced in England. Died 2018. Dam of 14 foals, 8
+-   .     to race, 8 winners--
+-   .  <strong>=Mudeer (GB)</strong> (1995 c. by Warning (GB)). 2 wins at 2, 54,924 Pounds, in England, 2nd Racing
+-   .  .  Post Trophy S. <strong>[G1]</strong>, Z. T. Egerton Stud Darley S. [L]; unplaced, 15,000 Dirhams, in
+-   .  .  United Arab Emirates; unplaced in 2 starts, 6,098 Euro, in France. (Total: $100,377).
+-   .  <strong>=Primera Vista (GB)</strong> (2006 g. by =Haafhd (GB)). 10 wins, 4 to 7, 128,850 Euro, in Germany,
+-   .  .  3rd Internationales Superhandicap [L]; 3 wins, 5 to 7, 67,090 Euro, in France, 3rd Prix du
+-   .  .  Ranelagh [L]; unplaced in England. (Total: $261,472).
+-   .  <strong>=Christian Name (GB)</strong> (1993 f. by =Cadeaux Genereux (GB)). Winner at 2, 13,978,000 Yen, in
+-   .  .     Japan, 3rd Hakodate Sansai S. [LR]. (Total: $149,904). Dam of 11 foals, 9 to race, 6
+-   .  .     winners--
+-   .  .  =Cosmo Crystal (JPN) (2006 f. by Meiner Love). 4 wins at 3 and 4, 51,642,000 Yen, in Japan.
+-   .  .  .     (Total: $565,530). Dam of 7 foals, 7 to race, 5 winners--
+-   .  .  .  <strong>=WIN CARNELIAN (JPN)</strong> (2017 c. by =Screen Hero (JPN)). 7 wins, 2 to 5, 2022,
+-   .  .  .  .  175,640,001 Yen, in Japan, 1st Sekiya Kinen <strong>[G3]</strong>, Yonago S. [L], Tanigawadake S.
+-   .  .  .  .  [L]. (Total: $1,476,051).
+-   .  Step Forward (GB) (1994 c. by Caerleon). 7 wins, 3 to 6, 63,093,000 Yen, in Japan; unplaced in 1
+-   .  .  start in Hong Kong. Sent from Ireland to United States in 1995. Sent from United States to Japan
+-   .  .  in 1996. (Total: $538,206).
+-   .  =Colour Guard (GB) (2008 g. by Shamardal). 3 wins at 4, 15,959 Pounds, in England; winner at 6 in
+-   .  .  China; placed, 5 to 7, 88,150 Dirhams, in United Arab Emirates; unplaced in 1 start in Ireland.
+-   .  .  (Total: $49,291).
+-   .  =Amir Zaman (GB) (1998 g. by Salse). 5 wins, 3 to 6, 24,035 Pounds, in England. (Total: $39,407).
+-   .  =Durable (GB) (1991 g. by Caerleon). 2 wins at 3, 12,074 Pounds, in England. (Total: $18,284).
+-   .  =Island Vista (GB) (2005 f. by $Montjeu (IRE)). Winner at 3, 4,969 Pounds, in England. (Total:
+-   .  .     $9,920). Producer.
+-   .  =Brush Strokes (GB) (1996 f. by =Cadeaux Genereux (GB)). Unraced in Great Britain. Died 2015. Dam
+-   .  .     of 10 foals, 9 to race, 8 winners--
+-   .  .  <strong>=Craft Fair (IRE)</strong> (2002 g. by Danehill). Winner at 3, 67,600 Euro, in France, 3rd Grand
+-   .  .  .  Prix du Lion d'Angers [L]; placed in 2 starts at 4, 80,793 Dirhams, in United Arab Emirates.
+-   .  .  .  (Total: $107,038).
+-   .  Dominating Vista (GB) (2002 f. by $Diktat (GB)). Unraced. Sent from Ireland to United States in
+-   .  .     2006. Sent from United States to Ireland in 2007. Producer.
+-   .  =Unnamed (2001 c. by Green Desert). Died 2002.
+-   .  =Murillo (GB) (2000 c. by Green Desert). Unraced in Great Britain.
+-   .  =Unnamed (1997 c. by =Cadeaux Genereux (GB)).
+-   .  =Rasaael (GB) (1992 f. by Warning (GB)). Unraced in Great Britain. Died 2003.
+-   =Global Warning (GB) (1995 g. by Warning (GB)). Unraced in Great Britain. Died 2016.
+-   =Pierre (GB) (1994 c. by Sadler's Wells). Unraced in Great Britain. Sire.
+-   =Reprotopper (1988 f. by =High Top (IRE)). Unplaced in 2 starts in England.
+-   =Classic Connection (GB) (1985 c. by Mill Reef). Unplaced in 1 start in England. Sent from England to
+-   .  Italy in 1900. Sire.
+ RACE RECORD for Lavender (IRE): In Ireland. At 2, twice 2nd in 2 starts. Earned 7,046 Euro. In N.A./U.S.
+     At 6, 2022, one win, once 2nd; at 4, two wins, twice 3rd; at 5, two wins, twice 2nd, 3 times 3rd, .
+     Totals: 5 wins, 3 times 2nd, 5 times 3rd. Earned $202,899. (Total: $211,108.)
+@@ -873,4 +139,82 @@
+ 2020 no report received.
+ 2021 no report received.
+ 2022 no report received.
++2023 no report received.
++   <strong>=ZAFISIO (IRE)</strong> (2006 g. by =Efisio (GB)). 2 wins at 2, 62,658 Pounds, in England, 1st Bluebay Stardom S. [L]; winner at 2 and 3, 198,000 Euro, in France, 1st Criterium International <strong>[G1]</strong>, Prix Perth <strong>[G3]</strong>; winner in 2 starts at 3, 70,000 Euro, in Germany, 1st Hessen Pokal <strong>[G3]</strong>, 2nd Mehl-Mulhens-Rennen-German Two Thousand Guineas <strong>[G2]</strong>; placed in 2 starts at 3, 5,580 Euro, in Ireland, 3rd Solonaway S. <strong>[G3]</strong>. (Total: $475,117).
++   <strong>=Lansky (IRE)</strong> (2015 g. by =Dark Angel (IRE)). 2 wins at 2, 20,924 Pounds, in England, 3rd Tattersalls Acomb S. <strong>[G3]</strong>; placed at 4, 91,026 Dirhams, in United Arab Emirates, 3rd Emirates Global Aluminium Al Fahidi Fort <strong>[G2]</strong>. (Total: $52,166).
++   =Gold Trail (IRE) (2011 c. by =Teofilo (IRE)). 6 wins, 2 to 5, 90,256 Pounds, in England; winner in 1 start at 6, 385,604 Dirhams, in United Arab Emirates; unplaced in 1 start, $13,500(AUS), in Australia. (Total: $250,003). Died 2018.
++   Lavender (IRE) (2016 f. by =Born To Sea (IRE)). See above.
++   =Gold Hunter (IRE) (2010 g. by =Invincible Spirit (IRE)). 6 wins, 3 to 9, 56,101 Pounds, in England. (Total: $76,371).
++   =New Beginning (IRE) (2004 g. by =Keltos (FR)). 3 wins, 2 to 6, 22,917 Pounds, in England. (Total: $43,573).
++   =Harald Bluetooth (IRE) (2005 c. by =Danetime (IRE)). 4 wins in 8 starts at 3 and 4, 25,160 Pounds, in England. (Total: $42,082).
++   =Dark Profit (IRE) (2012 g. by =Dark Angel (IRE)). 4 wins at 3 and 5, 26,211 Pounds, in England. (Total: $36,184).
++   =All In The Mind (IRE) (2019 g. by =Alhebayeb (IRE)). Winner at 3, 2022, 23,720 Euro, in Ireland. (Total: $25,913).
++   =Via Aurelia (IRE) (2007 f. by Antonius Pius). Placed at 3, 2,864 Pounds, in England. (Total: $4,482). Dam of 10 foals, 5 to race, 4 winners--
++   .  =So Lonely (IRE) (2014 f. by So You Think (NZ)). 3 wins at 5, 18,135 Pounds, in England; placed at 4, 7,400 Euro, in Ireland. (Total: $32,090).
++   .  =Amanirenas (IRE) (2019 f. by War Command). Winner at 3, 2022, 13,475 Euro, in Ireland; unplaced in 1 start in England. (Total: $13,833).
++   .  =Street Art (IRE) (2012 g. by Excellent Art (GB)). 3 wins at 3 and 5, 8,836 Pounds, in England. (Total: $12,007).
++   .  =Cheerful Chap (IRE) (2017 g. by =Pour Moi (IRE)). Winner at 5, 2022, 8,135 Euro, in Ireland. (Total: $8,498).
++   .  =Unbridled Power (IRE) (2018 g. by =Power (GB)). Placed at 4, 2022, 2,713 Pounds, in England; unplaced in Ireland. (Total: $3,793).
++   .  =Unnamed (2022 f. by =Equiano (FR)).
++   .  =Billetero (IRE) (2020 c. by =Fast Company (IRE)). Unraced in Ireland.
++   .  =Unnamed (2016 c. by =Pour Moi (IRE)). Died 2017.
++   .  =Unnamed (2015 c. by Thewayyouare).
++   .  =Unnamed (2013 f. by =Canford Cliffs (IRE)). Died 2013.
++   =Bando'gold (IRE) (2018 f. by =Markaz (IRE)). Unraced in Ireland.
++   =Damask (IRE) (2009 f. by =Red Clubs (IRE)). Unplaced, 216 Pounds, in England. (Total: $351). Dam of 9 foals, 7 to race, 5 winners--
++   .  <strong>=SPYCATCHER (IRE)</strong> (2018 c. by =Vadamos (FR)). 3 wins at 3 and 4, 2022, 116,544 Pounds, in England, 1st Betway Kachy S. [L], 2nd 1895 Duke of York Clipper Logistics S. <strong>[G2]</strong>, Tattersalls Acomb S. <strong>[G3]</strong>, BetVictor Carnarvon S. [L], 3rd QIPCO British Champions Series Horseracinghof.com Pavilion S. <strong>[G3]</strong>. (Total: $153,928).
++   .  =Reel Bizzy (IRE) (2016 c. by =Kodiac (GB)). Winner in 2 starts at 2, 13,560 Euro, in France; 3 wins at 3 and 4, $3,600,900(HK), in Hong Kong. (Total: $479,274).
++   .  =Gorokai (IRE) (2013 g. by =Kodiac (GB)). 2 wins at 3, 18,241 Pounds, in England. (Total: $26,042).
++   .  =Mamamareah (IRE) (2019 f. by =Galileo Gold (GB)). Winner at 3, 2022, 14,160 Euro, in Italy. (Total: $15,625).
++   .  =Laydee Victoria (IRE) (2015 f. by Sir Prancealot (IRE)). Winner at 3, 6,225 Pounds, in England. (Total: $8,365).
++   .  =Majil (IRE) (2020 f. by =Mehmas (IRE)). Placed at 2, 2022, 2,787 Pounds, in England. (Total: $3,244).
++   .  =Unnamed (2022 f. by =Inns of Court (IRE)).
++   .  =Unnamed (2021 c. by Cotai Glory (GB)).
++   .  =Myredbush (IRE) (2014 f. by Bushranger (IRE)). Unplaced in England.
++   =Moment of Truth (IRE) (2013 f. by =Teofilo (IRE)). Unplaced in Ireland. Dam of 5 foals, 3 to race, 2 winners--
++   .  <strong>=Memo de L'Alguer (IRE)</strong> (2018 f. by =Mehmas (IRE)). 4 wins at 2 and 4, 2022, 49,200 Euro, in Italy, 2nd Premio Criterium Femminile [L], 3rd Premio Regina Elena Italian One Thousand Guineas <strong>[G3]</strong>. (Total: $56,032).
++   .  =Terry de L'Alguer (IRE) (2019 f. by =Gutaifan (IRE)). Winner at 2 and 3, 2022, 14,220 Euro, in Italy. (Total: $15,735).
++   .  =Excellent Truth (IRE) (2020 f. by Cotai Glory (GB)). Placed in 1 start at 2, 2022, 4,050 Euro, in France. (Total: $4,029).
++   .  =Unnamed (2022 c. by =Dandy Man (IRE)).
++   .  =Unnamed (2021 f. by =Mehmas (IRE)).
++   =Sandtail (IRE) (2008 f. by Verglas (IRE)). Unplaced in England. Dam of 6 foals, 2 to race, 1 winner--
++   .  =Gold Award (IRE) (2014 g. by Bushranger (IRE)). Winner at 2, 5,175 Pounds, in England. (Total: $6,435).
++   .  =Just Percy (IRE) (2019 g. by =Sir Percy (GB)). Placed at 3, 2022, 4,658 Pounds, in England. (Total: $5,595).
++   .  =Unnamed (2022 c. by =Vadamos (FR)).
++   .  =Unnamed (2021 f. by Starspangledbanner (AUS)).
++   .  =Sea of Turbulence (IRE) (2017 f. by =Born To Sea (IRE)). Unraced in Ireland.
++   .  =Ginandawin (IRE) (2016 f. by =Big Bad Bob (IRE)). Unraced in Ireland. Dam of 2 foals--
++   .  .  =Unnamed (2022 f. by Highland Reel (IRE)).
++   .  .  =Unnamed (2021 c. by Highland Reel (IRE)).
++2nd dam
++WINGER (GB), by $In the Wings (GB). Winner at 3, 4,057 Euro, in Ireland. Sent from Ireland to United      States in 1999. Sent from United States to Ireland in 2002. (Total: $5,108). Half-sister to      <strong>=Pick of The Pops (GB)</strong> (Total: $51,327, 2nd Hoover Mile S. <strong>[G2]</strong>),      <strong>=Oriane</strong> (3rd Alexander Hotel Knockaire S. [L], etc.). Dam of 7 foals, 4 to race, 3      winners--
++   =Goldthroat (IRE) (1999 f. by Zafonic). See above.
++   =Warrior Wings (GB) (1998 f. by =Indian Ridge (IRE)). Winner at 2, 18,024 Euro, in Ireland. (Total: $15,633). Dam of 10 foals, 8 to race, 4 winners--
++   .  <strong>=Warriors Key (IRE)</strong> (2004 g. by Key of Luck). Winner at 2 and 3, 68,346 Euro, in Ireland, 3rd El Gran Senor S. [L]; winner at 6 and 7, 86,950 Dirhams, in United Arab Emirates; unplaced in Oman; unplaced, 3,250 Euro, in France. (Total: $120,352).
++   .  <strong>=Lone Warrior (IRE)</strong> (2011 g. by Oratorio (IRE)). Winner at 2, 8,815 Pounds, in England, 3rd Titanic Belfast Winkfield S. [L]. (Total: $13,733).
++   .  =Hurricane Ridge (IRE) (2009 g. by Hurricane Run (IRE)). 7 wins, 2 to 5, 72,530 Euro, in Ireland; placed at 8, 1,049 Pounds, in England. (Total: $95,441).
 +   .  =Queen of Cash (IRE) (2008 f. by Ad Valorem). 4 wins at 2 and 3, 16,028 Pounds, in England; winner at 4, 99,140 Riyals, in Saudi Arabia. (Total: $52,259). Dam of 5 foals, 3 to race--
 +   .  .  =Rasd (KSA) (2016 c. by =Byron (GB)). Placed at 3, 6,000 Riyals, in Saudi Arabia. (Total: $1,600).
 +   .  .  =Unnamed (2020 c. by First Defence).
 +   .  .  =Unnamed (2019 c. by First Defence).
 +   .  .  =Moesef (KSA) (2017 c. by Wathab (IRE)). Unplaced in Saudi Arabia.
 +   .  .  =Mariann (KSA) (2015 f. by =Byron (GB)). Unplaced in Saudi Arabia.
-    .  =Colori d'Ozeville (IRE) (2003 f. by King's Best). Placed at 2, 2,640 Euro, in Italy; unplaced in France. (Total: $3,155).
-    .  =Unnamed (2013 f. by Starspangledbanner (AUS)).
-    .  =Warrior Pride (IRE) (2010 f. by Oratorio (IRE)). Unraced in Ireland.
++   .  =Colori d'Ozeville (IRE) (2003 f. by King's Best). Placed at 2, 2,640 Euro, in Italy; unplaced in France. (Total: $3,155).
++   .  =Unnamed (2013 f. by Starspangledbanner (AUS)).
++   .  =Warrior Pride (IRE) (2010 f. by Oratorio (IRE)). Unraced in Ireland.
++   .  =Starling (IRE) (2002 f. by =Cadeaux Genereux (GB)). Unplaced in 2 starts in England; unplaced, 4,324 Euro, in Ireland. (Total: $5,271).
++   .  =Keston Warrior (GB) (2016 g. by Henrythenavigator). Unplaced in England.
++   .  =Blue Warrior (IRE) (2005 g. by Touch of the Blues (FR)). Unplaced in 1 start in England.
++   Midshipman Easy (2001 c. by Irish River (FR)). Winner at 4, 2,730 Euro, in Germany; placed at 3, 1,771 Pounds, in England. Sent from United States to Ireland in 2001. (Total: $6,528).
++   =Tallyho Tina (GB) (2010 f. by Ishiguru). Unraced in Great Britain.
++   =Abrickinthewall (GB) (2008 g. by =Acclamation (GB)). Unraced in Great Britain.
++   Wing Your Way (2002 f. by Bahri). Unraced. Sent from United States to Ireland in 2002.
++   Woodwing (2000 f. by =Indian Ridge (IRE)). Unplaced in 1 start in Ireland. Sent from United States to Ireland in 2001. Died 2017. Dam of 7 foals, 3 to race, 1 winner--
++   .  =Elusive Ridge (IRE) (2006 g. by Elusive City). 8 wins, 4 to 6, 98,918 Euro, in Ireland. (Total: $131,155). Died 2014.
++   .  =Minkey McGinley (IRE) (2005 f. by =Choisir (AUS)). Placed at 2, 2,440 Euro, in Ireland. (Total: $3,325).
++   .  =Unnamed (2015 f. by Califet (FR)). Died 2019.
++   .  =Unnamed (2013 f. by Excellent Art (GB)).
++   .  =Unnamed (2011 f. by Key of Luck). Died 2013.
++   .  =Nama (IRE) (2007 g. by Mull of Kintyre). Unraced in Ireland. Died 2011.
++   .  =Nama (IRE) (2007 g. by Mull of Kintyre). Unraced in Ireland. Died 2011.
+ 

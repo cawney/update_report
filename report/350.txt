@@ -1,20 +1,6 @@
 --- PH001424_alt.txt
 +++ PH000350_alt.txt
-@@ -1,4 +1,4 @@
--Dec 19 2022  4:09PM          PH23 CONSIGNOR: 1 HORSE: 424 GROUP: 1 HIP NUMBER:                Page 1
-+Jan 29 2023 10:00PM          PH23 CONSIGNOR: 1 HORSE: 424 GROUP: 1 HIP NUMBER: 00350          Page 1
- 
- 
- ******************************************************************************************
-@@ -33,22 +33,22 @@
- 1st dam
- RICH LOVE, by Not For Love. Winner at 3, $28,110. Half-sister to <strong>CONCEALED IDENTITY</strong> ($461,140,
-       1st John B. Campbell H. (LRL, $75,000), etc.), <strong>PEACH OF A GAL</strong> ($101,155, 1st Christiana S.
--      (DEL, $30,000), etc.), <strong>Cu Rahy</strong> ($122,794, 3rd Clever Trevor S. [L] (RP, $11,000), etc.),
--      <strong>Riccio</strong> ($114,388, 3rd Rocky Run S. (DEL, $13,750)). Dam of 7 foals, 4 to race, 4
-+      (DEL, $30,000), etc.), <strong>Riccio</strong> ($124,388, 3rd Rocky Run S. (DEL, $13,750), etc.), <strong>Cu
-+      Rahy</strong> ($122,794, 3rd Clever Trevor S. [L] (RP, $11,000), etc.). Dam of 7 foals, 5 to race, 4
-       winners--
+@@ -1,10 +1,10 @@
 +   Tilted Towers (2016 g. by Atreides). 3 wins at 4 and 5, placed at 7, 2023, $133,254.
     Loving Moment (2015 f. by Uncle Mo). 2 wins at 5, $127,866.
 -   Tilted Towers (2016 g. by Atreides). 3 wins at 4 and 5, $124,413.
@@ -26,13 +12,141 @@
 -   Sexarito (2021 f. by Frosted).
 -   Ruby Nell (2020 f. by Bolt d'Oro). Unraced.
 +   Sexarito (2021 f. by Frosted). Unraced.
-    <strong>CONCEALED IDENTITY</strong> (2008 g. by Smarty Jones). 7 wins, 2 to 5, $461,140, 1st John B. Campbell H. (LRL, $75,000), Federico Tesio S. (PIM, $45,000), Find H.-R (LRL, $36,000), Maryland Juvenile Championship S.-R (LRL, $30,000), 2nd Pegasus S. <strong>[G3]</strong> (MTH, $40,000), Maryland Million Classic S.-R (LRL, $30,330), 3rd Jennings H.-R (LRL, $8,250), John B. Campbell H. (LRL, $10,000), Henry S. Clark S. (PIM, $10,000), Jennings H.-R (LRL, $10,000) twice.
-    <strong>PEACH OF A GAL</strong> (2015 f. by Curlin). 3 wins at 2 and 3, $99,900, in N.A./U.S., 1st Christiana S. (DEL, $30,000), 3rd Suwannee River S. <strong>[G3]</strong> (GP, $14,700), Hilltop S. (PIM, $10,000); unplaced in 2 starts, $1,650, in Canada. (Total: $101,155). Dam of 2 foals--
+ 
+ 2nd dam
+ <strong>RICHETTA</strong>, by Polish Numbers. 5 wins at 2 and 3, $296,848, 1st Selima S. [L] (LRL, $60,000),
+@@ -23,10 +23,10 @@
+    .     unplaced in 2 starts, $1,650, in Canada. (Total: $101,155). Dam of 2 foals--
     .  Unnamed (2022 c. by Nyquist).
     .  Unnamed (2021 c. by Kantharos).
-+   <strong>Riccio</strong> (2020 g. by Cross Traffic). 2 wins at 2, 2022, $124,388, 3rd Rocky Run S. (DEL, $13,750), Heft S. (LRL, $10,000).
-    <strong>Cu Rahy</strong> (2014 c. by Curlin). 5 wins, 2 to 5, $122,794, 3rd Clever Trevor S. [L] (RP, $11,000), Kip Deville S. [L] (RP, $8,250).
--   <strong>Riccio</strong> (2020 c. by Cross Traffic). 2 wins at 2, 2022, $114,388, 3rd Rocky Run S. (DEL, $13,750).
++   <strong>Riccio</strong> (2020 g. by Cross Traffic). 2 wins at 2, 2022, $124,388, 3rd Rocky Run S. (DEL,
++   .  $13,750), Heft S. (LRL, $10,000).
+    <strong>Cu Rahy</strong> (2014 c. by Curlin). 5 wins, 2 to 5, $122,794, 3rd Clever Trevor S. [L] (RP,
+    .  $11,000), Kip Deville S. [L] (RP, $8,250).
+-   <strong>Riccio</strong> (2020 c. by Cross Traffic). 2 wins at 2, 2022, $114,388, 3rd Rocky Run S. (DEL,
+-   .  $13,750).
     Good Measure (2018 f. by Smarty Jones). Winner at 3 and 4, 2022, $145,943.
     True Success (2007 c. by Yes It's True). 4 wins at 3, $78,916.
     Dynastic (2016 g. by Broken Vow). Winner at 3, $29,934.
+@@ -37,96 +37,29 @@
+    For Riches (2011 c. by Not For Love). Unraced. Died 2013.
+    Fully Engaged (2010 g. by Dynaformer). Unplaced, $2,300.
+    For the Gold (2012 g. by Fairbanks). Unplaced, $125.
++   Tilted Towers (2016 g. by Atreides). 3 wins at 4 and 5, placed at 7, 2023, $133,254.
++   Loving Moment (2015 f. by Uncle Mo). 2 wins at 5, $127,866.
++   Blue Norther (2019 g. by Frosted). Winner at 3, placed at 4, 2023, $56,922.
++   Easy On the Sugar (2018 f. by Frosted). Winner at 3 and 4, 2022, $33,791.
++   Ruby Nell (2020 f. by Bolt d'Oro). Placed in 1 start at 3, 2023, $13,400.
++   Unnamed (2022 f. by Good Magic). (application pending) See above.
++   Sexarito (2021 f. by Frosted). Unraced.
++2nd dam
++<strong>RICHETTA</strong>, by Polish Numbers. 5 wins at 2 and 3, $296,848, 1st Selima S. [L] (LRL, $60,000),      Maryland Million Lassie S.-R (LRL, $55,000), Twin Lights S. (MTH, $36,000), Heavenly Cause S.-R      (LRL, $36,000), 2nd Twixt S.-R (PIM, $20,000), Nellie Morse S. (LRL, $15,000), Honey Bee S. (MED,      $12,000), 3rd Susan's Girl Breeders' Cup S. [L] (DEL, $19,250), Maryland Million Oaks-R (PIM,      $10,000), Humphrey S. Finney S.-R (PIM, $8,250), Conniver S.-R (LRL, $5,500). Dam of 13 foals, 11      to race, 9 winners--
++   <strong>CONCEALED IDENTITY</strong> (2008 g. by Smarty Jones). 7 wins, 2 to 5, $461,140, 1st John B. Campbell H. (LRL, $75,000), Federico Tesio S. (PIM, $45,000), Find H.-R (LRL, $36,000), Maryland Juvenile Championship S.-R (LRL, $30,000), 2nd Pegasus S. <strong>[G3]</strong> (MTH, $40,000), Maryland Million Classic S.-R (LRL, $30,330), 3rd Jennings H.-R (LRL, $8,250), John B. Campbell H. (LRL, $10,000), Henry S. Clark S. (PIM, $10,000), Jennings H.-R (LRL, $10,000) twice.
++   <strong>PEACH OF A GAL</strong> (2015 f. by Curlin). 3 wins at 2 and 3, $99,900, in N.A./U.S., 1st Christiana S. (DEL, $30,000), 3rd Suwannee River S. <strong>[G3]</strong> (GP, $14,700), Hilltop S. (PIM, $10,000); unplaced in 2 starts, $1,650, in Canada. (Total: $101,155). Dam of 2 foals--
++   .  Unnamed (2022 c. by Nyquist).
++   .  Unnamed (2021 c. by Kantharos).
++   <strong>Riccio</strong> (2020 g. by Cross Traffic). 2 wins at 2, 2022, $124,388, 3rd Rocky Run S. (DEL, $13,750), Heft S. (LRL, $10,000).
++   <strong>Cu Rahy</strong> (2014 c. by Curlin). 5 wins, 2 to 5, $122,794, 3rd Clever Trevor S. [L] (RP, $11,000), Kip Deville S. [L] (RP, $8,250).
++   Good Measure (2018 f. by Smarty Jones). Winner at 3 and 4, 2022, $145,943.
++   True Success (2007 c. by Yes It's True). 4 wins at 3, $78,916.
++   Dynastic (2016 g. by Broken Vow). Winner at 3, $29,934.
++   Rich Love (2009 f. by Not For Love). See above.
++   Rich Image (2017 f. by Imagining). Winner at 4, $12,860. Dam of 1 foal--
++   .  Dark Passenger (2022 c. by Maximum Security).
++   Unnamed (2021 f. by Collected).
++   For Riches (2011 c. by Not For Love). Unraced. Died 2013.
++   Fully Engaged (2010 g. by Dynaformer). Unplaced, $2,300.
++   Fully Engaged (2010 g. by Dynaformer). Unplaced, $2,300.
+ 
+-3rd dam
+-<strong>Riscay</strong>, by Rahy. 3 wins at 3 and 4, $90,570, 2nd April Run S. [L] (PIM, $11,380). Died 2005. Dam
+-      of 4 foals, 3 to race, 1 winner--
+-   <strong>RICHETTA</strong> (2001 f. by Polish Numbers). Black type winner, see above.
+-   Phantom Punch (2003 f. by Two Punch). Placed in 1 start at 3, $1,450. Sent from United States to
+-   .     Venezuela in 2013. Dam of 6 foals, 4 to race, 3 winners--
+-   .  R S Punch (2010 f. by Catienus). 2 wins at 3, $33,450.
+-   .  Sunny Isles Girl (2008 f. by Catienus). Winner at 8, $31,691.
+-   .  Artillery Punch (2011 f. by Kitten's Joy). Winner at 3, $13,608. Producer.
+-   .  Knockout Kitten (2012 c. by Kitten's Joy). Unraced.
+-   .  Phantom Kitten (2007 f. by Kitten's Joy). Unraced.
+-   .  =West Bay (VEN) (2015 c. by Borrego). Unplaced in Venezuela.
+-   Carson Street (2004 c. by Carson City). Unraced. Died 2006.
+-   Risky (2002 g. by Two Punch). Unplaced in 1 start.
+-
+-4th dam
+-<strong>Sea Basque</strong>, by Seattle Slew. 2 wins at 3, $98,770, 2nd Matron S. <strong>[G1]</strong>, Astarita S.
+-      <strong>[G2]</strong>. Sent from United States to India in 1996. Sister to <strong>Slewsbasque</strong> ($79,031,
+-      3rd Busher H. [L] (AQU, $8,004)), half-sister to <strong>BOUNDING BASQUE</strong> ($1,256,258, 1st Wood
+-      Memorial S.<strong>-G1</strong>, etc., sire), <strong>EL BASCO</strong> ($529,242, 1st Withers S. <strong>[G2]</strong>,
+-      etc., sire), <strong>MUHAYAA</strong> (Total: $106,632, 1st Godolphin S. [L], etc., sire). Dam of 8 foals,
+-      7 to race, 5 winners--
+-   <strong>Riscay</strong> (1994 f. by Rahy). Black type-placed winner, see above.
+-   Kryptos (1990 f. by Chief's Crown). Winner at 3, 3,698 Pounds, in England; winner at 4, $17,262, in
+-   .     N.A./U.S. Sent from United States to England in 1991. Returned to United States from Ireland in
+-   .     1993. (Total: $22,848). Dam of 10 foals, 7 to race, 5 winners--
+-   .  <strong>Kermita</strong> (2002 f. by Sandpit (BRZ)). 3 wins at 2 and 3, 43,527 Reals, in Brazil, 2nd Duque
+-   .  .     de Caxias <strong>[G2]</strong>, Grande Premio Henrique de Toledo Lara <strong>[G3]</strong>, Tude Neiva Lima
+-   .  .     Rocha [L]. Sent from United States to Brazil in 2003. (Total: $19,296). Dam of 4 foals, 4 to
+-   .  .     race, 4 winners--
+-   .  .  <strong>=KEYNES (BRZ)</strong> (2009 c. by Redattore (BRZ)). 3 wins, 2 to 4, 103,112 Reals, in Brazil,
+-   .  .  .  1st Joao Jose e Jose Carlos de Figueiredo <strong>[G3]</strong>, 2nd Frederico Lundgren  - Comparacao
+-   .  .  .  De Cavalos <strong>[G3]</strong>, 3rd Luiz Rigoni [L]. (Total: $45,684).
+-   .  .  <strong>=Avattore (BRZ)</strong> (2008 c. by Redattore (BRZ)). 4 wins, 2 to 4, 67,225 Reals, in Brazil,
+-   .  .  .  2nd Grande Premio Joao Borges Filho <strong>[G2]</strong>. (Total: $37,202).
+-   .  Subtle Glitz (2000 g. by Glitterman). 3 wins at 5 and 6, $68,907.
+-   .  Valued Associate (1998 f. by With Approval). 2 wins at 3, $50,250.
+-   .  This Is My Case (2004 f. by Gold Case). 4 wins at 4 and 7, $29,230. Died 2012.
+-   .  Sea of Glitter (2003 f. by Glitterman). 2 wins at 3, $14,352. Died 2006.
+-   .  Chief's Paradox (2007 g. by Domestic Dispute). Placed at 5, $4,480.
+-   .  Unnamed (2008 f. by Gators N Bears).
+-   .  Snowprint (1999 f. by Lord Avie). Unraced.
+-   .  Unnamed (1997 c. by Beau Genius). Died 1998.
+-   .  Imperator Marc (1996 c. by Known Fact). Unplaced, $840.
+-   Seattle Account (1993 g. by Private Account). 3 wins at 3 and 4, $29,874.
+-   =Knighted (IND) (1997 c. by Chief's Crown). 19 wins, 2 to 8 in India.
+-   Alina Da Corfu (1991 f. by Alysheba). 2 wins at 3 in Italy. Sent from United States to Italy in 1992.
+-   .     Dam of 1 foal--
+-   .  =Zaanah (KSA) (1996 f. by Hamas (IRE)). Unraced in Saudi Arabia.
+-   Parting the Sea (1992 c. by Alysheba). Placed in 2 starts at 3, $2,400. Sire. Died 2001.
+-   =Star Talent (IND) (1998 c. by Portroe). Placed at 3 in India.
+-   Seapiano (1989 f. by Fappiano). Unraced. Died 1999. Dam of 4 foals, 3 to race, 1 winner--
+-   .  Seakeen (1999 f. by Rakeen). 6 wins, 3 to 5, $70,379.
+-   .  Faster (1996 c. by Opening Verse). Placed at 4, $2,700.
+-   .  Piano Man (1994 c. by Opening Verse). Unraced.
+-   .  Piano Run (1997 c. by Rakeen). Unplaced in 2 starts.
+-   <strong>RICHETTA</strong> (2001 f. by Polish Numbers). Black type winner, see above.
+-   Phantom Punch (2003 f. by Two Punch). Placed in 1 start at 3, $1,450. Sent from United States to Venezuela in 2013. Dam of 6 foals, 4 to race, 3 winners--
+-   .  R S Punch (2010 f. by Catienus). 2 wins at 3, $33,450.
+-   .  Sunny Isles Girl (2008 f. by Catienus). Winner at 8, $31,691.
+-   .  Artillery Punch (2011 f. by Kitten's Joy). Winner at 3, $13,608. Producer.
+-   .  Knockout Kitten (2012 c. by Kitten's Joy). Unraced.
+-   .  Phantom Kitten (2007 f. by Kitten's Joy). Unraced.
+-   .  =West Bay (VEN) (2015 c. by Borrego). Unplaced in Venezuela.
+-   Carson Street (2004 c. by Carson City). Unraced. Died 2006.
+-   Risky (2002 g. by Two Punch). Unplaced in 1 start.4th dam<strong>Sea Basque</strong>, by Seattle Slew. 2 wins at 3, $98,770, 2nd Matron S. <strong>[G1]</strong>, Astarita S.      <strong>[G2]</strong>. Sent from United States to India in 1996. Sister to <strong>Slewsbasque</strong> ($79,031,      3rd Busher H. [L] (AQU, $8,004)), half-sister to <strong>BOUNDING BASQUE</strong> ($1,256,258, 1st Wood      Memorial S.<strong>-G1</strong>, etc., sire), <strong>EL BASCO</strong> ($529,242, 1st Withers S. <strong>[G2]</strong>,      etc., sire), <strong>MUHAYAA</strong> (Total: $106,632, 1st Godolphin S. [L], etc., sire). Dam of 8 foals,      7 to race, 5 winners--
+-   <strong>Riscay</strong> (1994 f. by Rahy). Black type-placed winner, see above.
+-   Kryptos (1990 f. by Chief's Crown). Winner at 3, 3,698 Pounds, in England; winner at 4, $17,262, in N.A./U.S. Sent from United States to England in 1991. Returned to United States from Ireland in 1993. (Total: $22,848). Dam of 10 foals, 7 to race, 5 winners--
+-   .  <strong>Kermita</strong> (2002 f. by Sandpit (BRZ)). 3 wins at 2 and 3, 43,527 Reals, in Brazil, 2nd Duque de Caxias <strong>[G2]</strong>, Grande Premio Henrique de Toledo Lara <strong>[G3]</strong>, Tude Neiva Lima Rocha [L]. Sent from United States to Brazil in 2003. (Total: $19,296). Dam of 4 foals, 4 to race, 4 winners--
+-   .  .  <strong>=KEYNES (BRZ)</strong> (2009 c. by Redattore (BRZ)). 3 wins, 2 to 4, 103,112 Reals, in Brazil, 1st Joao Jose e Jose Carlos de Figueiredo <strong>[G3]</strong>, 2nd Frederico Lundgren  - Comparacao De Cavalos <strong>[G3]</strong>, 3rd Luiz Rigoni [L]. (Total: $45,684).
+-   .  .  <strong>=Avattore (BRZ)</strong> (2008 c. by Redattore (BRZ)). 4 wins, 2 to 4, 67,225 Reals, in Brazil, 2nd Grande Premio Joao Borges Filho <strong>[G2]</strong>. (Total: $37,202).
+-   .  Subtle Glitz (2000 g. by Glitterman). 3 wins at 5 and 6, $68,907.
+-   .  Valued Associate (1998 f. by With Approval). 2 wins at 3, $50,250.
+-   .  This Is My Case (2004 f. by Gold Case). 4 wins at 4 and 7, $29,230. Died 2012.
+-   .  Sea of Glitter (2003 f. by Glitterman). 2 wins at 3, $14,352. Died 2006.
+-   .  Chief's Paradox (2007 g. by Domestic Dispute). Placed at 5, $4,480.
+-   .  Unnamed (2008 f. by Gators N Bears).
+-   .  Snowprint (1999 f. by Lord Avie). Unraced.
+-   .  Unnamed (1997 c. by Beau Genius). Died 1998.
+-   .  Imperator Marc (1996 c. by Known Fact). Unplaced, $840.
+-   Seattle Account (1993 g. by Private Account). 3 wins at 3 and 4, $29,874.
+-   =Knighted (IND) (1997 c. by Chief's Crown). 19 wins, 2 to 8 in India.
+-   Alina Da Corfu (1991 f. by Alysheba). 2 wins at 3 in Italy. Sent from United States to Italy in 1992. Dam of 1 foal--
+-   .  =Zaanah (KSA) (1996 f. by Hamas (IRE)). Unraced in Saudi Arabia.
+-   Parting the Sea (1992 c. by Alysheba). Placed in 2 starts at 3, $2,400. Sire. Died 2001.
+-   =Star Talent (IND) (1998 c. by Portroe). Placed at 3 in India.
+-   Seapiano (1989 f. by Fappiano). Unraced. Died 1999. Dam of 4 foals, 3 to race, 1 winner--
+-   .  Seakeen (1999 f. by Rakeen). 6 wins, 3 to 5, $70,379.
+-   .  Faster (1996 c. by Opening Verse). Placed at 4, $2,700.
+-   .  Piano Man (1994 c. by Opening Verse). Unraced.
+-   .  Piano Man (1994 c. by Opening Verse). Unraced.
+-

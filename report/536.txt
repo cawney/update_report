@@ -1,22 +1,17 @@
 --- PH001562_alt.txt
 +++ PH000536_alt.txt
-@@ -1,4 +1,4 @@
--Jan 16 2023 12:22PM          PH23 CONSIGNOR: 1 HORSE: 562 GROUP: 1 HIP NUMBER:                Page 1
-+Jan 29 2023 10:04PM          PH23 CONSIGNOR: 1 HORSE: 562 GROUP: 1 HIP NUMBER: 00536          Page 1
- 
- 
- ******************************************************************************************
-@@ -48,28 +48,69 @@
-    Deputy (1998 f. by Hadif). 4 wins at 2 and 3, $52,020. Dam of 9 foals, 5 to race, 3 winners--
-    .  <strong>CONQUEST STRATE UP</strong> (2012 f. by Not Bourbon). 4 wins in 8 starts at 3 and 4, $249,420, in Canada, 1st La Prevoyante S.-R (WO, $75,000), 3rd Zadracarta S.-R (WO, $11,000). (Total: $192,984). Dam of 5 foals, 2 to race, 2 winners--
-    .  .  <strong>CLASSICAL CAT</strong> (2020 c. by Mendelssohn). 3 wins in 4 starts at 2, 2022, $146,300, 1st Eddie Logan S. [L] (SA, $60,000).
+@@ -25,292 +25,162 @@
+    .  .     $192,984). Dam of 5 foals, 2 to race, 2 winners--
+    .  .  <strong>CLASSICAL CAT</strong> (2020 c. by Mendelssohn). 3 wins in 4 starts at 2, 2022, $146,300, 1st
+    .  .  .  Eddie Logan S. [L] (SA, $60,000).
 +   .  .  Off We Go (2018 f. by Air Force Blue). 4 wins at 2 and 4, 2022, $201,606.
 +   .  .  Unnamed (2022 c. by Tiz the Law). (application pending)
 +   .  .  H M Legacy (2021 f. by Hard Spun). Unraced.
 +   .  .  Freedom Isnt Free (2019 f. by Practical Joke). Unraced.
     .  Deputy Sparks (2008 g. by Fusaichi Pegasus). 5 wins at 3 and 4, $19,154.
 -   .  Smart Deputy (2009 f. by Smart Strike). Winner at 3, $16,525. Producer.
-+   .  Smart Deputy (2009 f. by Smart Strike). Winner at 3, $16,525. Dam of 8 foals, 7 to race, 4 winners--
++   .  Smart Deputy (2009 f. by Smart Strike). Winner at 3, $16,525. Dam of 8 foals, 7 to race, 4
++   .  .     winners--
 +   .  .  Americain Joey (2017 g. by Americain). 7 wins, 3 to 5, 2022, $121,649.
 +   .  .  Chef Karen (2014 f. by Eye of the Leopard). 2 wins at 3, $48,151.
 +   .  .  Jiggy Cheese Dog (2015 g. by Point Given). Winner at 3, $25,630.
@@ -26,37 +21,47 @@
 +   .  .  Eye Am Smart (2020 g. by Eye of the Leopard). Unplaced in 2 starts, $1,125.
 +   .  .  Sous Chef (2016 f. by Snapy Halo (ARG)). Unplaced in 1 start, $1,080.
     .  Jailhouse Coffee (2005 f. by Doneraile Court). Unraced. Dam of 4 foals, 4 to race, 3 winners--
--   .  .  <strong>CACTUS JOE</strong> (2011 f. by Cactus Ridge). 6 wins at 3 and 4, $310,673, 1st Ellen's Lucky Star S.-R (IND, $50,220), Merrillville S.-R (IND, $50,591), Merrillville S.-R (IND, $50,759), 2nd Indiana First Lady S.-R (IND, $29,366), Hoosier Breeders Sophomore S.-R (IND, $17,384). Producer.
-+   .  .  <strong>CACTUS JOE</strong> (2011 f. by Cactus Ridge). 6 wins at 3 and 4, $310,673, 1st Ellen's Lucky Star S.-R (IND, $50,220), Merrillville S.-R (IND, $50,591), Merrillville S.-R (IND, $50,759), 2nd Indiana First Lady S.-R (IND, $29,366), Hoosier Breeders Sophomore S.-R (IND, $17,384). Dam of 3 foals, 2 to race, 2 winners--
+    .  .  <strong>CACTUS JOE</strong> (2011 f. by Cactus Ridge). 6 wins at 3 and 4, $310,673, 1st Ellen's Lucky
+    .  .  .     Star S.-R (IND, $50,220), Merrillville S.-R (IND, $50,591), Merrillville S.-R (IND,
+    .  .  .     $50,759), 2nd Indiana First Lady S.-R (IND, $29,366), Hoosier Breeders Sophomore S.-R
+-   .  .  .     (IND, $17,384). Producer.
++   .  .  .     (IND, $17,384). Dam of 3 foals, 2 to race, 2 winners--
 +   .  .  .  Cactus Flower (2019 f. by Run Away and Hide). 3 wins at 2 and 3, 2022, $115,852.
 +   .  .  .  Shotgun Joe (2018 g. by Unbridled Express). Winner at 2 and 4, 2022, $62,250.
 +   .  .  .  Commando Joe (2020 g. by Greeley's Conquest). Unraced.
 +   .  .  Espresso to Go (2012 f. by Go Lionel Go). 8 wins, 3 to 7, $64,846.
-+   .  .  Mexican Pegasus (2009 f. by Fusaichi Pegasus). 8 wins at 2 and 3 in Mexico. Sent from United States to Mexico in 2010. Sent from USA and Canada to Mexico in 2010. Sent from Mexico to USA and Canada in 2014.
++   .  .  Mexican Pegasus (2009 f. by Fusaichi Pegasus). 8 wins at 2 and 3 in Mexico. Sent from United
++   .  .  .  States to Mexico in 2010. Sent from USA and Canada to Mexico in 2010. Sent from Mexico to USA
++   .  .  .  and Canada in 2014.
 +   .  .  Last Cup (2014 g. by Go Lionel Go). Unplaced, $770.
     .  Unnamed (2017 c. by Champ Pegasus). (application pending)
--   .  Honourable Soul (2011 f. by Perfect Soul (IRE)). Unraced. Sent from United States to India in 2016. Producer.
+    .  Honourable Soul (2011 f. by Perfect Soul (IRE)). Unraced. Sent from United States to India in 2016.
+-   .  .     Producer.
 -   .  Winsome Woman (2010 f. by Perfect Soul (IRE)). Unraced. Producer.
-+   .  Honourable Soul (2011 f. by Perfect Soul (IRE)). Unraced. Sent from United States to India in 2016. Dam of 2 foals, 1 to race, 1 winner--
++   .  .     Dam of 2 foals, 1 to race, 1 winner--
 +   .  .  Judge Kitten (2016 f. by Kitten's Joy). Winner at 3, $16,300.
 +   .  .  =Costa Pacifica (IND) (2017 f. by Kitten's Joy). Unraced in India.
 +   .  Winsome Woman (2010 f. by Perfect Soul (IRE)). Unraced. Dam of 4 foals, 2 to race, 2 winners--
-+   .  .  Mister Finance (2016 c. by Red Rocks (IRE)). 8 wins, 2 to 6, 2022, 44,960 New Sol, in Peru. Sent from United States to Peru in 2017. (Total: $12,917).
++   .  .  Mister Finance (2016 c. by Red Rocks (IRE)). 8 wins, 2 to 6, 2022, 44,960 New Sol, in Peru. Sent
++   .  .  .  from United States to Peru in 2017. (Total: $12,917).
 +   .  .  Real Woman (2017 f. by Real Solution). Winner in 2 starts at 3, $3,480. Dam of 1 foal--
 +   .  .  .  Lucca Boy (2022 c. by Believe in Royalty). (application pending)
 +   .  .  City Bridge (2018 c. by Slumber (GB)). Unraced.
 +   .  .  Winglet (2015 c. by English Channel). Unraced.
     .  Linda's Posse (2007 g. by Posse). Unplaced, $1,600.
--   .  Girl With a Curl (2006 f. by Yonaguska). Unplaced in 1 start, $220. Sent from United States to Venezuela in 2012. Producer.
-+   .  Girl With a Curl (2006 f. by Yonaguska). Unplaced in 1 start, $220. Sent from United States to Venezuela in 2012. Dam of 2 foals, 2 to race, 1 winner--
+    .  Girl With a Curl (2006 f. by Yonaguska). Unplaced in 1 start, $220. Sent from United States to
+-   .  .     Venezuela in 2012. Producer.
++   .  .     Venezuela in 2012. Dam of 2 foals, 2 to race, 1 winner--
 +   .  .  Five Small (2010 g. by Keyed Entry). 6 wins, 3 to 5, $73,757.
 +   .  .  Sherriffs Moon (2011 c. by Monarchos). Unplaced in 2 starts.
     Secret Wedge (1999 c. by Excellent Secret). 3 wins at 3 and 4, $48,615.
-    Deputy Striker (2009 c. by Smart Strike). 3 wins at 5 and 6, $44,000. Sent from United States to Iran in 2016.
+    Deputy Striker (2009 c. by Smart Strike). 3 wins at 5 and 6, $44,000. Sent from United States to Iran
+    .  in 2016.
     Ms Deep Cover (2002 f. by Excellent Secret). Placed in 1 start at 2, $2,750. Died 2005.
     Deputy Saint (2007 f. by Saint Liam). Unraced. Dam of 8 foals, 6 to race, 2 winners--
--   .  <strong>Philanthropic</strong> (2016 f. by Malibu Moon). 2 wins at 3, $95,550, 2nd Pumpkin Pie S. [L] (AQU, $20,000).
-+   .  <strong>Philanthropic</strong> (2016 f. by Malibu Moon). 2 wins at 3, $95,550, 2nd Pumpkin Pie S. [L] (AQU, $20,000). Dam of 1 foal--
+    .  <strong>Philanthropic</strong> (2016 f. by Malibu Moon). 2 wins at 3, $95,550, 2nd Pumpkin Pie S. [L] (AQU,
+-   .  .     $20,000).
++   .  .     $20,000). Dam of 1 foal--
 +   .  .  Unnamed (2022 f. by Not This Time).
     .  Police Chief (2013 g. by Lemon Drop Kid). Winner at 6, $39,471.
 -   .  Wedding Band (2018 f. by Candy Ride (ARG)). Placed in 1 start at 2, $16,000.
@@ -70,18 +75,350 @@
 +   .  .  Tizmarkus (2021 c. by Tamarkuz). (application pending)
 +   .  .  Alligator Arms (2020 g. by Shaman Ghost). Unraced.
 +   .  .  Fortanga (2019 f. by Flashback). Unraced. Sent from United States to Russia in 2020.
-    .  Good Omen (2015 f. by Smart Strike). Unplaced in 2 starts, $304. Dam of 4 foals, 2 to race, 2 winners--
-    .  .  <strong>Miracle</strong> (2020 f. by Mendelssohn). Winner at 2, 2022, $137,400, 2nd Maid of the Mist S.-R (BAQ, $40,000), Joseph A. Gimma S.-R (BAQ, $25,000), 3rd Seeking the Ante S.-R (SAR, $24,000).
+    .  Good Omen (2015 f. by Smart Strike). Unplaced in 2 starts, $304. Dam of 4 foals, 2 to race, 2
+    .  .     winners--
+    .  .  <strong>Miracle</strong> (2020 f. by Mendelssohn). Winner at 2, 2022, $137,400, 2nd Maid of the Mist
+    .  .  .  S.-R (BAQ, $40,000), Joseph A. Gimma S.-R (BAQ, $25,000), 3rd Seeking the Ante S.-R (SAR,
+    .  .  .  $24,000).
 +   .  .  Sight Unseen (2019 g. by Distorted Humor). Winner at 3 and 4, 2023, $38,153.
 +   .  .  Unnamed (2022 f. by Caravaggio).
 +   .  .  Unnamed (2021 c. by Audible).
     .  Kiawah Breeze (2019 c. by American Freedom). Unplaced, $6,250.
 -   .  Speightful Kate (2012 f. by Speightstown). Unplaced in 1 start, $98. Producer.
-+   .  Speightful Kate (2012 f. by Speightstown). Unplaced in 1 start, $98. Dam of 4 foals, 3 to race, 3 winners--
++   .  Speightful Kate (2012 f. by Speightstown). Unplaced in 1 start, $98. Dam of 4 foals, 3 to race, 3
++   .  .     winners--
 +   .  .  Mucho Machismo (2018 g. by Mucho Macho Man). Winner at 4, 2022, $46,230.
 +   .  .  Autism Blue (2019 c. by Stay Thirsty). 3 wins at 2 and 3, 2022, $37,146.
 +   .  .  Karol G (2017 f. by Can the Man). Winner at 3, $7,550.
 +   .  .  Unnamed (2020 f. by Point Piper). (application pending)
     Flirting Away (2012 f. by Distorted Humor). See above.
-    Flirting Away (2012 f. by Distorted Humor). See above.
+    Comic Hero (2003 g. by Wild Zone). Unplaced, $1,100.
+-
+-3rd dam
+-<strong>BARBARIKA</strong>, by Bates Motel. 7 wins in 12 starts at 4 and 5, $337,130, in N.A./U.S., 1st Johnnie
+-      Walker Black Classic H. <strong>[G2]</strong>, Turfway Park Budweiser Breeders' Cup H. <strong>[G3]</strong>, 3rd
+-      Louisville Budweiser Breeders' Cup H. <strong>[G2]</strong>; placed at 3, 8,271 Euro, in France. Sent from
+-      United States to France in 1986. Returned to United States from France in 1988. (Total: $347,253).
+-      Died 2014. Half-sister to <strong>LUCKY LADY LAUREN</strong> ($307,673, 1st Arlington Matron H.
+-      <strong>[G3]</strong>, etc.), <strong>Count On Kathy</strong> ($66,884, 2nd Flirtation S., etc.). Dam of 13 foals,
+-      10 to race, 5 winners--
+-   Joten Turbo (1999 c. by Miswaki). 3 wins at 2 and 4, 12,819,000 Yen, in Japan. Sent from United States
+-   .  to Japan in 2001. (Total: $106,396).
+-   Wins Friend (2002 g. by Crafty Friend). 11 wins, 2 to 5, 74,201 Euro, in Italy. Sent from United
+-   .  States to Italy in 2003. (Total: $93,962).
+-   Don Pasqual (1992 c. by Deputy Minister). Winner at 3, $39,900.
+-   Barb's Bad Boy (2004 g. by Crafty Friend). 4 wins at 2 and 3, $31,128. Died 2008.
+-   Rapidasharina (2006 f. by Vicar). Winner in 2 starts at 3, $9,960. Sent from United States to Japan in
+-   .     2010. Dam of 9 foals, 8 to race, 6 winners--
+-   .  =Rapid Rise (JPN) (2013 f. by =Meisho Bowler (JPN)). 5 wins, 3 to 6, 24,852,000 Yen, in Japan.
+-   .  .  (Total: $228,117).
+-   .  =City Pop (JPN) (2015 f. by =Lord Kanaloa (JPN)). Winner at 3 and 4, 18,500,000 Yen, in Japan.
+-   .  .  (Total: $169,831).
+-   .  =Quick Study (JPN) (2017 f. by =Spielberg (JPN)). 5 wins at 4 and 5, 2022, 2,785,000 Yen, in Japan.
+-   .  .  (Total: $24,068).
+-   .  =Red Albion (JPN) (2016 c. by =Daiwa Major (JPN)). 5 wins at 3 and 4, 1,677,000 Yen, in Japan.
+-   .  .  (Total: $15,505).
+-   .  =One Way Drive (JPN) (2014 f. by Casino Drive). Winner at 3 and 5, 906,000 Yen, in Japan. (Total:
+-   .  .  $8,103).
+-   .  =Lovely Atalante (JPN) (2019 f. by =Lovely Day (JPN)). 2 wins at 3, placed at 4, 2023, 963,000 Yen,
+-   .  .  in Japan. (Total: $7,039).
+-   .  =Red Ivor (JPN) (2012 c. by Taiki Shuttle). Placed at 3, 4,000,000 Yen, in Japan. (Total:
+-   .  .  $33,464).
+-   .  =Ryuno Flower (JPN) (2020 f. by =Real Steel (JPN)). Placed at 3, 2023, 132,000 Yen, in Japan.
+-   .  .  (Total: $1,008).
+-   .  =Unnamed (2018 c. by =Spielberg (JPN)).
+-   Barbicat (1993 f. by Storm Cat). Placed in 2 starts at 3, $2,100. Sent from United States to Japan in
+-   .     2002. Dam of 6 foals, 6 to race, 5 winners--
+-   .  <strong>=RED SPADA (JPN)</strong> (2006 c. by Taiki Shuttle). 7 wins, 2 to 8, 339,783,000 Yen, in Japan,
+-   .  .  1st Keio Hai Spring Cup <strong>[G2]</strong>, Tokyo Shimbun Hai <strong>[G3]</strong>, Sekiya Kinen
+-   .  .  <strong>[G3]</strong>, New Year S. [L], 2nd NHK Mile Cup <strong>[G1]</strong>, Hanshin Cup <strong>[G2]</strong>,
+-   .  .  Fuji-TV Sho Spring S. [LR], 3rd Yukan Fuji Sho Ocean S. <strong>[G3]</strong> twice. (Total:
+-   .  .  $3,610,116). Sire.
+-   .  =Brave Fight (JPN) (2005 c. by =Dance in the Dark (JPN)). 5 wins, 3 to 7, 110,762,000 Yen, in
+-   .  .  Japan. (Total: $1,245,299).
+-   .  Private Cat (1998 g. by Private Terms). 6 wins at 3 and 5, $104,337.
+-   .  Courtyard Barbi (1999 f. by Judge T C). 3 wins at 2 and 3, $63,102.
+-   .  Runaway Storm (2000 c. by Judge T C). Winner at 3, $12,890.
+-   .  =Wisteria Arch (JPN) (2007 f. by =King Kamehameha (JPN)). Unplaced in 2 starts, 750,000 Yen, in
+-   .  .     Japan. (Total: $8,654). Producer.
+-   Winchime (1998 f. by Chimes Band). Placed, 3 to 5, $89,320. Dam of 6 foals, 4 to race, 3 winners--
+-   .  Officer Mahaffy (2011 g. by Officer). Winner at 4, $28,190.
+-   .  Wonsome (2006 f. by Thunderello). Winner at 3, $10,777. Producer.
+-   .  Won My Heart (2008 f. by Out of Place). Winner at 3, $10,182.
+-   .  Geoffrey (2014 c. by American Lion). Unraced.
+-   .  Marsh Pond (2005 c. by Let Goodtimes Roll). Unraced.
+-   .  Greychime (2009 f. by Flashy Bull). Unplaced in 2 starts, $534.
+-   Angel in the Wind (2000 f. by Crafty Prospector). Placed at 3, $7,728. Dam of 3 foals, 2 to race, 1
+-   .     winner--
+-   .  Gas House (2006 g. by Toccet). 3 wins at 3 and 4, $75,607.
+-   .  Divine Retribution (2007 f. by Action This Day). Placed at 4, $12,662.
+-   .  Windy Channel (2017 c. by English Channel). Unraced.
+-   .  Curlin Wind (2008 c. by Toccet). (application cancelled)
+-   Texarika (1997 f. by Chimes Band). Placed at 3, 4,116 Euro, in France. Sent from United States to
+-   .     France in 1999. (Total: $4,102). Dam of 10 foals, 9 to race, 3 winners--
+-   .  =Real Spain (FR) (2004 g. by Bering (GB)). 2 wins at 3, 30,050 Euro, in France. (Total: $40,231).
+-   .  .  Died 2012.
+-   .  =Tacma (FR) (2003 f. by Emperor Jones). 3 wins at 4 and 5, 26,400 Euro, in France. (Total:
+-   .  .     $36,203).
+-   .  =Aeshan Mishael (KSA) (2014 c. by Lake Periyar). Winner at 5, 105,000 Riyals, in Saudi Arabia.
+-   .  .  (Total: $27,998).
+-   .  =Dajwi (KSA) (2011 f. by =Highlander (GB)). Placed at 2, 22,680 Riyals, in Saudi Arabia. (Total:
+-   .  .     $6,048).
+-   .  =Texa's Honor (FR) (2007 f. by $Highest Honor (FR)). Placed at 3, 4,700 Euro, in France. (Total:
+-   .  .  $5,918).
+-   .  =L'Astrance (FR) (2005 f. by Emperor Jones). Placed at 2, 2,500 Euro, in France. (Total: $3,426).
+-   .  =La Marchande (FR) (2006 f. by Marchand de Sable). Placed at 5, 2,300 Euro, in France. (Total:
+-   .  .  $3,144).
+-   .  =Texas Regent (FR) (2002 f. by Emperor Jones). Placed in 1 start at 2, 2,000 Euro, in France.
+-   .  .     (Total: $2,560).
+-   .  =Unnamed (2013 c. by Lake Periyar).
+-   .  =Alam Almamlakah (KSA) (2009 c. by Numerous). Unplaced in Saudi Arabia.
+-   Sherriff's Deputy (1994 f. by Deputy Minister). See above.
+-   Chi (1995 f. by Silver Hawk). Unraced. Died 2011. Dam of 7 foals, 7 to race, 7 winners--
+-   .  White Lamb (2006 f. by Trippi). Winner at 4, $43,152. Dam of 5 foals, 2 to race, 2 winners--
+-   .  .  <strong>Here Comes Doc</strong> (2014 g. by Silver Mountain). 5 wins, 2 to 7, placed at 8, 2022,
+-   .  .  .  $249,908, 2nd William Henry Harrison S.-R (IND, $20,533).
+-   .  Victory Snit (1999 f. by Victory Speech). Winner at 3 and 4, $57,135.
+-   .  Novel (2002 f. by Notebook). 4 wins, 2 to 4, $44,573.
+-   .  Book of the Month (2001 g. by Notebook). Winner at 2 and 5, $32,285.
+-   .  Mystery Novel (2003 g. by Notebook). 7 wins, 3 to 5, $32,137.
+-   .  Ke Ke Town (2007 f. by Delaware Township). 3 wins at 3 and 4, $29,415.
+-   .  Harry the Hawk (2008 g. by Montbrook). Winner at 3, $18,641.
+-   Century Ahead (2008 f. by Century City (IRE)). Unraced. Died 2018.
+-   Woodthrush (1996 f. by Woodman). Unplaced in 2 starts, $450. Died 2012. Dam of 6 foals, 5 to race, 4
+-   .     winners--
+-   .  Gone Mountain (2011 g. by Magna Graduate). 7 wins, 2 to 7, $149,282. Died 2021.
+-   .  Lunar Chip (2003 f. by Satellite Sun). 3 wins at 3 and 5, $46,318.
+-   .  Mawhinney (2009 g. by Scat Daddy). Winner at 4 and 5, $23,646.
+-   .  Nephrina (2012 f. by Borrego). Winner at 2 in Panama. Sent from United States to Panama in 2013.
+-   .  Frederika (2004 f. by Satellite Sun). Placed at 4, $840.
+-   .  Magna Moonglow (2010 f. by Magna Graduate). Unraced. Producer.
+-
+-4th dam
+-<strong>WAR EXCHANGE</strong>, by Wise Exchange. 10 wins, 2 to 4, $123,073, 1st Conniver H., 2nd Heirloom S.,
+-      Dogwood S., Benjamin Franklin H., Geisha H.-R, 3rd Betsy Ross H., Marlboro Nursery S. Half-sister
+-      to <strong>JUNGLE JOVE</strong> ($111,079, 1st Tri-State Futurity-R, etc., sire). Dam of 11 foals, 7 to
+-      race, 6 winners--
+-   <strong>BARBARIKA</strong> (1985 f. by Bates Motel). Black type winner, see above.
+-   <strong>LUCKY LADY LAUREN</strong> (1987 f. by Carnivalay). 10 wins, 2 to 5, $307,673, 1st Arlington Matron H.
+-   .     <strong>[G3]</strong>, Wintergreen S. [L] (TP, $27,901), Flirtation S. (LRL, $26,085), Forsythia S.
+-   .     (PIM, $26,010), 2nd Kennard Warfield Jr. Group Maryland Oaks [LR] (PIM, $20,000), What a Summer
+-   .     S. [LR] (LRL, $15,000), All Brandy H.-R (LRL, $15,000), Oktoberfest H. (TP, $5,180), 3rd
+-   .     Ak-Sar-Ben Oaks <strong>[G3]</strong>, Heavenly Cause S. [LR] (LRL, $6,000). Died 2001. Dam of 6 foals,
+-   .     4 to race, 3 winners--
+-   .  Wendy Peppercorn (1993 f. by Halo). 2 wins at 3, $47,464. Sent from United States to Australia in
+-   .  .     1998. Producer.
+-   .  Charles Bridge (1997 c. by Phone Trick). 3 wins at 3, $33,916.
+-   .  Dustin's Luckylady (1999 f. by Louis Quatorze). Winner at 2 and 3, $16,175.
+-   .  Emerging Market (1996 c. by Time for a Change). Placed at 3, $6,970.
+-   .  Another Lucky Lady (1994 f. by Gulch). Unraced. Died 2001. Dam of 2 foals, 2 to race, 2 winners--
+-   .  .  Silver Gulch (1998 f. by Silver Deputy). Winner at 4, $3,650. Dam of 2 foals, 2 to race, 2
+-   .  .  .     winners--
+-   .  .  .  <strong>Shot of Silver</strong> (2003 f. by Shot of Gold). 14 wins, 2 to 7, $211,153, 2nd Minnesota
+-   .  .  .  .  Distaff Sprint Championship S.-R (CBY, $10,000). Producer.
+-   .  Priest (2000 c. by Pulpit). Unraced. Died 2002.
+-   <strong>Count On Kathy</strong> (1978 f. by Dancing Count). 4 wins at 3, $66,884, 2nd Flirtation S., Politely
+-   .     S.-R, 3rd Trevose S., Miss Delaware S., Caesar's Wish H.-R, Windfall H.-R. Died 1993. Dam of 6
+-   .     foals, 6 to race, 6 winners--
+-   .  <strong>COUNT ON A CHANGE</strong> (1987 f. by Time for a Change). 6 wins, 2 to 5, $233,699, 1st Etobicoke
+-   .  .     H. [L] (WO, $39,204(CAN)), Etobicoke H. [L] (WO, $39,917(CAN)), 2nd George C. Hendrie H. [L]
+-   .  .     (WO, $15,540(CAN)), 3rd Ontario Matron H.-R (WO, $12,100(CAN)), Ontario Matron S.-R (WO,
+-   .  .     $11,935(CAN)). Sent from United States to Japan in 1998. Dam of 10 foals, 8 to race, 2
+-   .  .     winners--
+-   .  .  Super Ballerina (1994 f. by Storm Bird). Placed at 2, 2,400,000 Yen, in Japan. Sent from United
+-   .  .  .     States to Japan in 1996. (Total: $22,166). Dam of 11 foals, 11 to race, 10 winners--
+-   .  .  .  <strong>=WIN VARIATION (JPN)</strong> (2008 c. by =Heart's Cry (JPN)). 4 wins, 2 to 6, 579,946,000
+-   .  .  .  .  Yen, in Japan, 1st Nikkei Sho <strong>[G2]</strong>, TV Tokyo Hai Aoba Sho <strong>[G2]</strong>, 2nd
+-   .  .  .  .  Tokyo Yushun-Japanese Derby <strong>[G1]</strong>, Kikuka Sho-Japanese St. Leger <strong>[G1]</strong>,
+-   .  .  .  .  Arima Kinen Grand Prix <strong>[G1]</strong>, Tenno Sho Spring <strong>[G1]</strong>, Nikkei Sho
+-   .  .  .  .  <strong>[G2]</strong> twice, Kobe Shimbun Hai <strong>[G2]</strong>, 3rd Tenno Sho Spring <strong>[G1]</strong>,
+-   .  .  .  .  Kinko Sho <strong>[G2]</strong>. (Total: $6,544,917). Sire.
+-   .  .  Barnie Fife (1996 f. by Deputy Minister). Placed in 2 starts at 3, $2,300. Dam of 10 foals, 6 to
+-   .  .  .     race, 6 winners--
+-   .  .  .  <strong>AMERICAN CLASSIC</strong> (2004 g. by Distorted Humor). 10 wins, 5 to 10, $270,270, 1st
+-   .  .  .  .  Budweiser S. (SUN, $30,000), 2nd KLAQ H. (SUN, $11,000), Bill Thomas Memorial S. (SUN,
+-   .  .  .  .  $11,000), 3rd Prairie Express S. (PRM, $6,000).
+-   .  .  .  <strong>Niconellie</strong> (2012 g. by West Acre). 4 wins at 2 and 4, $132,306, 3rd Florida Sire
+-   .  .  .  .  Unbridled S.-R (GP, $15,000), Florida Sire Prized S.-R (GP, $15,000). Set ntr at
+-   .  .  .  .  Gulfstream Park, 4 1/2 furlongs in 0:51.09 (07/13/14).
+-   .  .  Nice Change (1995 f. by Gulch). Placed at 3, $7,140. Died 2005. Dam of 3 foals, 3 to race, 2
+-   .  .  .     winners--
+-   .  .  .  <strong>SIDCUP</strong> (2002 g. by Running Stag). 4 wins at 4 and 5, $205,038, 1st Prairie Bayou S.
+-   .  .  .  .  (TP, $31,000), 2nd Tejano Run S. (TP, $10,000).
+-   .  .  .  <strong>Rock Gold</strong> (2004 g. by El Prado (IRE)). 5 wins at 3 and 4, $224,588, 3rd Don Ciccio
+-   .  .  .  .  S. (HAW, $5,857).
+-   .  <strong>T. V. COUNTESS</strong> (1985 f. by T. V. Commercial). 4 wins at 2 and 3, $117,237, 1st Politely S.
+-   .  .     [LR] (PIM, $32,500), 2nd Cameo S. (LRL, $9,130), Dahlia S.-R (PHA, $4,760), 3rd Flirtation S.
+-   .  .     (PIM, $4,567). Dam of 11 foals, 8 to race, 6 winners--
+-   .  .  <strong>COUNTESS DIANA</strong> (1995 f. by Deerhound). 7 wins in 14 starts at 2 and 4, $1,117,185,
+-   .  .  .     champion 2-year-old filly in U.S. (1997), 1st Breeders' Cup Juvenile Fillies
+-   .  .  .     <strong>[G1]</strong>, Spinaway S. <strong>[G1]</strong>, Walmac International Alcibiades S.
+-   .  .  .     <strong>[G2]</strong>, Schuylerville S. <strong>[G2]</strong>, 2nd Debutante S. <strong>[G3]</strong>, Nassau
+-   .  .  .     County S. <strong>[G3]</strong>. Set ntr at Pimlico, 4 1/2 furlongs in 0:51.50 (06/06/97). Dam of
+-   .  .  .     6 foals, 6 to race, 5 winners--
+-   .  .  .  <strong>MAMA NADINE</strong> (2003 f. by A.P. Indy). 2 wins at 3, $88,105, 1st Little Silver S. (MTH,
+-   .  .  .  .  $36,000), 2nd Beru S. (BEL, $13,290). Producer.
+-   .  .  <strong>COUNT ON NUMBERS</strong> (1993 g. by Polish Numbers). 8 wins, 2 to 7, $254,867, 1st Primer
+-   .  .  .  Breeders' Cup S. [L] (PIM, $31,710), Bernard P. Bond S. [L] (PIM, $30,975), Maryland Million
+-   .  .  .  Nursery S.-R (LRL, $55,000), Horatius S. (LRL, $31,035), 2nd Bimelech S. (LRL, $7,425),
+-   .  .  .  Ambernash S. (LRL, $7,350).
+-   .  .  <strong>FIGHTING COUNTESS</strong> (1992 f. by Ringside). 5 wins at 2 and 3, $120,076, 1st Bold Queen S.
+-   .  .  .     (LRL, $18,975), 2nd Maryland Million Lassie S.-R (LRL, $20,000), 3rd Twixt S.-R (PIM,
+-   .  .  .     $11,000), Maryland Million Oaks-R (LRL, $10,000), Pearl Necklace S.-R (LRL, $6,600),
+-   .  .  .     Toddler Breeders' Cup S. (PIM, $3,641). Sent from United States to Ireland in 2002.
+-   .  .  .     Returned to United States from Ireland in 2004. Dam of 15 foals, 12 to race, 8 winners--
+-   .  .  .  <strong>DAWN PRINCESS</strong> (1997 f. by Polish Numbers). 4 wins at 2 and 3, $131,398, 1st Tippett
+-   .  .  .  .  S. [L] (CNL, $45,000), 2nd Selima S. <strong>[G3]</strong>, Pearl Necklace S.-R (LRL, $12,000),
+-   .  .  .  .  3rd Laura Gal S. (LRL, $4,400). Producer.
+-   .  .  <strong>PRIME TIME T. V.</strong> (2002 c. by Deputy Minister). Winner at 2, $21,199, in N.A./U.S.; 3
+-   .  .  .  wins in 5 starts at 3, $104,550, in Canada, 1st Manitoba Lotteries Derby [L] (ASD, $60,000),
+-   .  .  .  Golden Boy S. (ASD, $24,000), 2nd Derby Trial S. (ASD, $8,000). (Total: $106,079). Died
+-   .  .  .  2006.
+-   .  .  <strong>Shermanesque</strong> (2004 c. by Fusaichi Pegasus). Winner at 2, $104,516, 2nd Bashford Manor
+-   .  .  .  S. <strong>[G3]</strong> (CD, $32,301), Kentucky Cup Juvenile S. <strong>[G3]</strong> (TP, $20,000), 3rd
+-   .  .  .  Saratoga Special Breeders' Cup S. <strong>[G2]</strong> (SAR, $20,000). Sire.
+-   .  .  <strong>Copper Country</strong> (1998 c. by Salt Lake). Winner at 3, $48,565, 2nd Alydar S. [L] (AP,
+-   .  .  .  $10,750).
+-   .  .  Kelli Cat (1999 f. by Storm Cat). Unraced. Died 2016. Dam of 12 foals, 10 to race, 6 winners--
+-   .  .  .  <strong>BEAUTIFUL DANIELE</strong> (2003 f. by A.P. Indy). 4 wins at 3 and 4, $153,395, 1st Navajo
+-   .  .  .  .  Princess S. (MED, $36,000). Producer.
+-   .  .  .  <strong>Robie the Cat</strong> (2008 c. by Distorted Humor). 8 wins, 2 to 10, $138,143, 2nd Harry
+-   .  .  .  .  Henson S. (HOL, $14,500).
+-   .  .  Unfinished Dream (2001 f. by Silver Deputy). Unraced. Dam of 9 foals, 7 to race, 5 winners--
+-   .  .  .  <strong>SKYDREAMIN</strong> (2011 g. by Sky Mesa). 10 wins, 2 to 6, $117,588, 1st Everett Nevin S.
+-   .  .  .  .  (PLN, $33,150), Lost in the Fog S. (GG, $30,300).
+-   .  .  High Definition (2007 f. by Richter Scale). Unplaced in 1 start, $400, in Canada. (Total: $369).
+-   .  .  .     Dam of 5 foals, 3 to race, 3 winners--
+-   .  .  .  <strong>Awesome D J</strong> (2016 g. by Awesome Again). 8 wins, 2 to 6, 2022, $202,772, 3rd Deputed
+-   .  .  .  .  Testamony S. (LRL, $10,000).
+-   .  Tangled Up in Blue (1989 f. by Phone Trick). 3 wins at 4, $34,640. Dam of 11 foals, 5 to race, 4
+-   .  .     winners--
+-   .  .  <strong>EXOGENOUS</strong> (1998 f. by Unbridled). 5 wins at 2 and 3, $945,560, 1st Beldame S.
+-   .  .  .  <strong>[G1]</strong>, Gazelle H. <strong>[G1]</strong>, 2nd Coaching Club American Oaks <strong>[G1]</strong>,
+-   .  .  .  Alabama S. <strong>[G1]</strong>, 3rd Mother Goose S. <strong>[G1]</strong>. Died 2001.
+-   .  .  Exogenetic (2001 f. by Unbridled's Song). Unraced. Dam of 15 foals, 9 to race, 7 winners--
+-   .  .  .  <strong>SUPER NINETY NINE</strong> (2010 c. by Pulpit). 3 wins at 2 and 3, $378,260, 1st Southwest S.
+-   .  .  .  .  <strong>[G3]</strong> (OP, $180,000), 2nd Hollywood Prevue S. <strong>[G3]</strong> (BHP, $20,000), 3rd
+-   .  .  .  .  Santa Anita Derby <strong>[G1]</strong> (SA, $90,000). Sire.
+-   .  .  .  <strong>ELUSIVE HORIZON</strong> (2005 f. by Elusive Quality). 8 wins in 14 starts, 2 to 4, $241,715,
+-   .  .  .  .  1st Washington Oaks [L] (EMD, $55,000), Emerald Distaff H. [L] (EMD, $55,000),
+-   .  .  .  .  Washington's Lottery H. (EMD, $32,450), King County H. (EMD, $27,500), Boeing H. (EMD,
+-   .  .  .  .  $18,750), 3rd Washington State Legislators H. (EMD, $7,500). Sent from United States to
+-   .  .  .  .  Great Britain in 2019. Producer.
+-   .  Lost Account (1990 g. by Lost Code). 9 wins, 3 to 6, $74,954.
+-   .  Beeper (1993 c. by Phone Trick). 4 wins at 3 and 4, $40,330. Sire.
+-   .  Fresh Runner (1991 c. by Wild Again). Winner at 4 in Singapore; placed at 3, 2,157 Pounds, in
+-   .  .  England; placed at 4 in Malaysia. Sent from United States to England in 1992. Sent from England
+-   .  .  to Malaysia in 1995. Registered in Malaysia as Touch of Gold. (Total: $3,293).
+-   Clever Exchange (1989 f. by Clever Champ). 2 wins at 3, $10,720. Dam of 11 foals, 9 to race, 9
+-   .     winners--
+-   .  <strong>Rich N Clever</strong> (2004 f. by Richter Scale). Winner at 2 and 3, $94,995, 2nd Pat Whitworth
+-   .  .     Illinois Debutante S.-R (HAW, $23,530), Showtime Deb S.-R (HAW, $18,510), Meafara S. (HAW,
+-   .  .     $9,540). Dam of 9 foals, 7 to race, 4 winners--
+-   .  .  <strong>HARP N HALO</strong> (2011 f. by Singing Saint). 4 wins at 4 and 5, $131,375, in N.A./U.S., 2nd
+-   .  .  .     Jill Jellison Memorial Dash S.-R (SUF, $15,300); winner in 2 starts at 4, $61,500, in
+-   .  .  .     Canada, 1st Avowal S. (WO, $60,000). (Total: $177,710).
+-   .  <strong>Big Deal</strong> (1996 f. by Personal Flag). 3 wins at 4, $94,883, 2nd Golden Sylvia H. (MNR,
+-   .  .     $7,460). Producer.
+-   .  Envy (1995 f. by Groovy). 4 wins, 2 to 4, $114,219. Producer.
+-   .  Takeitawayjose (1998 g. by Personal Flag). 2 wins at 4, $88,180.
+-   .  Clever Play (2000 g. by Deerhound). Winner at 3 and 4, $42,478.
+-   .  Diana's Count (1999 c. by Deerhound). 5 wins, 2 to 4, $41,723.
+-   .  Clever Outlet (2008 f. by Unbridled Energy). 3 wins at 3 and 4, $26,530.
+-   .  I Accept (2001 f. by Acceptable). 3 wins at 4 and 5, $18,972.
+-   .  Personal Exchange (2007 c. by Pollard's Vision). 7 wins, 3 to 6 in Trinidad and Tobago. Sent from
+-   .  .  United States to Trinidad and Tobago in 2008.
+-   .  Clever Gal (2003 f. by Richter Scale). Unraced.
+-   .  Unnamed (1994 c. by Groovy).
+-   Blitzkrieg (1993 g. by Polish Numbers). 9 wins, 3 to 6, $79,538.
+-   War Rollick (1979 c. by Rollicking). 6 wins, 2 to 5, $41,543. Sire.
+-   Unnamed (1998 c. by Wayne County (IRE)).
+-   Battle Hound (1995 c. by Deerhound). Unraced.
+-   Wide Ruins (1991 f. by Waquoit). Unraced.
+-   Piombo (1980 c. by Forceten). Unraced.
+-   Brilliant Keren (1982 f. by Brilliant Protege). Unplaced in 2 starts. Dam of 5 foals, 3 to race, 2
+-   .     winners--
+-   .  Coos Bay (1998 f. by Comet Shine). Winner at 5, $12,700.
+-   .  Reel Brilliant (1996 f. by Wet Reel). Winner at 4, $4,176.
+-   .  Odyle's Brilliance (2001 c. by Odyle). Unraced.
+-   .  Hopefully Goldie (1989 f. by Cannon Shell). Unraced. Producer.
+-   .  Rock Wise (1987 c. by Rock Talk). Unplaced.
+ RACE RECORD for Flirting Miss: At 2, unplaced in 1 start. Earned $1,600
+ PRODUCE RECORD for Flirting Miss:
+ 2022 Unnamed, f. by Mitole.
+ 2023 Bred to Shaman Ghost.
++   =Lord Justice (JPN) (2019 c. by Fort Larned). 2 wins at 3, 2022, 16,000,000 Yen, in Japan. (Total: $133,670).
++   =Unnamed (2020 f. by =Lord Kanaloa (JPN)).
++   Flirting Miss (2018 f. by Macho Uno). See above.
++2nd dam
++SHERRIFF'S DEPUTY, by Deputy Minister. Unraced. Died 2012. Dam of 8 foals, 6 to race, 4 winners--
++   <strong>CURLIN</strong> (2004 c. by Smart Strike). 9 wins in 14 starts at 3 and 4, $6,796,800, in N.A./U.S., horse of the year in U.S. (2007), horse of the year in U.S. (2008), champion 3-year-old colt in U.S. (2007), champion older horse in U.S. (2008), 1st Preakness S. <strong>[G1]</strong> (PIM, $600,000), Breeders' Cup Classic <strong>[G1]</strong> (MTH, $2,700,000), Stephen Foster H. <strong>[G1]</strong> (CD, $589,000), Jockey Club Gold Cup S. <strong>[G1]</strong> (BEL, $450,000) twice, Woodward S. <strong>[G1]</strong> (SAR, $300,000), Arkansas Derby <strong>[G2]</strong> (OP, $600,000), Rebel S. <strong>[G3]</strong> (OP, $180,000), 2nd Belmont S. <strong>[G1]</strong> (BEL, $200,000), Man o' War S. <strong>[G1]</strong> (BEL, $100,000), 3rd Kentucky Derby <strong>[G1]</strong> (CD, $200,000), Haskell Invitational S. <strong>[G1]</strong> (MTH, $150,000); 2 wins in 2 starts at 4, 13,606,316 Dirhams, in United Arab Emirates, hwt. older horse at 4 on United Arab Emirates Free Hand., 9 1/2 - 11 fur. (2008), 1st Emirates Airline Dubai World Cup <strong>[G1]</strong>. Sent from United States to United Arab Emirates in 2008. Returned to United States from United Arab Emirates in 2008. (Total: $10,501,800). Among the leading sires in U.S. (2016), among the leading sires in U.S. (2019), among the leading sires in U.S. (2020), among the leading sires in U.S. (2021), among the leading sires in U.S. (2022)Sire.
++   Deputy (1998 f. by Hadif). 4 wins at 2 and 3, $52,020. Dam of 9 foals, 5 to race, 3 winners--
++   .  <strong>CONQUEST STRATE UP</strong> (2012 f. by Not Bourbon). 4 wins in 8 starts at 3 and 4, $249,420, in Canada, 1st La Prevoyante S.-R (WO, $75,000), 3rd Zadracarta S.-R (WO, $11,000). (Total: $192,984). Dam of 5 foals, 2 to race, 2 winners--
++   .  .  <strong>CLASSICAL CAT</strong> (2020 c. by Mendelssohn). 3 wins in 4 starts at 2, 2022, $146,300, 1st Eddie Logan S. [L] (SA, $60,000).
++   .  .  Off We Go (2018 f. by Air Force Blue). 4 wins at 2 and 4, 2022, $201,606.
++   .  .  Unnamed (2022 c. by Tiz the Law). (application pending)
++   .  .  H M Legacy (2021 f. by Hard Spun). Unraced.
++   .  .  Freedom Isnt Free (2019 f. by Practical Joke). Unraced.
++   .  Deputy Sparks (2008 g. by Fusaichi Pegasus). 5 wins at 3 and 4, $19,154.
++   .  Smart Deputy (2009 f. by Smart Strike). Winner at 3, $16,525. Dam of 8 foals, 7 to race, 4 winners--
++   .  .  Americain Joey (2017 g. by Americain). 7 wins, 3 to 5, 2022, $121,649.
++   .  .  Chef Karen (2014 f. by Eye of the Leopard). 2 wins at 3, $48,151.
++   .  .  Jiggy Cheese Dog (2015 g. by Point Given). Winner at 3, $25,630.
++   .  .  Star Deputy (2018 g. by Raison d'Etat). Winner at 3, $13,951.
++   .  .  Smart Oxie (2019 g. by Oxbow). Placed at 3, 2022, $8,343.
++   .  .  Unnamed (2022 f. by Uncle Mo).
++   .  .  Eye Am Smart (2020 g. by Eye of the Leopard). Unplaced in 2 starts, $1,125.
++   .  .  Sous Chef (2016 f. by Snapy Halo (ARG)). Unplaced in 1 start, $1,080.
++   .  Jailhouse Coffee (2005 f. by Doneraile Court). Unraced. Dam of 4 foals, 4 to race, 3 winners--
++   .  .  <strong>CACTUS JOE</strong> (2011 f. by Cactus Ridge). 6 wins at 3 and 4, $310,673, 1st Ellen's Lucky Star S.-R (IND, $50,220), Merrillville S.-R (IND, $50,591), Merrillville S.-R (IND, $50,759), 2nd Indiana First Lady S.-R (IND, $29,366), Hoosier Breeders Sophomore S.-R (IND, $17,384). Dam of 3 foals, 2 to race, 2 winners--
++   .  .  .  Cactus Flower (2019 f. by Run Away and Hide). 3 wins at 2 and 3, 2022, $115,852.
++   .  .  .  Shotgun Joe (2018 g. by Unbridled Express). Winner at 2 and 4, 2022, $62,250.
++   .  .  .  Commando Joe (2020 g. by Greeley's Conquest). Unraced.
++   .  .  Espresso to Go (2012 f. by Go Lionel Go). 8 wins, 3 to 7, $64,846.
++   .  .  Mexican Pegasus (2009 f. by Fusaichi Pegasus). 8 wins at 2 and 3 in Mexico. Sent from United States to Mexico in 2010. Sent from USA and Canada to Mexico in 2010. Sent from Mexico to USA and Canada in 2014.
++   .  .  Last Cup (2014 g. by Go Lionel Go). Unplaced, $770.
++   .  Unnamed (2017 c. by Champ Pegasus). (application pending)
++   .  Honourable Soul (2011 f. by Perfect Soul (IRE)). Unraced. Sent from United States to India in 2016. Dam of 2 foals, 1 to race, 1 winner--
++   .  .  Judge Kitten (2016 f. by Kitten's Joy). Winner at 3, $16,300.
++   .  .  =Costa Pacifica (IND) (2017 f. by Kitten's Joy). Unraced in India.
++   .  Winsome Woman (2010 f. by Perfect Soul (IRE)). Unraced. Dam of 4 foals, 2 to race, 2 winners--
++   .  .  Mister Finance (2016 c. by Red Rocks (IRE)). 8 wins, 2 to 6, 2022, 44,960 New Sol, in Peru. Sent from United States to Peru in 2017. (Total: $12,917).
++   .  .  Real Woman (2017 f. by Real Solution). Winner in 2 starts at 3, $3,480. Dam of 1 foal--
++   .  .  .  Lucca Boy (2022 c. by Believe in Royalty). (application pending)
++   .  .  City Bridge (2018 c. by Slumber (GB)). Unraced.
++   .  .  Winglet (2015 c. by English Channel). Unraced.
++   .  Linda's Posse (2007 g. by Posse). Unplaced, $1,600.
++   .  Girl With a Curl (2006 f. by Yonaguska). Unplaced in 1 start, $220. Sent from United States to Venezuela in 2012. Dam of 2 foals, 2 to race, 1 winner--
++   .  .  Five Small (2010 g. by Keyed Entry). 6 wins, 3 to 5, $73,757.
++   .  .  Sherriffs Moon (2011 c. by Monarchos). Unplaced in 2 starts.
++   Secret Wedge (1999 c. by Excellent Secret). 3 wins at 3 and 4, $48,615.
++   Deputy Striker (2009 c. by Smart Strike). 3 wins at 5 and 6, $44,000. Sent from United States to Iran in 2016.
++   Ms Deep Cover (2002 f. by Excellent Secret). Placed in 1 start at 2, $2,750. Died 2005.
++   Deputy Saint (2007 f. by Saint Liam). Unraced. Dam of 8 foals, 6 to race, 2 winners--
++   .  <strong>Philanthropic</strong> (2016 f. by Malibu Moon). 2 wins at 3, $95,550, 2nd Pumpkin Pie S. [L] (AQU, $20,000). Dam of 1 foal--
++   .  .  Unnamed (2022 f. by Not This Time).
++   .  Police Chief (2013 g. by Lemon Drop Kid). Winner at 6, $39,471.
++   .  Wedding Band (2018 f. by Candy Ride (ARG)). Placed in 1 start at 2, $16,000. Dam of 1 foal--
++   .  .  Unnamed (2022 f. by Bernardini).
++   .  Saint Philomena (2017 f. by Awesome Again). Unraced.
++   .  Coastal View (2014 f. by Tiznow). Unraced. Dam of 5 foals, 1 to race, 1 winner--
++   .  .  U Cant Handle This (2018 f. by Awesome Again). 2 wins at 4, 2022, $42,080.
++   .  .  Unnamed (2022 f. by Mo for the Money). (application pending)
++   .  .  Tizmarkus (2021 c. by Tamarkuz). (application pending)
++   .  .  Alligator Arms (2020 g. by Shaman Ghost). Unraced.
++   .  .  Fortanga (2019 f. by Flashback). Unraced. Sent from United States to Russia in 2020.
++   .  Good Omen (2015 f. by Smart Strike). Unplaced in 2 starts, $304. Dam of 4 foals, 2 to race, 2 winners--
++   .  .  <strong>Miracle</strong> (2020 f. by Mendelssohn). Winner at 2, 2022, $137,400, 2nd Maid of the Mist S.-R (BAQ, $40,000), Joseph A. Gimma S.-R (BAQ, $25,000), 3rd Seeking the Ante S.-R (SAR, $24,000).
++   .  .  Sight Unseen (2019 g. by Distorted Humor). Winner at 3 and 4, 2023, $38,153.
++   .  .  Unnamed (2022 f. by Caravaggio).
++   .  .  Unnamed (2021 c. by Audible).
++   .  Kiawah Breeze (2019 c. by American Freedom). Unplaced, $6,250.
++   .  Speightful Kate (2012 f. by Speightstown). Unplaced in 1 start, $98. Dam of 4 foals, 3 to race, 3 winners--
++   .  .  Mucho Machismo (2018 g. by Mucho Macho Man). Winner at 4, 2022, $46,230.
++   .  .  Autism Blue (2019 c. by Stay Thirsty). 3 wins at 2 and 3, 2022, $37,146.
++   .  .  Karol G (2017 f. by Can the Man). Winner at 3, $7,550.
++   .  .  Unnamed (2020 f. by Point Piper). (application pending)
++   Flirting Away (2012 f. by Distorted Humor). See above.
++   Flirting Away (2012 f. by Distorted Humor). See above.
  
