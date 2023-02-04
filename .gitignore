@@ -1,1 +1,4 @@
+###
+# Ignores all the files that are the temp files
+###
 *_*.txt

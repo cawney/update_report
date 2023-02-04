@@ -5,7 +5,7 @@ import re # for regex
 import difflib # for diffing files
 import glob # for finding files in a directory
 import tempfile # for creating temporary files
-from tqdm import tqdm # for progress bar
+# from tqdm import tqdm # for progress bar
 import timeit # for timing the script
 
 start_time = timeit.default_timer() # I was curious how long the script takes to run
@@ -117,17 +117,22 @@ def main():
         lines = f.readlines()
         list_diff = get_difference(list_name)
         f2 = open(new_file, 'w')
+        # print("list_name:\n", list_name)
         for n, m in enumerate(list_name, start=0):
             if n < len(list_diff):
-                horse = lines[m:m+list_diff[n-1]]
+                # horse = lines[m:m+list_diff[n-1]]
+                horse = lines[m:m+list_diff[n]]
+            if n == len(list_diff):
+                horse = lines[m:]
             else:
                 pass
             horse_string = ''.join(horse)
             horse_string = horse_string.replace('\n', '')
             if '1st dam' in horse_string:
                 horse_string = horse_string.replace('1st dam', '1st dam\n')
-            # elif '2nd dam' in horse_string:
-            #     horse_string = horse_string.replace('2nd dam', '\n2nd dam\n')
+            elif '2nd dam' in horse_string:
+                horse_string = horse_string.replace('2nd dam', '\n2nd dam\n')
+            # horse_string[-1].replace('\n', '')
             f2.write(horse_string + '\n')
 
 
@@ -222,36 +227,22 @@ def main():
         return line_number
 
 
-    def diff_report(original, update, report):
+    def diff_report(original, update, report, hip):
         '''Creates a report for each hip number. Takes the lists from get_meta_data() and the path to the report directory'''
         i = 0
-        # Clear out the report directory
-        # files = glob.glob(f'{report}/*')
-        files = os.listdir(f'{report}/')
-        for f in files:
-            os.remove(f'{report}/'+f)
-        # hip_list = ["{:06d}".format(int(x)) for x in hip_list]
-        for hip in tqdm(zip(original, update)):
-            # Need to add a check to see if the file exists in the directory
-            fn = source_list[i]+'_alt.txt'
-            fnu = hip_list[i].zfill(6)+'_alt.txt'
-            if os.path.isfile(f"source/original/{fn}") and os.path.isfile(f"source/update/PH{fnu}"):
-                f = open(f"{p_original}/{fn}", "r")
-                f2 = open(f"{p_update}/PH{fnu}", "r")
-                flines = f.readlines()
-                flines2 = f2.readlines()
-                diff = difflib.unified_diff(flines, flines2, fromfile=f"{fn}", tofile=f"PH{fnu}")
-                diffh = difflib.HtmlDiff().make_file(flines, flines2, f"{fn}", f"PH{fnu}")
-                # print(''.join(diff))
-                with open(f"{p_report}/{hip_list[i]}.html", "w") as f, open(f"{p_report}/{hip_list[i]}.txt", "w") as f2:
-                    # print("Creating report for HIP", hip_list[i])
-                    f.write(''.join(diffh))
-                    f2.write(''.join(diff))
-                i += 1
-            else:
-                print(f"File not found for HIP {hip_list[i]}")
-                print(f"Was looking for source/original/{source_list[i]} and source/update/PH{hip_list[i].zfill(6)}.txt")
-                i += 1
+        if os.path.isdir(report):
+            os.remove(report)
+        f = open(original, "r")
+        f2 = open(update, "r")
+        f3 = open(report, 'w')
+        f4 = open(f"{p_report}/{hip}.html", 'w')
+        flines = f.readlines()
+        flines2 = f2.readlines()
+        diff = difflib.unified_diff(flines, flines2, fromfile=f"{original}", tofile=f"{update}")
+        diffh = difflib.HtmlDiff().make_file(flines, flines2, f"{original}", f"{update}")
+        # print(''.join(diff))
+        f3.write(''.join(diff))
+        f4.write(''.join(diffh))
 
 
     def get_difference(list):
@@ -263,22 +254,38 @@ def main():
         return list_difference
 
 
-    def clean_file(file_name):
+    def clean_file(file_name, new_file):
         '''Cleans up the files by removing the extra lines and adding a blank line at the end of the file.'''
         f = open(f"{file_name}", 'r')
-        f2 = open(f"{file_name}_clean.txt", 'w')
+        f2 = open(f"{new_file}", 'w')
         lines = f.readlines()
         # Regex for junk spaces:
-        re_junk = re.compile(r'(?!^)(\s{3}\.([\s\.])*)')
+        re_junk = re.compile(r'(?!^)(\s{3}\.?([\s\.])*)')
         for line in lines:
             if re_junk.search(line):
                 # print("Found junk")
                 line = re.sub(re_junk, ' ', line)
                 f2.writelines(line)
+            # elif line == re.match(r'\n', line):
+            #     pass
             else:
                 f2.writelines(line)
-        f2.writelines('\n')
+        # f2.writelines('\n')
         return f2
+
+    def append_files(file_1, file_2, file_3, new_file):
+        '''Appends the files together'''
+        f = open(f"{file_1}", 'r')
+        f2 = open(f"{file_2}", 'r')
+        f3 = open(f"{file_3}", 'r')
+        f4 = open(f"{new_file}", 'w')
+        lines = f.readlines()
+        lines2 = f2.readlines()
+        lines3 = f3.readlines()
+        f4.writelines(lines)
+        f4.writelines(lines2)
+        f4.writelines(lines3)
+        return f4
 
 
 ##########################################################################################
@@ -299,11 +306,10 @@ def main():
     print("Done with meta data")
 
     print("Shortening files for original...") # This seperated the original files into 3 main groups to append later
-    for horse in tqdm(zip(source_list, hip_list)):
+    for horse in zip(source_list, hip_list):
         line_third_dam = get_line_number(f"{p_original}/{horse[0]}.txt", three_dam_re) # Gets the line number of the 3rd dam in the original file
         # line_race_record = get_line_number(f"{p_original}/{horse[0]}.txt", race_record_re) # 
         line_1st_dam = get_line_number(f"{p_original}/{horse[0]}.txt", one_dam_re)
-        print("Shortening file for", horse[0])
         shorten_file(f"{p_original}/{horse[0]}.txt", f"{p_original}/{horse[0]}_3.txt", 0, line_1st_dam) # Gets the 3x of the original file
 
         get_middle(f"{p_original}/{horse[0]}.txt", f"{p_original}/{horse[0]}_1.txt", '1st dam', '3rd dam') # Gets the 1st and 2nd dam into a separate file , f"{p_original}/{horse[0]}_1.txt"
@@ -311,37 +317,40 @@ def main():
         ###### _1 is the 1st and 2nd dam, _2 is the Race Record and produce, _3 is the 3x
 
     print("Shortening files for update...") # This seperated the update files into 3 main groups to append later
-    for horse in tqdm(zip(source_list, hip_list)):
+    for horse in zip(source_list, hip_list):
         get_rr(f"{p_update}/PH{horse[1].zfill(6)}.txt", f"{p_update}/PH{horse[1].zfill(6)}_2.txt") # Gets the Record and Produce of the update file
         get_middle(f"{p_update}/PH{horse[1].zfill(6)}.txt", f"{p_update}/PH{horse[1].zfill(6)}_1.txt", '1st dam', '3rd dam') # Gets the 1st and 2nd dam into a separate file
         line_1st_dam = get_line_number(f"{p_update}/PH{horse[1].zfill(6)}.txt", one_dam_re)
         shorten_file(f"{p_update}/PH{horse[1].zfill(6)}.txt", f"{p_update}/PH{horse[1].zfill(6)}_3.txt", 0, line_1st_dam) # Gets the 3x of the update file
 
-
     print("Seperating the lines...")
-    for horse in tqdm(zip(source_list, hip_list)):
+    for horse in zip(source_list, hip_list):
         # print("Seperating lines for", horse[0])
         line_sex_sire = get_line_number(f"{p_original}/{horse[0]}_1.txt", sex_sire_re)
-        print("For", horse[0])
-        print(line_sex_sire)
+        # print("For", horse[0])
+        # print(line_sex_sire)
         seperate_lines(f"{p_original}/{horse[0]}_1.txt", f"{p_original}/{horse[0]}_4.txt", line_sex_sire, True)
         line_sex_sire = get_line_number(f"{p_update}/PH{horse[1].zfill(6)}_1.txt", sex_sire_re)
-        print(line_sex_sire)
-        print("*"*50)
         seperate_lines(f"{p_update}/PH{horse[1].zfill(6)}_1.txt", f"{p_update}/PH{horse[1].zfill(6)}_4.txt", line_sex_sire, True)
 
-    # print("Shortening files for original...") # Get rid of the 3rd dam to the Race Record if it exists
-    # for horse in tqdm(zip(source_list, hip_list)):
-    #     line_third_dam = get_line_number(f"{p_original}/{horse[0]}.txt", three_dam_re) # Gets the line number of the 3rd dam in the original file
-    #     line_race_record = get_line_number(f"{p_original}/{horse[0]}.txt", race_record_re) # Gets the race record in the origninal file
-    #     print("Shortening file for", horse[0])
-    #     shorten_file(f"{p_original}/{horse[0]}.txt", f"{p_original}/{horse[0]}_1.txt", line_third_dam, line_race_record) # Removes everything bewteen 3rd dam and race record
-    #     ### This WORKS, I need to use _short.txt... ###
-    # print("Done shortening files for original")
-    # print("Making a three cross of files to append to")
-    # for horse in tqdm(zip(source_list, hip_list)):
-    #     line_1st_dam = get_line_number(f"{p_original}/{horse[0]}_1.txt", one_dam_re) # Gets the line number of the 1st dam in the original file
-    #     shorten_file(f"{p_original}/{horse[0]}_1.txt", f"{p_original}/{horse[0]}_3x.txt", line_1st_dam, 0) # Shortens the file to only have the lines from the 1st dam down
+    print("Cleaning files...")
+    for horse in zip(source_list, hip_list):
+        clean_file(f"{p_original}/{horse[0]}_4.txt", f"{p_original}/{horse[0]}_5.txt")
+        clean_file(f"{p_update}/PH{horse[1].zfill(6)}_4.txt", f"{p_update}/PH{horse[1].zfill(6)}_5.txt")
+    print("Done cleaning files")
+
+    print("Appending files...")
+    for horse in zip(source_list, hip_list):
+        append_files(f"{p_original}/{horse[0]}_3.txt", f"{p_original}/{horse[0]}_5.txt", f"{p_original}/{horse[0]}_2.txt", f"{p_original}/{horse[0]}_final.txt")
+        append_files(f"{p_update}/PH{horse[1].zfill(6)}_3.txt", f"{p_update}/PH{horse[1].zfill(6)}_5.txt", f"{p_update}/PH{horse[1].zfill(6)}_2.txt", f"{p_update}/PH{horse[1].zfill(6)}_final.txt")
+    print("Done appending files")
+    
+    print("Comparing files...")
+    for horse in zip(source_list, hip_list):
+        diff_report(f"{p_original}/{horse[0]}_final.txt", f"{p_update}/PH{horse[1].zfill(6)}_final.txt", f"{p_report}/{horse[0]}.txt", horse[1])
+    print("Done comparing files")
+
+    print("Cleaning up report...")
 
 
     # print("Shortening files for update...")

@@ -1,0 +1,118 @@
+--- /home/cawney/Projects/update_report/source/original/PH001452_final.txt
++++ /home/cawney/Projects/update_report/source/update/PH000065_final.txt
+@@ -1,12 +1,12 @@
+-Dec 27 2022  9:45AM          PH23 CONSIGNOR: 1 HORSE: 452 GROUP: 1 HIP NUMBER:                Page 1
++Jan 29 2023  9:55PM          PH23 CONSIGNOR: 1 HORSE: 452 GROUP: 1 HIP NUMBER: 00065          Page 1
+ 
+ 
+ ******************************************************************************************
+ 452  Cabana  Gray or Roan  Mare (03/20/11)
+ By Flatter (99)  --  Sobresaliente (02)  By El Prado (IRE) (89)  --  Starry Miss (88)
+ Illinois     Broodmare     None
+-2021 Produce:
+ 2022 Produce:
++2023 Produce:
+ Blame (06)  Arch (95)  Liable (95)
+                    pregnant
+ ******************************************************************************************
+@@ -40,11 +40,12 @@
+    Buen Amigo (2016 g. by Awesome Gambler). Winner at 3 and 4, $22,086.
+    Racy Tracy (2010 f. by Distorted Humor). Winner at 3, $21,923. Dam of 6 foals, 4 to race, 3 winners--
+    .  Mr. Universe (2018 c. by Tonalist). 3 wins at 3 and 4, 2022, $107,172.
+-   .  Rock Star Alex (2019 g. by Star Guitar). Winner at 3, 2022, $14,725.
++   .  Rock Star Alex (2019 g. by Star Guitar). Winner at 3, 2022, $15,175.
+    .  Breaux Bridge Baby (2017 f. by Closing Argument). Winner in 2 starts at 2, $10,320.
+-   .  Unnamed (2022 f. by Instagrand). (application pending)
+-   .  Tapilina (2016 f. by Tapizar). Unraced.
+-   .  Breezy Leigh (2020 f. by Twirling Candy). Unplaced in 1 start, $300.
++   .  Unnamed (2022 f. by Instagrand).
++   .  Tapilina (2016 f. by Tapizar). Unraced. Dam of 1 foal--
++   .  .  Unnamed (2021 c. by The Factor). (application pending)
++   .  Breezy Leigh (2020 f. by Twirling Candy). Unplaced, $900.
+    Ellie Mae (2014 f. by Awesome Gambler). Winner at 4, $6,583, in Canada; unplaced, $1,130, in N.A./U.S. (Total: $6,183).
+    Unnamed (2021 f. by Stay Thirsty).
+    Staysober (2019 c. by Stay Thirsty). Unraced.
+@@ -60,11 +61,19 @@
+    [1mHUMOROUS MISS[22m (2001 f. by Distorted Humor). 4 wins at 3, $115,200, 1st Hatoof S. (AP, $32,400), 3rd Double Delta S. (AP, $4,675), Possibly Perfect S. (AP, $4,675). Dam of 9 foals, 8 to race, 6 winners--
+    .  [1mFUNNY PROPOSITION[22m (2009 f. by Medaglia d'Oro). 4 wins, 2 to 4, $230,295, 1st Fleur de Lis H. [1m[G2][22m (CD, $115,553). Dam of 6 foals, 4 to race, 4 winners--
+    .  .  [1mDistinctlypossible[22m (2019 f. by Curlin). Winner at 3, 2022, $157,350, 2nd Darley Alcibiades S. [1m[G1][22m (KEE, $80,000).
++   .  .  Tactician (2017 g. by Tapit). Winner at 3 and 4, $53,398.
++   .  .  Namesake (2018 c. by Bernardini). Winner at 3, placed at 4, 2022, $32,744.
++   .  .  Bold Proposition (2016 g. by Tapit). Winner at 4, $21,683.
++   .  .  Unnamed (2022 c. by Flameaway).
++   .  .  Unnamed (2021 c. by Flameaway).
+    .  [1mStill My Babe[22m (2019 f. by Bernardini). Winner at 2 and 3, 2022, $83,430, 3rd Honey Bee S. (MED, $7,500).
+    .  Peachy Keen (2017 c. by Will Take Charge). Winner at 3 and 5, 2022, $41,631.
+    .  Gran Togoshi (2015 c. by Violence). Winner at 3, $31,535.
+    .  Last Star (2008 g. by Home At Last). 2 wins at 3, $29,402.
+-   .  Offbeatheat (2010 f. by Latent Heat). 2 wins at 3, $6,332, in N.A./U.S.; unplaced in 1 start, $1,524, in Canada. (Total: $7,874). Producer.
++   .  Offbeatheat (2010 f. by Latent Heat). 2 wins at 3, $6,332, in N.A./U.S.; unplaced in 1 start, $1,524, in Canada. (Total: $7,874). Dam of 3 foals, 3 to race, 2 winners--
++   .  .  Chainmail (2016 f. by Goldencents). 6 wins, 3 to 5, $60,305.
++   .  .  Malinche (2017 f. by Fast Anna). 11 wins in 16 starts, 2 to 5, 2022 in Mexico. Sent from United States to Mexico in 2019.
++   .  .  Run From Theheat (2015 f. by Warrior's Reward). Unplaced, $2,915.
+    .  Hey Babe (2018 f. by Kitten's Joy). Placed at 3 and 4, 2022, $16,590.
+    .  Twisted Zing (2011 g. by Home At Last). Placed at 4, $4,800. Died 2015.
+    .  Dundie (2020 c. by Speightstown). Unraced.
+@@ -75,11 +84,17 @@
+    .  Cloud Nine (2005 c. by Exploit). 3 wins at 3, $89,275. Died 2009.
+    .  Stars Wilburn (2014 f. by Wilburn). 3 wins, 3 to 5, $87,911.
+    .  Poplar House (2007 c. by Limehouse). 5 wins, 4 to 7, $64,951.
+-   .  Lion Queen (2006 f. by Lion Heart). Winner at 2, $42,036.
++   .  Lion Queen (2006 f. by Lion Heart). Winner at 2, $42,036. Dam of 5 foals, 1 to race--
++   .  .  Beggarthystar (2017 g. by Beggarthyneighbor). Placed at 3, $3,833.
++   .  .  Unnamed (2021 c. by Zong).
++   .  .  Queens Riot (2020 f. by Zong). Unraced.
++   .  .  Parttimelady (2014 f. by Quebracho). Unraced.
++   .  .  Packin to Please (2012 g. by Quebracho). Unraced.
+    .  Useful Berry (2009 f. by Silver Train). 4 wins at 3 and 5, $41,147.
+    .  Bandini's Star (2008 g. by Bandini). Winner at 4 and 5, $27,987. Died 2015.
+    .  Toms Onthewarpath (2015 g. by Liaison). 2 wins at 3, $25,161.
+-   .  Final Storm (2004 f. by Storm Creek). Winner at 3, $21,542.
++   .  Final Storm (2004 f. by Storm Creek). Winner at 3, $21,542. Dam of 1 foal--
++   .  .  Finally Jack (2011 f. by Firejack). Unraced.
+    .  Wicked Good Fun (2010 f. by Street Boss). Unplaced in 1 start, $85. Died 2012.
+    Wise Star (1994 g. by Wise Times). 4 wins at 3 and 4, $66,580.
+    Miss Star (1995 f. by Known Fact). Winner at 3, $7,052.
+@@ -90,18 +105,33 @@
+    .  New Design (2010 f. by Your Eminence). Placed in 1 start at 2, $900.
+    .  City Bandet (2005 c. by For Fun and Games). Unraced.
+    .  Impressive Matthew (2003 c. by Matthews Keep). Unraced.
+-   .  Impressive Miss (2001 f. by Matthews Keep). Unraced. Died 2020. Producer.
++   .  Impressive Miss (2001 f. by Matthews Keep). Unraced. Died 2020. Dam of 6 foals, 6 to race, 5 winners--
++   .  .  The Last Express (2011 g. by In Excess (IRE)). Winner at 4 and 5, $76,110.
++   .  .  Demonslayer (2013 g. by Tale of the Cat). Winner at 2, $52,675.
++   .  .  Empress of Fire (2017 f. by He Be Fire N Ice). Winner at 3, $45,980.
++   .  .  Star of Kobol (2015 f. by Majestic Warrior). 3 wins at 3 and 4, $29,855, in N.A./U.S.; winner at 4, $11,366, in Canada. (Total: $38,415).
++   .  .  Atticus Pomponius (2006 g. by Pivot). Winner at 3, $21,490. Died 2020.
++   .  .  Rosabella (2019 f. by He Be Fire N Ice). Unplaced in 1 start, $450.
+    .  Badger Tracks (2000 c. by Mr. Badger). Unraced.
+-   .  Thorn Bird (1999 f. by Thorn Dance). Unraced.
++   .  Thorn Bird (1999 f. by Thorn Dance). Unraced. Dam of 1 foal--
++   .  .  Impressive Bird (2005 f. by For Fun and Games). Unraced.
+    Angel's Our Star (1998 f. by Broad Brush). Unraced. Died 2008. Dam of 5 foals, 3 to race, 1 winner--
+    .  [1mJAZZ QUEST[22m (2004 g. by Jambalaya Jazz). 4 wins at 3, $268,384, 1st Grindstone S. [L] (FG, $60,000), 2nd Fair Grounds H. [1m[G3][22m (FG, $20,000), Woodchopper H. (FG, $12,000), 3rd Jefferson Cup S. [1m[G2][22m (CD, $21,658), Crown Royal American Turf S. [1m[G3][22m (CD, $17,926).
+    .  Stand Up Gal (2003 f. by Distorted Humor). Placed at 3, $9,465. Died 2014. Dam of 7 foals, 4 to race, 3 winners--
+-   .  .  [1mPrebenda[22m (2009 f. by Whywhywhy). 7 wins, 2 to 5, 73,909 New Sol, in Peru, 2nd Clasico Batalla de Ayacucho [L]. Sent from United States to Peru in 2010. (Total: $26,602).
++   .  .  [1mPrebenda[22m (2009 f. by Whywhywhy). 7 wins, 2 to 5, 73,909 New Sol, in Peru, 2nd Clasico Batalla de Ayacucho [L]. Sent from United States to Peru in 2010. (Total: $26,602). Dam of 1 foal, 1 to race--
++   .  .  .  =Verdum (PER) (2016 c. by Polytechnicien). Placed at 4, 853 New Sol, in Peru. (Total: $239).
++   .  .  La Primera (2013 f. by Horse Greeley). 9 wins, 3 to 5 in Dominican Republic. Sent from United States to Dominican Republic in 2015.
++   .  .  Gran Eloy (2012 c. by Monarchos). Winner at 4 in Panama. Sent from United States to Panama in 2014.
++   .  .  Run Amy Run (2014 f. by First Defence). Placed at 3, $3,715.
++   .  .  Unnamed (2011 f. by Monarchos).
++   .  .  Unnamed (2010 f. by Monarchos).
++   .  .  Flatter My Gal (2008 f. by Flatter). Unraced. Dam of 1 foal, 1 to race, 1 winner--
++   .  .  .  Flatter Cat (2013 g. by Parker's Storm Cat). 8 wins at 5 and 6, $44,082.
+    .  Beignet (2008 g. by In a Walk). Unraced.
+    .  Winnsboro (2007 c. by Sefapiano). Unraced.
+    .  Angel's Secret (2005 g. by Sea of Secrets). Unplaced in 2 starts.
+    Victory Ballot (2003 c. by Victory Gallop). Unraced. Died 2006.
+-   Star Wise (1992 c. by Wise Times). Unraced. Died 1994.
++   Star Wise (1992 c. by Wise Times). Unraced. Died 1994.RACE RECORD for Cabana: At 2, unraced; at 3, two wins, twice 2nd; at 4, three wins (Mari Hulman George S. [L] (IND, $60,588), Mike Spellman Memorial H.-R (AP, $31,457)), once 3rd in 5 starts; at 5, twice 2nd, once 3rd; at 2, one win, once 3rd, . Totals: 6 wins, 4 times 2nd, 3 times 3rd. Earned $254,769PRODUCE RECORD for Cabana:2018 Dudes Got Game, c. by Nyquist. Unplaced in 2 starts, $760. Died 2020.2019 Poolside Manners, f. by Street Sense. Winner at 3, 2022, $21,480, in Canada; winner at 3, 2022, $17,675, in N.A./U.S. (Total: $34,408).2020 Unnamed, f. by City of Light.2021 Unnamed, f. by More Than Ready.2022 Foal died (bred to Maclean's Music).2023 Bred to Blame.
+ RACE RECORD for Cabana: At 2, unraced; at 3, two wins, twice 2nd; at 4, three wins (Mari Hulman George S.
+     [L] (IND, $60,588), Mike Spellman Memorial H.-R (AP, $31,457)), once 3rd in 5 starts; at 5, twice
+     2nd, once 3rd; at 2, one win, once 3rd, . Totals: 6 wins, 4 times 2nd, 3 times 3rd. Earned $254,769
+@@ -112,3 +142,4 @@
+ 2020 Unnamed, f. by City of Light.
+ 2021 Unnamed, f. by More Than Ready.
+ 2022 Foal died (bred to Maclean's Music).
++2023 Bred to Blame.

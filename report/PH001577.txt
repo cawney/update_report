@@ -1,0 +1,47 @@
+--- /home/cawney/Projects/update_report/source/original/PH001577_final.txt
++++ /home/cawney/Projects/update_report/source/update/PH000548_final.txt
+@@ -1,8 +1,8 @@
+-Jan 17 2023  4:57PM          PH23 CONSIGNOR: 1 HORSE: 577 GROUP: 1 HIP NUMBER:                Page 1
++Jan 29 2023 10:04PM          PH23 CONSIGNOR: 1 HORSE: 577 GROUP: 1 HIP NUMBER: 00548          Page 1
+ 
+ 
+ ******************************************************************************************
+-577    Unknown  Filly (02/19/22)
++577    Bay  Filly (02/19/22)
+ By McKinzie (15)  --  Buy Me a Rose (18)  By Violence (10)  --  Foxy Friend (01)
+ Kentucky     Yearling     None
+ Breeders' Cup nominated
+@@ -20,7 +20,7 @@
+                                                   Ticket to Houston
+ 
+ "UNNAMED"
+-  Filly                                           Medaglia d'Oro
++  Bay Filly                                       Medaglia d'Oro
+   Foaled February 19, 2022
+   in Kentucky                 Violence
+                                                   Violent Beauty
+@@ -32,11 +32,11 @@
+                                                   Gerri n Jo Go
+ 1st dam
+ BUY ME A ROSE, by Violence. Unraced. Half-sister to [1mTap for Luck[22m ($129,565, 2nd Tempted S. [1m[G3][22m (AQU, $20,000), etc.). Dam of 1 foal--
+-   Unnamed (2022 f. by McKinzie). (application pending) See above.
++   Unnamed (2022 f. by McKinzie). See above.
+ 2nd dam
+ FOXY FRIEND, by Crafty Friend. Unplaced, $90. Half-sister to [1mFREEFOURRACING[22m (Total: $223,415, 1st ATS Euromaster Prestige S. [1m[G3][22m, etc.), [1mKamsack[22m ($199,919, 2nd Del Mar Futurity [1m[G2][22m, etc., sire), [1mBarn D[22m ($71,544, 3rd Daniel Van Clief S.-R (CNL, $3,300)). Dam of 12 foals, 10 to race, 6 winners--
+    [1mTap for Luck[22m (2008 f. by Tapit). Winner at 2 and 3, $129,565, 2nd Tempted S. [1m[G3][22m (AQU, $20,000), 3rd Demoiselle S. [1m[G2][22m (AQU, $20,000). Dam of 7 foals, 5 to race, 4 winners--
+-   .  Thatsafactjack (2016 g. by The Factor). 3 wins at 2 and 3, $45,070, in Canada; 12 wins, 4 to 6, 2022, $202,386, in N.A./U.S. (Total: $236,633).
++   .  Thatsafactjack (2016 g. by The Factor). 3 wins at 2 and 3, $45,070, in Canada; 12 wins, 4 to 6, 2022, $202,651, in N.A./U.S. (Total: $236,898).
+    .  Bar Tap (2017 f. by Jack Milton). 9 wins, 2 to 5, 2022, $128,865.
+    .  Arlyne's Crown (2019 f. by Hit It a Bomb). Winner at 3, 2022, $43,099.
+    .  Lucky Doctor (2015 g. by Doctor Chit). Winner at 4, $13,880.
+@@ -44,7 +44,9 @@
+    .  Unnamed (2021 c. by Solomini).
+    .  Golden Arm (2020 g. by Unified). Unraced.
+    Song to the Moon (2007 f. by Successful Appeal). Winner at 2, $20,020, in Canada; placed at 3, $6,155, in N.A./U.S. (Total: $25,068). Dam of 8 foals, 7 to race, 7 winners--
+-   .  [1mJELTRIN[22m (2016 f. by Tapizar). 3 wins at 2 and 3, $394,738, 1st Davona Dale S. [1m[G2][22m (GP, $121,520), Cathryn Sophia S. (PRX, $86,400), 3rd Acorn S. [1m[G1][22m (BEL, $70,000), Mother Goose S. [1m[G2][22m (BEL, $30,000).
++   .  [1mJELTRIN[22m (2016 f. by Tapizar). 3 wins at 2 and 3, $394,738, 1st Davona Dale S. [1m[G2][22m (GP, $121,520), Cathryn Sophia S. (PRX, $86,400), 3rd Acorn S. [1m[G1][22m (BEL, $70,000), Mother Goose S. [1m[G2][22m (BEL, $30,000). Dam of 2 foals--
++   .  .  Unnamed (2022 f. by Authentic).
++   .  .  Unnamed (2021 f. by Justify).
+    .  [1mAxiomo[22m (2017 c. by Tapiture). 3 wins at 2, $171,436, 3rd Indian Summer S. (KEE, $20,000), Sugar Bowl S. (FG, $7,500).
+    .  [1mPurple Heaven[22m (2012 g. by Midshipman). 7 wins, 3 to 5, $107,004, in Canada, 2nd Count Lathum H. (NP, $9,600), Birdcatcher S. (NP, $10,000), 3rd Ky Alta H. (NP, $4,600); winner in 2 starts at 3, $7,567, in N.A./U.S. (Total: $93,685).
+    .  Warcraft (2013 g. by Concord Point). 12 wins, 2 to 8, $178,548.

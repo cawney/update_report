@@ -1,0 +1,71 @@
+--- /home/cawney/Projects/update_report/source/original/PH001536_final.txt
++++ /home/cawney/Projects/update_report/source/update/PH000489_final.txt
+@@ -1,4 +1,4 @@
+-Jan  9 2023  4:43PM          PH23 CONSIGNOR: 1 HORSE: 536 GROUP: 1 HIP NUMBER:                Page 1
++Jan 29 2023 10:03PM          PH23 CONSIGNOR: 1 HORSE: 536 GROUP: 1 HIP NUMBER: 00489          Page 1
+ 
+ 
+ ******************************************************************************************
+@@ -47,7 +47,7 @@
+    Unnamed (2022 f. by Vekoma).
+    Unnamed (2021 f. by Vino Rosso).
+    Miss Malibu (2018 f. by Into Mischief). Unplaced, $3,050. Dam of 1 foal--
+-   .  Unnamed (2022 c. by Frosted). (application pending)
++   .  Unnamed (2022 c. by Frosted).
+    Topanga Canyon (2019 f. by Lord Nelson). See above.
+    Mahina (2020 f. by Bolt d'Oro). Unplaced in 2 starts, $1,000.
+ 2nd dam
+@@ -58,8 +58,8 @@
+    Patch of Blue (2004 c. by Mr. Greeley). 3 wins at 3 and 8, $88,620.
+    Traffic Trouble (2016 g. by Cross Traffic). Winner at 4, $33,860.
+    Unnamed (2018 c. by Temple City).
+-   Moon Confidential (2012 f. by Malibu Moon). Unraced. Sent from United States to Turkey in 2021. Dam of 4 foals, 2 to race--
+-   .  De la Luna (2020 r. by Tiznow). Placed at 2 and 3, 2023, $25,500.
++   Moon Confidential (2012 f. by Malibu Moon). Unraced. Sent from United States to Turkey in 2021. Dam of 4 foals, 2 to race, 1 winner--
++   .  De la Luna (2020 r. by Tiznow). Winner at 3, 2023, $43,500.
+    .  Unnamed (2021 f. by Kitten's Joy).
+    .  Moon Shaker (2016 g. by Shakin It Up). Unraced.
+    .  He Reigns (2019 g. by Tiznow). Unplaced, $3,608.
+@@ -72,25 +72,26 @@
+    .  =Unnamed (2018 c. by =Swear (AUS)). Died 2019.
+    .  =Unnamed (2017 f. by Hampton Court (AUS)).
+    Greer's Secret (2009 f. by Mr. Greeley). Unraced. Sent from United States to Australia in 2017. Dam of 9 foals, 4 to race, 3 winners--
+-   .  La Rusia (2017 f. by Hampton Court (AUS)). 3 wins at 2 and 5, 2022, $120,100.
++   .  La Rusia (2017 f. by Hampton Court (AUS)). 3 wins at 2 and 5, 2022, $120,300.
+    .  Temple Secret (2016 g. by Temple City). Winner at 5, $25,551.
+-   .  Affaire Secrete (2015 f. by Liaison). Winner at 3, $20,763.
++   .  Affaire Secrete (2015 f. by Liaison). Winner at 3, $20,763. Dam of 1 foal--
++   .  .  Unnamed (2022 c. by Passion for Action). (application pending)
+    .  =Unnamed (2022 c. by =Sensei (AUS)).
+    .  =Unnamed (2021 c. by =Spieth (NZ)).
+    .  =Unnamed (2020 c. by =Spieth (NZ)).
+    .  =Eleven Madison (AUS) (2019 f. by =Spieth (NZ)). Unraced in Australia.
+    .  My Neighbor's Wife (2013 f. by Tiz Wonderful). Unraced. Died 2015.
+-   .  =Cheeky Secrets (AUS) (2018 f. by Into Mischief). Unplaced, $3,300(AUS), in Australia. (Total: $2,308).
+-   Too Much Malibu (2014 f. by Malibu Moon). Unplaced, $2,859. Dam of 4 foals, 1 to race, 1 winner--
++   .  =Cheeky Secrets (AUS) (2018 f. by Into Mischief). Unplaced, $4,525(AUS), in Australia. (Total: $3,156).
++   Too Much Malibu (2014 f. by Malibu Moon). Unplaced, $2,859. Dam of 4 foals, 2 to race, 1 winner--
+    .  Sugar Smile (2019 f. by Runhappy). 2 wins in 4 starts at 3, 2022, $33,416.
+    .  Unnamed (2022 f. by Mendelssohn). (application pending)
+-   .  Unnamed (2021 f. by Arrogate).
+-   .  Foxburg (2020 c. by Arrogate). Unraced.
+-   Mooghareadh (2013 f. by Malibu Moon). Unplaced in 1 start, $400. Sent from United States to Great Britain in 2016. Returned to United States from Great Britain in 2017. Dam of 5 foals, 2 to race--
++   .  Zuma (2021 f. by Arrogate). Unraced.
++   .  Foxburg (2020 c. by Arrogate). Unplaced in 1 start, $700.
++   Mooghareadh (2013 f. by Malibu Moon). Unplaced in 1 start, $400. Sent from United States to Great Britain in 2016. Returned to United States from Great Britain in 2017. Dam of 5 foals, 2 to race, 1 winner--
++   .  Ughrouda (2019 f. by Curlin). Winner at 4, 2023, $41,183.
+    .  Unnamed (2022 c. by Medaglia d'Oro).
+    .  Unnamed (2021 f. by Kitten's Joy).
+    .  Malibu Smart (2020 f. by English Channel). Unraced.
+-   .  Ughrouda (2019 f. by Curlin). Unplaced, $11,183.
+    .  Nawaady (2018 f. by =Kingman (GB)). Unplaced in 1 start in France. Sent from United States to United Arab Emirates in 2019.
+    Anasy (2006 f. by Gone West). Unplaced in England. Sent from United States to Great Britain in 2007. Dam of 8 foals, 6 to race, 2 winners--
+    .  =Storm Katy (FR) (2016 f. by =Sommerabend (GB)). Winner at 2 and 3, 88,060 Euro, in France. (Total: $101,388).
+@@ -100,6 +101,6 @@
+    .  =Unnamed (2020 f. by Hunter's Light (IRE)).
+    .  =Anastreep (FR) (2018 f. by Outstrip (GB)). Unplaced, 600 Euro, in France. (Total: $673).
+    .  =Anapa (FR) (2015 g. by Elusive City). Unplaced in 2 starts in France.
+-   .  =Precious Equity (FR) (2014 f. by =Equiano (FR)). Unplaced in England.
++   .  =Precious Equity (FR) (2014 f. by =Equiano (FR)). Unplaced in England.RACE RECORD for Topanga Canyon: At 2, unraced; at 3, 2022, unplaced in 1 start; at 2, unplaced in 1 start. Earned $1,900
+ RACE RECORD for Topanga Canyon: At 2, unraced; at 3, 2022, unplaced in 1 start; at 2, unplaced in 1
+     start. Earned $1,900
