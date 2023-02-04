@@ -1,12 +1,10 @@
 import os # for file paths
-# import shutil # for copying files
 from sys import argv # for command line arguments, getting hipped file name
 import re # for regex
 import difflib # for diffing files
 import glob # for finding files in a directory
-import tempfile # for creating temporary files
-# from tqdm import tqdm # for progress bar
 import timeit # for timing the script
+from bs4 import BeautifulSoup # for parsing html
 
 start_time = timeit.default_timer() # I was curious how long the script takes to run
 
@@ -64,37 +62,7 @@ def main():
         source_list = [x.replace('.TXT', '') for x in source_list]
         return hip_list, source_list
 
-
-    # def seperate_lines(folder, status):
-    #     '''Puts each horse on its own line'''
-
-    #     for horse in tqdm(zip(hip_list, source_list)):
-    #         # print("HIP:\tHORSE:\n",horse[0], '\t', horse[1])
-    #         if status == 'original':
-    #             fn = horse[1] + "_short.txt"
-    #             fn1 = horse[1]
-    #         elif status == 'update':
-    #             fn = "PH" + horse[0].zfill(6) + ".txt"
-    #             fn1 = "PH" + horse[0].zfill(6)
-    #         with open(f"{folder}/{fn}", "r") as f, open(f"{folder}/{fn1}_string.txt", "w") as f2: # the _string is the final product. (i think)
-    #             list_sex_sire = get_line_number(f"{folder}/" + fn, sex_sire_re)
-    #             list_sex_sire_diff = get_difference(list_sex_sire)
-    #             flines = f.readlines() # read lines of file.
-
-    #             i = 0
-    #             n = 0
-
-    #             for n, m in enumerate(list_sex_sire, start=0): # n is index of list, m is value of list.
-    #                 if n < len(list_sex_sire_diff): # if the index is less than the length of the list, sex_sire_diff length is the total number of horses.
-    #                     group = flines[m:m+list_sex_sire_diff[n]] # group the lines of the read file that are between the number in sex_sire_diff list and the next number in the list.
-    #                 else:
-    #                     pass
-    #                     # group = flines[m:m+list_sex_sire_diff[n-1]]
-    #                 string_group = ''.join(group)
-    #                 string_group = string_group.replace('\n', '')
-    #                 if '2nd dam' in string_group:
-    #                     string_group = string_group.replace('2nd dam', '\n2nd dam\n')
-    #                 f2.write(string_group + '\n')
+    def seperate_lines(file_name, new_file, list_name, need_first_dam):
     #             # This code is looping through a list of strings (list_sex_sire) 
     #             # and writing the values to a file. The enumerate function is used
     #             # to keep track of the loop index and assign it to the variable n.
@@ -110,7 +78,6 @@ def main():
     #             # characters, and look for the string "2nd dam". If the string is
     #             # found, the string is shortened to the index at which it was found.
     #             # Finally, the string is written to the file.
-    def seperate_lines(file_name, new_file, list_name, need_first_dam):
         if need_first_dam == True:
             list_name.insert(0, 0)
         f = open(file_name, 'r')
@@ -206,12 +173,6 @@ def main():
     def get_line_number(file_name, re_string):
         '''Gets the line number of a specific regex in a file.'''
         line_number = []
-        # if status == 'original':
-        #     fn = f"/p_original/{file_name}.txt"
-        # elif status == 'update':
-        #     fn = f"/p_update/{file_name}.txt"
-        # else:
-        #     fn = f"{file_name}.txt"
         f = open(file_name, 'r')
         lines = f.readlines()
         num = 0
@@ -238,9 +199,8 @@ def main():
         f4 = open(f"{p_report}/{hip}.html", 'w')
         flines = f.readlines()
         flines2 = f2.readlines()
-        diff = difflib.unified_diff(flines, flines2, fromfile=f"{original}", tofile=f"{update}")
+        diff = difflib.ndiff(flines, flines2) #, fromfile=f"{original}", tofile=f"{update}"
         diffh = difflib.HtmlDiff().make_file(flines, flines2, f"{original}", f"{update}")
-        # print(''.join(diff))
         f3.write(''.join(diff))
         f4.write(''.join(diffh))
 
@@ -287,6 +247,61 @@ def main():
         f4.writelines(lines3)
         return f4
 
+    
+    def clean_horse(file_name, horse):
+        # soup = BeautifulSoup(open(f"{file_name}", 'r'), 'html.parser')
+        # print(soup.prettify())>")
+
+        with open(f"{file_name}", 'r') as f, open(f"{p_report}/hip{horse}.html", 'w') as f2:
+            soup = BeautifulSoup(f, 'html.parser')
+            # f2.write(soup.prettify())
+            tbody = soup.find('tbody')
+            rows = tbody.find_all('tr')
+            f2.write(f"<html><body><h1>{horse}</h1><table><tbody>")
+            for row in rows:
+                cols = row.find_all('td')
+                update = cols[5]
+                update_span = update.find("span")
+                if update_span != None:
+                    update_span = update_span.get_text()
+                    f2.writelines('<tr>\n\t{}</tr>'.format(update))
+                f2.writelines('\t\t<tr>\n\t\t\t{}\n\t\t</tr>\n'.format(update))
+                # f2.write(update)
+            f2.write("</tbody></table></body></html>")
+            print(f"Done with {horse}")
+
+    def make_xml(file_name, horse):
+        f = open(f"{file_name}", 'r')
+        f2 = open(f"{p_report}/hip{horse}.xml", 'w')
+        lines = f.readlines()
+        i = 0
+        f2.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<FasigTiptonSalesServices>\n<Service>saleUpdates</Service>\n<FasigTiptonUpdates>\n<Update>")
+        for line in lines:
+            if i <= 1:
+                pass
+            elif line.startswith('-'):
+                pass
+            else:
+                f2.writelines(f"{line}")
+            i += 1
+        f2.write("</update>")
+
+    def get_updates(file_name, horse):
+        """reads through a file and finds the lines that starts with a + and then prints them"""
+        f = open(f"{file_name}", 'r')
+        f2 = open(f"{p_report}/{horse}.xml", 'w')
+        lines = f.readlines()
+        i = 0
+        for line in lines:
+            if i <= 1:
+                pass
+            elif line.startswith('-'):
+                pass
+            elif line.startswith('+'):
+                f2.write(line)
+            else:
+                pass
+            i += 1
 
 ##########################################################################################
 # Main part of the program
@@ -347,43 +362,34 @@ def main():
     
     print("Comparing files...")
     for horse in zip(source_list, hip_list):
-        diff_report(f"{p_original}/{horse[0]}_final.txt", f"{p_update}/PH{horse[1].zfill(6)}_final.txt", f"{p_report}/{horse[0]}.txt", horse[1])
+        diff_report(f"{p_original}/{horse[0]}_final.txt", f"{p_update}/PH{horse[1].zfill(6)}_final.txt", f"{p_report}/{horse[1]}.txt", horse[1])
     print("Done comparing files")
 
-    print("Cleaning up report...")
+    print("Cleaning up HTML...")
+    for horse in zip(source_list, hip_list):
+        with open(f"{p_report}/{horse[1]}.html", 'r') as f:
+            flines = f.readlines()
+        with open(f"{p_report}/{horse[1]}.html", 'w') as f:
+            for line in flines:
+                # [1mCATNIP[22m
+                line = line.replace('[1m', '<strong>')
+                line = line.replace('[22m', '</strong>')
+                f.writelines(line)
+    print("Done cleaning the diff")
+    print("Cleaning up...")
+    # for horse in zip(source_list, hip_list):
+    #     clean_horse(f"{p_report}/{horse[1]}.html", horse[1])
 
 
-    # print("Shortening files for update...")
-    # for horse in tqdm(zip(source_list, hip_list)):
-    #     line_sex_sire = get_line_number(f"{p_original}/{horse[0]}.txt", sex_sire_re) # Gets the sex_sire line number of original file
-    #     shorten_file(f"{p_original}/{horse[0]}.txt", f"{p_original}/{horse[0]}_no3x.txt", line_sex_sire, 0) # Shortens file to only have the lines from the sex and sire down
-    #     line_sex_sire = get_line_number(f"{p_update}/PH{horse[1].zfill(6)}.txt", sex_sire_re) # Gets sex sire line number of update file
-    #     shorten_file(f"{p_update}/PH{horse[1].zfill(6)}.txt", f"{p_update}/PH{horse[1].zfill(6)}_no3x.txt", line_sex_sire, 0) #Shortens everything in update file
-    # print("Done shortening files")
-    # print("Seperating lines...")
-    # for horse in tqdm(zip(source_list, hip_list)):
-    #     og_sex = get_line_number(f"{p_original}/{horse[0]}_no3x.txt", sex_sire_re)
-    #     seperate_lines(f"{p_original}/{horse[0]}_no3x.txt", og_sex)
-    #     up_sex = get_line_number(f"{p_update}/PH{horse[1].zfill(6)}_no3x.txt", sex_sire_re)
-    #     seperate_lines(f"{p_update}/PH{horse[1].zfill(6)}_no3x.txt", up_sex)
-    # print("Done seperating lines")
-    # # clean up the files...
-    # print("Cleaning files...")
-    # for horse in tqdm(zip(source_list, hip_list)):
-    #     clean_file(f"{p_original}/{horse[0]}_string.txt")
-    #     clean_file(f"{p_update}/PH{horse[1].zfill(6)}.txt_string.txt")
-    #     with open(f"{p_original}/{horse[0]}_clean.txt", 'r') as f, open(f"{p_original}/{horse[0]}_alt.txt", 'a') as f2:
-    #         for line in f:
-    #             f2.write(line)
-    #     with open(f"{p_update}/PH{horse[1].zfill(6)}_clean.txt", 'r') as f, open(f"{p_update}/PH{horse[1].zfill(6)}_alt.txt", 'a') as f2:
-    #         for line in f:
-    #             f2.write(line)
-    # print("Done cleaning files")
-    # print("Running diff...")
-    # # Original name is _alt.txt
-    # diff_report(source_list, hip_list, p_report)
-    # print("Done running diff")
-    # print('Cleaning the diff...')
+    # print("Making my own HTML...")
+    # for horse in zip(source_list, hip_list):
+    #     make_xml(f"{p_report}/{horse[1]}.txt", horse[1])
+
+    print("Making an getting updates...")
+    for horse in zip(source_list, hip_list):
+        get_updates(f"{p_report}/{horse[1]}.txt", horse[1])
+
+    
     # for horse in os.listdir(p_report):
     #     with open(f"{p_report}/{horse}", 'r') as f:
     #         flines = f.readlines()
@@ -394,15 +400,15 @@ def main():
     #             line = line.replace('[22m', '</strong>')
     #             f.writelines(line)
     # print("Done cleaning the diff")
-    # print("Cleaning up...")
-    # # for horse in tqdm(zip(source_list, hip_list)):
-    # #     os.remove(f"{p_original}/{horse[0]}_alt.txt")
-    # #     os.remove(f"{p_original}/{horse[0]}_clean.txt")
-    # #     os.remove(f"{p_original}/{horse[0]}_short.txt")
-    # #     os.remove(f"{p_original}/{horse[0]}_string.txt")
-    # #     os.remove(f"{p_update}/PH{horse[1].zfill(6)}_alt.txt")
-    # #     os.remove(f"{p_update}/PH{horse[1].zfill(6)}_clean.txt")
-    # #     os.remove(f"{p_update}/PH{horse[1].zfill(6)}_string.txt")
+    print("Cleaning up...")
+    for horse in zip(source_list, hip_list):
+        os.remove(f"{p_original}/{horse[0]}_1.txt")
+        os.remove(f"{p_original}/{horse[0]}_2.txt")
+        os.remove(f"{p_original}/{horse[0]}_3.txt")
+        os.remove(f"{p_original}/{horse[0]}_4.txt")
+        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_1.txt")
+        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_2.txt")
+        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_3.txt")
     # print("Done cleaning up")
 
     print("Done")

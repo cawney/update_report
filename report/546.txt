@@ -1,149 +1,71 @@
---- PH001575_alt.txt
-+++ PH000546_alt.txt
-@@ -18,13 +18,14 @@
-    .     (AQU, $90,000), Victory Ride S. <strong>[G3]</strong> (SAR, $60,000), 2nd Inside Information S.
-    .     <strong>[G2]</strong> (GP, $30,000), 3rd Black-Eyed Susan S. <strong>[G2]</strong> (PIM, $27,500). Dam of 6
-    .     foals, 5 to race, 5 winners--
--   .  <strong>Mount Travers</strong> (2016 g. by Speightstown). 4 wins, 2 to 6, 2022, $265,375, 2nd Parx Spring
--   .  .  Derby (PRX, $14,900), Senator Robert C. Byrd Memorial S. (MNR, $15,000), 3rd Bridgetown S. (AQU,
--   .  .  $12,000).
-+   .  <strong>Mount Travers</strong> (2016 g. by Speightstown). 4 wins, 2 to 6, placed at 7, 2023, $272,995, 2nd
-+   .  .  Parx Spring Derby (PRX, $14,900), Senator Robert C. Byrd Memorial S. (MNR, $15,000), 3rd
-+   .  .  Bridgetown S. (AQU, $12,000).
-    .  Farley (2014 c. by Distorted Humor). 5 wins, 3 to 7, placed at 8, 2022, $167,949.
-    .  Speed Bias (2019 c. by Uncle Mo). Winner at 3 and 4, 2023, $158,565.
--   .  Overheated (2015 f. by Distorted Humor). 2 wins at 4, $101,155.
--   .  Harpoon Harry (2018 g. by Empire Maker). 3 wins at 4, 2022, $65,376.
-+   .  Overheated (2015 f. by Distorted Humor). 2 wins at 4, $101,155. Dam of 1 foal--
-+   .  .  Unnamed (2022 c. by Munnings).
-+   .  Harpoon Harry (2018 g. by Empire Maker). 3 wins at 4, 2022, $65,606.
-    .  Unnamed (2021 f. by City of Light).
-    <strong>Stirred Up</strong> (2009 r. by Lemon Drop Kid). Winner at 3, $173,160, 3rd Jerome S. <strong>[G2]</strong>
-    .  (AQU, $20,000), Sunland Derby <strong>[G3]</strong> (SUN, $96,000).
-@@ -35,101 +36,29 @@
-    Shura Council (2011 c. by Malibu Moon). Winner at 4 and 6 in Bahrain; unplaced in Ireland. Sent from
-    .  United States to Ireland in 2012.
-    Kings Pleasure (2010 g. by Hard Spun). Placed in 1 start at 5, $3,600, in Canada. (Total: $2,749).
-+RACE RECORD for Summer Takeover: At 2, unraced; at 3, 2022, unplaced in 1 start. Earned $420
-+   <strong>Harmon</strong> (2016 g. by Cairo Prince). 8 wins, 3 to 6, 2022, $211,956, 3rd Rolling Green S. (GG, $6,000).
-+   Rue Bellamy (2012 f. by Bellamy Road). 2 wins at 3, $53,070.
-+   Shade Tree (2014 c. by Flower Alley). Placed in 2 starts at 2, $2,800.
-+   Unnamed (2022 f. by Vekoma). (application pending)
-+   Unnamed (2021 f. by Arrogate).
-+   Two Summers (2017 c. by Summer Front). Unraced.
-+   Summer Takeover (2019 f. by Arrogate). See above.
-+   Konnichiwa (2018 f. by Japan). Unplaced in 2 starts, $500, in Canada. (Total: $399).
-+   She's Ours (2015 f. by Half Ours). Unplaced.
-+2nd dam
-+<strong>Summer Delight</strong>, by Quiet American. 3 wins, 2 to 4, $77,390, 2nd National Jockey Club Oaks [L]      (SPT, $20,000). Died 2011. Half-sister to <strong>Ransom Captive</strong> (Total: $169,022, 2nd Queen of      the Green H. (TUP, $10,000), etc.), <strong>Captain Rouge</strong> ($29,293, 3rd British Columbia Cup      Stellar's Jay H.-R (HST, $6,053)). Dam of 6 foals, 6 to race, 5 winners--
-+   <strong>HOT SUMMER</strong> (2008 f. by Malibu Moon). 4 wins at 2 and 3, $298,959, 1st Comely S. <strong>[G3]</strong> (AQU, $90,000), Victory Ride S. <strong>[G3]</strong> (SAR, $60,000), 2nd Inside Information S. <strong>[G2]</strong> (GP, $30,000), 3rd Black-Eyed Susan S. <strong>[G2]</strong> (PIM, $27,500). Dam of 6 foals, 5 to race, 5 winners--
-+   .  <strong>Mount Travers</strong> (2016 g. by Speightstown). 4 wins, 2 to 6, placed at 7, 2023, $272,995, 2nd Parx Spring Derby (PRX, $14,900), Senator Robert C. Byrd Memorial S. (MNR, $15,000), 3rd Bridgetown S. (AQU, $12,000).
-+   .  Farley (2014 c. by Distorted Humor). 5 wins, 3 to 7, placed at 8, 2022, $167,949.
-+   .  Speed Bias (2019 c. by Uncle Mo). Winner at 3 and 4, 2023, $158,565.
-+   .  Overheated (2015 f. by Distorted Humor). 2 wins at 4, $101,155. Dam of 1 foal--
-+   .  .  Unnamed (2022 c. by Munnings).
-+   .  Harpoon Harry (2018 g. by Empire Maker). 3 wins at 4, 2022, $65,606.
-+   .  Unnamed (2021 f. by City of Light).
-+   <strong>Stirred Up</strong> (2009 r. by Lemon Drop Kid). Winner at 3, $173,160, 3rd Jerome S. <strong>[G2]</strong> (AQU, $20,000), Sunland Derby <strong>[G3]</strong> (SUN, $96,000).
-+   <strong>Southwest</strong> (2005 g. by Cozzene). 4 wins, 2 to 7, $242,396, 2nd John's Call S.-R (SAR, $17,940), Princeton S. (MED, $12,000), 3rd Stanton S. (DEL, $6,490). Set ncr at Penn National, 2 1/16 miles in 3:39.48 (06/30/12).
-+   Summer Shade (2007 f. by Stephen Got Even). See above.
-+   Shura Council (2011 c. by Malibu Moon). Winner at 4 and 6 in Bahrain; unplaced in Ireland. Sent from United States to Ireland in 2012.
-+   Shura Council (2011 c. by Malibu Moon). Winner at 4 and 6 in Bahrain; unplaced in Ireland. Sent from United States to Ireland in 2012.
- 
--3rd dam
--CAP ROUGE, by Summer Squall. Placed at 3, $10,965. Half-sister to <strong>ISLEFAXYOU</strong> ($213,394, 1st
--      National Museum of Racing Hall of Fame S. <strong>[G2]</strong>, etc., sire), <strong>Candleinthedark</strong>
--      ($199,696, 2nd Modesty H. <strong>[G3]</strong>, etc.), <strong>Petroski</strong> ($243,779, 2nd Ben Franklin S.
--      [L] (GS, $10,000)). Dam of 12 foals, 12 to race, 8 winners--
--   <strong>Ransom Captive</strong> (2004 f. by Red Ransom). Winner at 2, 12,826 Pounds, in England, 3rd
--   .  E.B.F./GNER Go Racing Hoppings S. [L], Swettenham Stud Fillies' Trial S. [L]; 3 wins at 4,
--   .  $144,262, in N.A./U.S., 2nd Queen of the Green H. (TUP, $10,000), 3rd Moscow Burning S.-R (SA,
--   .  $8,322). Sent from United States to Great Britain in 2005. Returned to United States from Great
--   .  Britain in 2007. (Total: $169,022). Died 2009.
--   <strong>Summer Delight</strong> (1999 f. by Quiet American). Black type-placed winner, see above.
--   <strong>Captain Rouge</strong> (2006 g. by Katahaula County). 2 wins at 3, $32,808, in Canada, 3rd British
--   .  Columbia Cup Stellar's Jay H.-R (HST, $6,053). (Total: $29,293).
--   Signore Pasquale (1998 g. by Woodman). Winner at 2, $48,320, in N.A./U.S.; winner at 5 in Republic of
--   .  Korea. Sent from United States to Republic of Korea in 2003. (Total: $48,320).
--   Mr. Yano (2000 c. by Arch). 2 wins at 3, $32,532.
--   Ready in Rouge (2008 f. by Vying Victor). Winner at 3, $28,991, in Canada. (Total: $29,425). Died
--   .  2017.
--   Dildaar (2001 c. by Woodman). Winner at 3, 47,759 Dirhams, in United Arab Emirates; unplaced in Saudi
--   .  Arabia. Sent from United States to Ireland in 2002. Racing in Saudi Arabia as Allaamee. Racing in
--   .  Saudi Arabia as Al Lamee. (Total: $13,000).
--   Cap Gunner (2010 f. by Trajectory). 2 wins at 3, $13,235, in Canada. (Total: $12,753). Dam of 2 foals,
--   .     2 to race--
--   .  Teenager (2020 f. by Lent). Placed in 1 start at 2, 2022, $2,400, in Canada. (Total: $1,748).
--   .  Boldt Bronco (2018 g. by Exhi). Placed in 2 starts at 3, $1,020, in Canada. (Total: $838).
--   Indelible Rouge (2005 f. by Woodman). Placed at 2, $10,734, in Canada. Sent from United States to
--   .     Venezuela in 2017. (Total: $10,576). Dam of 9 foals, 7 to race, 6 winners--
--   .  <strong>=AMELAZADO (VEN)</strong> (2019 c. by Yesbyjimminy). 3 wins at 3, 2022 in Venezuela, 1st Clasico
--   .  .  Mauricio Azar [L], Clasico Hypocrite [L], Clasico Cria Nacional [L], 2nd Clasico Republica
--   .  .  Bolivariana de Venezuela [L], 3rd Clasico Jose Antonio Paez [L], Clasico Internacional del
--   .  .  Caribe [L].
--   .  Blue Sky Venezuela (2016 f. by Sky Mesa). 10 wins, 2 to 6, 2022, $202,509, in N.A./U.S.; unplaced
--   .  .  in 1 start, $400, in Canada. (Total: $202,810).
--   .  Biamonte (2012 f. by Afleet Alex). 6 wins, 3 to 6, $135,070.
--   .  Eddys Indelible (2010 c. by Eddington). Winner at 2, $31,788.
--   .  Danzig Debutante (2013 f. by Langfuhr). 2 wins at 3, $16,671.
--   .  Ready to Go (2014 f. by Exchange Rate). Winner at 3, $11,363.
--   .  Unnamed (2015 c. by Congrats).
--   .  Chasing Returns (2011 c. by Exchange Rate). Unraced.
--   .  =El Pillin (VEN) (2020 c. by King Seraf (VEN)). Unplaced in 2 starts in Venezuela.
--   Red Lined (2007 g. by Katahaula County). Placed at 3, $778. Died 2010.
--   Captivating Man (2011 g. by Alphabet Soup). Unplaced, $4,536, in Canada. (Total: $3,535).
--   Silent Survivor (2017 f. by Silent Name (JPN)). Unplaced in 2 starts, $800, in Canada. (Total: $638).
--
--4th dam
--<strong>KEY TO THE BRIDGE</strong>, by Key to the Mint. 7 wins at 3 and 4, $289,747, 1st Beaugay H.
--      <strong>[G3]</strong>, Hialeah Budweiser Breeders' Cup H. (HIA, $80,088), Water Malone S. (MED, $24,660),
--      3rd New York H. <strong>[G2]</strong>, 4th Top Flight H. <strong>[G1]</strong>, Rare Perfume S. <strong>[G2]</strong>,
--      Honey Bee H. <strong>[G3]</strong>. Died 1998. Sister to <strong>PLUGGED NICKLE</strong> ($647,206, champion
--      sprinter in U.S. (1980), 1st Laurel Futurity<strong>-G1</strong>, etc., leading broodmare sire in
--      Czechoslovakia/Czech Republic (2001)), <strong>Chicago Bound</strong> ($46,105, 3rd Clasico Jose de Diego,
--      sire), half-sister to <strong>CHRISTIECAT</strong> ($799,745, 1st Flower Bowl H. <strong>[G1]</strong>, etc.),
--      <strong>TOLL FEE</strong> ($333,917, 1st Weber City Miss S. [LR] (AQU, $31,980), etc.), <strong>TOLL KEY</strong>
--      ($290,218, 1st Dania H. (GP, $24,000), etc., sire), <strong>IDLE GOSSIP</strong> ($101,721, 1st Lakewood
--      S., etc.), <strong>TOKENS ONLY</strong> ($50,455, 1st Starlight S.), <strong>Banker's Favorite</strong> ($70,470,
--      2nd Aspidistra H.). Dam of 8 foals, 7 to race, 5 winners--
--   <strong>ISLEFAXYOU</strong> (1991 c. by Storm Bird). 4 wins, 3 to 5, $213,394, 1st National Museum of Racing
--   .  Hall of Fame S. <strong>[G2]</strong>, 2nd Lexington S. <strong>[G3]</strong>, Fort McHenry H. [L] (LRL, $22,490).
--   .  Sire.
--   <strong>Candleinthedark</strong> (1995 f. by Cox's Ridge). 3 wins at 3 and 5, $199,696, 2nd Modesty H.
--   .     <strong>[G3]</strong>, 3rd Chriscinca S.-R (CRC, $2,750), Grecian Flight S. (MED, $5,400). Dam of 7
--   .     foals, 5 to race, 4 winners--
--   .  Manchu Prince (2003 c. by Gone West). 9 wins, 2 to 6, $179,774.
--   .  Chipara (2004 f. by Gone West). Winner at 3, $46,126, in Canada; unplaced in 2 starts, $1,724, in
--   .  .     N.A./U.S. (Total: $44,953). Died 2012. Producer.
--   .  Mistake (2014 g. by Two Step Salsa). Winner at 3, $28,042.
--   .  Seal the Greel (2009 f. by Mr. Greeley). Winner at 3, $16,700. Producer.
--   .  Lantern (2005 f. by Mineshaft). Placed, 2 to 4, $30,465. Died 2021. Dam of 9 foals, 8 to race, 8
--   .  .     winners--
--   .  .  <strong>Lantiz</strong> (2014 f. by Tizway). 5 wins at 3 and 5, $271,821, 2nd Ramsey Farm S. [L] (KD,
--   .  .  .     $94,000).
--   .  Elusive Buzz (2008 c. by Elusive Quality). Unraced.
--   .  Cloaked (2007 c. by Elusive Quality). Unraced.
--   <strong>Petroski</strong> (1990 g. by Polish Navy). 9 wins, 2 to 6, $243,779, 2nd Ben Franklin S. [L] (GS,
--   .  $10,000). Set cre at Charlotte, about 2 3/8 miles in 4:27.00 (11/18/95).
--   Bink Star (1997 f. by Storm Cat). Winner at 3, $52,418. Died 2006.
--   Zoomer (1998 f. by Kingmambo). Winner at 3, $38,650. Dam of 5 foals, 4 to race--
--   .  Zee Baby (2008 f. by Borrego). Unraced.
--   .  New Doo (2009 f. by Borrego). Unplaced, $6,362. Producer.
--   .  Due Dillie (2005 f. by Forestry). Unplaced in 1 start, $2,600. Died 2007.
--   .  Zoomster (2006 f. by Hennessy). Unplaced in 1 start, $880. Died 2009.
--   .  Dynazoomer (2010 f. by Spring At Last). Unplaced in 2 starts, $795.
--   Cap Rouge (1993 f. by Summer Squall). See above.
--   Underhill (1992 c. by Slew o' Gold). Placed, 2 to 5, $15,360.
--   Dixie de Kay (1994 f. by Dixieland Band). Unraced. Dam of 9 foals, 7 to race, 3 winners--
--   .  Lethimrun (1999 g. by Roy). 5 wins, 2 to 5, $91,356.
--   .  Equuleus (2002 f. by Sky Classic). 2 wins at 4, $24,866.
--   .  Crossed Purposes (2001 c. by Loup Sauvage). Winner at 2 in Panama. Sent from United States to
--   .  .  Panama in 2002.
--   .  Sandringham Hottie (2008 f. by Eavesdropper). Placed at 3, $8,585.
--   .  Hong Kong Nights (2010 f. by Dr. Caton). Placed at 3, $7,944.
--   .  Fuzzbucket (1998 f. by Kingmambo). Placed at 3, $2,585. Died 2002.
--   .  Struttin' Red Rose (2005 f. by Pleasant Tap). Placed at 3, $2,248.
--   .  Sandringham Fleur (2007 f. by Lemon Drop Kid). Unraced. Producer.
--   .  Craftyasafox (2000 f. by Crafty Prospector). Unraced. Producer.
--RACE RECORD for Summer Takeover: At 2, unraced; at 3, 2022, unplaced in 1 start. Earned $420
--
+- Jan 17 2023  4:56PM          PH23 CONSIGNOR: 1 HORSE: 575 GROUP: 1 HIP NUMBER:                Page 1
+?     ^^      ^ ---                                                              ^^^^^
++ Jan 29 2023 10:04PM          PH23 CONSIGNOR: 1 HORSE: 575 GROUP: 1 HIP NUMBER: 00546          Page 1
+?     ^^      ^^^^                                                               ^^^^^
+  
+  
+  ******************************************************************************************
+  575  Summer Takeover  Gray or Roan  Filly (04/21/19)
+  By Arrogate (13)  --  Summer Shade (07)  By Stephen Got Even (96)  --  Summer Delight (99)
+  New York     Four-year-old     None
+  Breeders' Cup nominated
+  ******************************************************************************************
+  
+                                                    Unbridled
+  
+                                Unbridled's Song
+                                                    Trolley Song
+  
+             Arrogate 13
+                                                    Distorted Humor
+  
+                                Bubbler
+                                                    Grechelle
+  
+  SUMMER TAKEOVER
+    Gray or Roan Filly                              A.P. Indy
+    Foaled April 21, 2019
+    in New York                 Stephen Got Even
+                                                    Immerse
+  
+             Summer Shade 07
+                                                    Quiet American
+  
+                                Summer Delight
+                                                    Cap Rouge
+  1st dam
+  SUMMER SHADE, by Stephen Got Even. Winner at 2 and 3, $45,780. Half-sister to [1mHOT SUMMER[22m ($298,959, 1st Comely S. [1m[G3][22m (AQU, $90,000), etc.), [1mStirred Up[22m ($173,160, 3rd Jerome S. [1m[G2][22m (AQU, $20,000), etc.), [1mSouthwest[22m ($242,396, 2nd John's Call S.-R (SAR, $17,940), etc.). Dam of 9 foals, 6 to race, 2 winners--
+     [1mHarmon[22m (2016 g. by Cairo Prince). 8 wins, 3 to 6, 2022, $211,956, 3rd Rolling Green S. (GG, $6,000).
+     Rue Bellamy (2012 f. by Bellamy Road). 2 wins at 3, $53,070.
+     Shade Tree (2014 c. by Flower Alley). Placed in 2 starts at 2, $2,800.
+     Unnamed (2022 f. by Vekoma). (application pending)
+     Unnamed (2021 f. by Arrogate).
+     Two Summers (2017 c. by Summer Front). Unraced.
+     Summer Takeover (2019 f. by Arrogate). See above.
+     Konnichiwa (2018 f. by Japan). Unplaced in 2 starts, $500, in Canada. (Total: $399).
+     She's Ours (2015 f. by Half Ours). Unplaced.
+  2nd dam
+  [1mSummer Delight[22m, by Quiet American. 3 wins, 2 to 4, $77,390, 2nd National Jockey Club Oaks [L] (SPT, $20,000). Died 2011. Half-sister to [1mRansom Captive[22m (Total: $169,022, 2nd Queen of the Green H. (TUP, $10,000), etc.), [1mCaptain Rouge[22m ($29,293, 3rd British Columbia Cup Stellar's Jay H.-R (HST, $6,053)). Dam of 6 foals, 6 to race, 5 winners--
+     [1mHOT SUMMER[22m (2008 f. by Malibu Moon). 4 wins at 2 and 3, $298,959, 1st Comely S. [1m[G3][22m (AQU, $90,000), Victory Ride S. [1m[G3][22m (SAR, $60,000), 2nd Inside Information S. [1m[G2][22m (GP, $30,000), 3rd Black-Eyed Susan S. [1m[G2][22m (PIM, $27,500). Dam of 6 foals, 5 to race, 5 winners--
+-    .  [1mMount Travers[22m (2016 g. by Speightstown). 4 wins, 2 to 6, 2022, $265,375, 2nd Parx Spring Derby (PRX, $14,900), Senator Robert C. Byrd Memorial S. (MNR, $15,000), 3rd Bridgetown S. (AQU, $12,000).
+?                                                                         ^^^^^^^^^  ^^^^^^^^
++    .  [1mMount Travers[22m (2016 g. by Speightstown). 4 wins, 2 to 6, placed at 7, 2023, $272,995, 2nd Parx Spring Derby (PRX, $14,900), Senator Robert C. Byrd Memorial S. (MNR, $15,000), 3rd Bridgetown S. (AQU, $12,000).
+?                                                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^  ^^^^
+     .  Farley (2014 c. by Distorted Humor). 5 wins, 3 to 7, placed at 8, 2022, $167,949.
+     .  Speed Bias (2019 c. by Uncle Mo). Winner at 3 and 4, 2023, $158,565.
+-    .  Overheated (2015 f. by Distorted Humor). 2 wins at 4, $101,155.
++    .  Overheated (2015 f. by Distorted Humor). 2 wins at 4, $101,155. Dam of 1 foal--
+?                                                                      ++++++++++++++++
++    .  .  Unnamed (2022 c. by Munnings).
+-    .  Harpoon Harry (2018 g. by Empire Maker). 3 wins at 4, 2022, $65,376.
+?                                                                       ^^
++    .  Harpoon Harry (2018 g. by Empire Maker). 3 wins at 4, 2022, $65,606.
+?                                                                       ^^
+     .  Unnamed (2021 f. by City of Light).
+     [1mStirred Up[22m (2009 r. by Lemon Drop Kid). Winner at 3, $173,160, 3rd Jerome S. [1m[G2][22m (AQU, $20,000), Sunland Derby [1m[G3][22m (SUN, $96,000).
+     [1mSouthwest[22m (2005 g. by Cozzene). 4 wins, 2 to 7, $242,396, 2nd John's Call S.-R (SAR, $17,940), Princeton S. (MED, $12,000), 3rd Stanton S. (DEL, $6,490). Set ncr at Penn National, 2 1/16 miles in 3:39.48 (06/30/12).
+     Summer Shade (2007 f. by Stephen Got Even). See above.
+     Shura Council (2011 c. by Malibu Moon). Winner at 4 and 6 in Bahrain; unplaced in Ireland. Sent from United States to Ireland in 2012.
+-    Kings Pleasure (2010 g. by Hard Spun). Placed in 1 start at 5, $3,600, in Canada. (Total: $2,749).
++    Kings Pleasure (2010 g. by Hard Spun). Placed in 1 start at 5, $3,600, in Canada. (Total: $2,749).RACE RECORD for Summer Takeover: At 2, unraced; at 3, 2022, unplaced in 1 start. Earned $420
+  RACE RECORD for Summer Takeover: At 2, unraced; at 3, 2022, unplaced in 1 start. Earned $420

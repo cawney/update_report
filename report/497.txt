@@ -1,186 +1,96 @@
---- PH001528_alt.txt
-+++ PH000497_alt.txt
-@@ -34,14 +34,20 @@
-    .  =Unnamed (2021 c. by Sea Power).
-    .  =Unnamed (2020 f. by Sea Power).
-    .  =Unnamed (2019 f. by Sea Power).
--   .  =Strongly Mischief (DOM) (2016 f. by Duke of Mischief). Unraced in Dominican Republic.
-+   .  =Strongly Mischief (DOM) (2016 f. by Duke of Mischief). Unraced in Dominican Republic. Dam of 2
-+   .  .     foals--
-+   .  .  =Unnamed (2021 c. by Boom Stick).
-+   .  .  =Unnamed (2020 c. by Wicked Stride).
-    .  Make It Right (2015 g. by United States). Unplaced in 1 start, $540, in N.A./U.S.; unplaced in 2
-    .  .  starts, $800, in Canada. (Total: $1,175).
-    Syracusa (2004 f. by Gulch). Winner at 3, $33,620. Sent from United States to Argentina in 2010. Dam
-    .     of 8 foals, 6 to race, 3 winners--
-    .  Livada (2009 f. by El Prado (IRE)). Winner at 3, $31,225, in Canada. (Total: $30,608).
-    .  =Lady Jayhawk (ARG) (2010 f. by Congaree). 4 wins at 4 and 5, 262,100 Pesos, in Argentina. (Total:
--   .  .     $28,169). Producer.
-+   .  .     $28,169). Dam of 2 foals, 1 to race, 1 winner--
-+   .  .  =Spirit (ARG) (2018 c. by =Southern Cat (CHI)). Winner in 4 starts at 3 and 4, 2022, 836,000
-+   .  .  .  Pesos, in Argentina. (Total: $6,455).
-+   .  .  =Gracea (ARG) (2020 f. by =Southern Cat (CHI)). Unraced in Argentina.
-    .  =Mandate (ARG) (2018 f. by Master of Hounds). Winner at 2, 522,500 Pesos, in Argentina. (Total:
-    .  .  $5,515).
-    .  =Better Bet (ARG) (2015 f. by Incurable Optimist). Placed at 4 and 5, 68,100 Pesos, in Argentina.
-@@ -49,112 +55,15 @@
-    .  =Brackla (ARG) (2014 f. by Incurable Optimist). Unraced in Argentina.
-    .  =Les Petit Monts (ARG) (2011 f. by Incurable Optimist). Unraced in Argentina.
-    .  =Bodacious (ARG) (2013 f. by Incurable Optimist). Unplaced in 2 starts, 18,550 Pesos, in Argentina.
--   .  .     (Total: $1,074).
-+   .  .     (Total: $1,074). Dam of 1 foal--
-+   .  .  =Flor de Key (ARG) (2019 f. by =Emocion Key (ARG)). Unraced in Argentina.
-    .  =Ski Mask (ARG) (2012 c. by Incurable Optimist). Unplaced in 1 start in Argentina.
-    Atlantis City (2005 f. by Carson City). 3 wins at 3 and 4, $27,794.
--   Ourquickdrawmcgraw (2019 g. by Half Ours). Winner at 3, 2022, $13,150.
-+   Ourquickdrawmcgraw (2019 g. by Half Ours). Winner at 3, placed at 4, 2023, $16,150.
-    Landing Eagle (2013 g. by Sidney's Candy). Placed at 3 and 5, $8,301.
-    Rudesill (2010 g. by Afternoon Deelites). Placed at 3, $3,191.
-    Unnamed (2017 f. by Half Ours). Died 2018.
-    Mysterious Chant (2006 f. by War Chant). Unplaced, $631.
--
--3rd dam
--<strong>SEA REGENT</strong>, by Vice Regent. 3 wins at 2 and 3, $58,697, outstanding Broodmare in Canada (1995),
--      1st Ontario Damsel S.-R, 2nd Ontario Lassie S.-R. Died 2005. Outstanding Broodmare in 1995. Sister
--      to <strong>PLAY THE HORNPIPE</strong> ($180,348, 1st Bold Venture H., etc.). Dam of 14 foals, 12 to race,
--      11 winners--
--   <strong>DESERT WAVES</strong> (1990 g. by Alysheba). 15 wins, 2 to 9, $1,241,295, 1st King Edward Breeders'
--   .  Cup H. <strong>[G2]</strong>, Niagara Breeders' Cup H. <strong>[G3]</strong> twice, Seagram Cup H. [L] (WO,
--   .  $66,180(CAN)), Heresy Breeders' Cup S. [L] (WO, $66,552(CAN)), American Turf S. [L] (CD, $36,628),
--   .  Canadian Maturity S.-R (WO, $70,799(CAN)), 2nd King Edward Breeders' Cup H. <strong>[G3]</strong>,
--   .  Keeneland Breeders' Cup Mile S. <strong>[G3]</strong>, Niagara H. <strong>[G3]</strong>, Connaught Cup S.
--   .  <strong>[G3]</strong>, Forerunner S. <strong>[G3]</strong>, Seagram Cup H. [L] (WO, $22,480(CAN)), Display S. [L]
--   .  (GRD, $13,680(CAN)), 3rd Hong Kong Jockey Club Trophy S. <strong>[G2]</strong>, Niagara H. <strong>[G3]</strong>,
--   .  Seagram Cup H. [L] (WO, $12,210(CAN)), Sky Classic H. [L] (WO, $12,045(CAN)), Toronto Cup H. [L]
--   .  (WO, $6,127(CAN)). Set ncr at Woodbine, 1 mile in 1:33.60 (05/22/95). Set ncr at Woodbine, about 1
--   .  1/4 miles in 2:02.40 (06/24/95).
--   <strong>DUCKPOWER</strong> (1984 g. by Quack). 17 wins, 2 to 8, $447,253, 1st Heresy S. [L] (WO,
--   .  $35,190(CAN)), Marine S. [L] (WO, $33,180(CAN)), Toronto Cup H. [L] (WO, $33,000(CAN)), Col. R. S.
--   .  McLaughlin H. [L] (WO, $32,460(CAN)), 3rd Autumn H. [L] (GRD, $7,762(CAN)), Jockey Club Cup S. [L]
--   .  (WO, $7,610(CAN)), Jockey Club Cup S. [L] (WO, $7,280(CAN)), Fair Play S. [L] (WO, $7,042(CAN)),
--   .  Plate Trial S. [LR] (WO, $9,628(CAN)), 4th Pennsylvania Governor's Cup H. <strong>[G3]</strong>.
--   <strong>WAVE WISE</strong> (1986 g. by Smarten). 10 wins, 2 to 9, $409,019, 1st Cup and Saucer S. [LR] (WO,
--   .  $88,905(CAN)), Maryland Turf S. [LR] (PIM, $60,000), 2nd Robert F. Carey Memorial H. [L] (HAW,
--   .  $28,690), Coronation Futurity [LR] (WO, $44,186(CAN)), 3rd Seagram Cup S. [LR] (WO, $12,463(CAN)).
--   <strong>SPINNAKERS FLYING</strong> (1987 f. by *Grey Dawn II). 7 wins, 2 to 4, $237,019, 1st Wonder Where S.
--   .     [LR] (WO, $69,900(CAN)), Ontario Damsel S. [LR] (WO, $44,843(CAN)). Dam of 7 foals, 7 to race, 5
--   .     winners--
--   .  <strong>FLY SMARTLY</strong> (1998 g. by Smart Strike). 6 wins, 3 to 7, $329,772, 1st Connaught Cup S.
--   .  .  <strong>[G3]</strong> (WO, $104,130(CAN)).
--   .  <strong>SEE THE WIND</strong> (2002 f. by Sky Classic). 3 wins at 3 and 4, $264,848, in Canada, 1st Ernie
--   .  .     Samuel Memorial S.-R (FE, $45,000), 2nd Ontario Damsel S.-R (WO, $33,030), 3rd Breeders' S.-R
--   .  .     (WO, $55,000), Wonder Where S.-R (WO, $27,500), Belle Geste S.-R (WO, $8,250); placed at 3,
--   .  .     $5,460, in N.A./U.S. Sent from United States to Saudi Arabia in 2015. (Total: $229,096).
--   .  .     Producer.
--   .  <strong>Longship</strong> (2000 g. by Smart Strike). 2 wins at 4, $111,338, in N.A./U.S., 3rd Sky Classic
--   .  .  H. <strong>[G2]</strong> (WO, $30,278(CAN)), International Turf Cup S.-R (FE, $10,000(CAN)); placed in 2
--   .  .  starts at 5, $8,485, in Canada. (Total: $118,242).
--   .  With the Wind (1996 f. by A.P. Indy). 3 wins at 3 and 4, $103,540. Producer.
--   .  Symphony of Fire (2001 g. by Sky Classic). Winner at 5 and 6, $50,796, in Canada; placed at 3,
--   .  .  $22,715, in N.A./U.S. (Total: $69,213).
--   .  Sails Unfurled (1994 f. by Capote). Unplaced in 1 start. Dam of 9 foals, 6 to race, 6 winners--
--   .  .  <strong>Swift of Flight</strong> (2000 f. by Sky Classic). Winner at 3 and 4, $133,056, 2nd Natalma S.
--   .  .  .     <strong>[G3]</strong> (WO, $43,840(CAN)). Sent from United States to Japan in 2005. Producer.
--   .  Before the Wind (1993 f. by Relaunch). Unplaced, $4,104. Dam of 10 foals, 8 to race, 6 winners--
--   .  .  Good as Her Word (2001 f. by Alphabet Soup). 3 wins at 3, $92,837, in N.A./U.S.; unplaced,
--   .  .  .     $5,319, in Canada. Sent from United States to Venezuela in 2007. (Total: $97,106). Dam of
--   .  .  .     2 foals, 2 to race, 1 winner--
--   .  .  .  <strong>=Rayo Blanco (VEN)</strong> (2008 f. by Candy Ride (ARG)). Placed at 5 in Venezuela, 3rd Copa
--   .  .  .  .  Jose Luis Fernandez [L], Copa Pensilvania [L].
--   <strong>SEARCH THE SEA</strong> (1992 f. by Seeking the Gold). 5 wins, 2 to 4, $176,635, 1st Ontario Damsel
--   .     S.-R-cre, 6 1/2 furlongs in 1:16.40 (WO, $50,400(CAN)), 2nd Mazarine S. [L] (WO, $21,880(CAN)),
--   .     3rd Natalma S. (WO, $6,099(CAN)), Fort Erie Breeders' Cup S. (FE, $5,489(CAN)). Dam of 10 foals,
--   .     7 to race, 7 winners--
--   .  <strong>ATLANTIC FURY</strong> (1999 f. by Wild Again). 3 wins, 2 to 4, $274,389, 1st Cup and Saucer S.-R
--   .  .     (WO, $150,000(CAN)), 2nd Carotene S.-R (WO, $32,250(CAN)), 3rd Green River S. [L] (KEE,
--   .  .     $11,390). Producer.
--   .  <strong>Terra Nova</strong> (1998 f. by Mt. Livermore). Winner in 2 starts at 2, $59,994, 2nd Shady Well
--   .  .     S.-R (WO, $29,754(CAN)). Died 2004.
--   .  Sea Pebble (2013 f. by Bustin Stones). 4 wins at 3 and 4, $134,750.
--   .  Dragonfish (2008 g. by Arch). 6 wins, 3 to 6, $121,586.
--   .  Mountain Mystery (2002 f. by Mt. Livermore). Winner at 3, $39,148, in Canada; unplaced in 1 start
--   .  .     in N.A./U.S. Sent from United States to Japan in 2006. (Total: $32,275). Producer.
--   .  Moon Over Goshen (2007 g. by Malibu Moon). Winner at 4 and 5, $29,899. Died 2012.
--   .  Pleasure Cruise (2012 f. by Pleasantly Perfect). Winner at 4, $28,850. Producer.
--   .  Endless Sea (2000 f. by Mt. Livermore). Unraced. Dam of 16 foals, 13 to race, 8 winners--
--   .  .  <strong>SILVER OCEAN</strong> (2008 g. by Silver Train). Winner at 2 and 3, 81,517 Euro, in Italy, hwt.
--   .  .  .  at 3 on Italian Free Hand., 7 - 9 1/2 fur. (2011), 1st Premio Pisa [L], Criterium di Pisa
--   .  .  .  [L], 2nd Premio Tullio Righetti [L]; winner at 4, 462,500 Krone, in Norway, 1st Polar Cup
--   .  .  .  <strong>[G3]</strong>, 2nd Polar Cup <strong>[G3]</strong>, Polar Mile Cup [L]; 9 wins, 4 to 8, 2,762,700
--   .  .  .  Krona, in Sweden, 1st Pramms Memorial <strong>[G3]</strong>, Tattersalls Nickes Minneslopning [L],
--   .  .  .  Swedish Open Mile [L], Tattersalls Nickes Minneslopning [L] twice, 2nd IKC Racing Pramms
--   .  .  .  Memorial <strong>[G3]</strong>, Pramms Memorial <strong>[G3]</strong>, Pramms Memorial [L], Tattersalls
--   .  .  .  Nickes Minneslopning [L] twice; placed at 2, 1,530 Pounds, in England; placed in 2 starts at
--   .  .  .  3, 11,000 Euro, in France, 2nd Prix de la Californie [L]; placed in 1 start at 3, 15,500
--   .  .  .  Euro, in Germany, 2nd Bayerische Hausbau-Werte die Bleiben-Rennen-Grosse Europa Meile
--   .  .  .  <strong>[G2]</strong>; placed at 4, 44,069 Dirhams, in United Arab Emirates. Champion miler in
--   .  .  .  Scandinavia (2012), champion miler in Scandinavia (2013). Sent from United States to Ireland
--   .  .  .  in 2009. (Total: $598,236).
--   .  .  <strong>OVER THE OCEAN</strong> (2010 c. by Rockport Harbor). 3 wins at 3 and 4, 407,970 Krone, in
--   .  .  .  Norway, 3rd Norsk Jockeyklubs Sprintlop [L]; 4 wins, 3 to 7, 1,319,590 Krona, in Sweden, 1st
--   .  .  .  Lanwades Stud Jagersro Sprint [L] twice, 2nd Zawawi Cup <strong>[G3]</strong>, Lanwades Stud Jagersro
--   .  .  .  Sprint [L], 3rd Zawawi Cup <strong>[G3]</strong>, Taby Varsprint [L], Zawawi Bro Park Varsprint [L];
--   .  .  .  placed at 6, 80,801 Dirhams, in United Arab Emirates. Sent from United States to Ireland in
--   .  .  .  2011. (Total: $266,190).
--   .  Wanna Be a Baller (2010 c. by El Corredor). Unraced. Died 2012.
--   .  Sea Searcher (2005 f. by Theatrical (IRE)). Unraced. Sent from United States to Ireland in 2006.
--   .  .     Producer.
--   <strong>Dawn At Sea</strong> (1985 g. by *Grey Dawn II). 14 wins, 2 to 9, $362,029, 2nd Canadian Maturity S.
--   .  [LR] (WO, $25,594(CAN)), 3rd Horometer S. [L] (GRD, $6,067(CAN)).
--   <strong>Ocean Secret</strong> (1989 g. by Secretariat). Winner at 4, $44,161, 2nd Cup and Saucer S.-R (WO,
--   .  $26,852(CAN)).
--   <strong>Mystery At Sea</strong> (1999 f. by Capote). Black type-placed winner, see above.
--   Sea Strike (1998 c. by Smart Strike). 6 wins, 2 to 4, $54,329.
--   Tidal Swing (1994 g. by Time for a Change). 2 wins at 3, $27,945.
--   Golden Circe (1995 f. by Strike the Gold). Winner at 3, $18,770.
--   Stowaway Phantom (1983 c. by Fairway Phantom). Placed at 3 and 4, $20,306.
--   Travis Bickle (1997 c. by De Niro). Unraced.
--   Sea Falcon (1993 c. by Alysheba). Unraced.
- RACE RECORD for Bossy Mama: At 2, unraced; at 3, unraced; at 4, 2022, one win, once 2nd; at 5, 2023,
-     unplaced in 1 start; at 3, two wins, once 3rd in 4 starts; . Totals: 3 wins, once 2nd, once 3rd.
-     Earned $72,800
-@@ -163,4 +72,44 @@
- 2021 no report received.
- 2022 no report received.
- 2023 no report received.
-+   <strong>CARMEN'S SENSE</strong> (2017 f. by Street Sense). 2 wins at 2 in Panama, 1st Clasico Benemerito Cuerpo de Bomberos de la Republic [L], 2nd Clasico Ernesto Neco, Ernesto y Joaquin de la Guardia [L]. Sent from United States to Panama in 2018.
-+   Bossy Mama (2018 f. by Street Boss). See above.
-+   Tequila Tigre (2019 f. by Smiling Tiger). Placed at 3, 2022, $25,020.
-+   Cortina d'Ampezzo (2014 f. by More Than Ready). Unraced. Sent from United States to Chile in 2018. Dam of 1 foal, 1 to race, 1 winner--
-+   .  <strong>=CANTO A MARIA (CHI)</strong> (2018 f. by Empire Maker). 3 wins at 3, 30,290,000 Pesos, in Chile, 1st Coronel Santiago Bueras [L], Armada de Chile [L], 2nd Carlos Allende Navarro <strong>[G3]</strong>. (Total: $36,588).
-+   Unnamed (2022 f. by Smiling Tiger).
-+   Perkins (2020 f. by Smiling Tiger). Unraced.
-+   Curlin's Mystery (2015 c. by Curlin). Unraced.
-+2nd dam
-+<strong>Mystery At Sea</strong>, by Capote. Winner at 3, $37,183, 3rd Pepsi Bassinet S. [L] (RD, $10,000).      Half-sister to <strong>DESERT WAVES</strong> ($1,241,295, 1st King Edward Breeders' Cup H. <strong>[G2]</strong>,      etc.), <strong>DUCKPOWER</strong> ($447,253, 1st Heresy S. [L] (WO, $35,190(CAN)), etc.), <strong>WAVE      WISE</strong> ($409,019, 1st Cup and Saucer S. [LR] (WO, $88,905(CAN)), etc.), <strong>SPINNAKERS      FLYING</strong> ($237,019, 1st Wonder Where S. [LR] (WO, $69,900(CAN)), etc.), <strong>SEARCH THE SEA</strong>      ($176,635, 1st Ontario Damsel S.-R (WO, $50,400(CAN)), etc.), <strong>Dawn At Sea</strong> ($362,029, 2nd      Canadian Maturity S. [LR] (WO, $25,594(CAN)), etc.), <strong>Ocean Secret</strong> ($44,161, 2nd Cup and      Saucer S.-R (WO, $26,852(CAN))). Dam of 12 foals, 11 to race, 8 winners--
-+   <strong>COOK SOME RICE</strong> (2012 g. by Half Ours). 3 wins at 2 and 5, $153,815, 1st Louisiana Futurity-R (FG, $53,430), 2nd Louisiana Legacy S.-R (DED, $30,000), 3rd LA Bred Premier Night Prince S.-R (DED, $12,500).
-+   <strong>BATTLE AT SEA</strong> (2015 c. by Into Mischief). 3 wins at 3, $129,806, 1st Crescent City Derby-R (FG, $45,000), A. L. (Red) Erwin S.-R (LAD, $36,000), 3rd Louisiana Champions Day Turf S.-R (FG, $11,000).
-+   <strong>Carmen's Mystery</strong> (2009 f. by War Front). Black type-placed winner, see above.
-+   Collin's Mystery (2011 g. by Northern Afleet). 6 wins, 3 to 6, $92,745.
-+   Strongly So (2007 f. by Strong Hope). Winner at 3 and 4, $63,542. Sent from United States to Dominican Republic in 2016. Dam of 5 foals, 1 to race--
-+   .  =Unnamed (2021 c. by Sea Power).
-+   .  =Unnamed (2020 f. by Sea Power).
-+   .  =Unnamed (2019 f. by Sea Power).
-+   .  =Strongly Mischief (DOM) (2016 f. by Duke of Mischief). Unraced in Dominican Republic. Dam of 2 foals--
-+   .  .  =Unnamed (2021 c. by Boom Stick).
-+   .  .  =Unnamed (2020 c. by Wicked Stride).
-+   .  Make It Right (2015 g. by United States). Unplaced in 1 start, $540, in N.A./U.S.; unplaced in 2 starts, $800, in Canada. (Total: $1,175).
-+   Syracusa (2004 f. by Gulch). Winner at 3, $33,620. Sent from United States to Argentina in 2010. Dam of 8 foals, 6 to race, 3 winners--
-+   .  Livada (2009 f. by El Prado (IRE)). Winner at 3, $31,225, in Canada. (Total: $30,608).
-+   .  =Lady Jayhawk (ARG) (2010 f. by Congaree). 4 wins at 4 and 5, 262,100 Pesos, in Argentina. (Total: $28,169). Dam of 2 foals, 1 to race, 1 winner--
-+   .  .  =Spirit (ARG) (2018 c. by =Southern Cat (CHI)). Winner in 4 starts at 3 and 4, 2022, 836,000 Pesos, in Argentina. (Total: $6,455).
-+   .  .  =Gracea (ARG) (2020 f. by =Southern Cat (CHI)). Unraced in Argentina.
-+   .  =Mandate (ARG) (2018 f. by Master of Hounds). Winner at 2, 522,500 Pesos, in Argentina. (Total: $5,515).
-+   .  =Better Bet (ARG) (2015 f. by Incurable Optimist). Placed at 4 and 5, 68,100 Pesos, in Argentina. (Total: $1,057).
-+   .  =Brackla (ARG) (2014 f. by Incurable Optimist). Unraced in Argentina.
-+   .  =Les Petit Monts (ARG) (2011 f. by Incurable Optimist). Unraced in Argentina.
-+   .  =Bodacious (ARG) (2013 f. by Incurable Optimist). Unplaced in 2 starts, 18,550 Pesos, in Argentina. (Total: $1,074). Dam of 1 foal--
-+   .  .  =Flor de Key (ARG) (2019 f. by =Emocion Key (ARG)). Unraced in Argentina.
-+   .  =Ski Mask (ARG) (2012 c. by Incurable Optimist). Unplaced in 1 start in Argentina.
-+   Atlantis City (2005 f. by Carson City). 3 wins at 3 and 4, $27,794.
-+   Ourquickdrawmcgraw (2019 g. by Half Ours). Winner at 3, placed at 4, 2023, $16,150.
-+   Landing Eagle (2013 g. by Sidney's Candy). Placed at 3 and 5, $8,301.
-+   Rudesill (2010 g. by Afternoon Deelites). Placed at 3, $3,191.
-+   Unnamed (2017 f. by Half Ours). Died 2018.
-+   Unnamed (2017 f. by Half Ours). Died 2018.
- 
+- Jan  9 2023  4:41PM          PH23 CONSIGNOR: 1 HORSE: 528 GROUP: 1 HIP NUMBER:                Page 1
+?     ^       ^^ ^^                                                              ^^^^^
++ Jan 29 2023 10:03PM          PH23 CONSIGNOR: 1 HORSE: 528 GROUP: 1 HIP NUMBER: 00497          Page 1
+?     ^       ^^ ^^                                                              ^^^^^
+  
+  
+  ******************************************************************************************
+  528  Bossy Mama  Bay  Mare (02/19/18)
+  By Street Boss (04)  --  Carmen's Mystery (09)  By War Front (02)  --  Mystery At Sea (99)
+  California     Five-year-old     None
+  Breeders' Cup nominated
+  ******************************************************************************************
+  
+                                                    Machiavellian
+  
+                                Street Cry (IRE)
+                                                    Helen Street (GB)
+  
+             Street Boss 04
+                                                    Ogygian
+  
+                                Blushing Ogygian
+                                                    Fruhlingshochzeit
+  
+  BOSSY MAMA
+    Bay Mare                                        Danzig
+    Foaled February 19, 2018
+    in California               War Front
+                                                    Starry Dreamer
+  
+             Carmen's Mystery 09
+                                                    Capote
+  
+                                Mystery At Sea
+                                                    Sea Regent
+  1st dam
+  [1mCarmen's Mystery[22m, by War Front. Winner at 2 and 3, $109,087, 2nd Louisiana Champions Day Lassie S.-R (FG, $20,000). Half-sister to [1mCOOK SOME RICE[22m ($153,815, 1st Louisiana Futurity-R (FG, $53,430), etc.), [1mBATTLE AT SEA[22m ($129,806, 1st Crescent City Derby-R (FG, $45,000), etc.). Dam of 7 foals, 3 to race, 2 winners--
+     [1mCARMEN'S SENSE[22m (2017 f. by Street Sense). 2 wins at 2 in Panama, 1st Clasico Benemerito Cuerpo de Bomberos de la Republic [L], 2nd Clasico Ernesto Neco, Ernesto y Joaquin de la Guardia [L]. Sent from United States to Panama in 2018.
+     Bossy Mama (2018 f. by Street Boss). See above.
+     Tequila Tigre (2019 f. by Smiling Tiger). Placed at 3, 2022, $25,020.
+     Cortina d'Ampezzo (2014 f. by More Than Ready). Unraced. Sent from United States to Chile in 2018. Dam of 1 foal, 1 to race, 1 winner--
+     .  [1m=CANTO A MARIA (CHI)[22m (2018 f. by Empire Maker). 3 wins at 3, 30,290,000 Pesos, in Chile, 1st Coronel Santiago Bueras [L], Armada de Chile [L], 2nd Carlos Allende Navarro [1m[G3][22m. (Total: $36,588).
+     Unnamed (2022 f. by Smiling Tiger).
+     Perkins (2020 f. by Smiling Tiger). Unraced.
+     Curlin's Mystery (2015 c. by Curlin). Unraced.
+  2nd dam
+  [1mMystery At Sea[22m, by Capote. Winner at 3, $37,183, 3rd Pepsi Bassinet S. [L] (RD, $10,000). Half-sister to [1mDESERT WAVES[22m ($1,241,295, 1st King Edward Breeders' Cup H. [1m[G2][22m, etc.), [1mDUCKPOWER[22m ($447,253, 1st Heresy S. [L] (WO, $35,190(CAN)), etc.), [1mWAVE WISE[22m ($409,019, 1st Cup and Saucer S. [LR] (WO, $88,905(CAN)), etc.), [1mSPINNAKERS FLYING[22m ($237,019, 1st Wonder Where S. [LR] (WO, $69,900(CAN)), etc.), [1mSEARCH THE SEA[22m ($176,635, 1st Ontario Damsel S.-R (WO, $50,400(CAN)), etc.), [1mDawn At Sea[22m ($362,029, 2nd Canadian Maturity S. [LR] (WO, $25,594(CAN)), etc.), [1mOcean Secret[22m ($44,161, 2nd Cup and Saucer S.-R (WO, $26,852(CAN))). Dam of 12 foals, 11 to race, 8 winners--
+     [1mCOOK SOME RICE[22m (2012 g. by Half Ours). 3 wins at 2 and 5, $153,815, 1st Louisiana Futurity-R (FG, $53,430), 2nd Louisiana Legacy S.-R (DED, $30,000), 3rd LA Bred Premier Night Prince S.-R (DED, $12,500).
+     [1mBATTLE AT SEA[22m (2015 c. by Into Mischief). 3 wins at 3, $129,806, 1st Crescent City Derby-R (FG, $45,000), A. L. (Red) Erwin S.-R (LAD, $36,000), 3rd Louisiana Champions Day Turf S.-R (FG, $11,000).
+     [1mCarmen's Mystery[22m (2009 f. by War Front). Black type-placed winner, see above.
+     Collin's Mystery (2011 g. by Northern Afleet). 6 wins, 3 to 6, $92,745.
+     Strongly So (2007 f. by Strong Hope). Winner at 3 and 4, $63,542. Sent from United States to Dominican Republic in 2016. Dam of 5 foals, 1 to race--
+     .  =Unnamed (2021 c. by Sea Power).
+     .  =Unnamed (2020 f. by Sea Power).
+     .  =Unnamed (2019 f. by Sea Power).
+-    .  =Strongly Mischief (DOM) (2016 f. by Duke of Mischief). Unraced in Dominican Republic.
++    .  =Strongly Mischief (DOM) (2016 f. by Duke of Mischief). Unraced in Dominican Republic. Dam of 2 foals--
+?                                                                                             +++++++++++++++++
++    .  .  =Unnamed (2021 c. by Boom Stick).
++    .  .  =Unnamed (2020 c. by Wicked Stride).
+     .  Make It Right (2015 g. by United States). Unplaced in 1 start, $540, in N.A./U.S.; unplaced in 2 starts, $800, in Canada. (Total: $1,175).
+     Syracusa (2004 f. by Gulch). Winner at 3, $33,620. Sent from United States to Argentina in 2010. Dam of 8 foals, 6 to race, 3 winners--
+     .  Livada (2009 f. by El Prado (IRE)). Winner at 3, $31,225, in Canada. (Total: $30,608).
+-    .  =Lady Jayhawk (ARG) (2010 f. by Congaree). 4 wins at 4 and 5, 262,100 Pesos, in Argentina. (Total: $28,169). Producer.
+?                                                                                                                    ^ ^^^   ^
++    .  =Lady Jayhawk (ARG) (2010 f. by Congaree). 4 wins at 4 and 5, 262,100 Pesos, in Argentina. (Total: $28,169). Dam of 2 foals, 1 to race, 1 winner--
+?                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^ ^  +++++++++ ^^
++    .  .  =Spirit (ARG) (2018 c. by =Southern Cat (CHI)). Winner in 4 starts at 3 and 4, 2022, 836,000 Pesos, in Argentina. (Total: $6,455).
++    .  .  =Gracea (ARG) (2020 f. by =Southern Cat (CHI)). Unraced in Argentina.
+     .  =Mandate (ARG) (2018 f. by Master of Hounds). Winner at 2, 522,500 Pesos, in Argentina. (Total: $5,515).
+     .  =Better Bet (ARG) (2015 f. by Incurable Optimist). Placed at 4 and 5, 68,100 Pesos, in Argentina. (Total: $1,057).
+     .  =Brackla (ARG) (2014 f. by Incurable Optimist). Unraced in Argentina.
+     .  =Les Petit Monts (ARG) (2011 f. by Incurable Optimist). Unraced in Argentina.
+-    .  =Bodacious (ARG) (2013 f. by Incurable Optimist). Unplaced in 2 starts, 18,550 Pesos, in Argentina. (Total: $1,074).
++    .  =Bodacious (ARG) (2013 f. by Incurable Optimist). Unplaced in 2 starts, 18,550 Pesos, in Argentina. (Total: $1,074). Dam of 1 foal--
+?                                                                                                                           ++++++++++++++++
++    .  .  =Flor de Key (ARG) (2019 f. by =Emocion Key (ARG)). Unraced in Argentina.
+     .  =Ski Mask (ARG) (2012 c. by Incurable Optimist). Unplaced in 1 start in Argentina.
+     Atlantis City (2005 f. by Carson City). 3 wins at 3 and 4, $27,794.
+-    Ourquickdrawmcgraw (2019 g. by Half Ours). Winner at 3, 2022, $13,150.
+?                                                               ^    ^
++    Ourquickdrawmcgraw (2019 g. by Half Ours). Winner at 3, placed at 4, 2023, $16,150.
+?                                                           +++++++++++++    ^    ^
+     Landing Eagle (2013 g. by Sidney's Candy). Placed at 3 and 5, $8,301.
+     Rudesill (2010 g. by Afternoon Deelites). Placed at 3, $3,191.
+     Unnamed (2017 f. by Half Ours). Died 2018.
+-    Mysterious Chant (2006 f. by War Chant). Unplaced, $631.
++    Mysterious Chant (2006 f. by War Chant). Unplaced, $631.RACE RECORD for Bossy Mama: At 2, unraced; at 3, unraced; at 4, 2022, one win, once 2nd; at 5, 2023, unplaced in 1 start; at 3, two wins, once 3rd in 4 starts; . Totals: 3 wins, once 2nd, once 3rd. Earned $72,8002019 no report received.2020 no report received.2021 no report received.2022 no report received.2023 no report received.
+  RACE RECORD for Bossy Mama: At 2, unraced; at 3, unraced; at 4, 2022, one win, once 2nd; at 5, 2023,
+      unplaced in 1 start; at 3, two wins, once 3rd in 4 starts; . Totals: 3 wins, once 2nd, once 3rd.
+      Earned $72,800
+  2019 no report received.
+  2020 no report received.
+  2021 no report received.
+  2022 no report received.
+  2023 no report received.

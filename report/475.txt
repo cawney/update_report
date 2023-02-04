@@ -1,1025 +1,487 @@
---- PH001535_alt.txt
-+++ PH000475_alt.txt
-@@ -13,12 +13,20 @@
-    .  =Jem Feather (JPN) (2018 f. by =Deep Impact (JPN)). Winner at 3 and 4, 2022, 19,870,000 Yen, in
-    .  .  Japan. (Total: $168,499).
-    .  =Awesome Wind (JPN) (2016 f. by =Deep Impact (JPN)). Winner at 3, 388,000 Yen, in Japan. (Total:
--   .  .     $3,583).
-+   .  .     $3,583). Dam of 2 foals--
-+   .  .  =Unnamed (2022 c. by =Saturnalia (JPN)).
-+   .  .  =Unnamed (2021 c. by =Leontes (JPN)).
-    .  =Feather Motif (JPN) (2020 c. by =Heart's Cry (JPN)). Placed in 2 starts at 2, 2022, 2,100,000 Yen,
-    .  .  in Japan. (Total: $15,816).
-    .  =Unnamed (2022 f. by =Maurice (JPN)).
-    .  =Unnamed (2021 c. by =Satono Diamond (JPN)).
--   .  =Guillem (JPN) (2014 f. by Medaglia d'Oro). Unraced in Japan. Producer.
-+   .  =Guillem (JPN) (2014 f. by Medaglia d'Oro). Unraced in Japan. Dam of 3 foals, 2 to race, 2
-+   .  .     winners--
-+   .  .  =Shonan Bashitto (JPN) (2020 c. by =Silver State (JPN)). Winner in 3 starts at 2 and 3, 2023,
-+   .  .  .  14,800,000 Yen, in Japan. (Total: $111,859).
-+   .  .  =Evidentia (JPN) (2019 c. by =Duramente (JPN)). Winner at 3, 2022, 5,200,000 Yen, in Japan.
-+   .  .  .  (Total: $44,969).
-+   .  .  =Unnamed (2021 f. by =Al Ain (JPN)).
-    .  =Hawaiian Feather (JPN) (2019 f. by =King Kamehameha (JPN)). Unplaced in 1 start in Japan.
-    <strong>Brooks 'n Down</strong> (2005 c. by Montbrook). Winner at 2 and 3, $87,097, 3rd Oak Hall S. (EVD,
-    .  $5,000). Sire.
-@@ -29,14 +37,16 @@
-    .  Private Journal (2012 g. by Awesome of Course). Winner at 3 and 4, $20,340.
-    .  Right to Privacy (2013 f. by Awesome of Course). Unraced.
-    .  Daily Log (2014 f. by Awesome of Course). Unplaced in 1 start, $400. Sent from United States to
--   .  .     Dominican Republic in 2017.
--   First Navy Admiral (2018 c. by Fort Loudon). 4 wins at 3 and 4, 2022, $94,865.
-+   .  .     Dominican Republic in 2017. Dam of 1 foal--
-+   .  .  =Unnamed (2021 c. by Don Sebas).
-+   First Navy Admiral (2018 c. by Fort Loudon). 4 wins at 3 and 4, 2022, $95,115.
-    Tar and Feather (2012 f. by Awesome of Course). 2 wins at 3, $78,420. Dam of 4 foals, 2 to race, 1
-    .     winner--
-    .  Wicca Wisdom (2019 f. by Jess's Dream). Winner at 3, 2022, $23,560.
-    .  Adios Pluma (2021 c. by Adios Charlie). Unraced.
-    .  Trialsntribulation (2018 f. by Hear No Evil). Unraced.
--   .  Feather's Secret (2017 f. by Hear No Evil). Unplaced, $590.
-+   .  Feather's Secret (2017 f. by Hear No Evil). Unplaced, $590. Dam of 1 foal--
-+   .  .  Unnamed (2022 f. by Tunwoo). (application pending)
-    Good Genes (2013 g. by Awesome of Course). 5 wins, 3 to 7, $76,883.
-    Quill Out (2003 g. by Outflanker). 3 wins at 4 and 6, $61,160.
-    Precious Beans (2006 g. by Medaglia d'Oro). 2 wins at 4, $52,968.
-@@ -65,12 +75,34 @@
-    .  .  (Total: $15,083).
-    .  What's Up Brother (2004 c. by Swain (IRE)). (application cancelled)
-    .  Ejaabi (2002 c. by Aljabr). Unraced. Sent from United States to United Arab Emirates in 2003.
--   .  Citron Moon (2001 f. by Danzig). Unraced. Producer.
-+   .  Citron Moon (2001 f. by Danzig). Unraced. Dam of 7 foals, 3 to race, 3 winners--
-+   .  .  Been There Buddy (2008 g. by More Than Ready). 3 wins at 3 and 4, $13,072, in Canada. (Total:
-+   .  .  .  $13,376).
-+   .  .  Jack's Grace (2005 f. by Deputy Commander). Winner at 3, $10,908. Dam of 1 foal, 1 to race--
-+   .  .  .  Tauzin My Man (2011 g. by Afternoon Deelites). Placed at 4, $1,745.
-+   .  .  The Ssen Champ (2012 c. by Hold Me Back). 2 wins at 4 in Republic of Korea. Sent from United
-+   .  .  .  States to Republic of Korea in 2014.
-+   .  .  Unnamed (2015 c. by Midshipman).
-+   .  .  Gold Saver (2014 c. by Daaher). Unraced.
-+   .  .  Nile Crossing (2013 f. by Pioneerof the Nile). Unraced.
-+   .  .  Unnamed (2010 c. by Purim).
-    .  Taghlub (1999 c. by Dixieland Band). Unraced. Sent from United States to United Arab Emirates in
-    .  .  2000.
-    .  Raasekh (2003 g. by Aljabr). Unplaced, $1,030.
-    .  Elnayrah (2000 f. by Danzig). Unplaced in 1 start, 355 Pounds, in England. Sent from United States
--   .  .     to United Arab Emirates in 2001. (Total: $540). Producer.
-+   .  .     to United Arab Emirates in 2001. (Total: $540). Dam of 5 foals, 2 to race, 2 winners--
-+   .  .  =Worood (AUS) (2007 f. by Elusive Quality). 4 wins, 2 to 4, 354,455 Rands, in South Africa.
-+   .  .  .     (Total: $49,623). Dam of 4 foals, 1 to race--
-+   .  .  .  =Wazeer (SAF) (2013 f. by Silvano (GER)). Placed at 3, 20,325 Rands, in South Africa. (Total:
-+   .  .  .  .  $1,518).
-+   .  .  .  =Unchained (SAF) (2017 f. by =Vercingetorix (SAF)). Unraced in South Africa.
-+   .  .  .  =Vedaad (SAF) (2016 f. by =Vercingetorix (SAF)). Unraced in South Africa.
-+   .  .  .  =Waajid (SAF) (2015 c. by Silvano (GER)). Unraced in South Africa.
-+   .  .  =Double Digger (AUS) (2008 g. by Johannesburg). Winner at 3, $4,750(AUS), in Australia. (Total:
-+   .  .  .  $4,955).
-+   .  .  =Sweet Jarvinia (PHI) (2012 f. by Keep Laughing). Unraced in Philippines.
-+   .  .  =Amazing Lebren (PHI) (2010 f. by =Domesday (AUS)). Unraced in Philippines.
-+   .  .  =Gibraltarui Byeol (AUS) (2006 c. by Rock of Gibraltar (IRE)). Unraced in Australia.
-    <strong>Phar Feather</strong> (1985 c. by Lyphard). Winner at 2, 29,117 Euro, in France, 2nd Prix de Conde
-    .  <strong>[G3]</strong>, 3rd Prix Matchem [L]; unplaced in 1 start, $2,475, in N.A./U.S. Sent from United
-    .  States to France in 1986. Returned to United States from France in 1988. Sent from United States to
-@@ -85,24 +117,163 @@
-    .     race--
-    .  =Let You Shiver (JPN) (1994 g. by =Ancestry (JPN)). Placed at 3, 3,050,000 Yen, in Japan. (Total:
-    .  .  $25,338).
--   .  =Contessa Queen (JPN) (1999 f. by Carnegie (IRE)). Unraced in Japan. Producer.
--   .  =Romance Freesia (JPN) (1998 f. by Brian's Time). Unraced in Japan. Producer.
--   .  =Sunny Style (JPN) (1995 f. by =Commander in Chief (GB)). Unraced in Japan. Producer.
--   .  =Maternal Love (JPN) (1993 f. by =Thatching (IRE)). Unraced in Japan. Producer.
-+   .  =Contessa Queen (JPN) (1999 f. by Carnegie (IRE)). Unraced in Japan. Dam of 7 foals, 6 to race, 5
-+   .  .     winners--
-+   .  .  =Musashibo (JPN) (2003 c. by =Black Tuxedo (JPN)). 15 wins, 2 to 11, 16,368,000 Yen, in Japan.
-+   .  .  .  (Total: $159,325).
-+   .  .  =D's Sweep (JPN) (2008 f. by Precise End). 2 wins at 3, 6,620,000 Yen, in Japan. (Total:
-+   .  .  .  $83,615).
-+   .  .  =M Y Spinal (JPN) (2005 c. by =Marvelous Sunday (JPN)). Winner in 4 starts at 3 and 4, 2,120,000
-+   .  .  .  Yen, in Japan. (Total: $21,574).
-+   .  .  =Eifer Idol (JPN) (2015 f. by =Gold Halo (JPN)). Winner at 3, 1,015,000 Yen, in Japan. (Total:
-+   .  .  .  $9,325).
-+   .  .  =Hanadokei (JPN) (2010 f. by =Admire Max (JPN)). Winner at 2, 385,000 Yen, in Japan. (Total:
-+   .  .  .  $4,867).
-+   .  .  =Vital Queen (JPN) (2007 f. by Precise End). Unraced in Japan. Dam of 8 foals, 8 to race, 7
-+   .  .  .     winners--
-+   .  .  .  =Kokoroiki (JPN) (2018 c. by =Furioso (JPN)). 5 wins at 3 and 4, 2022, 15,010,000 Yen, in
-+   .  .  .  .  Japan. (Total: $130,541).
-+   .  .  .  =Fiery Shinzo (JPN) (2012 g. by =On Fire (JPN)). Winner at 2, 10,550,000 Yen, in Japan;
-+   .  .  .  .  winner at 6, 36,415 Ringgits, in Malaysia; placed at 4, 6,345 SIN$, in Singapore. (Total:
-+   .  .  .  .  $101,385).
-+   .  .  .  =Shigeru Muroaji (JPN) (2013 c. by =Gold Halo (JPN)). Winner at 3, 8,350,000 Yen, in Japan.
-+   .  .  .  .  (Total: $70,633).
-+   .  .  .  =Vital Area (JPN) (2019 c. by =Furioso (JPN)). Winner at 3, 2022, 7,300,000 Yen, in Japan.
-+   .  .  .  .  (Total: $55,210).
-+   .  .  .  =Amant (JPN) (2014 f. by =Gold Halo (JPN)). Winner at 3, 3,927,500 Yen, in Japan. (Total:
-+   .  .  .  .  $34,754).
-+   .  .  .  =Enry Gloria (JPN) (2017 f. by =To the Glory (JPN)). 3 wins at 3 and 4, placed at 5, 2022,
-+   .  .  .  .  3,656,000 Yen, in Japan. Racing in Japan as En Ri Gloria. (Total: $32,692).
-+   .  .  .  =Fujino Dia (JPN) (2011 f. by =Marvelous Sunday (JPN)). 3 wins at 2 and 3, 1,975,000 Yen, in
-+   .  .  .  .  Japan. (Total: $19,736).
-+   .  .  .  =LeBron (JPN) (2020 c. by =Danon Ballade (JPN)). Unplaced in 1 start in Japan.
-+   .  .  =Owara Dancer (JPN) (2004 f. by =Marvelous Sunday (JPN)). Unplaced in 2 starts in Japan.
-+   .  =Romance Freesia (JPN) (1998 f. by Brian's Time). Unraced in Japan. Dam of 7 foals, 7 to race, 5
-+   .  .     winners--
-+   .  .  =Space Flight (JPN) (2004 c. by Tabasco Cat). 5 wins, 2 to 7, 67,809,000 Yen, in Japan. (Total:
-+   .  .  .  $700,006).
-+   .  .  =Success Story (JPN) (2012 c. by =Moere Plutus (JPN)). 15 wins, 2 to 9, 14,189,000 Yen, in
-+   .  .  .  Japan. (Total: $131,352).
-+   .  .  =Super Boy (JPN) (2008 c. by =Yuki Sunday (JPN)). 5 wins, 2 to 6, 9,887,000 Yen, in Japan.
-+   .  .  .  (Total: $112,236).
-+   .  .  =Blockbuster (JPN) (2005 g. by =Regular Member (JPN)). 5 wins at 3 and 4, 8,302,000 Yen, in
-+   .  .  .  Japan. (Total: $88,945).
-+   .  .  =Rock Parade (JPN) (2006 c. by Moon Ballad (IRE)). 3 wins at 4 and 5, 1,950,000 Yen, in Japan.
-+   .  .  .  (Total: $23,111).
-+   .  .  =Reine de Sara (JPN) (2014 f. by =Kitasan Kamuiden (JPN)). Unplaced in 2 starts in Japan.
-+   .  .  =Musique Serielle (JPN) (2003 f. by =Fusaichi Concorde (JPN)). Unplaced in 2 starts in Japan.
-+   .  =Sunny Style (JPN) (1995 f. by =Commander in Chief (GB)). Unraced in Japan. Dam of 8 foals, 8 to
-+   .  .     race, 5 winners--
-+   .  .  =Road Success (JPN) (2005 f. by Meiner Love). 6 wins, 3 to 8, 12,390,000 Yen, in Japan. (Total:
-+   .  .  .  $133,864).
-+   .  .  =Intrigant (JPN) (2002 c. by Black Tie Affair (IRE)). 8 wins at 3 and 5, 3,372,000 Yen, in
-+   .  .  .  Japan. (Total: $30,295).
-+   .  .  =Sakura Salai (JPN) (2006 f. by =Sakura President (JPN)). 10 wins, 3 to 8, 2,455,000 Yen, in
-+   .  .  .  Japan. (Total: $28,571).
-+   .  .  =Ogygian Ryoko (JPN) (2001 f. by Ogygian). 4 wins, 3 to 5, 2,607,000 Yen, in Japan. (Total:
-+   .  .  .  $23,245).
-+   .  .  =The Odo (JPN) (2009 c. by =Tayasu Tsuyoshi (JPN)). 7 wins, 3 to 5, 1,401,000 Yen, in Japan.
-+   .  .  .  (Total: $15,940).
-+   .  .  =Carnegie Style (JPN) (2000 f. by Carnegie (IRE)). Placed at 4, 150,000 Yen, in Japan. (Total:
-+   .  .  .  $1,391).
-+   .  .  =Meisun Success (JPN) (2008 c. by =Sakura President (JPN)). Unplaced, 1,500,000 Yen, in Japan.
-+   .  .  .  (Total: $18,058).
-+   .  .  =Shine While (JPN) (2010 f. by =Sakura President (JPN)). Unplaced in 1 start in Japan.
-+   .  =Maternal Love (JPN) (1993 f. by =Thatching (IRE)). Unraced in Japan. Dam of 7 foals, 6 to race, 5
-+   .  .     winners--
-+   .  .  =Rise Rise Rise (JPN) (1997 f. by Royal Academy). Winner at 2, 11,068,000 Yen, in Japan. (Total:
-+   .  .  .     $102,014). Dam of 3 foals, 3 to race, 3 winners--
-+   .  .  .  =Jatuh Cinta (JPN) (2007 f. by =Commander in Chief (GB)). 9 wins, 3 to 5, 3,702,000 Yen, in
-+   .  .  .  .  Japan. (Total: $45,595).
-+   .  .  .  =Shine a Road (JPN) (2005 f. by =Mayano Top Gun (JPN)). 9 wins, 3 to 5, 2,488,000 Yen, in
-+   .  .  .  .  Japan. (Total: $25,958).
-+   .  .  .  =Rise Destiny (JPN) (2004 f. by =Mayano Top Gun (JPN)). Winner at 2, 722,000 Yen, in Japan.
-+   .  .  .  .  (Total: $6,162).
-+   .  .  =Yumegokochi (JPN) (2006 f. by =Tayasu Tsuyoshi (JPN)). 2 wins at 3, 3,990,000 Yen, in Japan.
-+   .  .  .  (Total: $41,883).
-+   .  .  =Eiyu Star Man (JPN) (1999 c. by Fraise). 5 wins at 3 and 4, 4,289,000 Yen, in Japan. (Total:
-+   .  .  .  $36,083).
-+   .  .  =Almond Glance (JPN) (2004 f. by =Stay Gold (JPN)). 6 wins, 4 to 6, 2,879,000 Yen, in Japan.
-+   .  .  .     (Total: $29,592). Dam of 2 foals, 2 to race, 2 winners--
-+   .  .  .  =Pod Rising (JPN) (2012 c. by =Vermilion (JPN)). Winner at 2, 5,772,000 Yen, in Japan.
-+   .  .  .  .  (Total: $52,953).
-+   .  .  .  =Neo Angel (JPN) (2016 f. by =Furioso (JPN)). Winner at 2, placed at 6, 2022, 4,606,000 Yen,
-+   .  .  .  .  in Japan. (Total: $40,371).
-+   .  .  =Preteur (JPN) (2002 g. by =King Halo (JPN)). 5 wins at 3 and 4, 2,201,000 Yen, in Japan.
-+   .  .  .  (Total: $18,978).
-+   .  .  =Ban Patent (JPN) (2003 c. by Ciro). Placed at 4, 113,000 Yen, in Japan. (Total: $964).
-+   .  .  =Arkadia (JPN) (1998 f. by =Maruzensky (JPN)). Unraced in Japan. Dam of 7 foals, 7 to race, 5
-+   .  .  .     winners--
-+   .  .  .  =Blue Cardinal (JPN) (2004 c. by =King Halo (JPN)). 3 wins at 3 and 4, 46,294,000 Yen, in
-+   .  .  .  .  Japan. (Total: $434,453).
-+   .  .  .  =Ken Bridge Caesar (JPN) (2007 c. by =Grandera (IRE)). 4 wins, 3 to 8, 15,244,000 Yen, in
-+   .  .  .  .  Japan. (Total: $167,472).
-+   .  .  .  =Mademoiselle Kiss (JPN) (2005 f. by =Tayasu Tsuyoshi (JPN)). 3 wins at 4 and 5, 8,272,000
-+   .  .  .  .  Yen, in Japan. (Total: $86,301).
-+   .  .  .  =World Lady (JPN) (2006 f. by =Tayasu Tsuyoshi (JPN)). 12 wins, 3 to 5, 4,584,000 Yen, in
-+   .  .  .  .  Japan. (Total: $49,362).
-+   .  .  .  =Grand Cuvee (JPN) (2009 f. by =Mayano Top Gun (JPN)). Winner at 3, 430,000 Yen, in Japan.
-+   .  .  .  .  (Total: $5,314).
-+   .  .  .  =Kanemasa Song (JPN) (2011 c. by =Song of Wind (JPN)). Placed at 2, 420,000 Yen, in Japan.
-+   .  .  .  .  (Total: $4,237).
-+   .  .  .  =Touch Your Heart (JPN) (2002 f. by White Muzzle (GB)). Unplaced, 750,000 Yen, in Japan.
-+   .  .  .  .  (Total: $7,163).
-    .  =Seiun Akaboshi (JPN) (2000 c. by Carnegie (IRE)). Unplaced in Japan.
--   .  =Last Princess (JPN) (1996 f. by Last Tycoon (IRE)). Unplaced in Japan. Producer.
-+   .  =Last Princess (JPN) (1996 f. by Last Tycoon (IRE)). Unplaced in Japan. Dam of 5 foals, 5 to race,
-+   .  .     2 winners--
-+   .  .  =Blast Talisman (JPN) (2006 c. by =Sakura President (JPN)). Winner at 3 and 4, 2,614,000 Yen, in
-+   .  .  .  Japan. (Total: $27,768).
-+   .  .  =Eifer Nighter (JPN) (2002 c. by Wallenda). 5 wins, 3 to 5, 1,502,500 Yen, in Japan. (Total:
-+   .  .  .  $13,019).
-+   .  .  =Loverly Weed (JPN) (2007 f. by =Sakura President (JPN)). Placed at 3, 180,000 Yen, in Japan.
-+   .  .  .  (Total: $2,121).
-+   .  .  =Eifer Diosa (JPN) (2009 f. by =Sakura President (JPN)). Placed at 3, 13,000 Yen, in Japan.
-+   .  .  .  (Total: $151).
-+   .  .  =Kunisaki Masao (JPN) (2005 c. by =Entrepreneur (GB)). Unplaced, 1,750,000 Yen, in Japan.
-+   .  .  .  (Total: $16,406).
-    Bawaeth (1990 f. by Blushing Groom (FR)). Placed at 2 and 3, 2,984 Pounds, in England. Sent from
-    .     United States to England in 1991. (Total: $4,857). Dam of 3 foals, 3 to race, 2 winners--
-    .  <strong>=ELMUTABAKI (GB)</strong> (1996 g. by Unfuwain). 2 wins at 3, 54,820 Pounds, in England, 1st Leiths
-    .  .  July Trophy S. [L]. (Total: $87,231).
-    .  =Bawsian (GB) (1995 g. by =Persian Bold (IRE)). 8 wins, 2 to 6, 80,066 Pounds, in England; 6 wins,
-    .  .  8 to 11 in Spain. (Total: $124,515).
--   .  =Mutasader (IRE) (1997 f. by Unfuwain). Unplaced in England.
-+   .  =Mutasader (IRE) (1997 f. by Unfuwain). Unplaced in England. Dam of 7 foals, 2 to race--
-+   .  .  =Frontissima (SAF) (2010 c. by =Stagelight (IRE)). Unraced in South Africa.
-+   .  .  =Nimrod (SAF) (2008 c. by =Eyeofthetiger (BRZ)). Unraced in South Africa.
-+   .  .  =Kahina (SAF) (2007 f. by Albarahin). Unraced in South Africa.
-+   .  .  =Detzky's Diva (SAF) (2006 f. by Muhtafal). Unraced in South Africa.
-+   .  .  =Mulfit (SAF) (2005 f. by Malhub). Unraced in South Africa.
-+   .  .  =Inami (SAF) (2004 f. by Kahal (GB)). Unplaced in South Africa.
-+   .  .  =Wilaya (SAF) (2003 f. by Albarahin). Unplaced in South Africa.
-    Marabou (1989 f. by Roberto). Placed in 2 starts at 3, 297 Pounds, in England. Sent from United States
-    .     to England in 1989. Sent from England to Japan in 1994. (Total: $566). Dam of 12 foals, 12 to
-    .     race, 6 winners--
-    .  <strong>=Biwa Good Luck (JPN)</strong> (1995 f. by Adjudicating). 3 wins at 3, 50,038,000 Yen, in Japan,
--   .  .     2nd Kansai Telecasting Corporation Sho Rose S. [LR]. (Total: $375,321). Producer.
-+   .  .     2nd Kansai Telecasting Corporation Sho Rose S. [LR]. (Total: $375,321). Dam of 7 foals, 7 to
-+   .  .     race, 3 winners--
-+   .  .  =No Make (JPN) (2003 f. by =Agnes Tachyon (JPN)). 6 wins, 3 to 5, 8,829,000 Yen, in Japan.
-+   .  .  .     (Total: $77,608). Dam of 1 foal, 1 to race, 1 winner--
-+   .  .  .  =Sultan Corona (JPN) (2010 c. by Alkaased). Winner at 3, 532,000 Yen, in Japan. (Total:
-+   .  .  .  .  $5,689).
-+   .  .  =Gains Girl (JPN) (2007 f. by White Muzzle (GB)). Winner at 3 and 4, 2,804,000 Yen, in Japan.
-+   .  .  .  (Total: $33,200).
-+   .  .  =Inase (JPN) (2005 c. by =Sakura Bakushin O (JPN)). Winner at 3, 2,154,000 Yen, in Japan.
-+   .  .  .  (Total: $20,714).
-+   .  .  =Basara King (JPN) (2006 c. by Grass Wonder). Unplaced in Japan.
-+   .  .  =Lucky Mermaid (JPN) (2002 f. by =Fuji Kiseki (JPN)). Unplaced in Japan. Dam of 6 foals, 6 to
-+   .  .  .     race, 3 winners--
-+   .  .  .  =Shonan Aristo (JPN) (2014 c. by King's Best). Winner at 3, 32,780,000 Yen, in Japan. (Total:
-+   .  .  .  .  $294,768).
-+   .  .  .  =Meine Lorelei (JPN) (2008 f. by Roses in May). Winner at 3 and 4, 8,854,500 Yen, in Japan.
-+   .  .  .  .  (Total: $109,157).
-+   .  .  .  =Love Me Ago (JPN) (2009 f. by Roses in May). 3 wins at 2 and 3, 5,164,000 Yen, in Japan.
-+   .  .  .  .  (Total: $64,209).
-+   .  .  .  =Friend Jewelry (JPN) (2011 f. by Conduit (IRE)). Placed at 3, 116,000 Yen, in Japan. (Total:
-+   .  .  .  .  $1,064).
-+   .  .  .  =T M Sensha (JPN) (2012 c. by Kurofune). Unplaced in Japan.
-+   .  .  .  =Joyful Maid (JPN) (2007 f. by Afleet). Unplaced in 1 start in Japan.
-+   .  .  =Silk Good Luck (JPN) (2001 f. by Brian's Time). Unplaced in 1 start in Japan.
-+   .  .  =Dearness (JPN) (2000 f. by Afleet). Unplaced in Japan.
-    .  =Biko Feather (JPN) (2004 g. by White Muzzle (GB)). 3 wins, 4 to 6, 108,365,000 Yen, in Japan.
-    .  .  (Total: $1,179,511).
-    .  =Biwa Kazu Eri (JPN) (1997 f. by =Biwa Hayahide (JPN)). Winner at 3, 10,940,000 Yen, in Japan.
-@@ -121,37 +292,274 @@
-    .  .  .  Grand Prix [LR], Tenno Sho Spring [LR]. (Total: $4,276,513). Sire.
-    .  .  <strong>=Ken Bridge L (JPN)</strong> (2006 c. by Eishin Preston). 4 wins, 2 to 4, 129,407,000 Yen, in
-    .  .  .  Japan, 3rd Silk Road S. <strong>[G3]</strong>. (Total: $1,488,734).
-+   .  .  =Ken Endeavor (JPN) (2003 f. by =Marvelous Sunday (JPN)). 3 wins at 3 and 4, 33,824,000 Yen, in
-+   .  .  .     Japan. (Total: $285,027). Dam of 5 foals, 5 to race, 4 winners--
-+   .  .  .  =Noble Atlas (JPN) (2015 c. by Silver Charm). 3 wins, 3 to 7, 2022, 10,595,000 Yen, in Japan.
-+   .  .  .  .  (Total: $94,055).
-+   .  .  .  =Apollo Flugel (JPN) (2012 c. by Rokko Oroshi). 5 wins at 4 and 5, 6,310,000 Yen, in Japan.
-+   .  .  .  .  (Total: $53,662).
-+   .  .  .  =Scala Blue (JPN) (2011 f. by $Opera House (GB)). 4 wins at 4 and 5, 904,000 Yen, in Japan.
-+   .  .  .  .  (Total: $7,432).
-+   .  .  .  =Marino Levin (JPN) (2014 f. by =Meisho Bowler (JPN)). 2 wins at 3, 558,000 Yen, in Japan.
-+   .  .  .  .  (Total: $5,061).
-+   .  .  .  =Koa Happy (JPN) (2013 f. by South Vigorous). Placed at 2 and 3, 1,210,000 Yen, in Japan.
-+   .  .  .  .  (Total: $10,474).
-+   .  .  =Sistina Blue (JPN) (2008 f. by =Zenno Rob Roy (JPN)). Winner at 3, 8,620,000 Yen, in Japan.
-+   .  .  .     (Total: $111,669). Dam of 6 foals, 6 to race, 6 winners--
-+   .  .  .  =Ken Gaia (JPN) (2016 f. by =Transcend (JPN)). 5 wins, 2 to 4, 21,930,000 Yen, in Japan.
-+   .  .  .  .  (Total: $198,469).
-+   .  .  .  =Keisan Hoimi (JPN) (2014 f. by Taiki Shuttle). 5 wins, 3 to 7, placed at 8, 2022, 9,409,000
-+   .  .  .  .  Yen, in Japan. (Total: $82,756).
-+   .  .  .  =Bajigaku Heart (JPN) (2017 f. by =Smart Falcon (JPN)). 3 wins, 2 to 5, 2022, 5,380,000 Yen,
-+   .  .  .  .  in Japan. (Total: $47,290).
-+   .  .  .  =Domburako (JPN) (2018 f. by South Vigorous). Winner at 3 and 4, 2022, 4,394,000 Yen, in
-+   .  .  .  .  Japan. (Total: $39,238).
-+   .  .  .  =Lightning Blue (JPN) (2020 f. by =Hokko Tarumae (JPN)). Winner at 2, 2022, 4,374,000 Yen, in
-+   .  .  .  .  Japan. (Total: $33,397).
-+   .  .  .  =Kei Veyron (JPN) (2015 c. by =Smart Robin (JPN)). 2 wins at 3, 742,000 Yen, in Japan.
-+   .  .  .  .  (Total: $6,674).
-+   .  .  =Ken Bridge Days (JPN) (2012 f. by Kurofune). Winner at 3, 8,950,000 Yen, in Japan. (Total:
-+   .  .  .     $73,460). Dam of 2 foals, 2 to race, 1 winner--
-+   .  .  .  =Grant (JPN) (2019 c. by =Admire Moon (JPN)). 2 wins at 3, 2022, 1,179,000 Yen, in Japan.
-+   .  .  .  .  (Total: $8,621).
-+   .  .  .  =Valentine (JPN) (2018 c. by =Tosen Jordan (JPN)). Placed at 2, 706,000 Yen, in Japan.
-+   .  .  .  .  (Total: $6,758).
-+   .  .  =Athena Blue (JPN) (2007 f. by =Jungle Pocket (JPN)). Winner at 3, 2,500,000 Yen, in Japan.
-+   .  .  .     (Total: $27,965). Dam of 7 foals, 6 to race, 5 winners--
-+   .  .  .  =Duality (JPN) (2016 f. by =Grand Prix Boss (JPN)). 6 wins at 3 and 4, 10,430,000 Yen, in
-+   .  .  .  .  Japan. (Total: $96,231).
-+   .  .  .  =Ken Bridge Latte (JPN) (2018 c. by Espoir City (JPN)). Winner at 2 and 3, placed at 4, 2022,
-+   .  .  .  .  9,420,000 Yen, in Japan. (Total: $80,968).
-+   .  .  .  =Ken Bichon (JPN) (2014 c. by =Matsurida Gogh (JPN)). 4 wins, 2 to 6, 8,083,000 Yen, in
-+   .  .  .  .  Japan. (Total: $77,402).
-+   .  .  .  =Keisan Harrison (JPN) (2015 c. by =Nakayama Festa (JPN)). 4 wins at 3 and 4, 2,409,000 Yen,
-+   .  .  .  .  in Japan. (Total: $22,254).
-+   .  .  .  =Cincinnati (JPN) (2019 f. by Grass Wonder). Winner at 3, 2022, 2,275,000 Yen, in Japan.
-+   .  .  .  .  (Total: $18,854).
-+   .  .  .  =Hayato (JPN) (2017 c. by =Lohengrin (JPN)). Placed at 3 and 4, 571,000 Yen, in Japan.
-+   .  .  .  .  (Total: $5,244).
-+   .  .  .  =Ken Bridge Sky (JPN) (2013 c. by =Dance in the Dark (JPN)). Unraced in Japan.
-+   .  .  =Shishimaru (JPN) (2015 c. by =Monterosso (GB)). Winner at 4 and 5, 1,192,000 Yen, in Japan.
-+   .  .  .  (Total: $10,960).
-+   .  .  =Silk Allure (JPN) (2002 c. by Adjudicating). 2 wins at 4, 737,000 Yen, in Japan. (Total:
-+   .  .  .  $6,342).
-+   .  .  =Ken Bridge Swan (JPN) (2009 f. by =Gold Allure (JPN)). Placed at 3, 1,200,000 Yen, in Japan.
-+   .  .  .     (Total: $15,297). Dam of 6 foals, 6 to race, 6 winners--
-+   .  .  .  =Maloca of Jaguar (JPN) (2018 c. by Roses in May). 5 wins, 2 to 4, 2022, 15,720,000 Yen, in
-+   .  .  .  .  Japan. (Total: $138,362).
-+   .  .  .  =Keisan Parupunte (JPN) (2014 c. by Eishin Apollon). 11 wins, 2 to 7, 5,911,000 Yen, in
-+   .  .  .  .  Japan. (Total: $53,310).
-+   .  .  .  =Ken Bridge With (JPN) (2016 f. by =Meisho Bowler (JPN)). 7 wins, 3 to 6, 2022, 5,608,000
-+   .  .  .  .  Yen, in Japan. (Total: $50,911).
-+   .  .  .  =Ken Bridge Bit (JPN) (2015 f. by =Jo Cappuccino (JPN)). 4 wins, 2 to 5, 5,564,000 Yen, in
-+   .  .  .  .  Japan. (Total: $49,777).
-+   .  .  .  =Ken Bridge Kanade (JPN) (2017 f. by Came Home). 2 wins at 5, 2022, 4,466,000 Yen, in Japan.
-+   .  .  .  .  (Total: $39,553).
-+   .  .  .  =Reward Typhon (JPN) (2019 c. by =Hokko Tarumae (JPN)). 3 wins at 2, placed at 3, 2022,
-+   .  .  .  .  3,749,000 Yen, in Japan. (Total: $33,457).
-+   .  .  =Ken Chame One (JPN) (2004 f. by Mi Cielo). Placed at 3, 1,516,000 Yen, in Japan. (Total:
-+   .  .  .     $12,949). Dam of 7 foals, 6 to race, 6 winners--
-+   .  .  .  =T M Goodman (JPN) (2014 c. by Agnes Digital). 4 wins, 3 to 7, 101,215,000 Yen, in Japan.
-+   .  .  .  .  (Total: $927,112).
-+   .  .  .  =Hilarious (JPN) (2011 f. by Fasliyev). Winner at 3, 10,300,000 Yen, in Japan. (Total:
-+   .  .  .  .  $100,772).
-+   .  .  .  =King of Saint (JPN) (2009 c. by =Lincoln (JPN)). 6 wins, 3 to 5, 5,361,000 Yen, in Japan.
-+   .  .  .  .  (Total: $55,495).
-+   .  .  .  =Ken Bridge Linear (JPN) (2013 f. by Taiki Shuttle). 6 wins, 3 to 5, 1,848,000 Yen, in Japan.
-+   .  .  .  .  (Total: $16,920).
-+   .  .  .  =Ken Bridge Ahtna (JPN) (2010 f. by =Yamanin Seraphim (JPN)). 4 wins at 3 and 4, 835,000 Yen,
-+   .  .  .  .  in Japan. (Total: $8,289).
-+   .  .  .  =T M Chame One (JPN) (2015 f. by Swept Overboard). Winner at 3, 237,000 Yen, in Japan.
-+   .  .  .  .  (Total: $2,202).
-+   .  .  .  =Unnamed (2012 f. by Fourty Niners Son).
-+   .  .  =Saint Angel (JPN) (2001 f. by Premium Thunder). Unraced in Japan. Dam of 3 foals, 2 to race, 1
-+   .  .  .     winner--
-+   .  .  .  =Ken Amatsukaze (JPN) (2005 f. by =Marvelous Sunday (JPN)). Winner at 2, 350,000 Yen, in
-+   .  .  .  .  Japan. (Total: $3,097).
-+   .  .  .  =Unnamed (2006 c. by =Agnes Tachyon (JPN)).
-+   .  .  .  =Natsuiro Pretty (AUS) (2009 f. by =God's Own (AUS)). Unplaced in 2 starts, $500(AUS), in
-+   .  .  .  .  Australia. (Total: $520).
-+   .  .  =Premium Canon (JPN) (2005 f. by =Fuji Kiseki (JPN)). Unplaced, 500,000 Yen, in Japan. (Total:
-+   .  .  .     $4,661). Dam of 6 foals, 6 to race, 3 winners--
-+   .  .  .  =Ken Bridge Ether (JPN) (2015 c. by South Vigorous). 11 wins, 3 to 7, placed at 8, 2023,
-+   .  .  .  .  23,090,000 Yen, in Japan. (Total: $201,089).
-+   .  .  .  =Ken Bridge Bell (JPN) (2013 f. by Pyro). Winner at 3, 3,116,000 Yen, in Japan. (Total:
-+   .  .  .  .  $28,596).
-+   .  .  .  =Kei Blues (JPN) (2016 f. by French Deputy). Winner at 2, 2,700,000 Yen, in Japan. (Total:
-+   .  .  .  .  $23,760).
-+   .  .  .  =Mishel With (JPN) (2017 f. by =Unrivaled (JPN)). Placed at 3 and 4, 307,000 Yen, in Japan.
-+   .  .  .  .  (Total: $2,854).
-+   .  .  .  =Ken Bridge Moss (JPN) (2010 c. by Grass Wonder). Placed at 3, 38,000 Yen, in Japan. (Total:
-+   .  .  .  .  $378).
-+   .  .  .  =Ken Blues (JPN) (2014 f. by =Admire Aura (JPN)). Unplaced in Japan.
-+   .  .  =Keisan Pecorina (JPN) (2013 f. by =Admire Moon (JPN)). Unplaced, 14,000 Yen, in Japan. (Total:
-+   .  .  .  $135).
-    .  =Silk Memory (JPN) (2000 f. by =Biwa Hayahide (JPN)). Placed at 3 and 4, 6,725,000 Yen, in Japan.
-    .  .  (Total: $57,685).
-    .  =Prelate (JPN) (2002 f. by Sunday Silence). Placed at 3, 4,825,000 Yen, in Japan. (Total: $43,972).
--   .  .     Producer.
-+   .  .     Dam of 13 foals, 13 to race, 5 winners--
-+   .  .  =Valiente (JPN) (2015 c. by =Strong Return (JPN)). Winner at 3, 16,004,000 Yen, in Japan.
-+   .  .  .  (Total: $144,343).
-+   .  .  =Goodbye Summer (JPN) (2014 f. by Summer Bird). 4 wins, 4 to 7, 3,658,000 Yen, in Japan. (Total:
-+   .  .  .  $35,000).
-+   .  .  =Baptisma (JPN) (2010 f. by Symboli Kris S). 8 wins, 3 to 5, 1,257,000 Yen, in Japan. (Total:
-+   .  .  .  $11,414).
-+   .  .  =Dia Buder (JPN) (2017 f. by =Tosen Jordan (JPN)). Winner at 3, 694,000 Yen, in Japan. (Total:
-+   .  .  .  $6,418).
-+   .  .  =Pachira (JPN) (2013 f. by Behkabad (FR)). 2 wins at 3, 447,000 Yen, in Japan. (Total: $4,315).
-+   .  .  =Archbishop (JPN) (2007 c. by French Deputy). Placed at 4, 2,368,000 Yen, in Japan. (Total:
-+   .  .  .  $27,339).
-+   .  .  =Admire Ribot (JPN) (2008 c. by =Admire Don (JPN)). Placed at 3, 2,100,000 Yen, in Japan.
-+   .  .  .  (Total: $25,664).
-+   .  .  =Hana Midori (JPN) (2016 f. by =Red Spada (JPN)). Placed at 2, 204,000 Yen, in Japan. (Total:
-+   .  .  .  $1,806).
-+   .  .  =Raggio di Sole (JPN) (2018 c. by Asia Express). Placed at 3, 175,000 Yen, in Japan. (Total:
-+   .  .  .  $1,577).
-+   .  .  =Sadamu Cook Pine (JPN) (2009 f. by =King Kamehameha (JPN)). Placed at 3, 119,000 Yen, in Japan.
-+   .  .  .  (Total: $1,504).
-+   .  .  =Gold Sai (JPN) (2012 f. by =Chichicastenango (FR)). Placed at 2, 92,000 Yen, in Japan. (Total:
-+   .  .  .  $880).
-+   .  .  =Takaichi Samson (JPN) (2011 f. by =Meisho Samson (JPN)). Unplaced in 1 start, 250,000 Yen, in
-+   .  .  .  Japan. (Total: $2,488).
-+   .  .  =Ishiki Takai Kei (JPN) (2019 f. by =Strong Return (JPN)). Unplaced in 2 starts in Japan.
-    .  =Peekaboo (JPN) (2005 f. by =Sakura Bakushin O (JPN)). Placed at 3, 3,550,000 Yen, in Japan.
-    .  .  (Total: $32,582).
-    .  =Marabou Fleet (JPN) (2003 f. by Afleet). Placed at 2, 1,055,000 Yen, in Japan. (Total: $9,597).
--   .  .     Producer.
-+   .  .     Dam of 5 foals, 5 to race, 2 winners--
-+   .  .  =Avec Moi (JPN) (2012 f. by Fourty Niners Son). 12 wins, 3 to 6, 3,413,000 Yen, in Japan.
-+   .  .  .  (Total: $29,565).
-+   .  .  =Chignon (JPN) (2014 f. by =Unrivaled (JPN)). Winner at 2, 550,000 Yen, in Japan. (Total:
-+   .  .  .  $5,319).
-+   .  .  =Suzu Goten (JPN) (2009 f. by Rule of Law). Placed at 2 and 3, 136,000 Yen, in Japan. (Total:
-+   .  .  .  $1,755).
-+   .  .  =Rinen Gonzalez (JPN) (2011 g. by $Opera House (GB)). Placed at 3, 33,000 Yen, in Japan. (Total:
-+   .  .  .  $285).
-+   .  .  =Brilliant Bard (JPN) (2007 c. by =Marienbard (IRE)). Unplaced in 1 start in Japan.
-    .  =Silky Feather (JPN) (1996 f. by =Biwa Hayahide (JPN)). Unplaced, 3,200,000 Yen, in Japan. (Total:
-    .  .  $27,307).
-    Penultimate (1987 f. by Roberto). Unraced. Sent from United States to England in 1987. Dam of 7 foals,
-    .     7 to race, 5 winners--
-    .  <strong>=Personal Best (IRE)</strong> (1994 f. by =Kris (GB)). Winner at 3, 21,038 Euro, in France, 3rd
-    .  .     Prix Occitanie Trophee Geny Courses [L]; placed in 1 start at 3, 4,090 Euro, in Germany, 2nd
--   .  .     Nereide-Rennen [L]. (Total: $27,737). Died 2010. Producer.
-+   .  .     Nereide-Rennen [L]. (Total: $27,737). Died 2010. Dam of 5 foals, 5 to race, 4 winners--
-+   .  .  =Mrs Backshoe (IRE) (2003 f. by =Vettori (IRE)). 3 wins at 3 and 4, 45,960 Euro, in France.
-+   .  .  .     (Total: $60,389). Dam of 4 foals, 2 to race, 1 winner--
-+   .  .  .  =Craspouette (FR) (2011 g. by =Martaline (GB)). Winner at 10, 25,117 Euro, in France. (Total:
-+   .  .  .  .  $29,569).
-+   .  .  .  =Unnamed (2012 f. by =Forestier (FR)).
-+   .  .  .  =Typical Frenchman (FR) (2009 g. by =Laveron (GB)). Unraced in France.
-+   .  .  .  =Unchained Melodie (FR) (2010 f. by =Great Pretender (IRE)). Unplaced in France.
-+   .  .  =Exzilarating (GB) (2000 c. by Zilzal). 5 wins at 3 and 6, 22,570 Euro, in Germany; winner at 7,
-+   .  .  .  9,600 Euro, in France; placed at 2 and 3, 5,714 Pounds, in England. (Total: $49,478).
-+   .  .  =Magic Sarah (IRE) (2004 f. by =Alhaarth (IRE)). 2 wins at 4, 18,550 Euro, in France. (Total:
-+   .  .  .     $29,063). Dam of 4 foals, 3 to race, 2 winners--
-+   .  .  .  =Magic Run (FR) (2010 f. by Hurricane Run (IRE)). 3 wins, 3 to 5, 70,300 Euro, in France.
-+   .  .  .  .  (Total: $88,027).
-+   .  .  .  =Stella Corsica (FR) (2011 f. by Slickly (FR)). Winner at 3, 15,850 Euro, in France. (Total:
-+   .  .  .  .  $19,827).
-+   .  .  .  =Royal Vision (FR) (2013 c. by =Vision d'Etat (FR)). Unraced in France.
-+   .  .  .  =Gwel Stad (FR) (2012 g. by =Vision d'Etat (FR)). Unplaced in 1 start in France. Died 2015.
-+   .  .  =Cima Best (IRE) (2007 f. by Dubawi (IRE)). 3 wins at 2 and 3, 16,712 Euro, in Italy. (Total:
-+   .  .  .     $22,814). Dam of 2 foals, 2 to race, 1 winner--
-+   .  .  .  =Coana de Nurra (ITY) (2020 f. by =Tout Seul (IRE)). Winner at 2, 2022, 3,920 Euro, in Italy.
-+   .  .  .  .  (Total: $3,875).
-+   .  .  .  =Dubawi Nurressu (ITY) (2017 g. by =Sound of Desert (IRE)). Unplaced in Italy.
-+   .  .  =Akelare (IRE) (2006 f. by Rock of Gibraltar (IRE)). Unplaced in 1 start, 900 Euro, in France.
-+   .  .  .  (Total: $1,312). Died 2022.
-    .  =Usk Valley (IRE) (1995 g. by =Tenby (GB)). 3 wins at 9, 15,445 Pounds, in England. (Total:
-    .  .  $27,422).
-    .  =Verdigris (IRE) (1991 f. by Green Desert). Winner at 3, 8,162 Pounds, in England. (Total:
--   .  .     $12,474). Producer.
-+   .  .     $12,474). Dam of 8 foals, 4 to race, 1 winner--
-+   .  .  =Alzabaq (KSA) (2003 c. by Polar Run). Winner at 4, 40,710 Riyals, in Saudi Arabia. Racing in
-+   .  .  .  Saudi Arabia as Alzibaq. (Total: $10,890).
-+   .  .  =Shokraan (KSA) (2005 c. by Agol Lack). Placed at 4, 18,900 Riyals, in Saudi Arabia. (Total:
-+   .  .  .  $5,040).
-+   .  .  =Barq Wa Raad (KSA) (2008 c. by =Petit Paris (CHI)). Placed at 4, 17,820 Riyals, in Saudi
-+   .  .  .  Arabia. (Total: $4,751).
-+   .  .  =Unnamed (2010 c. by =Gold for Sale (ARG)).
-+   .  .  =Unnamed (2009 f. by Judge T C).
-+   .  .  =Almashlahiyah (KSA) (2004 f. by Race Leader). Unraced in Saudi Arabia. Dam of 2 foals--
-+   .  .  .  =Unnamed (2015 c. by Midas Eyes).
-+   .  .  .  =Unnamed (2012 f. by =Frondoso (ARG)).
-+   .  .  =Alaqeelah (KSA) (1998 f. by =Voleris (FR)). Unraced in Saudi Arabia. Dam of 10 foals, 6 to
-+   .  .  .     race--
-+   .  .  .  =Unnamed (2014 c. by =Enforcer (GB)).
-+   .  .  .  =Unnamed (2013 f. by =Russian Valour (IRE)).
-+   .  .  .  =Unnamed (2012 c. by Cool Customer).
-+   .  .  .  =Unnamed (2011 f. by Tendulkar).
-+   .  .  .  =Nooree (KSA) (2005 c. by Mortlock (FR)). Unplaced, 18,400 Riyals, in Saudi Arabia. (Total:
-+   .  .  .  .  $4,907).
-+   .  .  .  =Waady Wareef (KSA) (2015 c. by =Rumool (GB)). Unplaced in 1 start in Saudi Arabia.
-+   .  .  .  =Bint Zamaan (KSA) (2009 f. by =Marino Altivo (CHI)). Unplaced in 1 start in Saudi Arabia.
-+   .  .  .  =Sakhab (KSA) (2008 c. by =Amazink (IRE)). Unplaced in Saudi Arabia.
-+   .  .  .  =Mahboobat Reemaas (KSA) (2006 f. by =Amazink (IRE)). Unplaced in 1 start in Saudi Arabia.
-+   .  .  .  =Kaltham (KSA) (2002 c. by Ambassadori). Unplaced in Saudi Arabia.
-+   .  .  =Nawhaat (KSA) (1999 f. by =Sharpitor (IRE)). Unplaced, 4,140 Riyals, in Saudi Arabia. (Total:
-+   .  .  .     $1,104). Dam of 1 foal--
-+   .  .  .  =Unnamed (2005 c. by Gold Camp).
-    .  First Amendment (IRE) (1992 f. by Caerleon). Winner in 1 start at 4, $8,400, in N.A./U.S.; placed
-    .  .     at 2 and 3, 2,188 Pounds, in England. Sent from Great Britain to United States in 1995. Sent
--   .  .     from United States to Great Britain in 1998. (Total: $11,874). Producer.
-+   .  .     from United States to Great Britain in 1998. (Total: $11,874). Dam of 9 foals, 8 to race, 3
-+   .  .     winners--
-+   .  .  First Alert (GB) (1999 f. by Miswaki). 2 wins at 2, 7,230 Pounds, in England; placed at 3,
-+   .  .  .     $6,150, in N.A./U.S. Sent from Great Britain to United States in 2001. (Total: $16,531).
-+   .  .  .     Dam of 6 foals, 4 to race, 2 winners--
-+   .  .  .  Collalto (2006 c. by Yankee Gentleman). 2 wins at 3, $37,920.
-+   .  .  .  Thunder N Bold (2005 c. by Malek (CHI)). Winner at 2 and 3, $35,583.
-+   .  .  .  Mikey (2010 c. by Fairbanks). Unraced.
-+   .  .  .  Unnamed (2007 c. by Beau Genius).
-+   .  .  .  Swiss Alert (2004 f. by Swiss Yodeler). Unplaced, $1,500.
-+   .  .  .  Abelard (2008 g. by Tribal Rule). Unplaced in 2 starts, $800.
-+   .  .  =Yeoman Lad (GB) (2000 g. by Groom Dancer). Winner at 2, 10,442 Pounds, in England. (Total:
-+   .  .  .  $16,425).
-+   .  .  Thunders On (1997 c. by Thunder Gulch). Winner at 5 and 6, $8,740. Sent from United States to
-+   .  .  .  Great Britain in 1997. Returned to United States from Great Britain in 1998.
-+   .  .  =Fast and First (FR) (2008 g. by =Bernebeau (FR)). Placed at 3 and 4, 14,545 Euro, in France.
-+   .  .  .  (Total: $19,218).
-+   .  .  =Fast Number (FR) (2007 f. by =Nombre Premier (GB)). Placed at 3 and 4, 11,950 Euro, in France.
-+   .  .  .  (Total: $16,824).
-+   .  .  =First Precedent (FR) (2002 f. by Polish Precedent). Placed at 3, 1,600 Euro, in France. (Total:
-+   .  .  .     $1,934). Dam of 4 foals, 2 to race, 1 winner--
-+   .  .  .  =Finisteria (FR) (2009 f. by Kingsalsa). 4 wins, 4 to 10, 56,650 Euro, in France. (Total:
-+   .  .  .  .  $70,665).
-+   .  .  .  =Galaxie Beauchene (FR) (2016 f. by =Boris de Deauville (IRE)). Unraced in France.
-+   .  .  .  =Shade of Grey (FR) (2010 f. by =Peer Gynt (JPN)). Unraced in France. Died 2014.
-+   .  .  .  =Firstia (FR) (2007 f. by Until Sundown). Unplaced, 1,250 Euro, in France. (Total: $1,741).
-+   .  .  =Fast Affair (FR) (2005 c. by Charge d'Affaires (GB)). Unraced in France.
-+   .  .  =Number Two (FR) (2009 f. by =Nombre Premier (GB)). Unplaced in 1 start in France. Died 2012.
-+   .  .  =Electromaster (GB) (2001 g. by =Vettori (IRE)). Unplaced in 1 start in Ireland.
-    .  =Berkeley Court (GB) (2001 g. by =Croco Rouge (IRE)). 2 wins at 8, 6,819 Pounds, in England.
-    .  .  (Total: $11,505).
-    .  =Razzle Dazzle (IRE) (1996 f. by Caerleon). Placed at 3, 4,649 Euro, in France. (Total: $4,872).
--   .  .     Died 2010. Producer.
-+   .  .     Died 2010. Dam of 4 foals, 2 to race, 1 winner--
-+   .  .  =Speechmaker (GB) (2007 g. by $Royal Applause (GB)). Winner at 3, 8,765 Euro, in Ireland; placed
-+   .  .  .  at 4 and 5, $465,350(HK), in Hong Kong. Sent from Ireland to Hong Kong in 2011. (Total:
-+   .  .  .  $70,633).
-+   .  .  =Unnamed (2006 f. by $Mark of Esteem (IRE)). Died 2008.
-+   .  .  =Raspect (GB) (2002 c. by =Spectrum (IRE)). Unraced in Great Britain.
-+   .  .  =Bright (GB) (2003 g. by Mister Baileys (GB)). Unplaced in England.
-    .  =Academic Gold (IRE) (1998 g. by Royal Academy). Placed at 2 and 3, 1,344 Pounds, in England.
-    .  .  (Total: $1,956).
-    Baby Bride (1996 f. by Dayjur). Unraced. Sent from United States to France in 2000. Dam of 6 foals, 3
-    .     to race, 1 winner--
--   .  =Mariee Celebre (GB) (2004 f. by Peintre Celebre). Winner at 3 in Sweden. Producer.
-+   .  =Mariee Celebre (GB) (2004 f. by Peintre Celebre). Winner at 3 in Sweden. Dam of 7 foals, 6 to
-+   .  .     race, 3 winners--
-+   .  .  =Vainqueur (SWE) (2009 g. by =Dalakhani (IRE)). Winner at 2 and 3, 198,620 Krone, in Norway; 5
-+   .  .  .  wins, 4 to 6, 328,250 Krone, in Denmark; placed at 5, 32,750 Krona, in Sweden. (Total:
-+   .  .  .  $93,912).
-+   .  .  =Cara Blanca (SWE) (2012 f. by Mingun). 4 wins, 3 to 6, 265,400 Krona, in Sweden. (Total:
-+   .  .  .     $31,598). Dam of 1 foal, 1 to race--
-+   .  .  .  =Top Gear (SWE) (2019 g. by Hallucinate). Unplaced in 2 starts, 4,600 Krona, in Sweden.
-+   .  .  .  .  (Total: $446).
-+   .  .  =Nobel Bride (SWE) (2010 f. by =Nobileo (GB)). Winner at 3 and 4, 31,500 Krone, in Denmark;
-+   .  .  .  unplaced in 2 starts in Sweden; unplaced in Norway. (Total: $5,533).
-+   .  .  =Malindi (SWE) (2017 f. by =Verde-Mar (BRZ)). Placed at 2 and 3, 71,808 Krona, in Sweden.
-+   .  .  .  (Total: $7,581).
-+   .  .  =Werdi One (SWE) (2015 g. by =Verde-Mar (BRZ)). Placed at 2, 20,400 Krona, in Sweden. (Total:
-+   .  .  .  $2,327).
-+   .  .  =Nobel Groom (SWE) (2011 g. by =Nobileo (GB)). Placed at 2, 12,495 Krone, in Norway; unplaced in
-+   .  .  .  1 start in Sweden. (Total: $2,121).
-+   .  .  =Mariee Gare (SWE) (2013 f. by =Appel Au Maitre (FR)). Unraced in Sweden.
-    .  Balcarce (2000 f. by Roy). Unraced. Sent from United States to Argentina in 2001. Dam of 13 foals,
-    .  .     8 to race, 7 winners--
-    .  .  <strong>=BAJISTA (ARG)</strong> (2010 c. by Perfectperformance). 6 wins, 3 to 6, 1,582,240 Pesos, in
-@@ -159,18 +567,62 @@
-    .  .  .  Clausura <strong>[G2]</strong>, Uberto F. Vignart <strong>[G3]</strong>. (Total: $204,061).
-    .  .  <strong>=BELARUSA (ARG)</strong> (2012 f. by Orpen). 5 wins at 3 and 4, 1,740,378 Pesos, in Argentina,
-    .  .  .     1st La Mission <strong>[G2]</strong>, Clasico Ramon Biaus <strong>[G2]</strong>, 2nd Particula
--   .  .  .     <strong>[G2]</strong>, Chile <strong>[G3]</strong>, 3rd Los Haras <strong>[G2]</strong>. (Total: $123,383).
--   .  .  .     Producer.
-+   .  .  .     <strong>[G2]</strong>, Chile <strong>[G3]</strong>, 3rd Los Haras <strong>[G2]</strong>. (Total: $123,383). Dam of
-+   .  .  .     3 foals, 2 to race, 1 winner--
-+   .  .  .  =Borzakovskiy (JPN) (2019 c. by =Kizuna (JPN)). 3 wins at 3 and 4, 2023, 34,180,000 Yen, in
-+   .  .  .  .  Japan. (Total: $258,011).
-+   .  .  .  =Unnamed (2021 f. by =Real Steel (JPN)).
-+   .  .  .  =Grand Rowdy (JPN) (2020 c. by =Real Steel (JPN)). Unplaced in Japan.
-    .  .  <strong>=Bayern (ARG)</strong> (2008 c. by Orpen). 6 wins, 2 to 6, 418,315 Pesos, in Argentina, 2nd
-    .  .  .  Polla de Potrillos-Argentine Two Thousand Guineas <strong>[G1]</strong>. (Total: $84,370).
-+   .  .  Bahia Rosa (ARG) (2004 f. by American Chance). Winner in 4 starts at 2 and 3, 38,030 Pesos, in
-+   .  .  .  Argentina; winner at 4, $16,088, in N.A./U.S. Sent from Argentina to United States in 2007.
-+   .  .  .  (Total: $28,310).
-+   .  .  =Bien (ARG) (2005 g. by Orpen). 3 wins at 3 and 4, 185,600 Rands, in South Africa. (Total:
-+   .  .  .  $23,282).
-+   .  .  =Basta de Talk (ARG) (2003 f. by Confidential Talk). 2 wins at 3, 47,121 Pesos, in Argentina.
-+   .  .  .     (Total: $15,270). Dam of 9 foals, 4 to race, 1 winner--
-+   .  .  .  =Basta de Yeta (URU) (2014 f. by Alexander of Hales). 5 wins, 3 to 6, 649,291 Pesos, in
-+   .  .  .  .  Uruguay. (Total: $18,685).
-+   .  .  .  =La Moni (URU) (2019 f. by =Imperrito (URU)). Unraced in Uruguay.
-+   .  .  .  =Spirit Si (URU) (2018 c. by =Imperrito (URU)). Unraced in Uruguay.
-+   .  .  .  =Silenciosa H (URU) (2011 f. by Hardy). Unraced in Uruguay.
-+   .  .  .  =Hablador H (URU) (2010 c. by Hardy). Unraced in Uruguay.
-+   .  .  .  =Light Talk (ARG) (2008 f. by Mr. Light (ARG)). Unraced in Argentina.
-+   .  .  .  =Basta Ya (URU) (2012 f. by Artiste Royal (IRE)). Unplaced, 27,838 Pesos, in Uruguay. (Total:
-+   .  .  .  .  $936).
-+   .  .  .  =Bartola (URU) (2016 f. by Honour and Glory). Unplaced in Uruguay.
-+   .  .  .  =Basta de Charla (URU) (2013 f. by Alexander of Hales). Unplaced in Uruguay.
-+   .  .  =Barnabas II (ARG) (2009 g. by Perfectperformance). Winner at 4, 4,871,000 Pesos, in Chile.
-+   .  .  .  (Total: $9,831).
-+   .  .  =Bremem (ARG) (2017 c. by Orpen). Unraced in Argentina.
-+   .  .  =Balance (ARG) (2015 f. by Orpen). Unraced in Argentina.
-+   .  .  =Balerna (ARG) (2014 f. by Orpen). Unraced in Argentina.
-+   .  .  =Batuco (ARG) (2011 c. by Freud). Unraced in Argentina.
-+   .  .  =Balcanes (ARG) (2006 c. by Seeker's Reward). Unraced in Argentina.
-+   .  .  =Bajo Secreto (ARG) (2013 c. by Orpen). Unplaced, 12,000 Pesos, in Argentina. (Total: $691).
-    .  =Unnamed (2005 c. by Tobougg (IRE)). Died 2007.
-    .  =Unnamed (2003 c. by =Desert Style (IRE)).
-    .  =Equitable (FR) (2006 c. by Kingsalsa). Unplaced in 2 starts, 450 Euro, in France. (Total: $710).
-    .  .  Died 2008.
--   .  Mrs. Saigon (1999 f. by Mr. Greeley). Unplaced in 2 starts. Producer.
-+   .  Mrs. Saigon (1999 f. by Mr. Greeley). Unplaced in 2 starts. Dam of 4 foals, 3 to race, 1 winner--
-+   .  .  Ping Bay (2005 f. by Sligo Bay (IRE)). Winner at 4, $64,984. Dam of 1 foal--
-+   .  .  .  Unnamed (2019 f. by Summer Front). (application pending)
-+   .  .  Duncan McFly (2007 c. by Weekend Cruise). Placed at 2, $7,253.
-+   .  .  Unnamed (2012 c. by Mizzen Mast). (application cancelled)
-+   .  .  Senorita Mariposa (2004 f. by Vision and Verse). Unraced.
-+   .  .  Belleza Pluma (2003 f. by Housebuster). Unplaced in 2 starts. Died 2011. Dam of 3 foals, 2 to
-+   .  .  .     race--
-+   .  .  .  Blushing Belleza (2009 f. by Runaway Macho). Unraced.
-+   .  .  .  Runaway Belle (2008 f. by Runaway Macho). Unplaced, $960.
-+   .  .  .  Mervyn (2010 c. by Runaway Macho). Unplaced in 1 start, $100.
-    Anakid (1994 f. by Danzig). Unraced. Sent from United States to Great Britain in 1996. Returned to
-    .     United States from Ireland in 1998. Dam of 6 foals, 6 to race, 5 winners--
--   .  Miss Mexique (2008 f. by Lemon Drop Kid). 5 wins, 3 to 6, $98,000.
-+   .  Miss Mexique (2008 f. by Lemon Drop Kid). 5 wins, 3 to 6, $98,000. Dam of 4 foals--
-+   .  .  Unnamed (2022 f. by Xixixi). (application pending)
-+   .  .  Unnamed (2021 f. by Unfettered). (application pending)
-+   .  .  Z Mystique (2020 g. by Xixixi). Unraced.
-+   .  .  Unnamed (2018 c. by Xixixi). (application pending)
-    .  Political Reporter (2005 g. by Silver Charm). 6 wins, 3 to 6, $80,750.
-    .  Mozakhraf (2002 c. by Miswaki). 4 wins at 4 and 5, 15,188 Pounds, in England; unplaced, 451 Euro,
-    .  .  in Ireland. Sent from United States to Ireland in 2002. (Total: $30,619).
-@@ -179,30 +631,57 @@
-    .  Fair Time (1999 f. by Woodman). Unplaced in England. Sent from United States to Great Britain in
-    .  .     2000. Dam of 8 foals, 7 to race, 3 winners--
-    .  .  <strong>=Quick Time (NZ)</strong> (2004 f. by =Zabeel (NZ)). 4 wins at 4 and 5, $51,187(NZ), in New
--   .  .  .     Zealand, 3rd Christchurch Casino Spring Classic [L]. (Total: $31,559). Producer.
-+   .  .  .     Zealand, 3rd Christchurch Casino Spring Classic [L]. (Total: $31,559). Dam of 2 foals, 1
-+   .  .  .     to race, 1 winner--
-+   .  .  .  =Sweet Time (NZ) (2011 f. by =Nom Du Jeu (NZ)). Winner at 4, $25,440(NZ), in New Zealand.
-+   .  .  .  .  (Total: $18,009).
-+   .  .  .  =Unnamed (2014 f. by =Pins (AUS)).
-+   .  .  =Eastern Towkay (NZ) (2012 g. by =Nom Du Jeu (NZ)). Winner at 5 and 6, 64,131 Ringgits, in
-+   .  .  .  Malaysia; placed at 4, 12,285 SIN$, in Singapore. (Total: $24,624).
-+   .  .  =Itsaboutime (NZ) (2006 f. by Howbaddouwantit). Winner at 5 and 6, $16,750(NZ), in New Zealand.
-+   .  .  .  (Total: $13,843).
-+   .  .  =Mesa Verde (NZ) (2005 f. by Elusive City). Placed at 4, $975(NZ), in New Zealand. (Total:
-+   .  .  .  $663).
-+   .  .  =Pericles (NZ) (2007 g. by =Savabeel (AUS)). Placed at 4, $700(NZ), in New Zealand. (Total:
-+   .  .  .  $553).
-+   .  .  =Mirabelle (NZ) (2003 f. by Fantastic Light). Unraced in New Zealand. Dam of 1 foal, 1 to race,
-+   .  .  .     1 winner--
-+   .  .  .  =Miss Mimo (NZ) (2008 f. by =Scaredee Cat (NZ)). Winner at 3 and 4, $10,000(NZ), in New
-+   .  .  .  .  Zealand. (Total: $8,210).
-+   .  .  =Dame Du Jour (NZ) (2014 f. by =Nom Du Jeu (NZ)). Unplaced, $400(NZ), in New Zealand. (Total:
-+   .  .  .  $267).
-+   .  .  =Lily Jean (NZ) (2013 f. by =Nom Du Jeu (NZ)). Unplaced, $200(NZ), in New Zealand. (Total:
-+   .  .  .  $130).
- RACE RECORD for Precious Rachel: Unraced.
-    <strong>AWESOME FEATHER</strong> (2008 f. by Awesome of Course). 10 wins in 11 starts, 2 to 4, $1,912,746, champion 2-year-old filly in U.S. (2010), 1st Breeders' Cup Juvenile Fillies <strong>[G1]</strong> (CD, $1,080,000), Gazelle S. <strong>[G1]</strong> (AQU, $150,000), Nasty Storm S. [L] (BEL, $51,000), Florida Stallion My Dear Girl S.-R (CRC, $219,511), Florida Sunshine Millions Distaff S.-R (GP, $180,000), Florida Stallion Susan's Girl S.-R (CRC, $62,000), Florida Stallion Desert Vixen S.-R (CRC, $46,035), J J'sdream S. (CRC, $60,000), Le Slew S. (BEL, $36,000). Sent from United States to Japan in 2013. Dam of 9 foals, 6 to race, 4 winners--
-    .  <strong>=Super Feather (JPN)</strong> (2015 g. by =Deep Impact (JPN)). 4 wins, 2 to 6, 111,148,001 Yen, in Japan, 3rd TV Tokyo Hai Aoba Sho <strong>[G2]</strong>, Kokura Kinen <strong>[G3]</strong>. (Total: $1,007,295).
-    .  =Love Ambassador (JPN) (2017 f. by =Deep Impact (JPN)). Winner at 3 and 5, 2022, 33,790,000 Yen, in Japan. (Total: $290,613).
-    .  =Jem Feather (JPN) (2018 f. by =Deep Impact (JPN)). Winner at 3 and 4, 2022, 19,870,000 Yen, in Japan. (Total: $168,499).
--   .  =Awesome Wind (JPN) (2016 f. by =Deep Impact (JPN)). Winner at 3, 388,000 Yen, in Japan. (Total: $3,583).
-+   .  =Awesome Wind (JPN) (2016 f. by =Deep Impact (JPN)). Winner at 3, 388,000 Yen, in Japan. (Total: $3,583). Dam of 2 foals--
-+   .  .  =Unnamed (2022 c. by =Saturnalia (JPN)).
-+   .  .  =Unnamed (2021 c. by =Leontes (JPN)).
-    .  =Feather Motif (JPN) (2020 c. by =Heart's Cry (JPN)). Placed in 2 starts at 2, 2022, 2,100,000 Yen, in Japan. (Total: $15,816).
-    .  =Unnamed (2022 f. by =Maurice (JPN)).
-    .  =Unnamed (2021 c. by =Satono Diamond (JPN)).
--   .  =Guillem (JPN) (2014 f. by Medaglia d'Oro). Unraced in Japan. Producer.
-+   .  =Guillem (JPN) (2014 f. by Medaglia d'Oro). Unraced in Japan. Dam of 3 foals, 2 to race, 2 winners--
-+   .  .  =Shonan Bashitto (JPN) (2020 c. by =Silver State (JPN)). Winner in 3 starts at 2 and 3, 2023, 14,800,000 Yen, in Japan. (Total: $111,859).
-+   .  .  =Evidentia (JPN) (2019 c. by =Duramente (JPN)). Winner at 3, 2022, 5,200,000 Yen, in Japan. (Total: $44,969).
-+   .  .  =Unnamed (2021 f. by =Al Ain (JPN)).
-    .  =Hawaiian Feather (JPN) (2019 f. by =King Kamehameha (JPN)). Unplaced in 1 start in Japan.
-    <strong>Brooks 'n Down</strong> (2005 c. by Montbrook). Winner at 2 and 3, $87,097, 3rd Oak Hall S. (EVD, $5,000). Sire.
-    Diary (2007 f. by Congaree). Winner at 2, $38,042. Dam of 4 foals, 3 to race, 2 winners--
-    .  <strong>OLD TIME REVIVAL</strong> (2015 g. by Brethren). 6 wins, 2 to 7, 2022, $327,190, 1st Challedon S.-R (LRL, $45,000), 2nd Gotham S. <strong>[G3]</strong> (AQU, $60,000), Miracle Wood S. (LRL, $20,000), Concern S. (LRL, $15,000).
-    .  Private Journal (2012 g. by Awesome of Course). Winner at 3 and 4, $20,340.
-    .  Right to Privacy (2013 f. by Awesome of Course). Unraced.
--   .  Daily Log (2014 f. by Awesome of Course). Unplaced in 1 start, $400. Sent from United States to Dominican Republic in 2017.
--   First Navy Admiral (2018 c. by Fort Loudon). 4 wins at 3 and 4, 2022, $94,865.
-+   .  Daily Log (2014 f. by Awesome of Course). Unplaced in 1 start, $400. Sent from United States to Dominican Republic in 2017. Dam of 1 foal--
-+   .  .  =Unnamed (2021 c. by Don Sebas).
-+   First Navy Admiral (2018 c. by Fort Loudon). 4 wins at 3 and 4, 2022, $95,115.
-    Tar and Feather (2012 f. by Awesome of Course). 2 wins at 3, $78,420. Dam of 4 foals, 2 to race, 1 winner--
-    .  Wicca Wisdom (2019 f. by Jess's Dream). Winner at 3, 2022, $23,560.
-    .  Adios Pluma (2021 c. by Adios Charlie). Unraced.
-    .  Trialsntribulation (2018 f. by Hear No Evil). Unraced.
--   .  Feather's Secret (2017 f. by Hear No Evil). Unplaced, $590.
-+   .  Feather's Secret (2017 f. by Hear No Evil). Unplaced, $590. Dam of 1 foal--
-+   .  .  Unnamed (2022 f. by Tunwoo). (application pending)
-    Good Genes (2013 g. by Awesome of Course). 5 wins, 3 to 7, $76,883.
-    Quill Out (2003 g. by Outflanker). 3 wins at 4 and 6, $61,160.
-    Precious Beans (2006 g. by Medaglia d'Oro). 2 wins at 4, $52,968.
-@@ -220,27 +699,119 @@
-    .  Mootafayill (1998 c. by Danzig). Placed at 2 and 3, 6,604 Pounds, in England; placed at 4, 20,400 Dirhams, in United Arab Emirates. Sent from United States to United Arab Emirates in 1999. (Total: $15,083).
-    .  What's Up Brother (2004 c. by Swain (IRE)). (application cancelled)
-    .  Ejaabi (2002 c. by Aljabr). Unraced. Sent from United States to United Arab Emirates in 2003.
--   .  Citron Moon (2001 f. by Danzig). Unraced. Producer.
-+   .  Citron Moon (2001 f. by Danzig). Unraced. Dam of 7 foals, 3 to race, 3 winners--
-+   .  .  Been There Buddy (2008 g. by More Than Ready). 3 wins at 3 and 4, $13,072, in Canada. (Total: $13,376).
-+   .  .  Jack's Grace (2005 f. by Deputy Commander). Winner at 3, $10,908. Dam of 1 foal, 1 to race--
-+   .  .  .  Tauzin My Man (2011 g. by Afternoon Deelites). Placed at 4, $1,745.
-+   .  .  The Ssen Champ (2012 c. by Hold Me Back). 2 wins at 4 in Republic of Korea. Sent from United States to Republic of Korea in 2014.
-+   .  .  Unnamed (2015 c. by Midshipman).
-+   .  .  Gold Saver (2014 c. by Daaher). Unraced.
-+   .  .  Nile Crossing (2013 f. by Pioneerof the Nile). Unraced.
-+   .  .  Unnamed (2010 c. by Purim).
-    .  Taghlub (1999 c. by Dixieland Band). Unraced. Sent from United States to United Arab Emirates in 2000.
-    .  Raasekh (2003 g. by Aljabr). Unplaced, $1,030.
--   .  Elnayrah (2000 f. by Danzig). Unplaced in 1 start, 355 Pounds, in England. Sent from United States to United Arab Emirates in 2001. (Total: $540). Producer.
-+   .  Elnayrah (2000 f. by Danzig). Unplaced in 1 start, 355 Pounds, in England. Sent from United States to United Arab Emirates in 2001. (Total: $540). Dam of 5 foals, 2 to race, 2 winners--
-+   .  .  =Worood (AUS) (2007 f. by Elusive Quality). 4 wins, 2 to 4, 354,455 Rands, in South Africa. (Total: $49,623). Dam of 4 foals, 1 to race--
-+   .  .  .  =Wazeer (SAF) (2013 f. by Silvano (GER)). Placed at 3, 20,325 Rands, in South Africa. (Total: $1,518).
-+   .  .  .  =Unchained (SAF) (2017 f. by =Vercingetorix (SAF)). Unraced in South Africa.
-+   .  .  .  =Vedaad (SAF) (2016 f. by =Vercingetorix (SAF)). Unraced in South Africa.
-+   .  .  .  =Waajid (SAF) (2015 c. by Silvano (GER)). Unraced in South Africa.
-+   .  .  =Double Digger (AUS) (2008 g. by Johannesburg). Winner at 3, $4,750(AUS), in Australia. (Total: $4,955).
-+   .  .  =Sweet Jarvinia (PHI) (2012 f. by Keep Laughing). Unraced in Philippines.
-+   .  .  =Amazing Lebren (PHI) (2010 f. by =Domesday (AUS)). Unraced in Philippines.
-+   .  .  =Gibraltarui Byeol (AUS) (2006 c. by Rock of Gibraltar (IRE)). Unraced in Australia.
-    <strong>Phar Feather</strong> (1985 c. by Lyphard). Winner at 2, 29,117 Euro, in France, 2nd Prix de Conde <strong>[G3]</strong>, 3rd Prix Matchem [L]; unplaced in 1 start, $2,475, in N.A./U.S. Sent from United States to France in 1986. Returned to United States from France in 1988. Sent from United States to New Zealand in 1989. (Total: $33,447). Sire.
-    Eqtesaad (1991 c. by Danzig). 3 wins at 4, 11,083 Pounds, in England. Sent from United States to Great Britain in 1993. Returned to United States from Great Britain in 1995. (Total: $17,484). Leading sire in Puerto Rico (2006)Sire. Died 2011.
-    Limber Dancer (1984 c. by Nijinsky II). Winner in 1 start at 3, 5,259 Euro, in Ireland. Sent from United States to Ireland in 1985. Sent from Ireland to Japan in 1988. (Total: $5,844). Sire.
-    Contessa (1988 f. by Blushing Groom (FR)). Winner at 3, 2,616 Pounds, in England. Sent from England to Japan in 1900. Sent from United States to England in 1988. (Total: $4,568). Dam of 7 foals, 3 to race--
-    .  =Let You Shiver (JPN) (1994 g. by =Ancestry (JPN)). Placed at 3, 3,050,000 Yen, in Japan. (Total: $25,338).
--   .  =Contessa Queen (JPN) (1999 f. by Carnegie (IRE)). Unraced in Japan. Producer.
--   .  =Romance Freesia (JPN) (1998 f. by Brian's Time). Unraced in Japan. Producer.
--   .  =Sunny Style (JPN) (1995 f. by =Commander in Chief (GB)). Unraced in Japan. Producer.
--   .  =Maternal Love (JPN) (1993 f. by =Thatching (IRE)). Unraced in Japan. Producer.
-+   .  =Contessa Queen (JPN) (1999 f. by Carnegie (IRE)). Unraced in Japan. Dam of 7 foals, 6 to race, 5 winners--
-+   .  .  =Musashibo (JPN) (2003 c. by =Black Tuxedo (JPN)). 15 wins, 2 to 11, 16,368,000 Yen, in Japan. (Total: $159,325).
-+   .  .  =D's Sweep (JPN) (2008 f. by Precise End). 2 wins at 3, 6,620,000 Yen, in Japan. (Total: $83,615).
-+   .  .  =M Y Spinal (JPN) (2005 c. by =Marvelous Sunday (JPN)). Winner in 4 starts at 3 and 4, 2,120,000 Yen, in Japan. (Total: $21,574).
-+   .  .  =Eifer Idol (JPN) (2015 f. by =Gold Halo (JPN)). Winner at 3, 1,015,000 Yen, in Japan. (Total: $9,325).
-+   .  .  =Hanadokei (JPN) (2010 f. by =Admire Max (JPN)). Winner at 2, 385,000 Yen, in Japan. (Total: $4,867).
-+   .  .  =Vital Queen (JPN) (2007 f. by Precise End). Unraced in Japan. Dam of 8 foals, 8 to race, 7 winners--
-+   .  .  .  =Kokoroiki (JPN) (2018 c. by =Furioso (JPN)). 5 wins at 3 and 4, 2022, 15,010,000 Yen, in Japan. (Total: $130,541).
-+   .  .  .  =Fiery Shinzo (JPN) (2012 g. by =On Fire (JPN)). Winner at 2, 10,550,000 Yen, in Japan; winner at 6, 36,415 Ringgits, in Malaysia; placed at 4, 6,345 SIN$, in Singapore. (Total: $101,385).
-+   .  .  .  =Shigeru Muroaji (JPN) (2013 c. by =Gold Halo (JPN)). Winner at 3, 8,350,000 Yen, in Japan. (Total: $70,633).
-+   .  .  .  =Vital Area (JPN) (2019 c. by =Furioso (JPN)). Winner at 3, 2022, 7,300,000 Yen, in Japan. (Total: $55,210).
-+   .  .  .  =Amant (JPN) (2014 f. by =Gold Halo (JPN)). Winner at 3, 3,927,500 Yen, in Japan. (Total: $34,754).
-+   .  .  .  =Enry Gloria (JPN) (2017 f. by =To the Glory (JPN)). 3 wins at 3 and 4, placed at 5, 2022, 3,656,000 Yen, in Japan. Racing in Japan as En Ri Gloria. (Total: $32,692).
-+   .  .  .  =Fujino Dia (JPN) (2011 f. by =Marvelous Sunday (JPN)). 3 wins at 2 and 3, 1,975,000 Yen, in Japan. (Total: $19,736).
-+   .  .  .  =LeBron (JPN) (2020 c. by =Danon Ballade (JPN)). Unplaced in 1 start in Japan.
-+   .  .  =Owara Dancer (JPN) (2004 f. by =Marvelous Sunday (JPN)). Unplaced in 2 starts in Japan.
-+   .  =Romance Freesia (JPN) (1998 f. by Brian's Time). Unraced in Japan. Dam of 7 foals, 7 to race, 5 winners--
-+   .  .  =Space Flight (JPN) (2004 c. by Tabasco Cat). 5 wins, 2 to 7, 67,809,000 Yen, in Japan. (Total: $700,006).
-+   .  .  =Success Story (JPN) (2012 c. by =Moere Plutus (JPN)). 15 wins, 2 to 9, 14,189,000 Yen, in Japan. (Total: $131,352).
-+   .  .  =Super Boy (JPN) (2008 c. by =Yuki Sunday (JPN)). 5 wins, 2 to 6, 9,887,000 Yen, in Japan. (Total: $112,236).
-+   .  .  =Blockbuster (JPN) (2005 g. by =Regular Member (JPN)). 5 wins at 3 and 4, 8,302,000 Yen, in Japan. (Total: $88,945).
-+   .  .  =Rock Parade (JPN) (2006 c. by Moon Ballad (IRE)). 3 wins at 4 and 5, 1,950,000 Yen, in Japan. (Total: $23,111).
-+   .  .  =Reine de Sara (JPN) (2014 f. by =Kitasan Kamuiden (JPN)). Unplaced in 2 starts in Japan.
-+   .  .  =Musique Serielle (JPN) (2003 f. by =Fusaichi Concorde (JPN)). Unplaced in 2 starts in Japan.
-+   .  =Sunny Style (JPN) (1995 f. by =Commander in Chief (GB)). Unraced in Japan. Dam of 8 foals, 8 to race, 5 winners--
-+   .  .  =Road Success (JPN) (2005 f. by Meiner Love). 6 wins, 3 to 8, 12,390,000 Yen, in Japan. (Total: $133,864).
-+   .  .  =Intrigant (JPN) (2002 c. by Black Tie Affair (IRE)). 8 wins at 3 and 5, 3,372,000 Yen, in Japan. (Total: $30,295).
-+   .  .  =Sakura Salai (JPN) (2006 f. by =Sakura President (JPN)). 10 wins, 3 to 8, 2,455,000 Yen, in Japan. (Total: $28,571).
-+   .  .  =Ogygian Ryoko (JPN) (2001 f. by Ogygian). 4 wins, 3 to 5, 2,607,000 Yen, in Japan. (Total: $23,245).
-+   .  .  =The Odo (JPN) (2009 c. by =Tayasu Tsuyoshi (JPN)). 7 wins, 3 to 5, 1,401,000 Yen, in Japan. (Total: $15,940).
-+   .  .  =Carnegie Style (JPN) (2000 f. by Carnegie (IRE)). Placed at 4, 150,000 Yen, in Japan. (Total: $1,391).
-+   .  .  =Meisun Success (JPN) (2008 c. by =Sakura President (JPN)). Unplaced, 1,500,000 Yen, in Japan. (Total: $18,058).
-+   .  .  =Shine While (JPN) (2010 f. by =Sakura President (JPN)). Unplaced in 1 start in Japan.
-+   .  =Maternal Love (JPN) (1993 f. by =Thatching (IRE)). Unraced in Japan. Dam of 7 foals, 6 to race, 5 winners--
-+   .  .  =Rise Rise Rise (JPN) (1997 f. by Royal Academy). Winner at 2, 11,068,000 Yen, in Japan. (Total: $102,014). Dam of 3 foals, 3 to race, 3 winners--
-+   .  .  .  =Jatuh Cinta (JPN) (2007 f. by =Commander in Chief (GB)). 9 wins, 3 to 5, 3,702,000 Yen, in Japan. (Total: $45,595).
-+   .  .  .  =Shine a Road (JPN) (2005 f. by =Mayano Top Gun (JPN)). 9 wins, 3 to 5, 2,488,000 Yen, in Japan. (Total: $25,958).
-+   .  .  .  =Rise Destiny (JPN) (2004 f. by =Mayano Top Gun (JPN)). Winner at 2, 722,000 Yen, in Japan. (Total: $6,162).
-+   .  .  =Yumegokochi (JPN) (2006 f. by =Tayasu Tsuyoshi (JPN)). 2 wins at 3, 3,990,000 Yen, in Japan. (Total: $41,883).
-+   .  .  =Eiyu Star Man (JPN) (1999 c. by Fraise). 5 wins at 3 and 4, 4,289,000 Yen, in Japan. (Total: $36,083).
-+   .  .  =Almond Glance (JPN) (2004 f. by =Stay Gold (JPN)). 6 wins, 4 to 6, 2,879,000 Yen, in Japan. (Total: $29,592). Dam of 2 foals, 2 to race, 2 winners--
-+   .  .  .  =Pod Rising (JPN) (2012 c. by =Vermilion (JPN)). Winner at 2, 5,772,000 Yen, in Japan. (Total: $52,953).
-+   .  .  .  =Neo Angel (JPN) (2016 f. by =Furioso (JPN)). Winner at 2, placed at 6, 2022, 4,606,000 Yen, in Japan. (Total: $40,371).
-+   .  .  =Preteur (JPN) (2002 g. by =King Halo (JPN)). 5 wins at 3 and 4, 2,201,000 Yen, in Japan. (Total: $18,978).
-+   .  .  =Ban Patent (JPN) (2003 c. by Ciro). Placed at 4, 113,000 Yen, in Japan. (Total: $964).
-+   .  .  =Arkadia (JPN) (1998 f. by =Maruzensky (JPN)). Unraced in Japan. Dam of 7 foals, 7 to race, 5 winners--
-+   .  .  .  =Blue Cardinal (JPN) (2004 c. by =King Halo (JPN)). 3 wins at 3 and 4, 46,294,000 Yen, in Japan. (Total: $434,453).
-+   .  .  .  =Ken Bridge Caesar (JPN) (2007 c. by =Grandera (IRE)). 4 wins, 3 to 8, 15,244,000 Yen, in Japan. (Total: $167,472).
-+   .  .  .  =Mademoiselle Kiss (JPN) (2005 f. by =Tayasu Tsuyoshi (JPN)). 3 wins at 4 and 5, 8,272,000 Yen, in Japan. (Total: $86,301).
-+   .  .  .  =World Lady (JPN) (2006 f. by =Tayasu Tsuyoshi (JPN)). 12 wins, 3 to 5, 4,584,000 Yen, in Japan. (Total: $49,362).
-+   .  .  .  =Grand Cuvee (JPN) (2009 f. by =Mayano Top Gun (JPN)). Winner at 3, 430,000 Yen, in Japan. (Total: $5,314).
-+   .  .  .  =Kanemasa Song (JPN) (2011 c. by =Song of Wind (JPN)). Placed at 2, 420,000 Yen, in Japan. (Total: $4,237).
-+   .  .  .  =Touch Your Heart (JPN) (2002 f. by White Muzzle (GB)). Unplaced, 750,000 Yen, in Japan. (Total: $7,163).
-    .  =Seiun Akaboshi (JPN) (2000 c. by Carnegie (IRE)). Unplaced in Japan.
--   .  =Last Princess (JPN) (1996 f. by Last Tycoon (IRE)). Unplaced in Japan. Producer.
-+   .  =Last Princess (JPN) (1996 f. by Last Tycoon (IRE)). Unplaced in Japan. Dam of 5 foals, 5 to race, 2 winners--
-+   .  .  =Blast Talisman (JPN) (2006 c. by =Sakura President (JPN)). Winner at 3 and 4, 2,614,000 Yen, in Japan. (Total: $27,768).
-+   .  .  =Eifer Nighter (JPN) (2002 c. by Wallenda). 5 wins, 3 to 5, 1,502,500 Yen, in Japan. (Total: $13,019).
-+   .  .  =Loverly Weed (JPN) (2007 f. by =Sakura President (JPN)). Placed at 3, 180,000 Yen, in Japan. (Total: $2,121).
-+   .  .  =Eifer Diosa (JPN) (2009 f. by =Sakura President (JPN)). Placed at 3, 13,000 Yen, in Japan. (Total: $151).
-+   .  .  =Kunisaki Masao (JPN) (2005 c. by =Entrepreneur (GB)). Unplaced, 1,750,000 Yen, in Japan. (Total: $16,406).
-    Bawaeth (1990 f. by Blushing Groom (FR)). Placed at 2 and 3, 2,984 Pounds, in England. Sent from United States to England in 1991. (Total: $4,857). Dam of 3 foals, 3 to race, 2 winners--
-    .  <strong>=ELMUTABAKI (GB)</strong> (1996 g. by Unfuwain). 2 wins at 3, 54,820 Pounds, in England, 1st Leiths July Trophy S. [L]. (Total: $87,231).
-    .  =Bawsian (GB) (1995 g. by =Persian Bold (IRE)). 8 wins, 2 to 6, 80,066 Pounds, in England; 6 wins, 8 to 11 in Spain. (Total: $124,515).
--   .  =Mutasader (IRE) (1997 f. by Unfuwain). Unplaced in England.
-+   .  =Mutasader (IRE) (1997 f. by Unfuwain). Unplaced in England. Dam of 7 foals, 2 to race--
-+   .  .  =Frontissima (SAF) (2010 c. by =Stagelight (IRE)). Unraced in South Africa.
-+   .  .  =Nimrod (SAF) (2008 c. by =Eyeofthetiger (BRZ)). Unraced in South Africa.
-+   .  .  =Kahina (SAF) (2007 f. by Albarahin). Unraced in South Africa.
-+   .  .  =Detzky's Diva (SAF) (2006 f. by Muhtafal). Unraced in South Africa.
-+   .  .  =Mulfit (SAF) (2005 f. by Malhub). Unraced in South Africa.
-+   .  .  =Inami (SAF) (2004 f. by Kahal (GB)). Unplaced in South Africa.
-+   .  .  =Wilaya (SAF) (2003 f. by Albarahin). Unplaced in South Africa.
-    Marabou (1989 f. by Roberto). Placed in 2 starts at 3, 297 Pounds, in England. Sent from United States to England in 1989. Sent from England to Japan in 1994. (Total: $566). Dam of 12 foals, 12 to race, 6 winners--
--   .  <strong>=Biwa Good Luck (JPN)</strong> (1995 f. by Adjudicating). 3 wins at 3, 50,038,000 Yen, in Japan, 2nd Kansai Telecasting Corporation Sho Rose S. [LR]. (Total: $375,321). Producer.
-+   .  <strong>=Biwa Good Luck (JPN)</strong> (1995 f. by Adjudicating). 3 wins at 3, 50,038,000 Yen, in Japan, 2nd Kansai Telecasting Corporation Sho Rose S. [LR]. (Total: $375,321). Dam of 7 foals, 7 to race, 3 winners--
-+   .  .  =No Make (JPN) (2003 f. by =Agnes Tachyon (JPN)). 6 wins, 3 to 5, 8,829,000 Yen, in Japan. (Total: $77,608). Dam of 1 foal, 1 to race, 1 winner--
-+   .  .  .  =Sultan Corona (JPN) (2010 c. by Alkaased). Winner at 3, 532,000 Yen, in Japan. (Total: $5,689).
-+   .  .  =Gains Girl (JPN) (2007 f. by White Muzzle (GB)). Winner at 3 and 4, 2,804,000 Yen, in Japan. (Total: $33,200).
-+   .  .  =Inase (JPN) (2005 c. by =Sakura Bakushin O (JPN)). Winner at 3, 2,154,000 Yen, in Japan. (Total: $20,714).
-+   .  .  =Basara King (JPN) (2006 c. by Grass Wonder). Unplaced in Japan.
-+   .  .  =Lucky Mermaid (JPN) (2002 f. by =Fuji Kiseki (JPN)). Unplaced in Japan. Dam of 6 foals, 6 to race, 3 winners--
-+   .  .  .  =Shonan Aristo (JPN) (2014 c. by King's Best). Winner at 3, 32,780,000 Yen, in Japan. (Total: $294,768).
-+   .  .  .  =Meine Lorelei (JPN) (2008 f. by Roses in May). Winner at 3 and 4, 8,854,500 Yen, in Japan. (Total: $109,157).
-+   .  .  .  =Love Me Ago (JPN) (2009 f. by Roses in May). 3 wins at 2 and 3, 5,164,000 Yen, in Japan. (Total: $64,209).
-+   .  .  .  =Friend Jewelry (JPN) (2011 f. by Conduit (IRE)). Placed at 3, 116,000 Yen, in Japan. (Total: $1,064).
-+   .  .  .  =T M Sensha (JPN) (2012 c. by Kurofune). Unplaced in Japan.
-+   .  .  .  =Joyful Maid (JPN) (2007 f. by Afleet). Unplaced in 1 start in Japan.
-+   .  .  =Silk Good Luck (JPN) (2001 f. by Brian's Time). Unplaced in 1 start in Japan.
-+   .  .  =Dearness (JPN) (2000 f. by Afleet). Unplaced in Japan.
-    .  =Biko Feather (JPN) (2004 g. by White Muzzle (GB)). 3 wins, 4 to 6, 108,365,000 Yen, in Japan. (Total: $1,179,511).
-    .  =Biwa Kazu Eri (JPN) (1997 f. by =Biwa Hayahide (JPN)). Winner at 3, 10,940,000 Yen, in Japan. (Total: $101,508).
-    .  =Queen Monana (JPN) (1999 f. by =Biwa Hayahide (JPN)). 4 wins at 3 and 4, 2,088,000 Yen, in Japan. (Total: $17,305).
-@@ -249,35 +820,218 @@
-    .  =Saint Sailor (JPN) (1994 f. by Caerleon). Placed at 3, 3,340,000 Yen, in Japan. (Total: $29,071). Dam of 13 foals, 12 to race, 8 winners--
-    .  .  <strong>=SILK FAMOUS (JPN)</strong> (1999 c. by =Marvelous Sunday (JPN)). 9 wins, 3 to 7, 473,914,000 Yen, in Japan, 1st American Jockey Club Cup [L], Kyoto Kinen [LR], Nikkei Shinshun Hai [LR], 2nd Takarazuka Kinen <strong>[G1]</strong>, 3rd Kyoto Kinen <strong>[G2]</strong>, Kinko Sho [L], Arima Kinen Grand Prix [LR], Tenno Sho Spring [LR]. (Total: $4,276,513). Sire.
-    .  .  <strong>=Ken Bridge L (JPN)</strong> (2006 c. by Eishin Preston). 4 wins, 2 to 4, 129,407,000 Yen, in Japan, 3rd Silk Road S. <strong>[G3]</strong>. (Total: $1,488,734).
-+   .  .  =Ken Endeavor (JPN) (2003 f. by =Marvelous Sunday (JPN)). 3 wins at 3 and 4, 33,824,000 Yen, in Japan. (Total: $285,027). Dam of 5 foals, 5 to race, 4 winners--
-+   .  .  .  =Noble Atlas (JPN) (2015 c. by Silver Charm). 3 wins, 3 to 7, 2022, 10,595,000 Yen, in Japan. (Total: $94,055).
-+   .  .  .  =Apollo Flugel (JPN) (2012 c. by Rokko Oroshi). 5 wins at 4 and 5, 6,310,000 Yen, in Japan. (Total: $53,662).
-+   .  .  .  =Scala Blue (JPN) (2011 f. by $Opera House (GB)). 4 wins at 4 and 5, 904,000 Yen, in Japan. (Total: $7,432).
-+   .  .  .  =Marino Levin (JPN) (2014 f. by =Meisho Bowler (JPN)). 2 wins at 3, 558,000 Yen, in Japan. (Total: $5,061).
-+   .  .  .  =Koa Happy (JPN) (2013 f. by South Vigorous). Placed at 2 and 3, 1,210,000 Yen, in Japan. (Total: $10,474).
-+   .  .  =Sistina Blue (JPN) (2008 f. by =Zenno Rob Roy (JPN)). Winner at 3, 8,620,000 Yen, in Japan. (Total: $111,669). Dam of 6 foals, 6 to race, 6 winners--
-+   .  .  .  =Ken Gaia (JPN) (2016 f. by =Transcend (JPN)). 5 wins, 2 to 4, 21,930,000 Yen, in Japan. (Total: $198,469).
-+   .  .  .  =Keisan Hoimi (JPN) (2014 f. by Taiki Shuttle). 5 wins, 3 to 7, placed at 8, 2022, 9,409,000 Yen, in Japan. (Total: $82,756).
-+   .  .  .  =Bajigaku Heart (JPN) (2017 f. by =Smart Falcon (JPN)). 3 wins, 2 to 5, 2022, 5,380,000 Yen, in Japan. (Total: $47,290).
-+   .  .  .  =Domburako (JPN) (2018 f. by South Vigorous). Winner at 3 and 4, 2022, 4,394,000 Yen, in Japan. (Total: $39,238).
-+   .  .  .  =Lightning Blue (JPN) (2020 f. by =Hokko Tarumae (JPN)). Winner at 2, 2022, 4,374,000 Yen, in Japan. (Total: $33,397).
-+   .  .  .  =Kei Veyron (JPN) (2015 c. by =Smart Robin (JPN)). 2 wins at 3, 742,000 Yen, in Japan. (Total: $6,674).
-+   .  .  =Ken Bridge Days (JPN) (2012 f. by Kurofune). Winner at 3, 8,950,000 Yen, in Japan. (Total: $73,460). Dam of 2 foals, 2 to race, 1 winner--
-+   .  .  .  =Grant (JPN) (2019 c. by =Admire Moon (JPN)). 2 wins at 3, 2022, 1,179,000 Yen, in Japan. (Total: $8,621).
-+   .  .  .  =Valentine (JPN) (2018 c. by =Tosen Jordan (JPN)). Placed at 2, 706,000 Yen, in Japan. (Total: $6,758).
-+   .  .  =Athena Blue (JPN) (2007 f. by =Jungle Pocket (JPN)). Winner at 3, 2,500,000 Yen, in Japan. (Total: $27,965). Dam of 7 foals, 6 to race, 5 winners--
-+   .  .  .  =Duality (JPN) (2016 f. by =Grand Prix Boss (JPN)). 6 wins at 3 and 4, 10,430,000 Yen, in Japan. (Total: $96,231).
-+   .  .  .  =Ken Bridge Latte (JPN) (2018 c. by Espoir City (JPN)). Winner at 2 and 3, placed at 4, 2022, 9,420,000 Yen, in Japan. (Total: $80,968).
-+   .  .  .  =Ken Bichon (JPN) (2014 c. by =Matsurida Gogh (JPN)). 4 wins, 2 to 6, 8,083,000 Yen, in Japan. (Total: $77,402).
-+   .  .  .  =Keisan Harrison (JPN) (2015 c. by =Nakayama Festa (JPN)). 4 wins at 3 and 4, 2,409,000 Yen, in Japan. (Total: $22,254).
-+   .  .  .  =Cincinnati (JPN) (2019 f. by Grass Wonder). Winner at 3, 2022, 2,275,000 Yen, in Japan. (Total: $18,854).
-+   .  .  .  =Hayato (JPN) (2017 c. by =Lohengrin (JPN)). Placed at 3 and 4, 571,000 Yen, in Japan. (Total: $5,244).
-+   .  .  .  =Ken Bridge Sky (JPN) (2013 c. by =Dance in the Dark (JPN)). Unraced in Japan.
-+   .  .  =Shishimaru (JPN) (2015 c. by =Monterosso (GB)). Winner at 4 and 5, 1,192,000 Yen, in Japan. (Total: $10,960).
-+   .  .  =Silk Allure (JPN) (2002 c. by Adjudicating). 2 wins at 4, 737,000 Yen, in Japan. (Total: $6,342).
-+   .  .  =Ken Bridge Swan (JPN) (2009 f. by =Gold Allure (JPN)). Placed at 3, 1,200,000 Yen, in Japan. (Total: $15,297). Dam of 6 foals, 6 to race, 6 winners--
-+   .  .  .  =Maloca of Jaguar (JPN) (2018 c. by Roses in May). 5 wins, 2 to 4, 2022, 15,720,000 Yen, in Japan. (Total: $138,362).
-+   .  .  .  =Keisan Parupunte (JPN) (2014 c. by Eishin Apollon). 11 wins, 2 to 7, 5,911,000 Yen, in Japan. (Total: $53,310).
-+   .  .  .  =Ken Bridge With (JPN) (2016 f. by =Meisho Bowler (JPN)). 7 wins, 3 to 6, 2022, 5,608,000 Yen, in Japan. (Total: $50,911).
-+   .  .  .  =Ken Bridge Bit (JPN) (2015 f. by =Jo Cappuccino (JPN)). 4 wins, 2 to 5, 5,564,000 Yen, in Japan. (Total: $49,777).
-+   .  .  .  =Ken Bridge Kanade (JPN) (2017 f. by Came Home). 2 wins at 5, 2022, 4,466,000 Yen, in Japan. (Total: $39,553).
-+   .  .  .  =Reward Typhon (JPN) (2019 c. by =Hokko Tarumae (JPN)). 3 wins at 2, placed at 3, 2022, 3,749,000 Yen, in Japan. (Total: $33,457).
-+   .  .  =Ken Chame One (JPN) (2004 f. by Mi Cielo). Placed at 3, 1,516,000 Yen, in Japan. (Total: $12,949). Dam of 7 foals, 6 to race, 6 winners--
-+   .  .  .  =T M Goodman (JPN) (2014 c. by Agnes Digital). 4 wins, 3 to 7, 101,215,000 Yen, in Japan. (Total: $927,112).
-+   .  .  .  =Hilarious (JPN) (2011 f. by Fasliyev). Winner at 3, 10,300,000 Yen, in Japan. (Total: $100,772).
-+   .  .  .  =King of Saint (JPN) (2009 c. by =Lincoln (JPN)). 6 wins, 3 to 5, 5,361,000 Yen, in Japan. (Total: $55,495).
-+   .  .  .  =Ken Bridge Linear (JPN) (2013 f. by Taiki Shuttle). 6 wins, 3 to 5, 1,848,000 Yen, in Japan. (Total: $16,920).
-+   .  .  .  =Ken Bridge Ahtna (JPN) (2010 f. by =Yamanin Seraphim (JPN)). 4 wins at 3 and 4, 835,000 Yen, in Japan. (Total: $8,289).
-+   .  .  .  =T M Chame One (JPN) (2015 f. by Swept Overboard). Winner at 3, 237,000 Yen, in Japan. (Total: $2,202).
-+   .  .  .  =Unnamed (2012 f. by Fourty Niners Son).
-+   .  .  =Saint Angel (JPN) (2001 f. by Premium Thunder). Unraced in Japan. Dam of 3 foals, 2 to race, 1 winner--
-+   .  .  .  =Ken Amatsukaze (JPN) (2005 f. by =Marvelous Sunday (JPN)). Winner at 2, 350,000 Yen, in Japan. (Total: $3,097).
-+   .  .  .  =Unnamed (2006 c. by =Agnes Tachyon (JPN)).
-+   .  .  .  =Natsuiro Pretty (AUS) (2009 f. by =God's Own (AUS)). Unplaced in 2 starts, $500(AUS), in Australia. (Total: $520).
-+   .  .  =Premium Canon (JPN) (2005 f. by =Fuji Kiseki (JPN)). Unplaced, 500,000 Yen, in Japan. (Total: $4,661). Dam of 6 foals, 6 to race, 3 winners--
-+   .  .  .  =Ken Bridge Ether (JPN) (2015 c. by South Vigorous). 11 wins, 3 to 7, placed at 8, 2023, 23,090,000 Yen, in Japan. (Total: $201,089).
-+   .  .  .  =Ken Bridge Bell (JPN) (2013 f. by Pyro). Winner at 3, 3,116,000 Yen, in Japan. (Total: $28,596).
-+   .  .  .  =Kei Blues (JPN) (2016 f. by French Deputy). Winner at 2, 2,700,000 Yen, in Japan. (Total: $23,760).
-+   .  .  .  =Mishel With (JPN) (2017 f. by =Unrivaled (JPN)). Placed at 3 and 4, 307,000 Yen, in Japan. (Total: $2,854).
-+   .  .  .  =Ken Bridge Moss (JPN) (2010 c. by Grass Wonder). Placed at 3, 38,000 Yen, in Japan. (Total: $378).
-+   .  .  .  =Ken Blues (JPN) (2014 f. by =Admire Aura (JPN)). Unplaced in Japan.
-+   .  .  =Keisan Pecorina (JPN) (2013 f. by =Admire Moon (JPN)). Unplaced, 14,000 Yen, in Japan. (Total: $135).
-    .  =Silk Memory (JPN) (2000 f. by =Biwa Hayahide (JPN)). Placed at 3 and 4, 6,725,000 Yen, in Japan. (Total: $57,685).
--   .  =Prelate (JPN) (2002 f. by Sunday Silence). Placed at 3, 4,825,000 Yen, in Japan. (Total: $43,972). Producer.
-+   .  =Prelate (JPN) (2002 f. by Sunday Silence). Placed at 3, 4,825,000 Yen, in Japan. (Total: $43,972). Dam of 13 foals, 13 to race, 5 winners--
-+   .  .  =Valiente (JPN) (2015 c. by =Strong Return (JPN)). Winner at 3, 16,004,000 Yen, in Japan. (Total: $144,343).
-+   .  .  =Goodbye Summer (JPN) (2014 f. by Summer Bird). 4 wins, 4 to 7, 3,658,000 Yen, in Japan. (Total: $35,000).
-+   .  .  =Baptisma (JPN) (2010 f. by Symboli Kris S). 8 wins, 3 to 5, 1,257,000 Yen, in Japan. (Total: $11,414).
-+   .  .  =Dia Buder (JPN) (2017 f. by =Tosen Jordan (JPN)). Winner at 3, 694,000 Yen, in Japan. (Total: $6,418).
-+   .  .  =Pachira (JPN) (2013 f. by Behkabad (FR)). 2 wins at 3, 447,000 Yen, in Japan. (Total: $4,315).
-+   .  .  =Archbishop (JPN) (2007 c. by French Deputy). Placed at 4, 2,368,000 Yen, in Japan. (Total: $27,339).
-+   .  .  =Admire Ribot (JPN) (2008 c. by =Admire Don (JPN)). Placed at 3, 2,100,000 Yen, in Japan. (Total: $25,664).
-+   .  .  =Hana Midori (JPN) (2016 f. by =Red Spada (JPN)). Placed at 2, 204,000 Yen, in Japan. (Total: $1,806).
-+   .  .  =Raggio di Sole (JPN) (2018 c. by Asia Express). Placed at 3, 175,000 Yen, in Japan. (Total: $1,577).
-+   .  .  =Sadamu Cook Pine (JPN) (2009 f. by =King Kamehameha (JPN)). Placed at 3, 119,000 Yen, in Japan. (Total: $1,504).
-+   .  .  =Gold Sai (JPN) (2012 f. by =Chichicastenango (FR)). Placed at 2, 92,000 Yen, in Japan. (Total: $880).
-+   .  .  =Takaichi Samson (JPN) (2011 f. by =Meisho Samson (JPN)). Unplaced in 1 start, 250,000 Yen, in Japan. (Total: $2,488).
-+   .  .  =Ishiki Takai Kei (JPN) (2019 f. by =Strong Return (JPN)). Unplaced in 2 starts in Japan.
-    .  =Peekaboo (JPN) (2005 f. by =Sakura Bakushin O (JPN)). Placed at 3, 3,550,000 Yen, in Japan. (Total: $32,582).
--   .  =Marabou Fleet (JPN) (2003 f. by Afleet). Placed at 2, 1,055,000 Yen, in Japan. (Total: $9,597). Producer.
-+   .  =Marabou Fleet (JPN) (2003 f. by Afleet). Placed at 2, 1,055,000 Yen, in Japan. (Total: $9,597). Dam of 5 foals, 5 to race, 2 winners--
-+   .  .  =Avec Moi (JPN) (2012 f. by Fourty Niners Son). 12 wins, 3 to 6, 3,413,000 Yen, in Japan. (Total: $29,565).
-+   .  .  =Chignon (JPN) (2014 f. by =Unrivaled (JPN)). Winner at 2, 550,000 Yen, in Japan. (Total: $5,319).
-+   .  .  =Suzu Goten (JPN) (2009 f. by Rule of Law). Placed at 2 and 3, 136,000 Yen, in Japan. (Total: $1,755).
-+   .  .  =Rinen Gonzalez (JPN) (2011 g. by $Opera House (GB)). Placed at 3, 33,000 Yen, in Japan. (Total: $285).
-+   .  .  =Brilliant Bard (JPN) (2007 c. by =Marienbard (IRE)). Unplaced in 1 start in Japan.
-    .  =Silky Feather (JPN) (1996 f. by =Biwa Hayahide (JPN)). Unplaced, 3,200,000 Yen, in Japan. (Total: $27,307).
-    Penultimate (1987 f. by Roberto). Unraced. Sent from United States to England in 1987. Dam of 7 foals, 7 to race, 5 winners--
--   .  <strong>=Personal Best (IRE)</strong> (1994 f. by =Kris (GB)). Winner at 3, 21,038 Euro, in France, 3rd Prix Occitanie Trophee Geny Courses [L]; placed in 1 start at 3, 4,090 Euro, in Germany, 2nd Nereide-Rennen [L]. (Total: $27,737). Died 2010. Producer.
-+   .  <strong>=Personal Best (IRE)</strong> (1994 f. by =Kris (GB)). Winner at 3, 21,038 Euro, in France, 3rd Prix Occitanie Trophee Geny Courses [L]; placed in 1 start at 3, 4,090 Euro, in Germany, 2nd Nereide-Rennen [L]. (Total: $27,737). Died 2010. Dam of 5 foals, 5 to race, 4 winners--
-+   .  .  =Mrs Backshoe (IRE) (2003 f. by =Vettori (IRE)). 3 wins at 3 and 4, 45,960 Euro, in France. (Total: $60,389). Dam of 4 foals, 2 to race, 1 winner--
-+   .  .  .  =Craspouette (FR) (2011 g. by =Martaline (GB)). Winner at 10, 25,117 Euro, in France. (Total: $29,569).
-+   .  .  .  =Unnamed (2012 f. by =Forestier (FR)).
-+   .  .  .  =Typical Frenchman (FR) (2009 g. by =Laveron (GB)). Unraced in France.
-+   .  .  .  =Unchained Melodie (FR) (2010 f. by =Great Pretender (IRE)). Unplaced in France.
-+   .  .  =Exzilarating (GB) (2000 c. by Zilzal). 5 wins at 3 and 6, 22,570 Euro, in Germany; winner at 7, 9,600 Euro, in France; placed at 2 and 3, 5,714 Pounds, in England. (Total: $49,478).
-+   .  .  =Magic Sarah (IRE) (2004 f. by =Alhaarth (IRE)). 2 wins at 4, 18,550 Euro, in France. (Total: $29,063). Dam of 4 foals, 3 to race, 2 winners--
-+   .  .  .  =Magic Run (FR) (2010 f. by Hurricane Run (IRE)). 3 wins, 3 to 5, 70,300 Euro, in France. (Total: $88,027).
-+   .  .  .  =Stella Corsica (FR) (2011 f. by Slickly (FR)). Winner at 3, 15,850 Euro, in France. (Total: $19,827).
-+   .  .  .  =Royal Vision (FR) (2013 c. by =Vision d'Etat (FR)). Unraced in France.
-+   .  .  .  =Gwel Stad (FR) (2012 g. by =Vision d'Etat (FR)). Unplaced in 1 start in France. Died 2015.
-+   .  .  =Cima Best (IRE) (2007 f. by Dubawi (IRE)). 3 wins at 2 and 3, 16,712 Euro, in Italy. (Total: $22,814). Dam of 2 foals, 2 to race, 1 winner--
-+   .  .  .  =Coana de Nurra (ITY) (2020 f. by =Tout Seul (IRE)). Winner at 2, 2022, 3,920 Euro, in Italy. (Total: $3,875).
-+   .  .  .  =Dubawi Nurressu (ITY) (2017 g. by =Sound of Desert (IRE)). Unplaced in Italy.
-+   .  .  =Akelare (IRE) (2006 f. by Rock of Gibraltar (IRE)). Unplaced in 1 start, 900 Euro, in France. (Total: $1,312). Died 2022.
-    .  =Usk Valley (IRE) (1995 g. by =Tenby (GB)). 3 wins at 9, 15,445 Pounds, in England. (Total: $27,422).
--   .  =Verdigris (IRE) (1991 f. by Green Desert). Winner at 3, 8,162 Pounds, in England. (Total: $12,474). Producer.
--   .  First Amendment (IRE) (1992 f. by Caerleon). Winner in 1 start at 4, $8,400, in N.A./U.S.; placed at 2 and 3, 2,188 Pounds, in England. Sent from Great Britain to United States in 1995. Sent from United States to Great Britain in 1998. (Total: $11,874). Producer.
-+   .  =Verdigris (IRE) (1991 f. by Green Desert). Winner at 3, 8,162 Pounds, in England. (Total: $12,474). Dam of 8 foals, 4 to race, 1 winner--
-+   .  .  =Alzabaq (KSA) (2003 c. by Polar Run). Winner at 4, 40,710 Riyals, in Saudi Arabia. Racing in Saudi Arabia as Alzibaq. (Total: $10,890).
-+   .  .  =Shokraan (KSA) (2005 c. by Agol Lack). Placed at 4, 18,900 Riyals, in Saudi Arabia. (Total: $5,040).
-+   .  .  =Barq Wa Raad (KSA) (2008 c. by =Petit Paris (CHI)). Placed at 4, 17,820 Riyals, in Saudi Arabia. (Total: $4,751).
-+   .  .  =Unnamed (2010 c. by =Gold for Sale (ARG)).
-+   .  .  =Unnamed (2009 f. by Judge T C).
-+   .  .  =Almashlahiyah (KSA) (2004 f. by Race Leader). Unraced in Saudi Arabia. Dam of 2 foals--
-+   .  .  .  =Unnamed (2015 c. by Midas Eyes).
-+   .  .  .  =Unnamed (2012 f. by =Frondoso (ARG)).
-+   .  .  =Alaqeelah (KSA) (1998 f. by =Voleris (FR)). Unraced in Saudi Arabia. Dam of 10 foals, 6 to race--
-+   .  .  .  =Unnamed (2014 c. by =Enforcer (GB)).
-+   .  .  .  =Unnamed (2013 f. by =Russian Valour (IRE)).
-+   .  .  .  =Unnamed (2012 c. by Cool Customer).
-+   .  .  .  =Unnamed (2011 f. by Tendulkar).
-+   .  .  .  =Nooree (KSA) (2005 c. by Mortlock (FR)). Unplaced, 18,400 Riyals, in Saudi Arabia. (Total: $4,907).
-+   .  .  .  =Waady Wareef (KSA) (2015 c. by =Rumool (GB)). Unplaced in 1 start in Saudi Arabia.
-+   .  .  .  =Bint Zamaan (KSA) (2009 f. by =Marino Altivo (CHI)). Unplaced in 1 start in Saudi Arabia.
-+   .  .  .  =Sakhab (KSA) (2008 c. by =Amazink (IRE)). Unplaced in Saudi Arabia.
-+   .  .  .  =Mahboobat Reemaas (KSA) (2006 f. by =Amazink (IRE)). Unplaced in 1 start in Saudi Arabia.
-+   .  .  .  =Kaltham (KSA) (2002 c. by Ambassadori). Unplaced in Saudi Arabia.
-+   .  .  =Nawhaat (KSA) (1999 f. by =Sharpitor (IRE)). Unplaced, 4,140 Riyals, in Saudi Arabia. (Total: $1,104). Dam of 1 foal--
-+   .  .  .  =Unnamed (2005 c. by Gold Camp).
-+   .  First Amendment (IRE) (1992 f. by Caerleon). Winner in 1 start at 4, $8,400, in N.A./U.S.; placed at 2 and 3, 2,188 Pounds, in England. Sent from Great Britain to United States in 1995. Sent from United States to Great Britain in 1998. (Total: $11,874). Dam of 9 foals, 8 to race, 3 winners--
-+   .  .  First Alert (GB) (1999 f. by Miswaki). 2 wins at 2, 7,230 Pounds, in England; placed at 3, $6,150, in N.A./U.S. Sent from Great Britain to United States in 2001. (Total: $16,531). Dam of 6 foals, 4 to race, 2 winners--
-+   .  .  .  Collalto (2006 c. by Yankee Gentleman). 2 wins at 3, $37,920.
-+   .  .  .  Thunder N Bold (2005 c. by Malek (CHI)). Winner at 2 and 3, $35,583.
-+   .  .  .  Mikey (2010 c. by Fairbanks). Unraced.
-+   .  .  .  Unnamed (2007 c. by Beau Genius).
-+   .  .  .  Swiss Alert (2004 f. by Swiss Yodeler). Unplaced, $1,500.
-+   .  .  .  Abelard (2008 g. by Tribal Rule). Unplaced in 2 starts, $800.
-+   .  .  =Yeoman Lad (GB) (2000 g. by Groom Dancer). Winner at 2, 10,442 Pounds, in England. (Total: $16,425).
-+   .  .  Thunders On (1997 c. by Thunder Gulch). Winner at 5 and 6, $8,740. Sent from United States to Great Britain in 1997. Returned to United States from Great Britain in 1998.
-+   .  .  =Fast and First (FR) (2008 g. by =Bernebeau (FR)). Placed at 3 and 4, 14,545 Euro, in France. (Total: $19,218).
-+   .  .  =Fast Number (FR) (2007 f. by =Nombre Premier (GB)). Placed at 3 and 4, 11,950 Euro, in France. (Total: $16,824).
-+   .  .  =First Precedent (FR) (2002 f. by Polish Precedent). Placed at 3, 1,600 Euro, in France. (Total: $1,934). Dam of 4 foals, 2 to race, 1 winner--
-+   .  .  .  =Finisteria (FR) (2009 f. by Kingsalsa). 4 wins, 4 to 10, 56,650 Euro, in France. (Total: $70,665).
-+   .  .  .  =Galaxie Beauchene (FR) (2016 f. by =Boris de Deauville (IRE)). Unraced in France.
-+   .  .  .  =Shade of Grey (FR) (2010 f. by =Peer Gynt (JPN)). Unraced in France. Died 2014.
-+   .  .  .  =Firstia (FR) (2007 f. by Until Sundown). Unplaced, 1,250 Euro, in France. (Total: $1,741).
-+   .  .  =Fast Affair (FR) (2005 c. by Charge d'Affaires (GB)). Unraced in France.
-+   .  .  =Number Two (FR) (2009 f. by =Nombre Premier (GB)). Unplaced in 1 start in France. Died 2012.
-+   .  .  =Electromaster (GB) (2001 g. by =Vettori (IRE)). Unplaced in 1 start in Ireland.
-    .  =Berkeley Court (GB) (2001 g. by =Croco Rouge (IRE)). 2 wins at 8, 6,819 Pounds, in England. (Total: $11,505).
--   .  =Razzle Dazzle (IRE) (1996 f. by Caerleon). Placed at 3, 4,649 Euro, in France. (Total: $4,872). Died 2010. Producer.
-+   .  =Razzle Dazzle (IRE) (1996 f. by Caerleon). Placed at 3, 4,649 Euro, in France. (Total: $4,872). Died 2010. Dam of 4 foals, 2 to race, 1 winner--
-+   .  .  =Speechmaker (GB) (2007 g. by $Royal Applause (GB)). Winner at 3, 8,765 Euro, in Ireland; placed at 4 and 5, $465,350(HK), in Hong Kong. Sent from Ireland to Hong Kong in 2011. (Total: $70,633).
-+   .  .  =Unnamed (2006 f. by $Mark of Esteem (IRE)). Died 2008.
-+   .  .  =Raspect (GB) (2002 c. by =Spectrum (IRE)). Unraced in Great Britain.
-+   .  .  =Bright (GB) (2003 g. by Mister Baileys (GB)). Unplaced in England.
-    .  =Academic Gold (IRE) (1998 g. by Royal Academy). Placed at 2 and 3, 1,344 Pounds, in England. (Total: $1,956).
-    Baby Bride (1996 f. by Dayjur). Unraced. Sent from United States to France in 2000. Dam of 6 foals, 3 to race, 1 winner--
--   .  =Mariee Celebre (GB) (2004 f. by Peintre Celebre). Winner at 3 in Sweden. Producer.
-+   .  =Mariee Celebre (GB) (2004 f. by Peintre Celebre). Winner at 3 in Sweden. Dam of 7 foals, 6 to race, 3 winners--
-+   .  .  =Vainqueur (SWE) (2009 g. by =Dalakhani (IRE)). Winner at 2 and 3, 198,620 Krone, in Norway; 5 wins, 4 to 6, 328,250 Krone, in Denmark; placed at 5, 32,750 Krona, in Sweden. (Total: $93,912).
-+   .  .  =Cara Blanca (SWE) (2012 f. by Mingun). 4 wins, 3 to 6, 265,400 Krona, in Sweden. (Total: $31,598). Dam of 1 foal, 1 to race--
-+   .  .  .  =Top Gear (SWE) (2019 g. by Hallucinate). Unplaced in 2 starts, 4,600 Krona, in Sweden. (Total: $446).
-+   .  .  =Nobel Bride (SWE) (2010 f. by =Nobileo (GB)). Winner at 3 and 4, 31,500 Krone, in Denmark; unplaced in 2 starts in Sweden; unplaced in Norway. (Total: $5,533).
-+   .  .  =Malindi (SWE) (2017 f. by =Verde-Mar (BRZ)). Placed at 2 and 3, 71,808 Krona, in Sweden. (Total: $7,581).
-+   .  .  =Werdi One (SWE) (2015 g. by =Verde-Mar (BRZ)). Placed at 2, 20,400 Krona, in Sweden. (Total: $2,327).
-+   .  .  =Nobel Groom (SWE) (2011 g. by =Nobileo (GB)). Placed at 2, 12,495 Krone, in Norway; unplaced in 1 start in Sweden. (Total: $2,121).
-+   .  .  =Mariee Gare (SWE) (2013 f. by =Appel Au Maitre (FR)). Unraced in Sweden.
-    .  Balcarce (2000 f. by Roy). Unraced. Sent from United States to Argentina in 2001. Dam of 13 foals, 8 to race, 7 winners--
-    .  .  <strong>=BAJISTA (ARG)</strong> (2010 c. by Perfectperformance). 6 wins, 3 to 6, 1,582,240 Pesos, in Argentina, 1st Provincia de Buenos Aires <strong>[G1]</strong>, 2nd Dardo Rocha <strong>[G1]</strong>, 3rd Clausura <strong>[G2]</strong>, Uberto F. Vignart <strong>[G3]</strong>. (Total: $204,061).
--   .  .  <strong>=BELARUSA (ARG)</strong> (2012 f. by Orpen). 5 wins at 3 and 4, 1,740,378 Pesos, in Argentina, 1st La Mission <strong>[G2]</strong>, Clasico Ramon Biaus <strong>[G2]</strong>, 2nd Particula <strong>[G2]</strong>, Chile <strong>[G3]</strong>, 3rd Los Haras <strong>[G2]</strong>. (Total: $123,383). Producer.
-+   .  .  <strong>=BELARUSA (ARG)</strong> (2012 f. by Orpen). 5 wins at 3 and 4, 1,740,378 Pesos, in Argentina, 1st La Mission <strong>[G2]</strong>, Clasico Ramon Biaus <strong>[G2]</strong>, 2nd Particula <strong>[G2]</strong>, Chile <strong>[G3]</strong>, 3rd Los Haras <strong>[G2]</strong>. (Total: $123,383). Dam of 3 foals, 2 to race, 1 winner--
-+   .  .  .  =Borzakovskiy (JPN) (2019 c. by =Kizuna (JPN)). 3 wins at 3 and 4, 2023, 34,180,000 Yen, in Japan. (Total: $258,011).
-+   .  .  .  =Unnamed (2021 f. by =Real Steel (JPN)).
-+   .  .  .  =Grand Rowdy (JPN) (2020 c. by =Real Steel (JPN)). Unplaced in Japan.
-    .  .  <strong>=Bayern (ARG)</strong> (2008 c. by Orpen). 6 wins, 2 to 6, 418,315 Pesos, in Argentina, 2nd Polla de Potrillos-Argentine Two Thousand Guineas <strong>[G1]</strong>. (Total: $84,370).
-+   .  .  Bahia Rosa (ARG) (2004 f. by American Chance). Winner in 4 starts at 2 and 3, 38,030 Pesos, in Argentina; winner at 4, $16,088, in N.A./U.S. Sent from Argentina to United States in 2007. (Total: $28,310).
-+   .  .  =Bien (ARG) (2005 g. by Orpen). 3 wins at 3 and 4, 185,600 Rands, in South Africa. (Total: $23,282).
-+   .  .  =Basta de Talk (ARG) (2003 f. by Confidential Talk). 2 wins at 3, 47,121 Pesos, in Argentina. (Total: $15,270). Dam of 9 foals, 4 to race, 1 winner--
-+   .  .  .  =Basta de Yeta (URU) (2014 f. by Alexander of Hales). 5 wins, 3 to 6, 649,291 Pesos, in Uruguay. (Total: $18,685).
-+   .  .  .  =La Moni (URU) (2019 f. by =Imperrito (URU)). Unraced in Uruguay.
-+   .  .  .  =Spirit Si (URU) (2018 c. by =Imperrito (URU)). Unraced in Uruguay.
-+   .  .  .  =Silenciosa H (URU) (2011 f. by Hardy). Unraced in Uruguay.
-+   .  .  .  =Hablador H (URU) (2010 c. by Hardy). Unraced in Uruguay.
-+   .  .  .  =Light Talk (ARG) (2008 f. by Mr. Light (ARG)). Unraced in Argentina.
-+   .  .  .  =Basta Ya (URU) (2012 f. by Artiste Royal (IRE)). Unplaced, 27,838 Pesos, in Uruguay. (Total: $936).
-+   .  .  .  =Bartola (URU) (2016 f. by Honour and Glory). Unplaced in Uruguay.
-+   .  .  .  =Basta de Charla (URU) (2013 f. by Alexander of Hales). Unplaced in Uruguay.
-+   .  .  =Barnabas II (ARG) (2009 g. by Perfectperformance). Winner at 4, 4,871,000 Pesos, in Chile. (Total: $9,831).
-+   .  .  =Bremem (ARG) (2017 c. by Orpen). Unraced in Argentina.
-+   .  .  =Balance (ARG) (2015 f. by Orpen). Unraced in Argentina.
-+   .  .  =Balerna (ARG) (2014 f. by Orpen). Unraced in Argentina.
-+   .  .  =Batuco (ARG) (2011 c. by Freud). Unraced in Argentina.
-+   .  .  =Balcanes (ARG) (2006 c. by Seeker's Reward). Unraced in Argentina.
-+   .  .  =Bajo Secreto (ARG) (2013 c. by Orpen). Unplaced, 12,000 Pesos, in Argentina. (Total: $691).
-    .  =Unnamed (2005 c. by Tobougg (IRE)). Died 2007.
-    .  =Unnamed (2003 c. by =Desert Style (IRE)).
-    .  =Equitable (FR) (2006 c. by Kingsalsa). Unplaced in 2 starts, 450 Euro, in France. (Total: $710). Died 2008.
--   .  Mrs. Saigon (1999 f. by Mr. Greeley). Unplaced in 2 starts. Producer.
-+   .  Mrs. Saigon (1999 f. by Mr. Greeley). Unplaced in 2 starts. Dam of 4 foals, 3 to race, 1 winner--
-+   .  .  Ping Bay (2005 f. by Sligo Bay (IRE)). Winner at 4, $64,984. Dam of 1 foal--
-+   .  .  .  Unnamed (2019 f. by Summer Front). (application pending)
-+   .  .  Duncan McFly (2007 c. by Weekend Cruise). Placed at 2, $7,253.
-+   .  .  Unnamed (2012 c. by Mizzen Mast). (application cancelled)
-+   .  .  Senorita Mariposa (2004 f. by Vision and Verse). Unraced.
-+   .  .  Belleza Pluma (2003 f. by Housebuster). Unplaced in 2 starts. Died 2011. Dam of 3 foals, 2 to race--
-+   .  .  .  Blushing Belleza (2009 f. by Runaway Macho). Unraced.
-+   .  .  .  Runaway Belle (2008 f. by Runaway Macho). Unplaced, $960.
-+   .  .  .  Mervyn (2010 c. by Runaway Macho). Unplaced in 1 start, $100.
-    Anakid (1994 f. by Danzig). Unraced. Sent from United States to Great Britain in 1996. Returned to United States from Ireland in 1998. Dam of 6 foals, 6 to race, 5 winners--
--   .  Miss Mexique (2008 f. by Lemon Drop Kid). 5 wins, 3 to 6, $98,000.
-+   .  Miss Mexique (2008 f. by Lemon Drop Kid). 5 wins, 3 to 6, $98,000. Dam of 4 foals--
-+   .  .  Unnamed (2022 f. by Xixixi). (application pending)
-+   .  .  Unnamed (2021 f. by Unfettered). (application pending)
-+   .  .  Z Mystique (2020 g. by Xixixi). Unraced.
-+   .  .  Unnamed (2018 c. by Xixixi). (application pending)
-    .  Political Reporter (2005 g. by Silver Charm). 6 wins, 3 to 6, $80,750.
-    .  Mozakhraf (2002 c. by Miswaki). 4 wins at 4 and 5, 15,188 Pounds, in England; unplaced, 451 Euro, in Ireland. Sent from United States to Ireland in 2002. (Total: $30,619).
-    .  Annacet (2007 f. by Toccet). 2 wins at 3, $27,560.
-    .  Play Right Capote (2003 g. by Capote). Winner at 4, $15,829.
-    .  Fair Time (1999 f. by Woodman). Unplaced in England. Sent from United States to Great Britain in 2000. Dam of 8 foals, 7 to race, 3 winners--
--   .  Fair Time (1999 f. by Woodman). Unplaced in England. Sent from United States to Great Britain in 2000. Dam of 8 foals, 7 to race, 3 winners--
-+   .  .  <strong>=Quick Time (NZ)</strong> (2004 f. by =Zabeel (NZ)). 4 wins at 4 and 5, $51,187(NZ), in New Zealand, 3rd Christchurch Casino Spring Classic [L]. (Total: $31,559). Dam of 2 foals, 1 to race, 1 winner--
-+   .  .  .  =Sweet Time (NZ) (2011 f. by =Nom Du Jeu (NZ)). Winner at 4, $25,440(NZ), in New Zealand. (Total: $18,009).
-+   .  .  .  =Unnamed (2014 f. by =Pins (AUS)).
-+   .  .  =Eastern Towkay (NZ) (2012 g. by =Nom Du Jeu (NZ)). Winner at 5 and 6, 64,131 Ringgits, in Malaysia; placed at 4, 12,285 SIN$, in Singapore. (Total: $24,624).
-+   .  .  =Itsaboutime (NZ) (2006 f. by Howbaddouwantit). Winner at 5 and 6, $16,750(NZ), in New Zealand. (Total: $13,843).
-+   .  .  =Mesa Verde (NZ) (2005 f. by Elusive City). Placed at 4, $975(NZ), in New Zealand. (Total: $663).
-+   .  .  =Pericles (NZ) (2007 g. by =Savabeel (AUS)). Placed at 4, $700(NZ), in New Zealand. (Total: $553).
-+   .  .  =Mirabelle (NZ) (2003 f. by Fantastic Light). Unraced in New Zealand. Dam of 1 foal, 1 to race, 1 winner--
-+   .  .  .  =Miss Mimo (NZ) (2008 f. by =Scaredee Cat (NZ)). Winner at 3 and 4, $10,000(NZ), in New Zealand. (Total: $8,210).
-+   .  .  =Dame Du Jour (NZ) (2014 f. by =Nom Du Jeu (NZ)). Unplaced, $400(NZ), in New Zealand. (Total: $267).
-+   .  .  =Dame Du Jour (NZ) (2014 f. by =Nom Du Jeu (NZ)). Unplaced, $400(NZ), in New Zealand. (Total: $267).
- 
+- Jan  9 2023  4:43PM          PH23 CONSIGNOR: 1 HORSE: 535 GROUP: 1 HIP NUMBER:                Page 1
+?     ^       ^^ ^                                                               ^^^^^
++ Jan 29 2023 10:03PM          PH23 CONSIGNOR: 1 HORSE: 535 GROUP: 1 HIP NUMBER: 00475          Page 1
+?     ^       ^^ ^                                                               ^^^^^
+  
+  
+  ******************************************************************************************
+  535  Precious Rachel  Dark Bay or Brown  Filly (01/30/19)
+  By Jess's Dream (12)  --  Precious Feather (97)  By Gone West (84)  --  Last Feather (79)
+  Florida     Four-year-old     None
+  Breeders' Cup nominated
+  ******************************************************************************************
+  
+                                                    Smart Strike
+  
+                                Curlin
+                                                    Sherriff's Deputy
+  
+             Jess's Dream 12
+                                                    Medaglia d'Oro
+  
+                                Rachel Alexandra
+                                                    Lotta Kim
+  
+  PRECIOUS RACHEL
+    Dark Bay or Brown Filly                         Mr. Prospector
+    Foaled January 30, 2019
+    in Florida                  Gone West
+                                                    Secrettame
+  
+             Precious Feather 97
+                                                    *Vaguely Noble
+  
+                                Last Feather
+                                                    Quill
+  1st dam
+  [1mPRECIOUS FEATHER[22m, by Gone West. 5 wins at 3 and 4, $257,441, 1st Born Famous H. [L] (CRC, $19,710), Noble Royalty H. [L] (CRC, $30,000), Judy's Red Shoes S. [L] (CRC, $30,000), Plum Country S. (CRC, $17,190), 2nd Azalea Breeders' Cup S. [1m[G3][22m, Turfway Breeders' Cup S. [1m[G3][22m, Shocker T. H. [L] (CRC, $20,000). Half-sister to [1mRUZNAMA[22m (Total: $61,600, 1st City of York S. [L], etc.), [1mPhar Feather[22m (Total: $33,447, 2nd Prix de Conde [1m[G3][22m, etc., sire). Dam of 14 foals, 10 to race, 9 winners--
+     [1mAWESOME FEATHER[22m (2008 f. by Awesome of Course). 10 wins in 11 starts, 2 to 4, $1,912,746, champion 2-year-old filly in U.S. (2010), 1st Breeders' Cup Juvenile Fillies [1m[G1][22m (CD, $1,080,000), Gazelle S. [1m[G1][22m (AQU, $150,000), Nasty Storm S. [L] (BEL, $51,000), Florida Stallion My Dear Girl S.-R (CRC, $219,511), Florida Sunshine Millions Distaff S.-R (GP, $180,000), Florida Stallion Susan's Girl S.-R (CRC, $62,000), Florida Stallion Desert Vixen S.-R (CRC, $46,035), J J'sdream S. (CRC, $60,000), Le Slew S. (BEL, $36,000). Sent from United States to Japan in 2013. Dam of 9 foals, 6 to race, 4 winners--
+     .  [1m=Super Feather (JPN)[22m (2015 g. by =Deep Impact (JPN)). 4 wins, 2 to 6, 111,148,001 Yen, in Japan, 3rd TV Tokyo Hai Aoba Sho [1m[G2][22m, Kokura Kinen [1m[G3][22m. (Total: $1,007,295).
+     .  =Love Ambassador (JPN) (2017 f. by =Deep Impact (JPN)). Winner at 3 and 5, 2022, 33,790,000 Yen, in Japan. (Total: $290,613).
+     .  =Jem Feather (JPN) (2018 f. by =Deep Impact (JPN)). Winner at 3 and 4, 2022, 19,870,000 Yen, in Japan. (Total: $168,499).
+-    .  =Awesome Wind (JPN) (2016 f. by =Deep Impact (JPN)). Winner at 3, 388,000 Yen, in Japan. (Total: $3,583).
++    .  =Awesome Wind (JPN) (2016 f. by =Deep Impact (JPN)). Winner at 3, 388,000 Yen, in Japan. (Total: $3,583). Dam of 2 foals--
+?                                                                                                                +++++++++++++++++
++    .  .  =Unnamed (2022 c. by =Saturnalia (JPN)).
++    .  .  =Unnamed (2021 c. by =Leontes (JPN)).
+     .  =Feather Motif (JPN) (2020 c. by =Heart's Cry (JPN)). Placed in 2 starts at 2, 2022, 2,100,000 Yen, in Japan. (Total: $15,816).
+     .  =Unnamed (2022 f. by =Maurice (JPN)).
+     .  =Unnamed (2021 c. by =Satono Diamond (JPN)).
+-    .  =Guillem (JPN) (2014 f. by Medaglia d'Oro). Unraced in Japan. Producer.
+?                                                                     ^ ^^^   ^
++    .  =Guillem (JPN) (2014 f. by Medaglia d'Oro). Unraced in Japan. Dam of 3 foals, 2 to race, 2 winners--
+?                                                                     ^^^^^^^^^^^^^^^^^^^^^ ^  +++++++++ ^^^
++    .  .  =Shonan Bashitto (JPN) (2020 c. by =Silver State (JPN)). Winner in 3 starts at 2 and 3, 2023, 14,800,000 Yen, in Japan. (Total: $111,859).
++    .  .  =Evidentia (JPN) (2019 c. by =Duramente (JPN)). Winner at 3, 2022, 5,200,000 Yen, in Japan. (Total: $44,969).
++    .  .  =Unnamed (2021 f. by =Al Ain (JPN)).
+     .  =Hawaiian Feather (JPN) (2019 f. by =King Kamehameha (JPN)). Unplaced in 1 start in Japan.
+     [1mBrooks 'n Down[22m (2005 c. by Montbrook). Winner at 2 and 3, $87,097, 3rd Oak Hall S. (EVD, $5,000). Sire.
+     Diary (2007 f. by Congaree). Winner at 2, $38,042. Dam of 4 foals, 3 to race, 2 winners--
+     .  [1mOLD TIME REVIVAL[22m (2015 g. by Brethren). 6 wins, 2 to 7, 2022, $327,190, 1st Challedon S.-R (LRL, $45,000), 2nd Gotham S. [1m[G3][22m (AQU, $60,000), Miracle Wood S. (LRL, $20,000), Concern S. (LRL, $15,000).
+     .  Private Journal (2012 g. by Awesome of Course). Winner at 3 and 4, $20,340.
+     .  Right to Privacy (2013 f. by Awesome of Course). Unraced.
+-    .  Daily Log (2014 f. by Awesome of Course). Unplaced in 1 start, $400. Sent from United States to Dominican Republic in 2017.
++    .  Daily Log (2014 f. by Awesome of Course). Unplaced in 1 start, $400. Sent from United States to Dominican Republic in 2017. Dam of 1 foal--
+?                                                                                                                                  ++++++++++++++++
++    .  .  =Unnamed (2021 c. by Don Sebas).
+-    First Navy Admiral (2018 c. by Fort Loudon). 4 wins at 3 and 4, 2022, $94,865.
+?                                                                            ^ ^^
++    First Navy Admiral (2018 c. by Fort Loudon). 4 wins at 3 and 4, 2022, $95,115.
+?                                                                            ^ ^^
+     Tar and Feather (2012 f. by Awesome of Course). 2 wins at 3, $78,420. Dam of 4 foals, 2 to race, 1 winner--
+     .  Wicca Wisdom (2019 f. by Jess's Dream). Winner at 3, 2022, $23,560.
+     .  Adios Pluma (2021 c. by Adios Charlie). Unraced.
+     .  Trialsntribulation (2018 f. by Hear No Evil). Unraced.
+-    .  Feather's Secret (2017 f. by Hear No Evil). Unplaced, $590.
++    .  Feather's Secret (2017 f. by Hear No Evil). Unplaced, $590. Dam of 1 foal--
+?                                                                  ++++++++++++++++
++    .  .  Unnamed (2022 f. by Tunwoo). (application pending)
+     Good Genes (2013 g. by Awesome of Course). 5 wins, 3 to 7, $76,883.
+     Quill Out (2003 g. by Outflanker). 3 wins at 4 and 6, $61,160.
+     Precious Beans (2006 g. by Medaglia d'Oro). 2 wins at 4, $52,968.
+     It's a Done Deal (2011 g. by Consolidator). Winner at 5 and 6, $11,647.
+     High Five Again (2010 c. by Awesome of Course). Placed at 3, $7,275.
+     Awesome West (2020 c. by Awesome Slew). Unraced.
+     Precious Rachel (2019 f. by Jess's Dream). See above.
+     Fort Pickens (2017 c. by Fort Loudon). Unraced.
+     Precious Plume (2004 f. by Monsieur Cat). Unraced. Died 2005.
+  2nd dam
+  [1mLAST FEATHER[22m, by *Vaguely Noble. Winner at 2 and 3 in England, 1st Musidora S.[1m-G3[22m, Rochford Thompson Newbury S., 3rd Epsom Oaks[1m-G1[22m; unplaced in 1 start in France. Sent from United States to Great Britain in 1980. Returned to United States from Great Britain in 1982. Died 1997. Half-sister to [1mCAUCASUS[22m ($409,555, in N.A./U.S., 1st Irish St. Leger[1m-G1[22m, etc., sire), [1mONE FOR ALL[22m ($349,205, 1st Sunset H., etc., sire), [1mRiboquill[22m (3rd Grand Prix de Deauville[1m-G2[22m). Dam of 11 foals, 8 to race, 6 winners--
+     [1mPRECIOUS FEATHER[22m (1997 f. by Gone West). Black type winner, see above.
+     [1mRUZNAMA[22m (1993 f. by Forty Niner). 4 wins at 2 and 3, 39,548 Pounds, in England, 1st City of York S. [L], Mary Reveley Racing Club Oh So Sharp S. [L], 3rd May Hill S. [1m[G3][22m. Sent from United States to Great Britain in 1994. Returned to United States from Great Britain in 1996. (Total: $61,600). Dam of 7 foals, 4 to race, 1 winner--
+     .  Mardi Gras King (2006 g. by Kingkiowa). Winner at 2 and 3, $32,480.
+     .  Mootafayill (1998 c. by Danzig). Placed at 2 and 3, 6,604 Pounds, in England; placed at 4, 20,400 Dirhams, in United Arab Emirates. Sent from United States to United Arab Emirates in 1999. (Total: $15,083).
+     .  What's Up Brother (2004 c. by Swain (IRE)). (application cancelled)
+     .  Ejaabi (2002 c. by Aljabr). Unraced. Sent from United States to United Arab Emirates in 2003.
+-    .  Citron Moon (2001 f. by Danzig). Unraced. Producer.
++    .  Citron Moon (2001 f. by Danzig). Unraced. Dam of 7 foals, 3 to race, 3 winners--
++    .  .  Been There Buddy (2008 g. by More Than Ready). 3 wins at 3 and 4, $13,072, in Canada. (Total: $13,376).
++    .  .  Jack's Grace (2005 f. by Deputy Commander). Winner at 3, $10,908. Dam of 1 foal, 1 to race--
++    .  .  .  Tauzin My Man (2011 g. by Afternoon Deelites). Placed at 4, $1,745.
++    .  .  The Ssen Champ (2012 c. by Hold Me Back). 2 wins at 4 in Republic of Korea. Sent from United States to Republic of Korea in 2014.
++    .  .  Unnamed (2015 c. by Midshipman).
++    .  .  Gold Saver (2014 c. by Daaher). Unraced.
++    .  .  Nile Crossing (2013 f. by Pioneerof the Nile). Unraced.
++    .  .  Unnamed (2010 c. by Purim).
+     .  Taghlub (1999 c. by Dixieland Band). Unraced. Sent from United States to United Arab Emirates in 2000.
+     .  Raasekh (2003 g. by Aljabr). Unplaced, $1,030.
+-    .  Elnayrah (2000 f. by Danzig). Unplaced in 1 start, 355 Pounds, in England. Sent from United States to United Arab Emirates in 2001. (Total: $540). Producer.
+?                                                                                                                                                          ^ ^^^   ^
++    .  Elnayrah (2000 f. by Danzig). Unplaced in 1 start, 355 Pounds, in England. Sent from United States to United Arab Emirates in 2001. (Total: $540). Dam of 5 foals, 2 to race, 2 winners--
+?                                                                                                                                                          ^^^^^^^^^^^^^^^^^^^^^ ^  +++++++++ ^^^
++    .  .  =Worood (AUS) (2007 f. by Elusive Quality). 4 wins, 2 to 4, 354,455 Rands, in South Africa. (Total: $49,623). Dam of 4 foals, 1 to race--
++    .  .  .  =Wazeer (SAF) (2013 f. by Silvano (GER)). Placed at 3, 20,325 Rands, in South Africa. (Total: $1,518).
++    .  .  .  =Unchained (SAF) (2017 f. by =Vercingetorix (SAF)). Unraced in South Africa.
++    .  .  .  =Vedaad (SAF) (2016 f. by =Vercingetorix (SAF)). Unraced in South Africa.
++    .  .  .  =Waajid (SAF) (2015 c. by Silvano (GER)). Unraced in South Africa.
++    .  .  =Double Digger (AUS) (2008 g. by Johannesburg). Winner at 3, $4,750(AUS), in Australia. (Total: $4,955).
++    .  .  =Sweet Jarvinia (PHI) (2012 f. by Keep Laughing). Unraced in Philippines.
++    .  .  =Amazing Lebren (PHI) (2010 f. by =Domesday (AUS)). Unraced in Philippines.
++    .  .  =Gibraltarui Byeol (AUS) (2006 c. by Rock of Gibraltar (IRE)). Unraced in Australia.
+     [1mPhar Feather[22m (1985 c. by Lyphard). Winner at 2, 29,117 Euro, in France, 2nd Prix de Conde [1m[G3][22m, 3rd Prix Matchem [L]; unplaced in 1 start, $2,475, in N.A./U.S. Sent from United States to France in 1986. Returned to United States from France in 1988. Sent from United States to New Zealand in 1989. (Total: $33,447). Sire.
+     Eqtesaad (1991 c. by Danzig). 3 wins at 4, 11,083 Pounds, in England. Sent from United States to Great Britain in 1993. Returned to United States from Great Britain in 1995. (Total: $17,484). Leading sire in Puerto Rico (2006)Sire. Died 2011.
+     Limber Dancer (1984 c. by Nijinsky II). Winner in 1 start at 3, 5,259 Euro, in Ireland. Sent from United States to Ireland in 1985. Sent from Ireland to Japan in 1988. (Total: $5,844). Sire.
+     Contessa (1988 f. by Blushing Groom (FR)). Winner at 3, 2,616 Pounds, in England. Sent from England to Japan in 1900. Sent from United States to England in 1988. (Total: $4,568). Dam of 7 foals, 3 to race--
+     .  =Let You Shiver (JPN) (1994 g. by =Ancestry (JPN)). Placed at 3, 3,050,000 Yen, in Japan. (Total: $25,338).
+-    .  =Contessa Queen (JPN) (1999 f. by Carnegie (IRE)). Unraced in Japan. Producer.
+?                                                                            ^ ^^^   ^
++    .  =Contessa Queen (JPN) (1999 f. by Carnegie (IRE)). Unraced in Japan. Dam of 7 foals, 6 to race, 5 winners--
+?                                                                            ^^^^^^^^^^^^^^^^^^^^^ ^  +++++++++ ^^^
++    .  .  =Musashibo (JPN) (2003 c. by =Black Tuxedo (JPN)). 15 wins, 2 to 11, 16,368,000 Yen, in Japan. (Total: $159,325).
++    .  .  =D's Sweep (JPN) (2008 f. by Precise End). 2 wins at 3, 6,620,000 Yen, in Japan. (Total: $83,615).
++    .  .  =M Y Spinal (JPN) (2005 c. by =Marvelous Sunday (JPN)). Winner in 4 starts at 3 and 4, 2,120,000 Yen, in Japan. (Total: $21,574).
++    .  .  =Eifer Idol (JPN) (2015 f. by =Gold Halo (JPN)). Winner at 3, 1,015,000 Yen, in Japan. (Total: $9,325).
++    .  .  =Hanadokei (JPN) (2010 f. by =Admire Max (JPN)). Winner at 2, 385,000 Yen, in Japan. (Total: $4,867).
++    .  .  =Vital Queen (JPN) (2007 f. by Precise End). Unraced in Japan. Dam of 8 foals, 8 to race, 7 winners--
++    .  .  .  =Kokoroiki (JPN) (2018 c. by =Furioso (JPN)). 5 wins at 3 and 4, 2022, 15,010,000 Yen, in Japan. (Total: $130,541).
++    .  .  .  =Fiery Shinzo (JPN) (2012 g. by =On Fire (JPN)). Winner at 2, 10,550,000 Yen, in Japan; winner at 6, 36,415 Ringgits, in Malaysia; placed at 4, 6,345 SIN$, in Singapore. (Total: $101,385).
++    .  .  .  =Shigeru Muroaji (JPN) (2013 c. by =Gold Halo (JPN)). Winner at 3, 8,350,000 Yen, in Japan. (Total: $70,633).
++    .  .  .  =Vital Area (JPN) (2019 c. by =Furioso (JPN)). Winner at 3, 2022, 7,300,000 Yen, in Japan. (Total: $55,210).
++    .  .  .  =Amant (JPN) (2014 f. by =Gold Halo (JPN)). Winner at 3, 3,927,500 Yen, in Japan. (Total: $34,754).
++    .  .  .  =Enry Gloria (JPN) (2017 f. by =To the Glory (JPN)). 3 wins at 3 and 4, placed at 5, 2022, 3,656,000 Yen, in Japan. Racing in Japan as En Ri Gloria. (Total: $32,692).
++    .  .  .  =Fujino Dia (JPN) (2011 f. by =Marvelous Sunday (JPN)). 3 wins at 2 and 3, 1,975,000 Yen, in Japan. (Total: $19,736).
++    .  .  .  =LeBron (JPN) (2020 c. by =Danon Ballade (JPN)). Unplaced in 1 start in Japan.
++    .  .  =Owara Dancer (JPN) (2004 f. by =Marvelous Sunday (JPN)). Unplaced in 2 starts in Japan.
+-    .  =Romance Freesia (JPN) (1998 f. by Brian's Time). Unraced in Japan. Producer.
+?                                                                           ^ ^^^   ^
++    .  =Romance Freesia (JPN) (1998 f. by Brian's Time). Unraced in Japan. Dam of 7 foals, 7 to race, 5 winners--
+?                                                                           ^^^^^^^^^^^^^^^^^^^^^ ^  +++++++++ ^^^
++    .  .  =Space Flight (JPN) (2004 c. by Tabasco Cat). 5 wins, 2 to 7, 67,809,000 Yen, in Japan. (Total: $700,006).
++    .  .  =Success Story (JPN) (2012 c. by =Moere Plutus (JPN)). 15 wins, 2 to 9, 14,189,000 Yen, in Japan. (Total: $131,352).
++    .  .  =Super Boy (JPN) (2008 c. by =Yuki Sunday (JPN)). 5 wins, 2 to 6, 9,887,000 Yen, in Japan. (Total: $112,236).
++    .  .  =Blockbuster (JPN) (2005 g. by =Regular Member (JPN)). 5 wins at 3 and 4, 8,302,000 Yen, in Japan. (Total: $88,945).
++    .  .  =Rock Parade (JPN) (2006 c. by Moon Ballad (IRE)). 3 wins at 4 and 5, 1,950,000 Yen, in Japan. (Total: $23,111).
++    .  .  =Reine de Sara (JPN) (2014 f. by =Kitasan Kamuiden (JPN)). Unplaced in 2 starts in Japan.
++    .  .  =Musique Serielle (JPN) (2003 f. by =Fusaichi Concorde (JPN)). Unplaced in 2 starts in Japan.
+-    .  =Sunny Style (JPN) (1995 f. by =Commander in Chief (GB)). Unraced in Japan. Producer.
+?                                                                                   ^ ^^^   ^
++    .  =Sunny Style (JPN) (1995 f. by =Commander in Chief (GB)). Unraced in Japan. Dam of 8 foals, 8 to race, 5 winners--
+?                                                                                   ^^^^^^^^^^^^^^^^^^^^^ ^  +++++++++ ^^^
++    .  .  =Road Success (JPN) (2005 f. by Meiner Love). 6 wins, 3 to 8, 12,390,000 Yen, in Japan. (Total: $133,864).
++    .  .  =Intrigant (JPN) (2002 c. by Black Tie Affair (IRE)). 8 wins at 3 and 5, 3,372,000 Yen, in Japan. (Total: $30,295).
++    .  .  =Sakura Salai (JPN) (2006 f. by =Sakura President (JPN)). 10 wins, 3 to 8, 2,455,000 Yen, in Japan. (Total: $28,571).
++    .  .  =Ogygian Ryoko (JPN) (2001 f. by Ogygian). 4 wins, 3 to 5, 2,607,000 Yen, in Japan. (Total: $23,245).
++    .  .  =The Odo (JPN) (2009 c. by =Tayasu Tsuyoshi (JPN)). 7 wins, 3 to 5, 1,401,000 Yen, in Japan. (Total: $15,940).
++    .  .  =Carnegie Style (JPN) (2000 f. by Carnegie (IRE)). Placed at 4, 150,000 Yen, in Japan. (Total: $1,391).
++    .  .  =Meisun Success (JPN) (2008 c. by =Sakura President (JPN)). Unplaced, 1,500,000 Yen, in Japan. (Total: $18,058).
++    .  .  =Shine While (JPN) (2010 f. by =Sakura President (JPN)). Unplaced in 1 start in Japan.
+-    .  =Maternal Love (JPN) (1993 f. by =Thatching (IRE)). Unraced in Japan. Producer.
+?                                                                             ^ ^^^   ^
++    .  =Maternal Love (JPN) (1993 f. by =Thatching (IRE)). Unraced in Japan. Dam of 7 foals, 6 to race, 5 winners--
+?                                                                             ^^^^^^^^^^^^^^^^^^^^^ ^  +++++++++ ^^^
++    .  .  =Rise Rise Rise (JPN) (1997 f. by Royal Academy). Winner at 2, 11,068,000 Yen, in Japan. (Total: $102,014). Dam of 3 foals, 3 to race, 3 winners--
++    .  .  .  =Jatuh Cinta (JPN) (2007 f. by =Commander in Chief (GB)). 9 wins, 3 to 5, 3,702,000 Yen, in Japan. (Total: $45,595).
++    .  .  .  =Shine a Road (JPN) (2005 f. by =Mayano Top Gun (JPN)). 9 wins, 3 to 5, 2,488,000 Yen, in Japan. (Total: $25,958).
++    .  .  .  =Rise Destiny (JPN) (2004 f. by =Mayano Top Gun (JPN)). Winner at 2, 722,000 Yen, in Japan. (Total: $6,162).
++    .  .  =Yumegokochi (JPN) (2006 f. by =Tayasu Tsuyoshi (JPN)). 2 wins at 3, 3,990,000 Yen, in Japan. (Total: $41,883).
++    .  .  =Eiyu Star Man (JPN) (1999 c. by Fraise). 5 wins at 3 and 4, 4,289,000 Yen, in Japan. (Total: $36,083).
++    .  .  =Almond Glance (JPN) (2004 f. by =Stay Gold (JPN)). 6 wins, 4 to 6, 2,879,000 Yen, in Japan. (Total: $29,592). Dam of 2 foals, 2 to race, 2 winners--
++    .  .  .  =Pod Rising (JPN) (2012 c. by =Vermilion (JPN)). Winner at 2, 5,772,000 Yen, in Japan. (Total: $52,953).
++    .  .  .  =Neo Angel (JPN) (2016 f. by =Furioso (JPN)). Winner at 2, placed at 6, 2022, 4,606,000 Yen, in Japan. (Total: $40,371).
++    .  .  =Preteur (JPN) (2002 g. by =King Halo (JPN)). 5 wins at 3 and 4, 2,201,000 Yen, in Japan. (Total: $18,978).
++    .  .  =Ban Patent (JPN) (2003 c. by Ciro). Placed at 4, 113,000 Yen, in Japan. (Total: $964).
++    .  .  =Arkadia (JPN) (1998 f. by =Maruzensky (JPN)). Unraced in Japan. Dam of 7 foals, 7 to race, 5 winners--
++    .  .  .  =Blue Cardinal (JPN) (2004 c. by =King Halo (JPN)). 3 wins at 3 and 4, 46,294,000 Yen, in Japan. (Total: $434,453).
++    .  .  .  =Ken Bridge Caesar (JPN) (2007 c. by =Grandera (IRE)). 4 wins, 3 to 8, 15,244,000 Yen, in Japan. (Total: $167,472).
++    .  .  .  =Mademoiselle Kiss (JPN) (2005 f. by =Tayasu Tsuyoshi (JPN)). 3 wins at 4 and 5, 8,272,000 Yen, in Japan. (Total: $86,301).
++    .  .  .  =World Lady (JPN) (2006 f. by =Tayasu Tsuyoshi (JPN)). 12 wins, 3 to 5, 4,584,000 Yen, in Japan. (Total: $49,362).
++    .  .  .  =Grand Cuvee (JPN) (2009 f. by =Mayano Top Gun (JPN)). Winner at 3, 430,000 Yen, in Japan. (Total: $5,314).
++    .  .  .  =Kanemasa Song (JPN) (2011 c. by =Song of Wind (JPN)). Placed at 2, 420,000 Yen, in Japan. (Total: $4,237).
++    .  .  .  =Touch Your Heart (JPN) (2002 f. by White Muzzle (GB)). Unplaced, 750,000 Yen, in Japan. (Total: $7,163).
+     .  =Seiun Akaboshi (JPN) (2000 c. by Carnegie (IRE)). Unplaced in Japan.
+-    .  =Last Princess (JPN) (1996 f. by Last Tycoon (IRE)). Unplaced in Japan. Producer.
+?                                                                               ^ ^^^   ^
++    .  =Last Princess (JPN) (1996 f. by Last Tycoon (IRE)). Unplaced in Japan. Dam of 5 foals, 5 to race, 2 winners--
+?                                                                               ^^^^^^^^^^^^^^^^^^^^^ ^  +++++++++ ^^^
++    .  .  =Blast Talisman (JPN) (2006 c. by =Sakura President (JPN)). Winner at 3 and 4, 2,614,000 Yen, in Japan. (Total: $27,768).
++    .  .  =Eifer Nighter (JPN) (2002 c. by Wallenda). 5 wins, 3 to 5, 1,502,500 Yen, in Japan. (Total: $13,019).
++    .  .  =Loverly Weed (JPN) (2007 f. by =Sakura President (JPN)). Placed at 3, 180,000 Yen, in Japan. (Total: $2,121).
++    .  .  =Eifer Diosa (JPN) (2009 f. by =Sakura President (JPN)). Placed at 3, 13,000 Yen, in Japan. (Total: $151).
++    .  .  =Kunisaki Masao (JPN) (2005 c. by =Entrepreneur (GB)). Unplaced, 1,750,000 Yen, in Japan. (Total: $16,406).
+     Bawaeth (1990 f. by Blushing Groom (FR)). Placed at 2 and 3, 2,984 Pounds, in England. Sent from United States to England in 1991. (Total: $4,857). Dam of 3 foals, 3 to race, 2 winners--
+     .  [1m=ELMUTABAKI (GB)[22m (1996 g. by Unfuwain). 2 wins at 3, 54,820 Pounds, in England, 1st Leiths July Trophy S. [L]. (Total: $87,231).
+     .  =Bawsian (GB) (1995 g. by =Persian Bold (IRE)). 8 wins, 2 to 6, 80,066 Pounds, in England; 6 wins, 8 to 11 in Spain. (Total: $124,515).
+-    .  =Mutasader (IRE) (1997 f. by Unfuwain). Unplaced in England.
++    .  =Mutasader (IRE) (1997 f. by Unfuwain). Unplaced in England. Dam of 7 foals, 2 to race--
+?                                                                   ++++++++++++++++++++++++++++
++    .  .  =Frontissima (SAF) (2010 c. by =Stagelight (IRE)). Unraced in South Africa.
++    .  .  =Nimrod (SAF) (2008 c. by =Eyeofthetiger (BRZ)). Unraced in South Africa.
++    .  .  =Kahina (SAF) (2007 f. by Albarahin). Unraced in South Africa.
++    .  .  =Detzky's Diva (SAF) (2006 f. by Muhtafal). Unraced in South Africa.
++    .  .  =Mulfit (SAF) (2005 f. by Malhub). Unraced in South Africa.
++    .  .  =Inami (SAF) (2004 f. by Kahal (GB)). Unplaced in South Africa.
++    .  .  =Wilaya (SAF) (2003 f. by Albarahin). Unplaced in South Africa.
+     Marabou (1989 f. by Roberto). Placed in 2 starts at 3, 297 Pounds, in England. Sent from United States to England in 1989. Sent from England to Japan in 1994. (Total: $566). Dam of 12 foals, 12 to race, 6 winners--
+-    .  [1m=Biwa Good Luck (JPN)[22m (1995 f. by Adjudicating). 3 wins at 3, 50,038,000 Yen, in Japan, 2nd Kansai Telecasting Corporation Sho Rose S. [LR]. (Total: $375,321). Producer.
+?                                                                                                                                                                                ^^^^^^^^^
++    .  [1m=Biwa Good Luck (JPN)[22m (1995 f. by Adjudicating). 3 wins at 3, 50,038,000 Yen, in Japan, 2nd Kansai Telecasting Corporation Sho Rose S. [LR]. (Total: $375,321). Dam of 7 foals, 7 to race, 3 winners--
+?                                                                                                                                                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++    .  .  =No Make (JPN) (2003 f. by =Agnes Tachyon (JPN)). 6 wins, 3 to 5, 8,829,000 Yen, in Japan. (Total: $77,608). Dam of 1 foal, 1 to race, 1 winner--
++    .  .  .  =Sultan Corona (JPN) (2010 c. by Alkaased). Winner at 3, 532,000 Yen, in Japan. (Total: $5,689).
++    .  .  =Gains Girl (JPN) (2007 f. by White Muzzle (GB)). Winner at 3 and 4, 2,804,000 Yen, in Japan. (Total: $33,200).
++    .  .  =Inase (JPN) (2005 c. by =Sakura Bakushin O (JPN)). Winner at 3, 2,154,000 Yen, in Japan. (Total: $20,714).
++    .  .  =Basara King (JPN) (2006 c. by Grass Wonder). Unplaced in Japan.
++    .  .  =Lucky Mermaid (JPN) (2002 f. by =Fuji Kiseki (JPN)). Unplaced in Japan. Dam of 6 foals, 6 to race, 3 winners--
++    .  .  .  =Shonan Aristo (JPN) (2014 c. by King's Best). Winner at 3, 32,780,000 Yen, in Japan. (Total: $294,768).
++    .  .  .  =Meine Lorelei (JPN) (2008 f. by Roses in May). Winner at 3 and 4, 8,854,500 Yen, in Japan. (Total: $109,157).
++    .  .  .  =Love Me Ago (JPN) (2009 f. by Roses in May). 3 wins at 2 and 3, 5,164,000 Yen, in Japan. (Total: $64,209).
++    .  .  .  =Friend Jewelry (JPN) (2011 f. by Conduit (IRE)). Placed at 3, 116,000 Yen, in Japan. (Total: $1,064).
++    .  .  .  =T M Sensha (JPN) (2012 c. by Kurofune). Unplaced in Japan.
++    .  .  .  =Joyful Maid (JPN) (2007 f. by Afleet). Unplaced in 1 start in Japan.
++    .  .  =Silk Good Luck (JPN) (2001 f. by Brian's Time). Unplaced in 1 start in Japan.
++    .  .  =Dearness (JPN) (2000 f. by Afleet). Unplaced in Japan.
+     .  =Biko Feather (JPN) (2004 g. by White Muzzle (GB)). 3 wins, 4 to 6, 108,365,000 Yen, in Japan. (Total: $1,179,511).
+     .  =Biwa Kazu Eri (JPN) (1997 f. by =Biwa Hayahide (JPN)). Winner at 3, 10,940,000 Yen, in Japan. (Total: $101,508).
+     .  =Queen Monana (JPN) (1999 f. by =Biwa Hayahide (JPN)). 4 wins at 3 and 4, 2,088,000 Yen, in Japan. (Total: $17,305).
+     .  =Biwa Haya O (JPN) (1998 c. by =Biwa Hayahide (JPN)). Winner at 3, 862,000 Yen, in Japan. (Total: $6,882).
+     .  =Clattering (JPN) (2008 c. by =Admire Don (JPN)). 2 wins at 4, 486,000 Yen, in Japan. (Total: $6,190).
+     .  =Saint Sailor (JPN) (1994 f. by Caerleon). Placed at 3, 3,340,000 Yen, in Japan. (Total: $29,071). Dam of 13 foals, 12 to race, 8 winners--
+     .  .  [1m=SILK FAMOUS (JPN)[22m (1999 c. by =Marvelous Sunday (JPN)). 9 wins, 3 to 7, 473,914,000 Yen, in Japan, 1st American Jockey Club Cup [L], Kyoto Kinen [LR], Nikkei Shinshun Hai [LR], 2nd Takarazuka Kinen [1m[G1][22m, 3rd Kyoto Kinen [1m[G2][22m, Kinko Sho [L], Arima Kinen Grand Prix [LR], Tenno Sho Spring [LR]. (Total: $4,276,513). Sire.
+     .  .  [1m=Ken Bridge L (JPN)[22m (2006 c. by Eishin Preston). 4 wins, 2 to 4, 129,407,000 Yen, in Japan, 3rd Silk Road S. [1m[G3][22m. (Total: $1,488,734).
++    .  .  =Ken Endeavor (JPN) (2003 f. by =Marvelous Sunday (JPN)). 3 wins at 3 and 4, 33,824,000 Yen, in Japan. (Total: $285,027). Dam of 5 foals, 5 to race, 4 winners--
++    .  .  .  =Noble Atlas (JPN) (2015 c. by Silver Charm). 3 wins, 3 to 7, 2022, 10,595,000 Yen, in Japan. (Total: $94,055).
++    .  .  .  =Apollo Flugel (JPN) (2012 c. by Rokko Oroshi). 5 wins at 4 and 5, 6,310,000 Yen, in Japan. (Total: $53,662).
++    .  .  .  =Scala Blue (JPN) (2011 f. by $Opera House (GB)). 4 wins at 4 and 5, 904,000 Yen, in Japan. (Total: $7,432).
++    .  .  .  =Marino Levin (JPN) (2014 f. by =Meisho Bowler (JPN)). 2 wins at 3, 558,000 Yen, in Japan. (Total: $5,061).
++    .  .  .  =Koa Happy (JPN) (2013 f. by South Vigorous). Placed at 2 and 3, 1,210,000 Yen, in Japan. (Total: $10,474).
++    .  .  =Sistina Blue (JPN) (2008 f. by =Zenno Rob Roy (JPN)). Winner at 3, 8,620,000 Yen, in Japan. (Total: $111,669). Dam of 6 foals, 6 to race, 6 winners--
++    .  .  .  =Ken Gaia (JPN) (2016 f. by =Transcend (JPN)). 5 wins, 2 to 4, 21,930,000 Yen, in Japan. (Total: $198,469).
++    .  .  .  =Keisan Hoimi (JPN) (2014 f. by Taiki Shuttle). 5 wins, 3 to 7, placed at 8, 2022, 9,409,000 Yen, in Japan. (Total: $82,756).
++    .  .  .  =Bajigaku Heart (JPN) (2017 f. by =Smart Falcon (JPN)). 3 wins, 2 to 5, 2022, 5,380,000 Yen, in Japan. (Total: $47,290).
++    .  .  .  =Domburako (JPN) (2018 f. by South Vigorous). Winner at 3 and 4, 2022, 4,394,000 Yen, in Japan. (Total: $39,238).
++    .  .  .  =Lightning Blue (JPN) (2020 f. by =Hokko Tarumae (JPN)). Winner at 2, 2022, 4,374,000 Yen, in Japan. (Total: $33,397).
++    .  .  .  =Kei Veyron (JPN) (2015 c. by =Smart Robin (JPN)). 2 wins at 3, 742,000 Yen, in Japan. (Total: $6,674).
++    .  .  =Ken Bridge Days (JPN) (2012 f. by Kurofune). Winner at 3, 8,950,000 Yen, in Japan. (Total: $73,460). Dam of 2 foals, 2 to race, 1 winner--
++    .  .  .  =Grant (JPN) (2019 c. by =Admire Moon (JPN)). 2 wins at 3, 2022, 1,179,000 Yen, in Japan. (Total: $8,621).
++    .  .  .  =Valentine (JPN) (2018 c. by =Tosen Jordan (JPN)). Placed at 2, 706,000 Yen, in Japan. (Total: $6,758).
++    .  .  =Athena Blue (JPN) (2007 f. by =Jungle Pocket (JPN)). Winner at 3, 2,500,000 Yen, in Japan. (Total: $27,965). Dam of 7 foals, 6 to race, 5 winners--
++    .  .  .  =Duality (JPN) (2016 f. by =Grand Prix Boss (JPN)). 6 wins at 3 and 4, 10,430,000 Yen, in Japan. (Total: $96,231).
++    .  .  .  =Ken Bridge Latte (JPN) (2018 c. by Espoir City (JPN)). Winner at 2 and 3, placed at 4, 2022, 9,420,000 Yen, in Japan. (Total: $80,968).
++    .  .  .  =Ken Bichon (JPN) (2014 c. by =Matsurida Gogh (JPN)). 4 wins, 2 to 6, 8,083,000 Yen, in Japan. (Total: $77,402).
++    .  .  .  =Keisan Harrison (JPN) (2015 c. by =Nakayama Festa (JPN)). 4 wins at 3 and 4, 2,409,000 Yen, in Japan. (Total: $22,254).
++    .  .  .  =Cincinnati (JPN) (2019 f. by Grass Wonder). Winner at 3, 2022, 2,275,000 Yen, in Japan. (Total: $18,854).
++    .  .  .  =Hayato (JPN) (2017 c. by =Lohengrin (JPN)). Placed at 3 and 4, 571,000 Yen, in Japan. (Total: $5,244).
++    .  .  .  =Ken Bridge Sky (JPN) (2013 c. by =Dance in the Dark (JPN)). Unraced in Japan.
++    .  .  =Shishimaru (JPN) (2015 c. by =Monterosso (GB)). Winner at 4 and 5, 1,192,000 Yen, in Japan. (Total: $10,960).
++    .  .  =Silk Allure (JPN) (2002 c. by Adjudicating). 2 wins at 4, 737,000 Yen, in Japan. (Total: $6,342).
++    .  .  =Ken Bridge Swan (JPN) (2009 f. by =Gold Allure (JPN)). Placed at 3, 1,200,000 Yen, in Japan. (Total: $15,297). Dam of 6 foals, 6 to race, 6 winners--
++    .  .  .  =Maloca of Jaguar (JPN) (2018 c. by Roses in May). 5 wins, 2 to 4, 2022, 15,720,000 Yen, in Japan. (Total: $138,362).
++    .  .  .  =Keisan Parupunte (JPN) (2014 c. by Eishin Apollon). 11 wins, 2 to 7, 5,911,000 Yen, in Japan. (Total: $53,310).
++    .  .  .  =Ken Bridge With (JPN) (2016 f. by =Meisho Bowler (JPN)). 7 wins, 3 to 6, 2022, 5,608,000 Yen, in Japan. (Total: $50,911).
++    .  .  .  =Ken Bridge Bit (JPN) (2015 f. by =Jo Cappuccino (JPN)). 4 wins, 2 to 5, 5,564,000 Yen, in Japan. (Total: $49,777).
++    .  .  .  =Ken Bridge Kanade (JPN) (2017 f. by Came Home). 2 wins at 5, 2022, 4,466,000 Yen, in Japan. (Total: $39,553).
++    .  .  .  =Reward Typhon (JPN) (2019 c. by =Hokko Tarumae (JPN)). 3 wins at 2, placed at 3, 2022, 3,749,000 Yen, in Japan. (Total: $33,457).
++    .  .  =Ken Chame One (JPN) (2004 f. by Mi Cielo). Placed at 3, 1,516,000 Yen, in Japan. (Total: $12,949). Dam of 7 foals, 6 to race, 6 winners--
++    .  .  .  =T M Goodman (JPN) (2014 c. by Agnes Digital). 4 wins, 3 to 7, 101,215,000 Yen, in Japan. (Total: $927,112).
++    .  .  .  =Hilarious (JPN) (2011 f. by Fasliyev). Winner at 3, 10,300,000 Yen, in Japan. (Total: $100,772).
++    .  .  .  =King of Saint (JPN) (2009 c. by =Lincoln (JPN)). 6 wins, 3 to 5, 5,361,000 Yen, in Japan. (Total: $55,495).
++    .  .  .  =Ken Bridge Linear (JPN) (2013 f. by Taiki Shuttle). 6 wins, 3 to 5, 1,848,000 Yen, in Japan. (Total: $16,920).
++    .  .  .  =Ken Bridge Ahtna (JPN) (2010 f. by =Yamanin Seraphim (JPN)). 4 wins at 3 and 4, 835,000 Yen, in Japan. (Total: $8,289).
++    .  .  .  =T M Chame One (JPN) (2015 f. by Swept Overboard). Winner at 3, 237,000 Yen, in Japan. (Total: $2,202).
++    .  .  .  =Unnamed (2012 f. by Fourty Niners Son).
++    .  .  =Saint Angel (JPN) (2001 f. by Premium Thunder). Unraced in Japan. Dam of 3 foals, 2 to race, 1 winner--
++    .  .  .  =Ken Amatsukaze (JPN) (2005 f. by =Marvelous Sunday (JPN)). Winner at 2, 350,000 Yen, in Japan. (Total: $3,097).
++    .  .  .  =Unnamed (2006 c. by =Agnes Tachyon (JPN)).
++    .  .  .  =Natsuiro Pretty (AUS) (2009 f. by =God's Own (AUS)). Unplaced in 2 starts, $500(AUS), in Australia. (Total: $520).
++    .  .  =Premium Canon (JPN) (2005 f. by =Fuji Kiseki (JPN)). Unplaced, 500,000 Yen, in Japan. (Total: $4,661). Dam of 6 foals, 6 to race, 3 winners--
++    .  .  .  =Ken Bridge Ether (JPN) (2015 c. by South Vigorous). 11 wins, 3 to 7, placed at 8, 2023, 23,090,000 Yen, in Japan. (Total: $201,089).
++    .  .  .  =Ken Bridge Bell (JPN) (2013 f. by Pyro). Winner at 3, 3,116,000 Yen, in Japan. (Total: $28,596).
++    .  .  .  =Kei Blues (JPN) (2016 f. by French Deputy). Winner at 2, 2,700,000 Yen, in Japan. (Total: $23,760).
++    .  .  .  =Mishel With (JPN) (2017 f. by =Unrivaled (JPN)). Placed at 3 and 4, 307,000 Yen, in Japan. (Total: $2,854).
++    .  .  .  =Ken Bridge Moss (JPN) (2010 c. by Grass Wonder). Placed at 3, 38,000 Yen, in Japan. (Total: $378).
++    .  .  .  =Ken Blues (JPN) (2014 f. by =Admire Aura (JPN)). Unplaced in Japan.
++    .  .  =Keisan Pecorina (JPN) (2013 f. by =Admire Moon (JPN)). Unplaced, 14,000 Yen, in Japan. (Total: $135).
+     .  =Silk Memory (JPN) (2000 f. by =Biwa Hayahide (JPN)). Placed at 3 and 4, 6,725,000 Yen, in Japan. (Total: $57,685).
+-    .  =Prelate (JPN) (2002 f. by Sunday Silence). Placed at 3, 4,825,000 Yen, in Japan. (Total: $43,972). Producer.
+?                                                                                                           ^ ^^^   ^
++    .  =Prelate (JPN) (2002 f. by Sunday Silence). Placed at 3, 4,825,000 Yen, in Japan. (Total: $43,972). Dam of 13 foals, 13 to race, 5 winners--
+?                                                                                                           ^^^^^^^^^^^^^^^^^^^^^^^ ^  +++++++++ ^^^
++    .  .  =Valiente (JPN) (2015 c. by =Strong Return (JPN)). Winner at 3, 16,004,000 Yen, in Japan. (Total: $144,343).
++    .  .  =Goodbye Summer (JPN) (2014 f. by Summer Bird). 4 wins, 4 to 7, 3,658,000 Yen, in Japan. (Total: $35,000).
++    .  .  =Baptisma (JPN) (2010 f. by Symboli Kris S). 8 wins, 3 to 5, 1,257,000 Yen, in Japan. (Total: $11,414).
++    .  .  =Dia Buder (JPN) (2017 f. by =Tosen Jordan (JPN)). Winner at 3, 694,000 Yen, in Japan. (Total: $6,418).
++    .  .  =Pachira (JPN) (2013 f. by Behkabad (FR)). 2 wins at 3, 447,000 Yen, in Japan. (Total: $4,315).
++    .  .  =Archbishop (JPN) (2007 c. by French Deputy). Placed at 4, 2,368,000 Yen, in Japan. (Total: $27,339).
++    .  .  =Admire Ribot (JPN) (2008 c. by =Admire Don (JPN)). Placed at 3, 2,100,000 Yen, in Japan. (Total: $25,664).
++    .  .  =Hana Midori (JPN) (2016 f. by =Red Spada (JPN)). Placed at 2, 204,000 Yen, in Japan. (Total: $1,806).
++    .  .  =Raggio di Sole (JPN) (2018 c. by Asia Express). Placed at 3, 175,000 Yen, in Japan. (Total: $1,577).
++    .  .  =Sadamu Cook Pine (JPN) (2009 f. by =King Kamehameha (JPN)). Placed at 3, 119,000 Yen, in Japan. (Total: $1,504).
++    .  .  =Gold Sai (JPN) (2012 f. by =Chichicastenango (FR)). Placed at 2, 92,000 Yen, in Japan. (Total: $880).
++    .  .  =Takaichi Samson (JPN) (2011 f. by =Meisho Samson (JPN)). Unplaced in 1 start, 250,000 Yen, in Japan. (Total: $2,488).
++    .  .  =Ishiki Takai Kei (JPN) (2019 f. by =Strong Return (JPN)). Unplaced in 2 starts in Japan.
+     .  =Peekaboo (JPN) (2005 f. by =Sakura Bakushin O (JPN)). Placed at 3, 3,550,000 Yen, in Japan. (Total: $32,582).
+-    .  =Marabou Fleet (JPN) (2003 f. by Afleet). Placed at 2, 1,055,000 Yen, in Japan. (Total: $9,597). Producer.
+?                                                                                                        ^ ^^^   ^
++    .  =Marabou Fleet (JPN) (2003 f. by Afleet). Placed at 2, 1,055,000 Yen, in Japan. (Total: $9,597). Dam of 5 foals, 5 to race, 2 winners--
+?                                                                                                        ^^^^^^^^^^^^^^^^^^^^^ ^  +++++++++ ^^^
++    .  .  =Avec Moi (JPN) (2012 f. by Fourty Niners Son). 12 wins, 3 to 6, 3,413,000 Yen, in Japan. (Total: $29,565).
++    .  .  =Chignon (JPN) (2014 f. by =Unrivaled (JPN)). Winner at 2, 550,000 Yen, in Japan. (Total: $5,319).
++    .  .  =Suzu Goten (JPN) (2009 f. by Rule of Law). Placed at 2 and 3, 136,000 Yen, in Japan. (Total: $1,755).
++    .  .  =Rinen Gonzalez (JPN) (2011 g. by $Opera House (GB)). Placed at 3, 33,000 Yen, in Japan. (Total: $285).
++    .  .  =Brilliant Bard (JPN) (2007 c. by =Marienbard (IRE)). Unplaced in 1 start in Japan.
+     .  =Silky Feather (JPN) (1996 f. by =Biwa Hayahide (JPN)). Unplaced, 3,200,000 Yen, in Japan. (Total: $27,307).
+     Penultimate (1987 f. by Roberto). Unraced. Sent from United States to England in 1987. Dam of 7 foals, 7 to race, 5 winners--
+-    .  [1m=Personal Best (IRE)[22m (1994 f. by =Kris (GB)). Winner at 3, 21,038 Euro, in France, 3rd Prix Occitanie Trophee Geny Courses [L]; placed in 1 start at 3, 4,090 Euro, in Germany, 2nd Nereide-Rennen [L]. (Total: $27,737). Died 2010. Producer.
+?                                                                                                                                                                                                                                                     ^^^^^^^^^
++    .  [1m=Personal Best (IRE)[22m (1994 f. by =Kris (GB)). Winner at 3, 21,038 Euro, in France, 3rd Prix Occitanie Trophee Geny Courses [L]; placed in 1 start at 3, 4,090 Euro, in Germany, 2nd Nereide-Rennen [L]. (Total: $27,737). Died 2010. Dam of 5 foals, 5 to race, 4 winners--
+?                                                                                                                                                                                                                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++    .  .  =Mrs Backshoe (IRE) (2003 f. by =Vettori (IRE)). 3 wins at 3 and 4, 45,960 Euro, in France. (Total: $60,389). Dam of 4 foals, 2 to race, 1 winner--
++    .  .  .  =Craspouette (FR) (2011 g. by =Martaline (GB)). Winner at 10, 25,117 Euro, in France. (Total: $29,569).
++    .  .  .  =Unnamed (2012 f. by =Forestier (FR)).
++    .  .  .  =Typical Frenchman (FR) (2009 g. by =Laveron (GB)). Unraced in France.
++    .  .  .  =Unchained Melodie (FR) (2010 f. by =Great Pretender (IRE)). Unplaced in France.
++    .  .  =Exzilarating (GB) (2000 c. by Zilzal). 5 wins at 3 and 6, 22,570 Euro, in Germany; winner at 7, 9,600 Euro, in France; placed at 2 and 3, 5,714 Pounds, in England. (Total: $49,478).
++    .  .  =Magic Sarah (IRE) (2004 f. by =Alhaarth (IRE)). 2 wins at 4, 18,550 Euro, in France. (Total: $29,063). Dam of 4 foals, 3 to race, 2 winners--
++    .  .  .  =Magic Run (FR) (2010 f. by Hurricane Run (IRE)). 3 wins, 3 to 5, 70,300 Euro, in France. (Total: $88,027).
++    .  .  .  =Stella Corsica (FR) (2011 f. by Slickly (FR)). Winner at 3, 15,850 Euro, in France. (Total: $19,827).
++    .  .  .  =Royal Vision (FR) (2013 c. by =Vision d'Etat (FR)). Unraced in France.
++    .  .  .  =Gwel Stad (FR) (2012 g. by =Vision d'Etat (FR)). Unplaced in 1 start in France. Died 2015.
++    .  .  =Cima Best (IRE) (2007 f. by Dubawi (IRE)). 3 wins at 2 and 3, 16,712 Euro, in Italy. (Total: $22,814). Dam of 2 foals, 2 to race, 1 winner--
++    .  .  .  =Coana de Nurra (ITY) (2020 f. by =Tout Seul (IRE)). Winner at 2, 2022, 3,920 Euro, in Italy. (Total: $3,875).
++    .  .  .  =Dubawi Nurressu (ITY) (2017 g. by =Sound of Desert (IRE)). Unplaced in Italy.
++    .  .  =Akelare (IRE) (2006 f. by Rock of Gibraltar (IRE)). Unplaced in 1 start, 900 Euro, in France. (Total: $1,312). Died 2022.
+     .  =Usk Valley (IRE) (1995 g. by =Tenby (GB)). 3 wins at 9, 15,445 Pounds, in England. (Total: $27,422).
+-    .  =Verdigris (IRE) (1991 f. by Green Desert). Winner at 3, 8,162 Pounds, in England. (Total: $12,474). Producer.
+?                                                                                                            ^ ^^^   ^
++    .  =Verdigris (IRE) (1991 f. by Green Desert). Winner at 3, 8,162 Pounds, in England. (Total: $12,474). Dam of 8 foals, 4 to race, 1 winner--
+?                                                                                                            ^^^^^^^^^^^^^^^^^^^^^ ^  +++++++++ ^^
++    .  .  =Alzabaq (KSA) (2003 c. by Polar Run). Winner at 4, 40,710 Riyals, in Saudi Arabia. Racing in Saudi Arabia as Alzibaq. (Total: $10,890).
++    .  .  =Shokraan (KSA) (2005 c. by Agol Lack). Placed at 4, 18,900 Riyals, in Saudi Arabia. (Total: $5,040).
++    .  .  =Barq Wa Raad (KSA) (2008 c. by =Petit Paris (CHI)). Placed at 4, 17,820 Riyals, in Saudi Arabia. (Total: $4,751).
++    .  .  =Unnamed (2010 c. by =Gold for Sale (ARG)).
++    .  .  =Unnamed (2009 f. by Judge T C).
++    .  .  =Almashlahiyah (KSA) (2004 f. by Race Leader). Unraced in Saudi Arabia. Dam of 2 foals--
++    .  .  .  =Unnamed (2015 c. by Midas Eyes).
++    .  .  .  =Unnamed (2012 f. by =Frondoso (ARG)).
++    .  .  =Alaqeelah (KSA) (1998 f. by =Voleris (FR)). Unraced in Saudi Arabia. Dam of 10 foals, 6 to race--
++    .  .  .  =Unnamed (2014 c. by =Enforcer (GB)).
++    .  .  .  =Unnamed (2013 f. by =Russian Valour (IRE)).
++    .  .  .  =Unnamed (2012 c. by Cool Customer).
++    .  .  .  =Unnamed (2011 f. by Tendulkar).
++    .  .  .  =Nooree (KSA) (2005 c. by Mortlock (FR)). Unplaced, 18,400 Riyals, in Saudi Arabia. (Total: $4,907).
++    .  .  .  =Waady Wareef (KSA) (2015 c. by =Rumool (GB)). Unplaced in 1 start in Saudi Arabia.
++    .  .  .  =Bint Zamaan (KSA) (2009 f. by =Marino Altivo (CHI)). Unplaced in 1 start in Saudi Arabia.
++    .  .  .  =Sakhab (KSA) (2008 c. by =Amazink (IRE)). Unplaced in Saudi Arabia.
++    .  .  .  =Mahboobat Reemaas (KSA) (2006 f. by =Amazink (IRE)). Unplaced in 1 start in Saudi Arabia.
++    .  .  .  =Kaltham (KSA) (2002 c. by Ambassadori). Unplaced in Saudi Arabia.
++    .  .  =Nawhaat (KSA) (1999 f. by =Sharpitor (IRE)). Unplaced, 4,140 Riyals, in Saudi Arabia. (Total: $1,104). Dam of 1 foal--
++    .  .  .  =Unnamed (2005 c. by Gold Camp).
+-    .  First Amendment (IRE) (1992 f. by Caerleon). Winner in 1 start at 4, $8,400, in N.A./U.S.; placed at 2 and 3, 2,188 Pounds, in England. Sent from Great Britain to United States in 1995. Sent from United States to Great Britain in 1998. (Total: $11,874). Producer.
+?                                                                                                                                                                                                                                                                     ^^^^^  ^^
++    .  First Amendment (IRE) (1992 f. by Caerleon). Winner in 1 start at 4, $8,400, in N.A./U.S.; placed at 2 and 3, 2,188 Pounds, in England. Sent from Great Britain to United States in 1995. Sent from United States to Great Britain in 1998. (Total: $11,874). Dam of 9 foals, 8 to race, 3 winners--
+?                                                                                                                                                                                                                                                                     ^^^^^^^^^^^^^^^^^^^^^^^  ^^^^^^^^^^^^^
++    .  .  First Alert (GB) (1999 f. by Miswaki). 2 wins at 2, 7,230 Pounds, in England; placed at 3, $6,150, in N.A./U.S. Sent from Great Britain to United States in 2001. (Total: $16,531). Dam of 6 foals, 4 to race, 2 winners--
++    .  .  .  Collalto (2006 c. by Yankee Gentleman). 2 wins at 3, $37,920.
++    .  .  .  Thunder N Bold (2005 c. by Malek (CHI)). Winner at 2 and 3, $35,583.
++    .  .  .  Mikey (2010 c. by Fairbanks). Unraced.
++    .  .  .  Unnamed (2007 c. by Beau Genius).
++    .  .  .  Swiss Alert (2004 f. by Swiss Yodeler). Unplaced, $1,500.
++    .  .  .  Abelard (2008 g. by Tribal Rule). Unplaced in 2 starts, $800.
++    .  .  =Yeoman Lad (GB) (2000 g. by Groom Dancer). Winner at 2, 10,442 Pounds, in England. (Total: $16,425).
++    .  .  Thunders On (1997 c. by Thunder Gulch). Winner at 5 and 6, $8,740. Sent from United States to Great Britain in 1997. Returned to United States from Great Britain in 1998.
++    .  .  =Fast and First (FR) (2008 g. by =Bernebeau (FR)). Placed at 3 and 4, 14,545 Euro, in France. (Total: $19,218).
++    .  .  =Fast Number (FR) (2007 f. by =Nombre Premier (GB)). Placed at 3 and 4, 11,950 Euro, in France. (Total: $16,824).
++    .  .  =First Precedent (FR) (2002 f. by Polish Precedent). Placed at 3, 1,600 Euro, in France. (Total: $1,934). Dam of 4 foals, 2 to race, 1 winner--
++    .  .  .  =Finisteria (FR) (2009 f. by Kingsalsa). 4 wins, 4 to 10, 56,650 Euro, in France. (Total: $70,665).
++    .  .  .  =Galaxie Beauchene (FR) (2016 f. by =Boris de Deauville (IRE)). Unraced in France.
++    .  .  .  =Shade of Grey (FR) (2010 f. by =Peer Gynt (JPN)). Unraced in France. Died 2014.
++    .  .  .  =Firstia (FR) (2007 f. by Until Sundown). Unplaced, 1,250 Euro, in France. (Total: $1,741).
++    .  .  =Fast Affair (FR) (2005 c. by Charge d'Affaires (GB)). Unraced in France.
++    .  .  =Number Two (FR) (2009 f. by =Nombre Premier (GB)). Unplaced in 1 start in France. Died 2012.
++    .  .  =Electromaster (GB) (2001 g. by =Vettori (IRE)). Unplaced in 1 start in Ireland.
+     .  =Berkeley Court (GB) (2001 g. by =Croco Rouge (IRE)). 2 wins at 8, 6,819 Pounds, in England. (Total: $11,505).
+-    .  =Razzle Dazzle (IRE) (1996 f. by Caerleon). Placed at 3, 4,649 Euro, in France. (Total: $4,872). Died 2010. Producer.
+?                                                                                                                   ^ ^^^   ^
++    .  =Razzle Dazzle (IRE) (1996 f. by Caerleon). Placed at 3, 4,649 Euro, in France. (Total: $4,872). Died 2010. Dam of 4 foals, 2 to race, 1 winner--
+?                                                                                                                   ^^^^^^^^^^^^^^^^^^^^^ ^  +++++++++ ^^
++    .  .  =Speechmaker (GB) (2007 g. by $Royal Applause (GB)). Winner at 3, 8,765 Euro, in Ireland; placed at 4 and 5, $465,350(HK), in Hong Kong. Sent from Ireland to Hong Kong in 2011. (Total: $70,633).
++    .  .  =Unnamed (2006 f. by $Mark of Esteem (IRE)). Died 2008.
++    .  .  =Raspect (GB) (2002 c. by =Spectrum (IRE)). Unraced in Great Britain.
++    .  .  =Bright (GB) (2003 g. by Mister Baileys (GB)). Unplaced in England.
+     .  =Academic Gold (IRE) (1998 g. by Royal Academy). Placed at 2 and 3, 1,344 Pounds, in England. (Total: $1,956).
+     Baby Bride (1996 f. by Dayjur). Unraced. Sent from United States to France in 2000. Dam of 6 foals, 3 to race, 1 winner--
+-    .  =Mariee Celebre (GB) (2004 f. by Peintre Celebre). Winner at 3 in Sweden. Producer.
+?                                                                                 ^ ^^^   ^
++    .  =Mariee Celebre (GB) (2004 f. by Peintre Celebre). Winner at 3 in Sweden. Dam of 7 foals, 6 to race, 3 winners--
+?                                                                                 ^^^^^^^^^^^^^^^^^^^^^ ^  +++++++++ ^^^
++    .  .  =Vainqueur (SWE) (2009 g. by =Dalakhani (IRE)). Winner at 2 and 3, 198,620 Krone, in Norway; 5 wins, 4 to 6, 328,250 Krone, in Denmark; placed at 5, 32,750 Krona, in Sweden. (Total: $93,912).
++    .  .  =Cara Blanca (SWE) (2012 f. by Mingun). 4 wins, 3 to 6, 265,400 Krona, in Sweden. (Total: $31,598). Dam of 1 foal, 1 to race--
++    .  .  .  =Top Gear (SWE) (2019 g. by Hallucinate). Unplaced in 2 starts, 4,600 Krona, in Sweden. (Total: $446).
++    .  .  =Nobel Bride (SWE) (2010 f. by =Nobileo (GB)). Winner at 3 and 4, 31,500 Krone, in Denmark; unplaced in 2 starts in Sweden; unplaced in Norway. (Total: $5,533).
++    .  .  =Malindi (SWE) (2017 f. by =Verde-Mar (BRZ)). Placed at 2 and 3, 71,808 Krona, in Sweden. (Total: $7,581).
++    .  .  =Werdi One (SWE) (2015 g. by =Verde-Mar (BRZ)). Placed at 2, 20,400 Krona, in Sweden. (Total: $2,327).
++    .  .  =Nobel Groom (SWE) (2011 g. by =Nobileo (GB)). Placed at 2, 12,495 Krone, in Norway; unplaced in 1 start in Sweden. (Total: $2,121).
++    .  .  =Mariee Gare (SWE) (2013 f. by =Appel Au Maitre (FR)). Unraced in Sweden.
+     .  Balcarce (2000 f. by Roy). Unraced. Sent from United States to Argentina in 2001. Dam of 13 foals, 8 to race, 7 winners--
+     .  .  [1m=BAJISTA (ARG)[22m (2010 c. by Perfectperformance). 6 wins, 3 to 6, 1,582,240 Pesos, in Argentina, 1st Provincia de Buenos Aires [1m[G1][22m, 2nd Dardo Rocha [1m[G1][22m, 3rd Clausura [1m[G2][22m, Uberto F. Vignart [1m[G3][22m. (Total: $204,061).
+-    .  .  [1m=BELARUSA (ARG)[22m (2012 f. by Orpen). 5 wins at 3 and 4, 1,740,378 Pesos, in Argentina, 1st La Mission [1m[G2][22m, Clasico Ramon Biaus [1m[G2][22m, 2nd Particula [1m[G2][22m, Chile [1m[G3][22m, 3rd Los Haras [1m[G2][22m. (Total: $123,383). Producer.
+?                                                                                                                                                                                                                                                                            ^^^^^  ^^
++    .  .  [1m=BELARUSA (ARG)[22m (2012 f. by Orpen). 5 wins at 3 and 4, 1,740,378 Pesos, in Argentina, 1st La Mission [1m[G2][22m, Clasico Ramon Biaus [1m[G2][22m, 2nd Particula [1m[G2][22m, Chile [1m[G3][22m, 3rd Los Haras [1m[G2][22m. (Total: $123,383). Dam of 3 foals, 2 to race, 1 winner--
+?                                                                                                                                                                                                                                                                            ^^^^^^^^^^^^^^^^^^^^^^^  ^^^^^^^^^^^^
++    .  .  .  =Borzakovskiy (JPN) (2019 c. by =Kizuna (JPN)). 3 wins at 3 and 4, 2023, 34,180,000 Yen, in Japan. (Total: $258,011).
++    .  .  .  =Unnamed (2021 f. by =Real Steel (JPN)).
++    .  .  .  =Grand Rowdy (JPN) (2020 c. by =Real Steel (JPN)). Unplaced in Japan.
+     .  .  [1m=Bayern (ARG)[22m (2008 c. by Orpen). 6 wins, 2 to 6, 418,315 Pesos, in Argentina, 2nd Polla de Potrillos-Argentine Two Thousand Guineas [1m[G1][22m. (Total: $84,370).
++    .  .  Bahia Rosa (ARG) (2004 f. by American Chance). Winner in 4 starts at 2 and 3, 38,030 Pesos, in Argentina; winner at 4, $16,088, in N.A./U.S. Sent from Argentina to United States in 2007. (Total: $28,310).
++    .  .  =Bien (ARG) (2005 g. by Orpen). 3 wins at 3 and 4, 185,600 Rands, in South Africa. (Total: $23,282).
++    .  .  =Basta de Talk (ARG) (2003 f. by Confidential Talk). 2 wins at 3, 47,121 Pesos, in Argentina. (Total: $15,270). Dam of 9 foals, 4 to race, 1 winner--
++    .  .  .  =Basta de Yeta (URU) (2014 f. by Alexander of Hales). 5 wins, 3 to 6, 649,291 Pesos, in Uruguay. (Total: $18,685).
++    .  .  .  =La Moni (URU) (2019 f. by =Imperrito (URU)). Unraced in Uruguay.
++    .  .  .  =Spirit Si (URU) (2018 c. by =Imperrito (URU)). Unraced in Uruguay.
++    .  .  .  =Silenciosa H (URU) (2011 f. by Hardy). Unraced in Uruguay.
++    .  .  .  =Hablador H (URU) (2010 c. by Hardy). Unraced in Uruguay.
++    .  .  .  =Light Talk (ARG) (2008 f. by Mr. Light (ARG)). Unraced in Argentina.
++    .  .  .  =Basta Ya (URU) (2012 f. by Artiste Royal (IRE)). Unplaced, 27,838 Pesos, in Uruguay. (Total: $936).
++    .  .  .  =Bartola (URU) (2016 f. by Honour and Glory). Unplaced in Uruguay.
++    .  .  .  =Basta de Charla (URU) (2013 f. by Alexander of Hales). Unplaced in Uruguay.
++    .  .  =Barnabas II (ARG) (2009 g. by Perfectperformance). Winner at 4, 4,871,000 Pesos, in Chile. (Total: $9,831).
++    .  .  =Bremem (ARG) (2017 c. by Orpen). Unraced in Argentina.
++    .  .  =Balance (ARG) (2015 f. by Orpen). Unraced in Argentina.
++    .  .  =Balerna (ARG) (2014 f. by Orpen). Unraced in Argentina.
++    .  .  =Batuco (ARG) (2011 c. by Freud). Unraced in Argentina.
++    .  .  =Balcanes (ARG) (2006 c. by Seeker's Reward). Unraced in Argentina.
++    .  .  =Bajo Secreto (ARG) (2013 c. by Orpen). Unplaced, 12,000 Pesos, in Argentina. (Total: $691).
+     .  =Unnamed (2005 c. by Tobougg (IRE)). Died 2007.
+     .  =Unnamed (2003 c. by =Desert Style (IRE)).
+     .  =Equitable (FR) (2006 c. by Kingsalsa). Unplaced in 2 starts, 450 Euro, in France. (Total: $710). Died 2008.
+-    .  Mrs. Saigon (1999 f. by Mr. Greeley). Unplaced in 2 starts. Producer.
+?                                                                   ^ ^^^   ^
++    .  Mrs. Saigon (1999 f. by Mr. Greeley). Unplaced in 2 starts. Dam of 4 foals, 3 to race, 1 winner--
+?                                                                   ^^^^^^^^^^^^^^^^^^^^^ ^  +++++++++ ^^
++    .  .  Ping Bay (2005 f. by Sligo Bay (IRE)). Winner at 4, $64,984. Dam of 1 foal--
++    .  .  .  Unnamed (2019 f. by Summer Front). (application pending)
++    .  .  Duncan McFly (2007 c. by Weekend Cruise). Placed at 2, $7,253.
++    .  .  Unnamed (2012 c. by Mizzen Mast). (application cancelled)
++    .  .  Senorita Mariposa (2004 f. by Vision and Verse). Unraced.
++    .  .  Belleza Pluma (2003 f. by Housebuster). Unplaced in 2 starts. Died 2011. Dam of 3 foals, 2 to race--
++    .  .  .  Blushing Belleza (2009 f. by Runaway Macho). Unraced.
++    .  .  .  Runaway Belle (2008 f. by Runaway Macho). Unplaced, $960.
++    .  .  .  Mervyn (2010 c. by Runaway Macho). Unplaced in 1 start, $100.
+     Anakid (1994 f. by Danzig). Unraced. Sent from United States to Great Britain in 1996. Returned to United States from Ireland in 1998. Dam of 6 foals, 6 to race, 5 winners--
+-    .  Miss Mexique (2008 f. by Lemon Drop Kid). 5 wins, 3 to 6, $98,000.
++    .  Miss Mexique (2008 f. by Lemon Drop Kid). 5 wins, 3 to 6, $98,000. Dam of 4 foals--
+?                                                                         +++++++++++++++++
++    .  .  Unnamed (2022 f. by Xixixi). (application pending)
++    .  .  Unnamed (2021 f. by Unfettered). (application pending)
++    .  .  Z Mystique (2020 g. by Xixixi). Unraced.
++    .  .  Unnamed (2018 c. by Xixixi). (application pending)
+     .  Political Reporter (2005 g. by Silver Charm). 6 wins, 3 to 6, $80,750.
+     .  Mozakhraf (2002 c. by Miswaki). 4 wins at 4 and 5, 15,188 Pounds, in England; unplaced, 451 Euro, in Ireland. Sent from United States to Ireland in 2002. (Total: $30,619).
+     .  Annacet (2007 f. by Toccet). 2 wins at 3, $27,560.
+     .  Play Right Capote (2003 g. by Capote). Winner at 4, $15,829.
+     .  Fair Time (1999 f. by Woodman). Unplaced in England. Sent from United States to Great Britain in 2000. Dam of 8 foals, 7 to race, 3 winners--
+-    .  .  [1m=Quick Time (NZ)[22m (2004 f. by =Zabeel (NZ)). 4 wins at 4 and 5, $51,187(NZ), in New Zealand, 3rd Christchurch Casino Spring Classic [L]. (Total: $31,559). Producer.RACE RECORD for Precious Rachel: Unraced.
+?                                                                                                                                                                             ------------------- ^ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++    .  .  [1m=Quick Time (NZ)[22m (2004 f. by =Zabeel (NZ)). 4 wins at 4 and 5, $51,187(NZ), in New Zealand, 3rd Christchurch Casino Spring Classic [L]. (Total: $31,559). Dam of 2 foals, 1 to race, 1 winner--
+?                                                                                                                                                                              ^^^^ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++    .  .  .  =Sweet Time (NZ) (2011 f. by =Nom Du Jeu (NZ)). Winner at 4, $25,440(NZ), in New Zealand. (Total: $18,009).
++    .  .  .  =Unnamed (2014 f. by =Pins (AUS)).
++    .  .  =Eastern Towkay (NZ) (2012 g. by =Nom Du Jeu (NZ)). Winner at 5 and 6, 64,131 Ringgits, in Malaysia; placed at 4, 12,285 SIN$, in Singapore. (Total: $24,624).
++    .  .  =Itsaboutime (NZ) (2006 f. by Howbaddouwantit). Winner at 5 and 6, $16,750(NZ), in New Zealand. (Total: $13,843).
++    .  .  =Mesa Verde (NZ) (2005 f. by Elusive City). Placed at 4, $975(NZ), in New Zealand. (Total: $663).
++    .  .  =Pericles (NZ) (2007 g. by =Savabeel (AUS)). Placed at 4, $700(NZ), in New Zealand. (Total: $553).
++    .  .  =Mirabelle (NZ) (2003 f. by Fantastic Light). Unraced in New Zealand. Dam of 1 foal, 1 to race, 1 winner--
++    .  .  .  =Miss Mimo (NZ) (2008 f. by =Scaredee Cat (NZ)). Winner at 3 and 4, $10,000(NZ), in New Zealand. (Total: $8,210).
++    .  .  =Dame Du Jour (NZ) (2014 f. by =Nom Du Jeu (NZ)). Unplaced, $400(NZ), in New Zealand. (Total: $267).
++    .  .  =Lily Jean (NZ) (2013 f. by =Nom Du Jeu (NZ)). Unplaced, $200(NZ), in New Zealand. (Total: $130).RACE RECORD for Precious Rachel: Unraced.
+  RACE RECORD for Precious Rachel: Unraced.
