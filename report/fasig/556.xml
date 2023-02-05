@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>556</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Sou Warrior</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  SO CHIC, by Private Terms. Unraced. Sent from United States to Republic of Korea in 2014. Half-sister to **LIVING VICARIOUSLY** ($356,846, 1st Brooklyn H. **[G2]**, etc.), **WITH DISTINCTION** ($447,717, 1st El Conejo H. **[G3]** (SA, $67,260), etc., sire), **Resort** ($247,730, 2nd Coaching Club American Oaks **[G1]**, etc.). Dam of 12 foals, 5 to race, 4 winners--
-update on line 92: +    =Sou Warrior (KOR) (2015 c. by Warrior's Reward). Unplaced in Republic of Korea.RACE RECORD for Circle Back Jen: At 2, unplaced in 2 starts. Earned $6,750
-Dam is in line 39:   SO CHIC, by Private Terms. Unraced. Sent from United States to Republic of Korea in 2014. Half-sister to **LIVING VICARIOUSLY** ($356,846, 1st Brooklyn H. **[G2]**, etc.), **WITH DISTINCTION** ($447,717, 1st El Conejo H. **[G3]** (SA, $67,260), etc., sire), **Resort** ($247,730, 2nd Coaching Club American Oaks **[G1]**, etc.). Dam of 12 foals, 5 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

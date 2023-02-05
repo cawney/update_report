@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>310</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tiz Josselyn</HorseName>
-		<HorseYOB>2012 </HorseYOB>
-		<HorseSex>f</HorseSex>
-  CAJUN CAT, by Storm Cat. Unplaced, $440. Died 2017. Half-sister to **Desiderosa** ($90,237, 2nd Colleen S. [L] (MTH, $10,000)). Dam of 13 foals, 11 to race, 7 winners--
-update on line 129: +    Tiz Josselyn (2012 f. by Tiznow). Winner at 5, $29,518. Dam of 4 foals, 2 to race, 1 winner--
-Dam is in line 74:   CAJUN CAT, by Storm Cat. Unplaced, $440. Died 2017. Half-sister to **Desiderosa** ($90,237, 2nd Colleen S. [L] (MTH, $10,000)). Dam of 13 foals, 11 to race, 7 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>149</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Whiskey's Jade</HorseName>
-		<HorseYOB>1994 </HorseYOB>
-		<HorseSex>f</HorseSex>
-  WHISKEY'S GIFT (AUS), by Whiskey Road. Winner at 3 in Australia; placed in 2 starts at 5, $6,800, in N.A./U.S. Sent from Australia to United States in 1989. Sister to **STRAWBERRY ROAD (AUS)** ($905,520, in N.A./U.S., champion 3-year-old colt in Australia (1982), champion older horse in Germany (1984), 1st Daily Telegraph Rosehill Guineas**-G1**, etc., among the leading sires in U.S. (1998)). Dam of 7 foals, 6 to race, 6 winners--
-update on line 78: +    Whiskey's Jade (1994 f. by Jade Hunter). Unraced.RACE RECORD for Exes N Ohs: At 2, unraced; at 3, once 2nd, once 3rd. Earned $7,963PRODUCE RECORD for Exes N Ohs:2020 Barren to Nyquist.2021 Unnamed, f. by Good Magic.2022 Unnamed, c. by Mitole.2023 Bred to Midshipman.
-Dam is in line 70:   WHISKEY'S GIFT (AUS), by Whiskey Road. Winner at 3 in Australia; placed in 2 starts at 5, $6,800, in N.A./U.S. Sent from Australia to United States in 1989. Sister to **STRAWBERRY ROAD (AUS)** ($905,520, in N.A./U.S., champion 3-year-old colt in Australia (1982), champion older horse in Germany (1984), 1st Daily Telegraph Rosehill Guineas**-G1**, etc., among the leading sires in U.S. (1998)). Dam of 7 foals, 6 to race, 6 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

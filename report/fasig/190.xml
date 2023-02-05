@@ -3,26 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>190</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Oooh Barracuda</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  SOUTH APPLE (ARG), by Southern Halo. 3 wins in 6 starts at 3 and 4, 15,568 Pesos, in Argentina; placed at 5, $26,040, in N.A./U.S. Sent from Argentina to United States in 2002. (Total: $30,345). Sister to **=APPLE HALO (ARG)** (Total: $51,141, 1st Austria [L], etc., sire), **Apple Juice (ARG)** (Total: $60,364, 2nd Carrera de las Estrellas Potrancas **[G1]**, etc.). Dam of 12 foals, 10 to race, 9 winners--
-update on line 46: +    Oooh Barracuda (2017 f. by Taste of Paradise). Winner at 3, $38,376.
-Dam is in line 37:   SOUTH APPLE (ARG), by Southern Halo. 3 wins in 6 starts at 3 and 4, 15,568 Pesos, in Argentina; placed at 5, $26,040, in N.A./U.S. Sent from Argentina to United States in 2002. (Total: $30,345). Sister to **=APPLE HALO (ARG)** (Total: $51,141, 1st Austria [L], etc., sire), **Apple Juice (ARG)** (Total: $60,364, 2nd Carrera de las Estrellas Potrancas **[G1]**, etc.). Dam of 12 foals, 10 to race, 9 winners--
-		<hip>190</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Impeccable Taste</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  SOUTH APPLE (ARG), by Southern Halo. 3 wins in 6 starts at 3 and 4, 15,568 Pesos, in Argentina; placed at 5, $26,040, in N.A./U.S. Sent from Argentina to United States in 2002. (Total: $30,345). Sister to **=APPLE HALO (ARG)** (Total: $51,141, 1st Austria [L], etc., sire), **Apple Juice (ARG)** (Total: $60,364, 2nd Carrera de las Estrellas Potrancas **[G1]**, etc.). Dam of 12 foals, 10 to race, 9 winners--
-update on line 53: +    Impeccable Taste (2018 f. by Taste of Paradise). Placed at 4, 2022, $3,557.
-Dam is in line 37:   SOUTH APPLE (ARG), by Southern Halo. 3 wins in 6 starts at 3 and 4, 15,568 Pesos, in Argentina; placed at 5, $26,040, in N.A./U.S. Sent from Argentina to United States in 2002. (Total: $30,345). Sister to **=APPLE HALO (ARG)** (Total: $51,141, 1st Austria [L], etc., sire), **Apple Juice (ARG)** (Total: $60,364, 2nd Carrera de las Estrellas Potrancas **[G1]**, etc.). Dam of 12 foals, 10 to race, 9 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

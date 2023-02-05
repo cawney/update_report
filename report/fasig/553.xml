@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>553</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Truly Gifted</HorseName>
-		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  **TRUE FLARE**, by Capote. 3 wins in 5 starts at 2 and 3, 61,742 Euro, in France, 1st Prix Roland de Chambure [L], Prix du Pont-Neuf [L], 3rd Prix de Sandringham **[G3]**; 2 wins at 3, $245,660, in N.A./U.S., 1st Rare Perfume Breeders' Cup H. **[G2]**, San Clemente H. **[G2]**, 3rd Del Mar Invitational Oaks **[G1]**. Sent from United States to France in 1994. Returned to United States from France in 1996. (Total: $326,684). Died 2018. Sister to **CAPITAL SECRET** (Total: $141,492, 1st Grosser Preis der Freien Hansestadt Bremen **[G3]**, etc.), half-sister to **APPLE OF KENT** (Total: $276,816, 1st Shuvee H. **[G2]**, etc.), **WAR ZONE** (Total: $259,614, 1st Poker H. **[G3]** (BEL, $69,720), etc., sire), **SET ALIGHT** (Total: $112,378, 1st Prix Thomas Bryon **[G3]**, etc., sire), **RIVER FLARE** (Total: $87,936, 1st Prix de la Cochere [L], etc.). Dam of 11 foals, 11 to race, 7 winners--
-update on line 58: +    Truly Gifted (2013 f. by Afleet Alex). See above.RACE RECORD for Roll Baby: At 2, unraced; at 3, 2022, one win; at 2, one win, . Totals: 2 wins. Earned $55,530
-Dam is in line 41:   **TRUE FLARE**, by Capote. 3 wins in 5 starts at 2 and 3, 61,742 Euro, in France, 1st Prix Roland de Chambure [L], Prix du Pont-Neuf [L], 3rd Prix de Sandringham **[G3]**; 2 wins at 3, $245,660, in N.A./U.S., 1st Rare Perfume Breeders' Cup H. **[G2]**, San Clemente H. **[G2]**, 3rd Del Mar Invitational Oaks **[G1]**. Sent from United States to France in 1994. Returned to United States from France in 1996. (Total: $326,684). Died 2018. Sister to **CAPITAL SECRET** (Total: $141,492, 1st Grosser Preis der Freien Hansestadt Bremen **[G3]**, etc.), half-sister to **APPLE OF KENT** (Total: $276,816, 1st Shuvee H. **[G2]**, etc.), **WAR ZONE** (Total: $259,614, 1st Poker H. **[G3]** (BEL, $69,720), etc., sire), **SET ALIGHT** (Total: $112,378, 1st Prix Thomas Bryon **[G3]**, etc., sire), **RIVER FLARE** (Total: $87,936, 1st Prix de la Cochere [L], etc.). Dam of 11 foals, 11 to race, 7 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

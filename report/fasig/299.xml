@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>299</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Zatopek</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>g</HorseSex>
-  **Cargo**, by Caro (IRE). 5 wins at 3 and 4, $236,588, 2nd A Gleam H. **[G2]**, Santa Anita Budweiser Breeders' Cup H. **[G3]**, Cascapedia H. [L] (SA, $20,000), B. Thoughtful H. [L] (SA, $12,000), 3rd Silver Belles H. **[G2]**, Run for the Roses H. [L] (SA, $9,000), Convenience H.-R (HOL, $6,750). Died 2020. Half-sister to **MISS A. BOMB** ($211,451, 1st Inaugural S. [L] (PID, $60,000), etc.), **Shinnecock** ($75,749, 2nd Island Whirl H. (LAD, $5,000)). Dam of 11 foals, 6 to race, 3 winners--
-update on line 82: +    Zatopek (2008 g. by Thunder Gulch). Unplaced in 1 start, $385.RACE RECORD for Never Sober: In Canada. At 2, one win, 3 times 2nd, once 3rd; at 3, two wins, . Totals: 3 wins, three times 2nd, once 3rd. Earned  $118,037. In N.A./U.S. At 4, unplaced in 1 start. Earned $160. (Total: $89,568.)PRODUCE RECORD for Never Sober:2021 Imperial Thunder, c. by Midnight Storm. Unraced.2022 Unnamed, c. by Vino Rosso.2023 Bred to Karakontie (JPN).
-Dam is in line 47:   **Cargo**, by Caro (IRE). 5 wins at 3 and 4, $236,588, 2nd A Gleam H. **[G2]**, Santa Anita Budweiser Breeders' Cup H. **[G3]**, Cascapedia H. [L] (SA, $20,000), B. Thoughtful H. [L] (SA, $12,000), 3rd Silver Belles H. **[G2]**, Run for the Roses H. [L] (SA, $9,000), Convenience H.-R (HOL, $6,750). Died 2020. Half-sister to **MISS A. BOMB** ($211,451, 1st Inaugural S. [L] (PID, $60,000), etc.), **Shinnecock** ($75,749, 2nd Island Whirl H. (LAD, $5,000)). Dam of 11 foals, 6 to race, 3 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

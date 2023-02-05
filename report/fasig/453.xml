@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>453</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Irish Moon</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  **Ireland**, by Afleet Alex. Winner at 3, $54,861, 3rd Martha Washington S. [L] (OP, $10,000). Sister to **DUBLIN** ($438,949, 1st Three Chimneys Hopeful S. **[G1]** (SAR, $180,000), etc., sire), half-sister to **Mike's Classic** ($328,367, 2nd Eillo S. (MED, $10,000), etc.). Dam of 5 foals, 3 to race, 2 winners--
-update on line 40: +    Irish Moon (2021 c. by Ransom the Moon). Unraced.
-Dam is in line 34:   **Ireland**, by Afleet Alex. Winner at 3, $54,861, 3rd Martha Washington S. [L] (OP, $10,000). Sister to **DUBLIN** ($438,949, 1st Three Chimneys Hopeful S. **[G1]** (SAR, $180,000), etc., sire), half-sister to **Mike's Classic** ($328,367, 2nd Eillo S. (MED, $10,000), etc.). Dam of 5 foals, 3 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

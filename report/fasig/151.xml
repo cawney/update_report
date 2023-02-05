@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>151</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  FAMOUS ROSE, by Forest Danger. 6 wins, 3 to 5, $163,860. Dam of 3 foals, 2 to race, 1 winner--
-update on line 44: +    Unnamed (2022 c. by Lord Nelson). See above.
-Dam is in line 39:   FAMOUS ROSE, by Forest Danger. 6 wins, 3 to 5, $163,860. Dam of 3 foals, 2 to race, 1 winner--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

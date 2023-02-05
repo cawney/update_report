@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>90</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bourbon North</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  GAUZE, by Saint Ballado. Placed at 3 and 4, $6,720. Half-sister to **UNBRIDLED HOPE** ($272,370, 1st Ladies H. **[G3]**, etc.), **FORESTIER** ($195,710, 1st Classy Mirage S.-R (AQU, $36,360), etc.), **Silent Fred** ($215,402, 3rd Remsen S. **[G2]**). Dam of 10 foals, 8 to race, 6 winners--
-update on line 57: +    Bourbon North (2021 c. by Collected). Unraced.
-Dam is in line 34:   GAUZE, by Saint Ballado. Placed at 3 and 4, $6,720. Half-sister to **UNBRIDLED HOPE** ($272,370, 1st Ladies H. **[G3]**, etc.), **FORESTIER** ($195,710, 1st Classy Mirage S.-R (AQU, $36,360), etc.), **Silent Fred** ($215,402, 3rd Remsen S. **[G2]**). Dam of 10 foals, 8 to race, 6 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

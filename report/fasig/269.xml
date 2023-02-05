@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>269</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tactical Stride</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  MAGIC MADISON, by Ghostly Minister. Winner at 3, $23,810. Half-sister to **GIOVANNI BOLDINI** (Total: $454,771, champion miler in Scandinavia (2014), 1st Tattersalls Nickes Minneslopning [L], etc.). Dam of 5 foals, 5 to race, 3 winners--
-update on line 41: +    Tactical Stride (2020 c. by Sharp Azteca). Placed at 2, 2022, $3,510.
-Dam is in line 34:   MAGIC MADISON, by Ghostly Minister. Winner at 3, $23,810. Half-sister to **GIOVANNI BOLDINI** (Total: $454,771, champion miler in Scandinavia (2014), 1st Tattersalls Nickes Minneslopning [L], etc.). Dam of 5 foals, 5 to race, 3 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

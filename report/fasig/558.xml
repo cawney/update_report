@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>558</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>One Whirlwind Ride</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  **THE FUNKY EXPRESS**, by Freud. 3 wins in 4 starts at 2, $123,400, 1st New York Stallion Series S.-R (AQU, $60,000). Half-sister to **Funky Munky Mama** ($170,143, 3rd Lady Finger S.-R (FL, $13,923)). Dam of 9 foals, 6 to race, 5 winners--
-update on line 44: +    One Whirlwind Ride (2018 g. by Twirling Candy). Winner at 3 and 4, 2022, $174,250.
-Dam is in line 39:   **THE FUNKY EXPRESS**, by Freud. 3 wins in 4 starts at 2, $123,400, 1st New York Stallion Series S.-R (AQU, $60,000). Half-sister to **Funky Munky Mama** ($170,143, 3rd Lady Finger S.-R (FL, $13,923)). Dam of 9 foals, 6 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

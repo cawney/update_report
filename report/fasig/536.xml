@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>536</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Comic Hero</HorseName>
-		<HorseYOB>2003 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  SHERRIFF'S DEPUTY, by Deputy Minister. Unraced. Died 2012. Dam of 8 foals, 6 to race, 4 winners--
-update on line 135: +    Comic Hero (2003 g. by Wild Zone). Unplaced, $1,100.RACE RECORD for Flirting Miss: At 2, unplaced in 1 start. Earned $1,600PRODUCE RECORD for Flirting Miss:2022 Unnamed, f. by Mitole.2023 Bred to Shaman Ghost.
-Dam is in line 42:   SHERRIFF'S DEPUTY, by Deputy Minister. Unraced. Died 2012. Dam of 8 foals, 6 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

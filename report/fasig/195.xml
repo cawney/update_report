@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>195</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Higher Authority</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>g</HorseSex>
-  HEAVENLY VISION, by Forestry. 3 wins at 2 and 3, $85,544. Half-sister to **CAIRO PRINCE** ($562,000, 1st Holy Bull S. **[G2]** (GP, $240,000), etc., sire), **Nonna Mia** ($127,150, 2nd Loudonville S.-R (SAR, $14,000), etc.), **Holdin Bullets** ($166,254, 3rd Breeders' Cup Juvenile Sprint [L] (CD, $49,500)). Dam of 9 foals, 5 to race, 5 winners--
-update on line 37: +    Higher Authority (2016 g. by Bernardini). 6 wins, 4 to 7, 2023, $129,899.
-Dam is in line 34:   HEAVENLY VISION, by Forestry. 3 wins at 2 and 3, $85,544. Half-sister to **CAIRO PRINCE** ($562,000, 1st Holy Bull S. **[G2]** (GP, $240,000), etc., sire), **Nonna Mia** ($127,150, 2nd Loudonville S.-R (SAR, $14,000), etc.), **Holdin Bullets** ($166,254, 3rd Breeders' Cup Juvenile Sprint [L] (CD, $49,500)). Dam of 9 foals, 5 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,26 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>41</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bella Bluegrass</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>g</HorseSex>
-  BECKY'S BLUEGRASS, by Macho Uno. Unplaced, $1,415. Dam of 2 foals--
-update on line 43: +    Bella Bluegrass (2022 f. by Street Boss). See above.
-Dam is in line 40:   BECKY'S BLUEGRASS, by Macho Uno. Unplaced, $1,415. Dam of 2 foals--
-		<hip>41</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Eligio</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>g</HorseSex>
-  BECKY'S BLUEGRASS, by Macho Uno. Unplaced, $1,415. Dam of 2 foals--
-update on line 45: +    Eligio (2021 c. by Congrats). Unraced.
-Dam is in line 40:   BECKY'S BLUEGRASS, by Macho Uno. Unplaced, $1,415. Dam of 2 foals--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

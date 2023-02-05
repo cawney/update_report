@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>583</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  KOTUKU (GB), by A.P. Indy. Placed at 3, $9,416. Sent from Great Britain to United States in 2005. Sent from United States to Australia in 2006. Returned to United States from Australia in 2007. Died 2017. Sister to **Anasheed** (Total: $104,339, 2nd Arlington-Washington Futurity **[G3]** (AP, $30,000), sire), half-sister to **Marhoob** (Total: $75,933, 2nd Foundation S. [L], sire), **Dubai Belle** (Total: $60,095, 2nd Prix Coronation [L]). Dam of 10 foals, 8 to race, 4 winners--
-update on line 75: +    Unnamed (2014 c. by Distorted Humor). Died 2015.RACE RECORD for Grael: At 2, unraced; at 3, 2022, twice 3rd (John Battaglia Memorial S. (TP, $11,800)); at 4, 2023, unplaced in 1 start; at 2, one win, twice 3rd, . Totals: 1 win, 4 times 3rd. Earned $118,755
-Dam is in line 39:   KOTUKU (GB), by A.P. Indy. Placed at 3, $9,416. Sent from Great Britain to United States in 2005. Sent from United States to Australia in 2006. Returned to United States from Australia in 2007. Died 2017. Sister to **Anasheed** (Total: $104,339, 2nd Arlington-Washington Futurity **[G3]** (AP, $30,000), sire), half-sister to **Marhoob** (Total: $75,933, 2nd Foundation S. [L], sire), **Dubai Belle** (Total: $60,095, 2nd Prix Coronation [L]). Dam of 10 foals, 8 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

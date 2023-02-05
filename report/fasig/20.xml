@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>20</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>They Shot Sonny</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>g</HorseSex>
-  AMBER GRACE, by Elusive Quality. Winner at 3 and 4, $77,717. Half-sister to **RUSSIAN RHYTHM** (Total: $1,260,794, european Champion 3-year-old filly (2003), hwt. filly at 3 on English Free Hand., 7 - 9 1/2 fur. (2003), hwt. filly at 3 on English Free Hand., 9 1/2 - 11 fur. (2003), 1st Sagitta One Thousand Guineas **[G1]**, etc.), **PERFECTPERFORMANCE** (Total: $198,922, 1st Hackney Empire Royal Lodge S. **[G2]**, etc., sire), **Ive Gota Bad Liver** ($84,503, 2nd Lady's Secret H. (RP, $6,000), etc.). Dam of 9 foals, 4 to race, 2 winners--
-update on line 42: +    They Shot Sonny (2014 g. by Giant's Causeway). 9 wins, 3 to 7, placed at 8, 2022, $312,455.
-Dam is in line 38:   AMBER GRACE, by Elusive Quality. Winner at 3 and 4, $77,717. Half-sister to **RUSSIAN RHYTHM** (Total: $1,260,794, european Champion 3-year-old filly (2003), hwt. filly at 3 on English Free Hand., 7 - 9 1/2 fur. (2003), hwt. filly at 3 on English Free Hand., 9 1/2 - 11 fur. (2003), 1st Sagitta One Thousand Guineas **[G1]**, etc.), **PERFECTPERFORMANCE** (Total: $198,922, 1st Hackney Empire Royal Lodge S. **[G2]**, etc., sire), **Ive Gota Bad Liver** ($84,503, 2nd Lady's Secret H. (RP, $6,000), etc.). Dam of 9 foals, 4 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

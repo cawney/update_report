@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>312</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fascinate</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  GIFT LIST, by Bernardini. Placed at 4, $34,889. Died 2018. Half-sister to **PRIVATE MISSION** ($405,300, 1st Zenyatta S. **[G2]** (SA, $120,000), etc.), **SECRET SOMEONE** ($409,301, 1st Kentucky Downs Ladies Turf S. [L] (KD, $210,210), etc.), **Profetiza** ($119,672, 3rd Catinca S. (BEL, $10,000), etc.). Dam of 4 foals, 2 to race, 2 winners--
-update on line 43: +    Fascinate (2015 f. by Curlin). Unraced. Dam of 4 foals, 1 to race--
-Dam is in line 38:   GIFT LIST, by Bernardini. Placed at 4, $34,889. Died 2018. Half-sister to **PRIVATE MISSION** ($405,300, 1st Zenyatta S. **[G2]** (SA, $120,000), etc.), **SECRET SOMEONE** ($409,301, 1st Kentucky Downs Ladies Turf S. [L] (KD, $210,210), etc.), **Profetiza** ($119,672, 3rd Catinca S. (BEL, $10,000), etc.). Dam of 4 foals, 2 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

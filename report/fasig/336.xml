@@ -3,36 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>336</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>I Feel the Need</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>f</HorseSex>
-  PRIMP, by Bernardini. Unplaced, $410. Half-sister to **MCKINZIE** ($3,473,360, 1st Pennsylvania Derby **[G1]** (PRX, $556,000), etc.), **Rompin Reid** ($172,945, 3rd The Vid S. (GP, $7,425)). Dam of 11 foals, 7 to race, 5 winners--
-update on line 36: +    I Feel the Need (2019 f. by Keen Ice). Winner at 3, 2022, $63,890.
-Dam is in line 33:   PRIMP, by Bernardini. Unplaced, $410. Half-sister to **MCKINZIE** ($3,473,360, 1st Pennsylvania Derby **[G1]** (PRX, $556,000), etc.), **Rompin Reid** ($172,945, 3rd The Vid S. (GP, $7,425)). Dam of 11 foals, 7 to race, 5 winners--
-		<hip>336</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Rocket Hotshot</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  PRIMP, by Bernardini. Unplaced, $410. Half-sister to **MCKINZIE** ($3,473,360, 1st Pennsylvania Derby **[G1]** (PRX, $556,000), etc.), **Rompin Reid** ($172,945, 3rd The Vid S. (GP, $7,425)). Dam of 11 foals, 7 to race, 5 winners--
-update on line 40: +    Rocket Hotshot (2018 c. by Red Rocks (IRE)). Winner at 3 and 4, 2022, $48,852.
-Dam is in line 33:   PRIMP, by Bernardini. Unplaced, $410. Half-sister to **MCKINZIE** ($3,473,360, 1st Pennsylvania Derby **[G1]** (PRX, $556,000), etc.), **Rompin Reid** ($172,945, 3rd The Vid S. (GP, $7,425)). Dam of 11 foals, 7 to race, 5 winners--
-		<hip>336</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-  PRIMP, by Bernardini. Unplaced, $410. Half-sister to **MCKINZIE** ($3,473,360, 1st Pennsylvania Derby **[G1]** (PRX, $556,000), etc.), **Rompin Reid** ($172,945, 3rd The Vid S. (GP, $7,425)). Dam of 11 foals, 7 to race, 5 winners--
-update on line 47: +    Unnamed (2022 f. by Keen Ice). See above.
-Dam is in line 33:   PRIMP, by Bernardini. Unplaced, $410. Half-sister to **MCKINZIE** ($3,473,360, 1st Pennsylvania Derby **[G1]** (PRX, $556,000), etc.), **Rompin Reid** ($172,945, 3rd The Vid S. (GP, $7,425)). Dam of 11 foals, 7 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

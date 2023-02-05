@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>550</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2003 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  DIXIE HOLIDAY, by Dixieland Band. 4 wins, 3 to 5, $101,781. Sister to **Saints Go Marching** ($63,449, 3rd Shenandoah S. (CT, $4,054)), half-sister to **Real Fancy Runner** ($92,684, 3rd La Habra S. **[G3]** (SA, $12,000)), **Stately Warrior** ($373,391, 2nd Cardmania S. [L] (SA, $13,000), etc.). Dam of 15 foals, 14 to race, 14 winners--
-update on line 101: +    Unnamed (2003 c. by Glitterman).RACE RECORD for Wink Texas: At 2, unraced; at 3, unraced; at 4, 2022, unplaced in 1 start; at 2, one win, twice 2nd; at 3, three times 2nd (Darby's Daughter Division of the Clarence Scharbauer, Jr. Texas Stallion S.-R (HOU, $14,850)); . Totals: 1 win, 5 times 2nd. Earned $55,9352023 Bred to McKinzie.
-Dam is in line 47:   DIXIE HOLIDAY, by Dixieland Band. 4 wins, 3 to 5, $101,781. Sister to **Saints Go Marching** ($63,449, 3rd Shenandoah S. (CT, $4,054)), half-sister to **Real Fancy Runner** ($92,684, 3rd La Habra S. **[G3]** (SA, $12,000)), **Stately Warrior** ($373,391, 2nd Cardmania S. [L] (SA, $13,000), etc.). Dam of 15 foals, 14 to race, 14 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

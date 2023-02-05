@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>505</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Persian Royalty</HorseName>
-		<HorseYOB>2010 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  LADY ENSIGN, by Miner's Mark. Unplaced, $2,028. Half-sister to **OLD TASCOSA** ($393,950, 1st Cowdin S. **[G2]**, etc.), **MR. SEA SANDERS** ($112,318, 1st Tremont S. **[G3]**, etc.), **LIGHTS ON** ($216,920, 1st Light Hearted H. [L] (DEL, $60,000)), **Delightful Bet** ($101,310, 2nd Perrine S. (HIA, $5,750), etc.). Dam of 6 foals, 5 to race, 3 winners--
-update on line 60: +    Persian Royalty (2010 c. by Southland Blues). Unraced.RACE RECORD for Busy Banker: Unraced.
-Dam is in line 52:   LADY ENSIGN, by Miner's Mark. Unplaced, $2,028. Half-sister to **OLD TASCOSA** ($393,950, 1st Cowdin S. **[G2]**, etc.), **MR. SEA SANDERS** ($112,318, 1st Tremont S. **[G3]**, etc.), **LIGHTS ON** ($216,920, 1st Light Hearted H. [L] (DEL, $60,000)), **Delightful Bet** ($101,310, 2nd Perrine S. (HIA, $5,750), etc.). Dam of 6 foals, 5 to race, 3 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

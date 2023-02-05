@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>81</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Jaded Actor</HorseName>
-		<HorseYOB>2000 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  **LENTA**, by Theatrical (IRE). 7 wins in 10 starts at 3 and 4, $212,490, 1st Calder Breeders' Cup H. [L] (CRC, $90,000), Noble Royalty H. [L] (CRC, $60,000), Homeland H. (CRC, $16,290). Died 2011. Dam of 8 foals, 7 to race, 4 winners--
-update on line 58: +    Jaded Actor (2000 g. by Jade Hunter). Unplaced in 2 starts.RACE RECORD for Charlie's Angel (FR): In France. At 2, once 3rd; at 3, one win, once 3rd in 2 starts; . Totals: 1 win, twice 3rd. Earned 18,500 Euro. In N.A./U.S. At 7, unplaced; at 3, once 3rd; at 6, unplaced; at 5, unplaced in 2 starts; at 4, one win, once 2nd, . Totals: 1 win, once 2nd, once 3rd. Earned $33,661. (Total: $58,832.)PRODUCE RECORD for Charlie's Angel (FR):2019 Bred to Perfect Soul (IRE).2020 Bold Empress, f. by Grey Swallow (IRE). Unplaced in 1 start, $510.2021 Broodmare aborted to Unified.2022 Unnamed, c. by Tamarkuz.2023 Bred to Demarchelier (GB).
-Dam is in line 41:   **LENTA**, by Theatrical (IRE). 7 wins in 10 starts at 3 and 4, $212,490, 1st Calder Breeders' Cup H. [L] (CRC, $90,000), Noble Royalty H. [L] (CRC, $60,000), Homeland H. (CRC, $16,290). Died 2011. Dam of 8 foals, 7 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

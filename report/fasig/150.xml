@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>150</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-  EXTRA IMPACT, by Honour and Glory. 4 wins at 3 and 4, $97,660. Half-sister to **RED KING** ($586,555, 1st Del Mar H. **[G2]** (DMR, $120,000), etc.). Dam of 9 foals, 6 to race, 5 winners--
-update on line 48: +    Unnamed (2022 f. by Vino Rosso). See above.
-Dam is in line 37:   EXTRA IMPACT, by Honour and Glory. 4 wins at 3 and 4, $97,660. Half-sister to **RED KING** ($586,555, 1st Del Mar H. **[G2]** (DMR, $120,000), etc.). Dam of 9 foals, 6 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

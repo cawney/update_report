@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>426</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tbasher</HorseName>
-		<HorseYOB>2012 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  **Pull Dancer**, by Pulpit. 3 wins at 2 and 3, $135,065, in N.A./U.S., 2nd Pebbles S. [L] (BEL, $22,000); placed in 1 start at 3, $20,000, in Canada, 2nd Alywow S. [L] (WO, $20,000). (Total: $152,937). Dam of 8 foals, 6 to race, 5 winners--
-update on line 50: +    Tbasher (2012 c. by Giant's Causeway). Unraced. Sent from United States to Ireland in 2013.RACE RECORD for Tiz Determined: At 2, unraced; at 3, 2022, unplaced; at 4, 2023, unplaced in 1 start. Earned $4,204
-Dam is in line 39:   **Pull Dancer**, by Pulpit. 3 wins at 2 and 3, $135,065, in N.A./U.S., 2nd Pebbles S. [L] (BEL, $22,000); placed in 1 start at 3, $20,000, in Canada, 2nd Alywow S. [L] (WO, $20,000). (Total: $152,937). Dam of 8 foals, 6 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

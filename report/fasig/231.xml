@@ -3,36 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>231</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lake Superior</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  CELIBATAIRE, by Broken Vow. Placed in 2 starts at 3, $3,370. Sister to **INTERACTIF** ($563,700, 1st National Museum of Racing Hall of Fame S. **[G2]** (SAR, $90,000), etc., sire), half-sister to **STRETCHING** (Total: $98,331, 1st Jersey Lilly S. (HOU, $24,000), etc.), **Wingspan** (Total: $120,263, 2nd Prix de Flore **[G3]**, etc.). Dam of 6 foals, 3 to race, 1 winner--
-update on line 39: +    Lake Superior (2021 c. by Quality Road). Unraced.
-Dam is in line 34:   CELIBATAIRE, by Broken Vow. Placed in 2 starts at 3, $3,370. Sister to **INTERACTIF** ($563,700, 1st National Museum of Racing Hall of Fame S. **[G2]** (SAR, $90,000), etc., sire), half-sister to **STRETCHING** (Total: $98,331, 1st Jersey Lilly S. (HOU, $24,000), etc.), **Wingspan** (Total: $120,263, 2nd Prix de Flore **[G3]**, etc.). Dam of 6 foals, 3 to race, 1 winner--
-		<hip>231</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Monarchia</HorseName>
-		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **ANIMAL SPIRITS** ($152,628, 1st Bourbon S. **[G3]** (KEE, $90,000)). Dam of 13 foals, 9 to race, 7 winners--
-update on line 146: +    Monarchia (2013 f. by Arch). Unraced. Dam of 5 foals, 4 to race, 3 winners--
-Dam is in line 45:   BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **ANIMAL SPIRITS** ($152,628, 1st Bourbon S. **[G3]** (KEE, $90,000)). Dam of 13 foals, 9 to race, 7 winners--
-		<hip>231</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unicity</HorseName>
-		<HorseYOB>2009 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **ANIMAL SPIRITS** ($152,628, 1st Bourbon S. **[G3]** (KEE, $90,000)). Dam of 13 foals, 9 to race, 7 winners--
-update on line 165: +    Unicity (2009 f. by Dynaformer). Unraced. Dam of 6 foals, 3 to race, 3 winners--
-Dam is in line 45:   BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **ANIMAL SPIRITS** ($152,628, 1st Bourbon S. **[G3]** (KEE, $90,000)). Dam of 13 foals, 9 to race, 7 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

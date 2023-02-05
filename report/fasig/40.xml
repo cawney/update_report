@@ -3,26 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Winooski</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>g</HorseSex>
-  BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-sister to **CHANGING WORLD** ($394,749, 1st Violet H. **[G3]** (MED, $120,000), etc.), **STAR CHANNEL** ($411,941, 1st Dayton Andrews Dodge Sophomore Turf S.-R (TAM, $45,000), etc.), **Our Exploit** ($111,930, 2nd Frances A. Genter S. [L] (CRC, $20,000), etc.). Dam of 5 foals, 3 to race, 1 winner--
-update on line 38: +    Winooski (2020 g. by Midnight Lute). Placed at 2, 2022, $14,310.
-Dam is in line 34:   BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-sister to **CHANGING WORLD** ($394,749, 1st Violet H. **[G3]** (MED, $120,000), etc.), **STAR CHANNEL** ($411,941, 1st Dayton Andrews Dodge Sophomore Turf S.-R (TAM, $45,000), etc.), **Our Exploit** ($111,930, 2nd Frances A. Genter S. [L] (CRC, $20,000), etc.). Dam of 5 foals, 3 to race, 1 winner--
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tactical Force</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-sister to **CHANGING WORLD** ($394,749, 1st Violet H. **[G3]** (MED, $120,000), etc.), **STAR CHANNEL** ($411,941, 1st Dayton Andrews Dodge Sophomore Turf S.-R (TAM, $45,000), etc.), **Our Exploit** ($111,930, 2nd Frances A. Genter S. [L] (CRC, $20,000), etc.). Dam of 5 foals, 3 to race, 1 winner--
-update on line 42: +    Tactical Force (2019 g. by Tapiture). Placed at 3, 2022, $5,750.
-Dam is in line 34:   BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-sister to **CHANGING WORLD** ($394,749, 1st Violet H. **[G3]** (MED, $120,000), etc.), **STAR CHANNEL** ($411,941, 1st Dayton Andrews Dodge Sophomore Turf S.-R (TAM, $45,000), etc.), **Our Exploit** ($111,930, 2nd Frances A. Genter S. [L] (CRC, $20,000), etc.). Dam of 5 foals, 3 to race, 1 winner--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

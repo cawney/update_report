@@ -3,26 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>133</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Double Shot</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>g</HorseSex>
-  ELEGANT FINISH, by Speightstown. 4 wins at 3 and 4, $58,899. Dam of 7 foals, 6 to race, 5 winners--
-update on line 41: +    Double Shot (2017 g. by Bourbon Courage). 5 wins, 3 to 6, 2023, $235,910.
-Dam is in line 37:   ELEGANT FINISH, by Speightstown. 4 wins at 3 and 4, $58,899. Dam of 7 foals, 6 to race, 5 winners--
-		<hip>133</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Wait a Sec</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  ELEGANT FINISH, by Speightstown. 4 wins at 3 and 4, $58,899. Dam of 7 foals, 6 to race, 5 winners--
-update on line 47: +    Wait a Sec (2019 f. by Uncaptured). Winner at 3, placed at 4, 2023, $33,953.
-Dam is in line 37:   ELEGANT FINISH, by Speightstown. 4 wins at 3 and 4, $58,899. Dam of 7 foals, 6 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

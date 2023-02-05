@@ -3,26 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>259</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Major Frontier</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  MAKE HASTE, by Tiznow. Unraced. Half-sister to **Mise En Rose** (Total: $98,132, 2nd Lormarins Queens Plate Oak Tree S. **[G3]**, etc.), **Stave** ($285,361, 2nd Blushing K. D. S. (FG, $15,000), etc.). Dam of 8 foals, 5 to race, 4 winners--
-update on line 44: +    Major Frontier (2018 g. by Air Force Blue). Winner at 2 and 4, placed at 5, 2023, $43,016.
-Dam is in line 37:   MAKE HASTE, by Tiznow. Unraced. Half-sister to **Mise En Rose** (Total: $98,132, 2nd Lormarins Queens Plate Oak Tree S. **[G3]**, etc.), **Stave** ($285,361, 2nd Blushing K. D. S. (FG, $15,000), etc.). Dam of 8 foals, 5 to race, 4 winners--
-		<hip>259</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Veracruzin</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  MAKE HASTE, by Tiznow. Unraced. Half-sister to **Mise En Rose** (Total: $98,132, 2nd Lormarins Queens Plate Oak Tree S. **[G3]**, etc.), **Stave** ($285,361, 2nd Blushing K. D. S. (FG, $15,000), etc.). Dam of 8 foals, 5 to race, 4 winners--
-update on line 48: +    Veracruzin (2021 c. by Summer Front). Unraced.
-Dam is in line 37:   MAKE HASTE, by Tiznow. Unraced. Half-sister to **Mise En Rose** (Total: $98,132, 2nd Lormarins Queens Plate Oak Tree S. **[G3]**, etc.), **Stave** ($285,361, 2nd Blushing K. D. S. (FG, $15,000), etc.). Dam of 8 foals, 5 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

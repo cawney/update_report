@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>185</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Shackinthebox</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  GYPSY JO, by Lemon Drop Kid. Winner at 4, $40,830. Dam of 2 foals, 1 to race, 1 winner--
-update on line 37: +    Shackinthebox (2020 c. by Shackleford). Winner at 2, placed at 3, 2023, $45,620.
-Dam is in line 34:   GYPSY JO, by Lemon Drop Kid. Winner at 4, $40,830. Dam of 2 foals, 1 to race, 1 winner--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

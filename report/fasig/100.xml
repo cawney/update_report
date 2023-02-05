@@ -3,36 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>100</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>F Five</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  CHELAN ECHO, by Lion Heart. Winner at 4, $45,141. Half-sister to **NOTORIOUSLY** ($241,915, 1st City of Edmonton Distaff H. [L] (NP, $45,000), etc.), **CHEROKEE ECHO** ($68,830, 1st Barbara Shinpoch S. [L] (EMD, $37,125), etc.), **Smarty's Echo** ($127,363, 2nd Dixiana Breeders' Futurity **[G1]** (KEE, $80,000)). Dam of 7 foals, 4 to race, 2 winners--
-update on line 37: +    F Five (2019 c. by Not This Time). Winner in 2 starts at 3, 2022, $69,610.
-Dam is in line 34:   CHELAN ECHO, by Lion Heart. Winner at 4, $45,141. Half-sister to **NOTORIOUSLY** ($241,915, 1st City of Edmonton Distaff H. [L] (NP, $45,000), etc.), **CHEROKEE ECHO** ($68,830, 1st Barbara Shinpoch S. [L] (EMD, $37,125), etc.), **Smarty's Echo** ($127,363, 2nd Dixiana Breeders' Futurity **[G1]** (KEE, $80,000)). Dam of 7 foals, 4 to race, 2 winners--
-		<hip>100</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Miss Tonasket</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-  CHELAN ECHO, by Lion Heart. Winner at 4, $45,141. Half-sister to **NOTORIOUSLY** ($241,915, 1st City of Edmonton Distaff H. [L] (NP, $45,000), etc.), **CHEROKEE ECHO** ($68,830, 1st Barbara Shinpoch S. [L] (EMD, $37,125), etc.), **Smarty's Echo** ($127,363, 2nd Dixiana Breeders' Futurity **[G1]** (KEE, $80,000)). Dam of 7 foals, 4 to race, 2 winners--
-update on line 44: +    Miss Tonasket (2021 f. by Midnight Lute). Unraced.
-Dam is in line 34:   CHELAN ECHO, by Lion Heart. Winner at 4, $45,141. Half-sister to **NOTORIOUSLY** ($241,915, 1st City of Edmonton Distaff H. [L] (NP, $45,000), etc.), **CHEROKEE ECHO** ($68,830, 1st Barbara Shinpoch S. [L] (EMD, $37,125), etc.), **Smarty's Echo** ($127,363, 2nd Dixiana Breeders' Futurity **[G1]** (KEE, $80,000)). Dam of 7 foals, 4 to race, 2 winners--
-		<hip>100</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Midas Chief</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>f</HorseSex>
-  **Silver Echo**, by Eastern Echo. Winner at 2 and 3, $45,528, 2nd Angie C. S. (EMD, $8,820), Kent H. (EMD, $8,700), 3rd Irish Day H. (EMD, $6,000). Sent from United States to Republic of Korea in 2011. Dam of 10 foals, 8 to race, 7 winners--
-update on line 96: +    =Midas Chief (KOR) (2014 c. by Chapel Royal). Placed at 4 in Republic of Korea.RACE RECORD for Corvina: At 2, 2022, once 3rd in 2 starts. Earned $6,230
-Dam is in line 49:   **Silver Echo**, by Eastern Echo. Winner at 2 and 3, $45,528, 2nd Angie C. S. (EMD, $8,820), Kent H. (EMD, $8,700), 3rd Irish Day H. (EMD, $6,000). Sent from United States to Republic of Korea in 2011. Dam of 10 foals, 8 to race, 7 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

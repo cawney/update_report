@@ -3,26 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>342</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-  BECKLES ROAD, by Smart Strike. Unraced. Half-sister to **LEIGH COURT** ($778,793, champion 3-year-old filly in Canada (2013), 1st Thoroughbred Club of America S. **[G2]** (KEE, $120,000), etc.), **KING OF SYDNEY** (Total: $182,371, 1st Meilen Trophy **[G2]**, etc.), **FLYING SCOTSMAN** ($174,309, 1st Cecil B. DeMille S. **[G3]** (DMR, $60,000), etc.), **BON RAISON** ($701,547, 1st Tale of the Cat S.-R (SAR, $57,750), etc.), **BARRACKS ROAD** ($369,645, 1st Ontario Colleen S. [L] (WO, $120,000), etc.), **Star Hill** ($246,393, 3rd Indiana Derby **[G2]** (IND, $52,378), etc.). Dam of 8 foals, 5 to race, 3 winners--
-update on line 50: +    Unnamed (2022 f. by Into Mischief).
-Dam is in line 39:   BECKLES ROAD, by Smart Strike. Unraced. Half-sister to **LEIGH COURT** ($778,793, champion 3-year-old filly in Canada (2013), 1st Thoroughbred Club of America S. **[G2]** (KEE, $120,000), etc.), **KING OF SYDNEY** (Total: $182,371, 1st Meilen Trophy **[G2]**, etc.), **FLYING SCOTSMAN** ($174,309, 1st Cecil B. DeMille S. **[G3]** (DMR, $60,000), etc.), **BON RAISON** ($701,547, 1st Tale of the Cat S.-R (SAR, $57,750), etc.), **BARRACKS ROAD** ($369,645, 1st Ontario Colleen S. [L] (WO, $120,000), etc.), **Star Hill** ($246,393, 3rd Indiana Derby **[G2]** (IND, $52,378), etc.). Dam of 8 foals, 5 to race, 3 winners--
-		<hip>342</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Class On Class</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-  BECKLES ROAD, by Smart Strike. Unraced. Half-sister to **LEIGH COURT** ($778,793, champion 3-year-old filly in Canada (2013), 1st Thoroughbred Club of America S. **[G2]** (KEE, $120,000), etc.), **KING OF SYDNEY** (Total: $182,371, 1st Meilen Trophy **[G2]**, etc.), **FLYING SCOTSMAN** ($174,309, 1st Cecil B. DeMille S. **[G3]** (DMR, $60,000), etc.), **BON RAISON** ($701,547, 1st Tale of the Cat S.-R (SAR, $57,750), etc.), **BARRACKS ROAD** ($369,645, 1st Ontario Colleen S. [L] (WO, $120,000), etc.), **Star Hill** ($246,393, 3rd Indiana Derby **[G2]** (IND, $52,378), etc.). Dam of 8 foals, 5 to race, 3 winners--
-update on line 52: +    Class On Class (2021 f. by Into Mischief). Unraced.
-Dam is in line 39:   BECKLES ROAD, by Smart Strike. Unraced. Half-sister to **LEIGH COURT** ($778,793, champion 3-year-old filly in Canada (2013), 1st Thoroughbred Club of America S. **[G2]** (KEE, $120,000), etc.), **KING OF SYDNEY** (Total: $182,371, 1st Meilen Trophy **[G2]**, etc.), **FLYING SCOTSMAN** ($174,309, 1st Cecil B. DeMille S. **[G3]** (DMR, $60,000), etc.), **BON RAISON** ($701,547, 1st Tale of the Cat S.-R (SAR, $57,750), etc.), **BARRACKS ROAD** ($369,645, 1st Ontario Colleen S. [L] (WO, $120,000), etc.), **Star Hill** ($246,393, 3rd Indiana Derby **[G2]** (IND, $52,378), etc.). Dam of 8 foals, 5 to race, 3 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

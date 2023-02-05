@@ -3,26 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>79</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Rio King</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>g</HorseSex>
-  **CHANNEL LADY**, by English Channel. 5 wins at 3 and 4, $344,260, 1st Suwannee River S. **[G3]** (GP, $90,000), Edward P. Evans All Along S. **[G3]** (CNL, $58,800), Stardusk S. [L] (AQU, $48,000), 2nd Marshua's River S. **[G3]** (GP, $20,000), Pebbles S. [L] (BEL, $30,000). Dam of 7 foals, 5 to race, 3 winners--
-update on line 39: +    Rio King (2019 c. by Bal a Bali (BRZ)). Winner at 3, 2022, $39,210.
-Dam is in line 34:   **CHANNEL LADY**, by English Channel. 5 wins at 3 and 4, $344,260, 1st Suwannee River S. **[G3]** (GP, $90,000), Edward P. Evans All Along S. **[G3]** (CNL, $58,800), Stardusk S. [L] (AQU, $48,000), 2nd Marshua's River S. **[G3]** (GP, $20,000), Pebbles S. [L] (BEL, $30,000). Dam of 7 foals, 5 to race, 3 winners--
-		<hip>79</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Vivaldi</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  **CHANNEL LADY**, by English Channel. 5 wins at 3 and 4, $344,260, 1st Suwannee River S. **[G3]** (GP, $90,000), Edward P. Evans All Along S. **[G3]** (CNL, $58,800), Stardusk S. [L] (AQU, $48,000), 2nd Marshua's River S. **[G3]** (GP, $20,000), Pebbles S. [L] (BEL, $30,000). Dam of 7 foals, 5 to race, 3 winners--
-update on line 47: +    Vivaldi (2021 c. by Mendelssohn). Unraced.
-Dam is in line 34:   **CHANNEL LADY**, by English Channel. 5 wins at 3 and 4, $344,260, 1st Suwannee River S. **[G3]** (GP, $90,000), Edward P. Evans All Along S. **[G3]** (CNL, $58,800), Stardusk S. [L] (AQU, $48,000), 2nd Marshua's River S. **[G3]** (GP, $20,000), Pebbles S. [L] (BEL, $30,000). Dam of 7 foals, 5 to race, 3 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

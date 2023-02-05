@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>579</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Icarus</HorseName>
-		<HorseYOB>2003 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  CHECK BID, by *Grey Dawn II. Unplaced, $6,150. Sent from United States to Ireland in 2001. Half-sister to **KEY BID** ($275,046, 1st Burlingame S. [L] (BM, $38,100), etc.), **Forewarning** ($124,625, 2nd Pasadena S. [L] (SA, $15,000), etc.). Dam of 12 foals, 10 to race, 6 winners--
-update on line 106: +    =Icarus (IRE) (2003 c. by Sadler's Wells). Unplaced in Ireland.RACE RECORD for Chakra: At 2, unraced; at 3, unraced; at 4, 2022, three wins (set ntr at Colonial Downs, 6 1/2 furlongs in 1:15.75), once 2nd, once 3rd; at 2, one win; at 3, two wins, once 2nd, . Totals: 6 wins, twice 2nd, once 3rd. Earned $154,0282019 no report received.2020 no report received.2021 no report received.2022 no report received.2023 no report received.
-Dam is in line 61:   CHECK BID, by *Grey Dawn II. Unplaced, $6,150. Sent from United States to Ireland in 2001. Half-sister to **KEY BID** ($275,046, 1st Burlingame S. [L] (BM, $38,100), etc.), **Forewarning** ($124,625, 2nd Pasadena S. [L] (SA, $15,000), etc.). Dam of 12 foals, 10 to race, 6 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>578</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Hakumatata</HorseName>
-		<HorseYOB>2002 </HorseYOB>
-		<HorseSex>g</HorseSex>
-  HASTA, by Theatrical (IRE). 2 wins in 4 starts at 3, $46,335. Sent from United States to Great Britain in 2000. Died 2006. Half-sister to **MAGOO'S MAGIC** ($100,953, 1st Huntington S. [L] (AQU, $49,770), sire). Dam of 7 foals, 6 to race, 4 winners--
-update on line 70: +    =Hakumatata (GB) (2002 g. by Zafonic). Unplaced in England. (Total: $189).RACE RECORD for Affront: At 2, 2022, once 3rd in 1 start. Earned $2,700
-Dam is in line 42:   HASTA, by Theatrical (IRE). 2 wins in 4 starts at 3, $46,335. Sent from United States to Great Britain in 2000. Died 2006. Half-sister to **MAGOO'S MAGIC** ($100,953, 1st Huntington S. [L] (AQU, $49,770), sire). Dam of 7 foals, 6 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

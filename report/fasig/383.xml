@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>383</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>1998 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  PLUM FLO, by Apalachee. Winner at 4, $74,225. Died 2003. Half-sister to **AVIESALLSTAR** ($251,343, 1st Barksdale H. [L] (LAD, $30,000)). Dam of 3 foals, 2 to race, 2 winners--
-update on line 53: +    Unnamed (1998 c. by Lac Ouimet). (application cancelled) Unnamed ( 0  . by Golden Gear). (application cancelled)RACE RECORD for Shock the World: Unraced.PRODUCE RECORD for Shock the World:2019 **Pure Panic,** g. by Summer Front. 3 wins at 2 and 3, 2022, $176,580, 2nd Skidmore S. (SAR, $24,000), 3rd Palisades S. [L] (KEE, $19,500).2020 Star Cruiser, c. by The Factor. Unraced.2021 Unnamed, c. by Klimt.2022 Unnamed, f. by Klimt.2023 Bred to Rock Your World.
-Dam is in line 48:   PLUM FLO, by Apalachee. Winner at 4, $74,225. Died 2003. Half-sister to **AVIESALLSTAR** ($251,343, 1st Barksdale H. [L] (LAD, $30,000)). Dam of 3 foals, 2 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

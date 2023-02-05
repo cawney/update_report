@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>353</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**JEUX DE DANSE**</HorseName>
-		<HorseYOB>2003 </HorseYOB>
-		<HorseSex>f</HorseSex>
-  CAROLINE'S DANCE, by Pleasant Colony. Winner at 3, $18,035. Sent from United States to Mexico in 2003. Half-sister to **VIVA PANCHO** (Horse of the year in Panama (2000), Imported champion 3-year-old colt in Panama (2000), champion stayer in Panama (2000), 1st Premio Presidente de la Republica [L], etc.), **Mysunshinecaroline** ($59,855, 3rd Remington Park Oaks [L] (RP, $5,500)). Dam of 11 foals, 11 to race, 9 winners--
-update on line 47: +    **JEUX DE DANSE** (2003 f. by Grand Slam). 9 wins, 3 to 5, $231,017, 1st Copano S. (CRC, $30,000). Sent from United States to India in 2014. Dam of 9 foals, 5 to race, 2 winners--
-Dam is in line 44:   CAROLINE'S DANCE, by Pleasant Colony. Winner at 3, $18,035. Sent from United States to Mexico in 2003. Half-sister to **VIVA PANCHO** (Horse of the year in Panama (2000), Imported champion 3-year-old colt in Panama (2000), champion stayer in Panama (2000), 1st Premio Presidente de la Republica [L], etc.), **Mysunshinecaroline** ($59,855, 3rd Remington Park Oaks [L] (RP, $5,500)). Dam of 11 foals, 11 to race, 9 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

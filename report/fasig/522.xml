@@ -3,26 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>522</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Royal King</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>g</HorseSex>
-  **R FROSTY ONE**, by Southern Success. 5 wins at 3, $271,869, 1st Mrs. Penny S.-R (PRX, $75,000), Malvern Rose S.-R (PID, $56,250), 2nd Northern Fling S.-R (PID, $25,000). Dam of 5 foals, 3 to race, 1 winner--
-update on line 39: +    Royal King (2019 g. by Bernardini). Unplaced in 2 starts, $7,020.
-Dam is in line 33:   **R FROSTY ONE**, by Southern Success. 5 wins at 3, $271,869, 1st Mrs. Penny S.-R (PRX, $75,000), Malvern Rose S.-R (PID, $56,250), 2nd Northern Fling S.-R (PID, $25,000). Dam of 5 foals, 3 to race, 1 winner--
-		<hip>522</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Wise Exspence</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  I'M THE MARY, by Unbridled Time. Winner at 3, $23,620. Half-sister to **Imawildandcrazyguy** ($669,694, 2nd Risen Star S. **[G3]** (FG, $60,000), etc.). Dam of 4 foals, 3 to race, 1 winner--
-update on line 52: +    Wise Exspence (2015 g. by Wiseman's Ferry). Unplaced, $363.RACE RECORD for Tempo Crescendo: At 2, 2022, unplaced in 1 start; at 3, 2023, unplaced in 1 start. Earned $2,163
-Dam is in line 43:   I'M THE MARY, by Unbridled Time. Winner at 3, $23,620. Half-sister to **Imawildandcrazyguy** ($669,694, 2nd Risen Star S. **[G3]** (FG, $60,000), etc.). Dam of 4 foals, 3 to race, 1 winner--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

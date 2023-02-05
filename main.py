@@ -8,6 +8,17 @@ from bs4 import BeautifulSoup # for parsing html
 
 start_time = timeit.default_timer() # I was curious how long the script takes to run
 
+### What this script does:
+# 1. Gets the hip number and source file name from the list of lines, ignores hips with withdrawn status
+# 2. Puts the source files in the order they appear in hip order
+# 3. Seperates the files into 3 groups, the 3x, middle and RR/PR
+# 4. Cleans up the middle group (removes 3rd-4th dam if present and puts each horse on a line by itself)
+# 5. Puts them back together in the correct order
+# 6. Compares the files, makes an HTML files with the differences (for PP)
+# 7. Make an XML file for Fasig
+   # a. read the update lines from compare files generated in step 6
+
+
 def main():
     script, file_name = argv
 
@@ -129,7 +140,7 @@ def main():
         if type(num2) == int:
             n2 = num2
         if n1 == 0 and n2 == 0:
-            print("First String is 0. Everything was written.")
+            # print("First String is 0. Everything was written.")
             f2.writelines(lines)
         elif n1 != 0 and n2 != 0:
             print("N1 was 0, but n2 was something")
@@ -145,19 +156,23 @@ def main():
 
 
     def get_rr(file_name, new_file):
-        f = open(file_name, 'r')
+        f = open(file_name, 'r+')
         lines = f.readlines()
+        f.close()
+        f = open(file_name, 'w')
         f2 = open(new_file, 'w')
         i = 0
         for line in lines:
             if 'RACE RECORD' in line:
                 f2.writelines(lines[i:])
+                f.writelines(lines[:i-1])
                 break
+            # else:
+            #    f.writelines(line)
             i += 1
 
 
     def get_middle(file_name, new_file, string1, string2):
-        
         f = open(file_name, 'r')
         lines = f.readlines()
         f2 = open(new_file, 'w')
@@ -223,20 +238,13 @@ def main():
         lines = f.readlines()
         # Regex for junk spaces:
         re_junk = re.compile(r'(?!^)(\s{3}\.?([\s\.])*)')
-        # re_unnamed = re.compile(r'Unnamed')
-        # re_unraced = re.compile(r'Unraced\.$')
         for line in lines:
             if re_junk.search(line):
                 # print("Found junk")
                 line = re.sub(re_junk, ' ', line)
                 f2.writelines(line)
-            # elif re_unnamed.search(line):
-            #     pass
-            # elif re_unraced.search(line):
-            #     pass
             else:
                 f2.writelines(line)
-        # f2.writelines('\n')
         return f2
 
     def append_files(file_1, file_2, file_3, new_file):
@@ -255,12 +263,8 @@ def main():
 
     
     def clean_horse(file_name, horse):
-        # soup = BeautifulSoup(open(f"{file_name}", 'r'), 'html.parser')
-        # print(soup.prettify())>")
-
         with open(f"{file_name}", 'r') as f, open(f"{p_report}/hip{horse}.html", 'w') as f2:
             soup = BeautifulSoup(f, 'html.parser')
-            # f2.write(soup.prettify())
             tbody = soup.find('tbody')
             rows = tbody.find_all('tr')
             f2.write(f"<html><body><h1>{horse}</h1><table><tbody>")
@@ -302,10 +306,8 @@ def main():
         gen2 = get_generation(file_name)[1]
         gen3 = get_generation(file_name)[2]
         gen4 = get_generation(file_name)[3]
-
         i = 0
         n = 0
-        
         print("Starting on horse\n", horse)
         f2.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<FasigTiptonSalesServices>\n<Service>saleUpdates</Service>\n<FasigTiptonUpdates>\n\t<Update>\n")
         for line in lines:
@@ -323,13 +325,17 @@ def main():
                 elif i in gen2:
                     print("update in Gen2")
                     print(f"Line {i}, and line: {line}")
-                    # print(f"The dam is in this line: {lines[get_closest(i, gen1)]}")
+                    print("gen 2: ", gen2)
+                    print("gen 1: ", gen1)
+                    print("get_closest_gen1: ", get_closest(i, gen1))
+                    print(f"Gen1: {gen1}")
                     f2.write(f"\t\t<hip>{horse}</hip>\n")
                     f2.write("\t\t<SaleEntryCode>PH23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")
                     f2.write(f"\t\t<HorseName>{get_names(line, 2)}</HorseName>\n")
                     f2.write(f"\t\t<HorseYOB>{get_substring(line, re_yob)}</HorseYOB>\n")
                     f2.write(f"\t\t<HorseSex>{get_substring(line, re_sex)}</HorseSex>\n")
-                    f2.write(f"{lines[get_closest(i, gen1)]}")
+                  #   f2.write(f"{lines[get_closest(i, gen1)]}")
+                    f2.write(f"{get_closest(i, gen1)}\n")
                     f2.write(f"\t\t<DamName>{get_names(lines[get_closest(i, gen1)], 1)}</DamName>\n")
                     f2.writelines(f"update on line {i}: {line}")
                     f2.writelines(f"Dam is in line {get_closest(i, gen1)}: {lines[get_closest(i, gen1)]}")
@@ -340,35 +346,17 @@ def main():
                 elif i in gen4:
                     print("update in Gen4")
                     print(f"Line {i}, and line: {line}")
-                    # dam_line = get_closest(i, gen3)
-                    # print(f"The dam is in this line: {dam_line}")
             else:
                 pass
             i += 1
         f2.write("\t</update>\n</FasigTiptonUpdates>\n</FasigTiptonSalesServices>")
-
-        # file_lines = {}
-
-        # with open(file_name) as f:
-        #     for line_num, line in enumerate(f):
-        #         file_lines[line_num] = line
-        # print("Starting on horse\n", horse)
-
-        # line_numbers = file_lines.keys()
-        
-        # for line_num in file_lines:
-        #     if file_lines[line_num].startswith('+'):
-        #         print("Found a +")
-        #         print(file_lines[line_num])
-        #         print(file_lines.keys())
-        
         f2.close()
         n += 1
 
 
     def get_generation(file_name):
         """Gets the generation of the horse"""
-        g1 = re.compile(r'^[\s+-]{2}(\w|\*).+?(, by)')
+        g1 = re.compile(r'^[\s+-]{2}([\w\*=]).+?(, by)')
         g2 = re.compile(r"^[\s+-]{5}([\w\*=])")
         g3 = re.compile(r"^[\s+-]{5}\.\s{2}[\w\*=]")
         g4 = re.compile(r"^[\s+-]{5}\.\s{2}\.\s{2}[\w\*=]")
@@ -402,11 +390,11 @@ def main():
 
     def get_names(string, generation):
         """Gets the names of the horses"""
-        re_gen1 = re.compile(r'(^[\w=]+)(, by)')
+        re_gen1 = re.compile(r'(^[\s+]{2}(?P<name>[\w=\*].+?))(, by)')
         re_name = re.compile(r'^[\s+]+.*?((\w|=|\*).+?)\s\(')
         if generation == 1:
             name = re_gen1.search(string)
-            return name.group(1)
+            return name.group('name')
         else:
             name = re_name.search(string)
             return name.group(1)

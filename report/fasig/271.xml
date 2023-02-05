@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>271</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Parkside Boy</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  **CARRY ON KATIE**, by Fasliyev. 3 wins in 4 starts at 2, 158,149 Pounds, in England, 1st Sky Bet Cheveley Park S. **[G1]**, Peugeot Lowther S. **[G2]**; unplaced in 1 start in France. Sent from United States to Ireland in 2001. Returned to United States from Great Britain in 2008. Sent from United States to Ireland in 2012. (Total: $259,833). Dam of 13 foals, 10 to race, 5 winners--
-update on line 57: +    =Parkside Boy (IRE) (2021 c. by =Kuroshio (AUS)). Unraced in Ireland.
-Dam is in line 43:   **CARRY ON KATIE**, by Fasliyev. 3 wins in 4 starts at 2, 158,149 Pounds, in England, 1st Sky Bet Cheveley Park S. **[G1]**, Peugeot Lowther S. **[G2]**; unplaced in 1 start in France. Sent from United States to Ireland in 2001. Returned to United States from Great Britain in 2008. Sent from United States to Ireland in 2012. (Total: $259,833). Dam of 13 foals, 10 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>557</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>The Now Crowd</HorseName>
-		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  FUN CROWD, by Easy Goer. Unraced. Sent from United States to Great Britain in 1994. Returned to United States from Ireland in 1997. Half-sister to **VANLANDINGHAM** ($1,409,476, champion older horse in U.S. (1985), 1st Jockey Club Gold Cup **[G1]**, etc., sire), **JENKINS FERRY** ($166,855, 1st Santa Gertrudes H.-LR, etc.), **POPULAR TUNE** ($54,428, 1st Capital City S.-R (PEN, $16,845), etc.). Dam of 15 foals, 13 to race, 7 winners--
-update on line 124: +    The Now Crowd (2013 f. by Tiznow). See above.RACE RECORD for My Gigi Girl: Unraced.
-Dam is in line 40:   FUN CROWD, by Easy Goer. Unraced. Sent from United States to Great Britain in 1994. Returned to United States from Ireland in 1997. Half-sister to **VANLANDINGHAM** ($1,409,476, champion older horse in U.S. (1985), 1st Jockey Club Gold Cup **[G1]**, etc., sire), **JENKINS FERRY** ($166,855, 1st Santa Gertrudes H.-LR, etc.), **POPULAR TUNE** ($54,428, 1st Capital City S.-R (PEN, $16,845), etc.). Dam of 15 foals, 13 to race, 7 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

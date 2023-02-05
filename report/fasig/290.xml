@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>290</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Natagar</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>g</HorseSex>
-  ANALEMMA, by Half Ours. Winner at 2 and 3, $33,477. Sent from United States to Saudi Arabia in 2020. Half-sister to **SOUTHERN DUDE** ($320,842, 1st Bayou St. John S.-R (FG, $36,000), etc.), **VIVA VEGAS** ($246,585, 1st Indiana General Assembly Distaff S. [L] (IND, $57,000), etc.). Dam of 4 foals, 4 to race, 4 winners--
-update on line 40: +    Natagar (2019 g. by Fast Anna). Winner at 2, placed at 3, 2022, $60,634.
-Dam is in line 37:   ANALEMMA, by Half Ours. Winner at 2 and 3, $33,477. Sent from United States to Saudi Arabia in 2020. Half-sister to **SOUTHERN DUDE** ($320,842, 1st Bayou St. John S.-R (FG, $36,000), etc.), **VIVA VEGAS** ($246,585, 1st Indiana General Assembly Distaff S. [L] (IND, $57,000), etc.). Dam of 4 foals, 4 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>201</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sevier</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  HAND CRAFTED, by Mineshaft. Winner at 3, $25,610. Sent from United States to Turkey in 2019. Half-sister to **CLASS KRIS** ($582,129, 1st Black Helen H. **[G2]**, etc.), **PATRIOT ACT** ($452,252, 1st Jim Rasmussen Memorial S. (PRM, $30,000), etc., sire), **Class On Class** ($189,526, 2nd Chip H. [L] (GP, $10,810), etc.), **Classic Approval** ($109,430, 2nd Staten Island S. [L] (BEL, $16,235), etc.). Dam of 9 foals, 7 to race, 7 winners--
-update on line 41: +    Sevier (2014 g. by Union Rags). 26 wins, 3 to 9, 2023, $699,681.
-Dam is in line 38:   HAND CRAFTED, by Mineshaft. Winner at 3, $25,610. Sent from United States to Turkey in 2019. Half-sister to **CLASS KRIS** ($582,129, 1st Black Helen H. **[G2]**, etc.), **PATRIOT ACT** ($452,252, 1st Jim Rasmussen Memorial S. (PRM, $30,000), etc., sire), **Class On Class** ($189,526, 2nd Chip H. [L] (GP, $10,810), etc.), **Classic Approval** ($109,430, 2nd Staten Island S. [L] (BEL, $16,235), etc.). Dam of 9 foals, 7 to race, 7 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

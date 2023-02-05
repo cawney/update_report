@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>580</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mutarjim</HorseName>
-		<HorseYOB>2009 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  **THUNDER KITTEN**, by Storm Cat. 5 wins at 3 and 4, $253,138, 1st Honey Bee H. **[G3]**, 3rd Boiling Springs Breeders' Cup H. **[G3]**, Stormy Blues Breeders' Cup H. [L] (LRL, $11,000). Died 2021. Half-sister to **NOBO TRUE** (Total: $5,854,142, 1st February S. [LR], etc., sire), **Lady Pegasus** ($202,016, 3rd Colonial Minstrel S.-R (BEL, $6,825)). Dam of 12 foals, 12 to race, 10 winners--
-update on line 104: +    Mutarjim (2009 c. by Dynaformer). Unplaced in 2 starts in England; unplaced in United Arab Emirates. Sent from United States to Great Britain in 2010.RACE RECORD for Thunderian: At 2, 2022, one win, . Totals: 1 win. Earned $21,570
-Dam is in line 40:   **THUNDER KITTEN**, by Storm Cat. 5 wins at 3 and 4, $253,138, 1st Honey Bee H. **[G3]**, 3rd Boiling Springs Breeders' Cup H. **[G3]**, Stormy Blues Breeders' Cup H. [L] (LRL, $11,000). Died 2021. Half-sister to **NOBO TRUE** (Total: $5,854,142, 1st February S. [LR], etc., sire), **Lady Pegasus** ($202,016, 3rd Colonial Minstrel S.-R (BEL, $6,825)). Dam of 12 foals, 12 to race, 10 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

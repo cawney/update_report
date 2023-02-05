@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>468</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Trapped</HorseName>
-		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  TRAPPINGS, by Seeking the Gold. Unplaced, $4,130. Dam of 11 foals, 10 to race, 4 winners--
-update on line 91: +    Trapped (2013 c. by Arch). Unplaced in 2 starts, $170.RACE RECORD for Dre Me Less: At 2, 2022, one win, . Totals: 1 win. Earned $41,453
-Dam is in line 43:   TRAPPINGS, by Seeking the Gold. Unplaced, $4,130. Dam of 11 foals, 10 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

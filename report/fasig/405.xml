@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>405</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Graceontour</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  SHAPPY, by Really Secret. Winner at 3, $24,509. Died 2017. Sister to **Salty Secret** ($31,142, 2nd Somethingroyal H.-R (CNL, $6,000)), half-sister to **PATOOIE** ($74,767, 1st Foxy J. G. S.-R (PHA, $23,370), etc.), **My Necessity** ($106,376, 3rd Lovely Claire S. [L] (AQU, $6,552)). Dam of 10 foals, 6 to race, 3 winners--
-update on line 86: +    Graceontour (2008 f. by Henny Hughes). Placed at 3, $17,398. Dam of 8 foals, 6 to race, 4 winners--
-Dam is in line 41:   SHAPPY, by Really Secret. Winner at 3, $24,509. Died 2017. Sister to **Salty Secret** ($31,142, 2nd Somethingroyal H.-R (CNL, $6,000)), half-sister to **PATOOIE** ($74,767, 1st Foxy J. G. S.-R (PHA, $23,370), etc.), **My Necessity** ($106,376, 3rd Lovely Claire S. [L] (AQU, $6,552)). Dam of 10 foals, 6 to race, 3 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

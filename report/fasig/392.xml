@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>392</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Prospect's Pearl</HorseName>
-		<HorseYOB>1999 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  **Oystercatcher**, by Proud Birdie. 3 wins at 2 and 3, $91,660, 2nd Salem County S. (MED, $7,000). Died 1999. Half-sister to **Sunny Looking** ($52,600, 2nd Floridian H.-R, etc., sire), **Byappointmentonly** ($46,484, 3rd Lakes and Flowers Breeders' Cup H. (GG, $7,924)). Dam of 5 foals, 5 to race, 5 winners--
-update on line 108: +    Prospect's Pearl (1999 f. by Allen's Prospect). 2 wins at 3, $25,665.RACE RECORD for Skyluck: At 2, unraced; at 3, unraced; at 4, unraced; at 5, unraced; at 6, once 3rd; at 5, one win, once 2nd; at 4, three wins, once 3rd, . Totals: 4 wins, once 2nd, twice 3rd. Earned $71,183PRODUCE RECORD for Skyluck:2020 Fracing Lucky, f. by Violence. Unraced.2021 Too Fracing Lucky, c. by Violence. Unraced.2022 Unnamed, c. by Ghostzapper.2023 Bred to Good Magic.
-Dam is in line 68:   **Oystercatcher**, by Proud Birdie. 3 wins at 2 and 3, $91,660, 2nd Salem County S. (MED, $7,000). Died 1999. Half-sister to **Sunny Looking** ($52,600, 2nd Floridian H.-R, etc., sire), **Byappointmentonly** ($46,484, 3rd Lakes and Flowers Breeders' Cup H. (GG, $7,924)). Dam of 5 foals, 5 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

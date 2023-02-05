@@ -3,26 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>562</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Yolo Santiago</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>g</HorseSex>
-  **Royal Card**, by Chapel Royal. 3 wins at 2 and 3, $147,317, in N.A./U.S., 2nd Charles Town Oaks [L] (CT, $49,000), Judy's Red Shoes S. (CRC, $15,750), 3rd Azalea S. **[G3]** (CRC, $19,200); unplaced in 1 start, $400, in Canada. (Total: $147,713). Half-sister to **MRS. BEGAN** ($191,600, 1st Princess Elizabeth S.-R (WO, $150,000), etc.), **Hey Baby** ($60,504, 3rd Iowa Stallion Filly S.-R (PRM, $5,850)). Dam of 8 foals, 8 to race, 6 winners--
-update on line 51: +    Yolo Santiago (2019 g. by Maclean's Music). Placed at 2, $13,339.
-Dam is in line 37:   **Royal Card**, by Chapel Royal. 3 wins at 2 and 3, $147,317, in N.A./U.S., 2nd Charles Town Oaks [L] (CT, $49,000), Judy's Red Shoes S. (CRC, $15,750), 3rd Azalea S. **[G3]** (CRC, $19,200); unplaced in 1 start, $400, in Canada. (Total: $147,713). Half-sister to **MRS. BEGAN** ($191,600, 1st Princess Elizabeth S.-R (WO, $150,000), etc.), **Hey Baby** ($60,504, 3rd Iowa Stallion Filly S.-R (PRM, $5,850)). Dam of 8 foals, 8 to race, 6 winners--
-		<hip>562</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Likey Likey</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>g</HorseSex>
-  SHOWMETHEGREENCARD, by De Niro. Winner at 2 and 3, $56,200. Died 2017. Sister to **DE BERTIE** ($485,920, 1st Rampart H. **[G2]**, etc.). Dam of 12 foals, 12 to race, 10 winners--
-update on line 92: +    Likey Likey (2016 g. by Jimmy Creed). Unplaced in 1 start, $300.RACE RECORD for And Stay Out: At 2, unraced; at 3, once 2nd; at 2, unplaced in 2 starts. Earned $1,923PRODUCE RECORD for And Stay Out:2015 Bred to Warrior's Reward.2016 Altar of Speed, f. by Alternation. 2 wins at 3, $40,625. Dam of 1 foal--
-Dam is in line 54:   SHOWMETHEGREENCARD, by De Niro. Winner at 2 and 3, $56,200. Died 2017. Sister to **DE BERTIE** ($485,920, 1st Rampart H. **[G2]**, etc.). Dam of 12 foals, 12 to race, 10 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

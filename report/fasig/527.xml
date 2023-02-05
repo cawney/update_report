@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>527</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Strategic Dialogue</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  **SHOP AGAIN**, by Wild Again. 4 wins at 4, $122,274, 1st Ada S. (RP, $30,000). Half-sister to **MISS SHOP** ($1,126,038, 1st Personal Ensign S. **[G1]** (SAR, $240,000), etc.), **TRAPPE SHOT** ($703,884, 1st True North H. **[G2]** (BEL, $150,000), etc., sire), **BOUGHT IN DIXIE** ($319,183, 1st Chief Pennekeck S. [L] (MED, $30,000), etc.), **Bulling** ($203,302, 3rd Sanford S. **[G2]**). Dam of 13 foals, 9 to race, 6 winners--
-update on line 85: +    Strategic Dialogue (2018 g. by Pioneerof the Nile). Unplaced in 1 start, $354.RACE RECORD for Point Wild: At 2, unraced; at 3, unraced; at 4, 2022, one win, once 2nd in 2 starts; at 2, once 2nd in 1 start; at 3, one win, once 3rd, . Totals: 2 wins, twice 2nd, once 3rd. Earned $71,9362023 Bred to Ghostzapper.
-Dam is in line 44:   **SHOP AGAIN**, by Wild Again. 4 wins at 4, $122,274, 1st Ada S. (RP, $30,000). Half-sister to **MISS SHOP** ($1,126,038, 1st Personal Ensign S. **[G1]** (SAR, $240,000), etc.), **TRAPPE SHOT** ($703,884, 1st True North H. **[G2]** (BEL, $150,000), etc., sire), **BOUGHT IN DIXIE** ($319,183, 1st Chief Pennekeck S. [L] (MED, $30,000), etc.), **Bulling** ($203,302, 3rd Sanford S. **[G2]**). Dam of 13 foals, 9 to race, 6 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

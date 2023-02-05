@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>86</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Eltheeb</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  EL RAABI, by Fusaichi Pegasus. Winner at 4, $44,054. Died 2009. Sister to **POPULIST** ($145,630, 1st St. Georges S. (DEL, $36,390)), half-sister to **SARATOGA SPRINGS** (Total: $413,452, 1st Racing Post Trophy S. **[G1]**, etc., sire). Dam of 2 foals, 2 to race, 2 winners--
-update on line 46: +    Eltheeb (2008 c. by Bernardini). 3 wins at 3 and 4, $91,665.RACE RECORD for Christina Ann: At 2, 2022, one win in 2 starts; at 3, 2023, unplaced in 1 start; . Totals: 1 win. Earned $10,229
-Dam is in line 43:   EL RAABI, by Fusaichi Pegasus. Winner at 4, $44,054. Died 2009. Sister to **POPULIST** ($145,630, 1st St. Georges S. (DEL, $36,390)), half-sister to **SARATOGA SPRINGS** (Total: $413,452, 1st Racing Post Trophy S. **[G1]**, etc., sire). Dam of 2 foals, 2 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

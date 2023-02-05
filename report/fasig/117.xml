@@ -3,26 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>117</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  DESERT BLISS, by Utopia (JPN). 5 wins, 3 to 7, $275,596. Dam of 3 foals--
-update on line 36: +    Unnamed (2022 c. by Higher Power). See above.
-Dam is in line 33:   DESERT BLISS, by Utopia (JPN). 5 wins, 3 to 7, $275,596. Dam of 3 foals--
-		<hip>117</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lillehammer</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>r</HorseSex>
-  DESERT DEED, by Exploit. Winner at 3, $29,679. Sent from United States to Republic of Korea in 2010. Half-sister to **SIR CAT** ($401,185, 1st National Museum of Racing Hall of Fame S. **[G2]**, etc., sire). Dam of 8 foals, 6 to race, 3 winners--
-update on line 43: +    Lillehammer (2008 f. by North Light (IRE)). 3 wins, 3 to 6, $80,316. Dam of 3 foals, 1 to race, 1 winner--
-Dam is in line 40:   DESERT DEED, by Exploit. Winner at 3, $29,679. Sent from United States to Republic of Korea in 2010. Half-sister to **SIR CAT** ($401,185, 1st National Museum of Racing Hall of Fame S. **[G2]**, etc., sire). Dam of 8 foals, 6 to race, 3 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

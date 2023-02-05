@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>76</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>1997 </HorseYOB>
-		<HorseSex>c</HorseSex>
-  **ADORNED**, by Val de l'Orne (FR). 5 wins at 4 and 5, $203,695, 1st Maple Leaf S.-R (GRD, $65,820(CAN)), 2nd Belle Mahone S.-R (WO, $21,000(CAN)), 3rd Maple Leaf S.-R (GRD, $11,946(CAN)). Died 2008. Dam of 11 foals, 8 to race, 7 winners--
-update on line 122: +    Unnamed (1997 c. by Bold Ruckus).RACE RECORD for Celebrate America: Unraced.
-Dam is in line 51:   **ADORNED**, by Val de l'Orne (FR). 5 wins at 4 and 5, $203,695, 1st Maple Leaf S.-R (GRD, $65,820(CAN)), 2nd Belle Mahone S.-R (WO, $21,000(CAN)), 3rd Maple Leaf S.-R (GRD, $11,946(CAN)). Died 2008. Dam of 11 foals, 8 to race, 7 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

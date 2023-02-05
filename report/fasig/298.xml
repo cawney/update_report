@@ -3,16 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>298</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Almared</HorseName>
-		<HorseYOB>2012 </HorseYOB>
-		<HorseSex>r</HorseSex>
-+ Jan 29 2023  9:59PM          PH23 CONSIGNOR: 1 HORSE: 21 GROUP: 1 HIP NUMBER: 00298           Page 1
-update on line 76: +    =Almared (GB) (2012 c. by =Makfi (GB)). Unplaced in England.RACE RECORD for Never Content (IRE): At 2, unplaced in 2 starts; at 3, unplaced. Earned $13,4732023 Bred to Vino Rosso.
-Dam is in line 0: + Jan 29 2023  9:59PM          PH23 CONSIGNOR: 1 HORSE: 21 GROUP: 1 HIP NUMBER: 00298           Page 1
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>
