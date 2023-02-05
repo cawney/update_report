@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>524</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Le Condor</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  L'ETOILE BLEUE (GER), by Kingsalsa. Unplaced, $765. Sent from Germany to United States in 2009. Sent from United States to Germany in 2011. Dam of 6 foals, 4 to race, 1 winner--
+update on line 46: +    Le Condor (GER) (2015 c. by =Maxios (GB)). Unplaced, $1,765. Sent from Germany to United States in 2016.RACE RECORD for Legislator: Unraced.
+Dam is in line 39:   L'ETOILE BLEUE (GER), by Kingsalsa. Unplaced, $765. Sent from Germany to United States in 2009. Sent from United States to Germany in 2011. Dam of 6 foals, 4 to race, 1 winner--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

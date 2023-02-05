@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>19</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  AMAZING ZERO, by Magician (IRE). Placed at 3, $10,516. Dam of 2 foals--
+update on line 41: +    Unnamed (2022 f. by Connect). See above.
+Dam is in line 38:   AMAZING ZERO, by Magician (IRE). Placed at 3, $10,516. Dam of 2 foals--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

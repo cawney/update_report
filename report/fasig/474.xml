@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>474</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Patriarchal</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  HAPPY MOTORING, by Harlan's Holiday. Placed at 3, $4,587. Half-sister to **REGALLY READY** ($1,830,437, 1st Nearctic S. **[G1]** (WO, $300,000), etc.), **SIR TRUEBADOUR** ($158,845, 1st Bashford Manor S. **[G3]** (CD, $57,660)). Dam of 4 foals, 3 to race, 3 winners--
+update on line 39: +    Patriarchal (2021 c. by Catholic Boy). Unraced.
+Dam is in line 34:   HAPPY MOTORING, by Harlan's Holiday. Placed at 3, $4,587. Half-sister to **REGALLY READY** ($1,830,437, 1st Nearctic S. **[G1]** (WO, $300,000), etc.), **SIR TRUEBADOUR** ($158,845, 1st Bashford Manor S. **[G3]** (CD, $57,660)). Dam of 4 foals, 3 to race, 3 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

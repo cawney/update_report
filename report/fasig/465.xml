@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>465</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Svensan</HorseName>
+		<HorseYOB>2007 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  SULAMITH (GER), by =Acatenango (GER). Unraced. Sent from Germany to United States in 2012. Sent from United States to Germany in 2016. Half-sister to **=SERETH (IRE)** (Total: $127,391, 1st Grosser Preis der Sparkasse Dortmund [L], etc.), **=Salutino (GER)** (Total: $217,405, 2nd Gran Premio del Jockey Club **[G1]**, etc., sire). Dam of 8 foals, 5 to race, 4 winners--
+update on line 59: +    =Svensan (GER) (2007 c. by =Konigstiger (GER)). Unraced in Germany.RACE RECORD for Solicitor: Unraced.
+Dam is in line 39:   SULAMITH (GER), by =Acatenango (GER). Unraced. Sent from Germany to United States in 2012. Sent from United States to Germany in 2016. Half-sister to **=SERETH (IRE)** (Total: $127,391, 1st Grosser Preis der Sparkasse Dortmund [L], etc.), **=Salutino (GER)** (Total: $217,405, 2nd Gran Premio del Jockey Club **[G1]**, etc., sire). Dam of 8 foals, 5 to race, 4 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

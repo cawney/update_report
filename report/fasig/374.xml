@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>374</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Iguazu Falls</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  **SECRET GARDEN (PER)**, by Flanders Fields. 2 wins at 3, 76,680 New Sol, in Peru, 1st Polla de Potrancas **[G1]**. Sent from Peru to United States in 2017. (Total: $22,885). Dam of 3 foals, 2 to race, 1 winner--
+update on line 36: +    Iguazu Falls (2020 f. by Cairo Prince). Placed at 2, 2022, $5,295.
+Dam is in line 34:   **SECRET GARDEN (PER)**, by Flanders Fields. 2 wins at 3, 76,680 New Sol, in Peru, 1st Polla de Potrancas **[G1]**. Sent from Peru to United States in 2017. (Total: $22,885). Dam of 3 foals, 2 to race, 1 winner--
+		<hip>374</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  NAIMA, by Quiet American. Winner at 2, $16,785. Sent from United States to Peru in 2012. Dam of 7 foals, 5 to race, 4 winners--
+update on line 48: +    =Unnamed (2015 f. by Man of Iron).RACE RECORD for Sequist: At 2, unraced; at 3, 2022, once 3rd; at 2, one win, once 3rd (Darley Alcibiades S. **[G1]** (KEE, $40,000)), . Totals: 1 win, twice 3rd. Earned $179,108
+Dam is in line 40:   NAIMA, by Quiet American. Winner at 2, $16,785. Sent from United States to Peru in 2012. Dam of 7 foals, 5 to race, 4 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

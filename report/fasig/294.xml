@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>294</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Ramblin Boy</HorseName>
+		<HorseYOB>2006 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  **VID KID**, by Pleasant Colony. 6 wins at 2 and 3, $289,556, 1st Tattling H. [L] (GRD, $46,116(CAN)), Princess Elizabeth S.-R (WO, $104,760(CAN)), 3rd Canadian Oaks-R (WO, $22,000(CAN)), Selene S. [L] (WO, $12,584(CAN)), Bison City S.-R (FE, $12,100(CAN)). Half-sister to **Steady Kid** ($228,759, 2nd Canadian Maturity S.-R (WO, $22,476(CAN))). Dam of 9 foals, 9 to race, 8 winners--
+update on line 100: +    Ramblin Boy (2006 c. by Menifee). Placed at 3, $19,517.RACE RECORD for My Dior: At 2, unraced; at 3, unraced; at 4, 2022, one win, once 3rd; at 5, 2023, unplaced in 1 start; at 3, once 2nd, once 3rd; . Totals: 1 win, once 2nd, twice 3rd. Earned $20,2352019 no report received.2020 no report received.2021 no report received.2022 no report received.2023 no report received.
+Dam is in line 57:   **VID KID**, by Pleasant Colony. 6 wins at 2 and 3, $289,556, 1st Tattling H. [L] (GRD, $46,116(CAN)), Princess Elizabeth S.-R (WO, $104,760(CAN)), 3rd Canadian Oaks-R (WO, $22,000(CAN)), Selene S. [L] (WO, $12,584(CAN)), Bison City S.-R (FE, $12,100(CAN)). Half-sister to **Steady Kid** ($228,759, 2nd Canadian Maturity S.-R (WO, $22,476(CAN))). Dam of 9 foals, 9 to race, 8 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

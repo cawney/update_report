@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+<hip>328</hip>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, in Canada. (Total: $222,635). Dam of 6 foals, 2 to race, 1 winner--
+		<hip>328</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Time to Move</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
++ PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, in Canada. (Total: $222,635). Dam of 6 foals, 2 to race, 1 winner--
+update on line 37: +    Time to Move (2019 g. by Not This Time). Winner at 4, 2023, $9,840.
+Dam is in line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, in Canada. (Total: $222,635). Dam of 6 foals, 2 to race, 1 winner--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

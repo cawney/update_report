@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>136</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**On The Warpath</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  **ELUSIVE PEARL**, by Medaglia d'Oro. 4 wins in 6 starts at 2 and 3, $146,780, in N.A./U.S., 1st Pebbles S. [L] (BEL, $60,000), Riskaverse S. [L] (SAR, $45,000); placed in 1 start at 3, $15,000, in Canada, 3rd Duchess S. [L] (WO, $15,000). Sent from United States to Ireland in 2012. Returned to United States from Great Britain in 2018. (Total: $162,475). Dam of 5 foals, 2 to race, 1 winner--
+update on line 37: +    **On The Warpath (GB)** (2015 g. by Declaration of War). 4 wins, 2 to 5, 63,435 Pounds, in England, 3rd Betway Golden Rose S. [L]; winner at 4, placed at 7, 2022, 699,682 Dirhams, in United Arab Emirates, 3rd Riviera By Azizi Dubawi S. **[G3]**. Sent from Great Britain to United States in 2016. Sent from United States to Great Britain in 2016. (Total: $274,294).
+Dam is in line 34:   **ELUSIVE PEARL**, by Medaglia d'Oro. 4 wins in 6 starts at 2 and 3, $146,780, in N.A./U.S., 1st Pebbles S. [L] (BEL, $60,000), Riskaverse S. [L] (SAR, $45,000); placed in 1 start at 3, $15,000, in Canada, 3rd Duchess S. [L] (WO, $15,000). Sent from United States to Ireland in 2012. Returned to United States from Great Britain in 2018. (Total: $162,475). Dam of 5 foals, 2 to race, 1 winner--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>249</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Empire's Best</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  LIBERTY GIRL, by A. P. Warrior. Winner at 2 and 3, $106,890, in N.A./U.S.; unplaced in 1 start, $400, in Canada. (Total: $107,299). Half-sister to **CHAMPAGNE D'ORO** ($614,940, 1st Betfair TVG Acorn S. **[G1]** (BEL, $180,000), etc.), **RULER ON ICE** ($1,709,566, 1st Belmont S. **[G1]** (BEL, $600,000), etc.), **Lost On Champagne** ($26,962, 3rd Cinderella S. (HOL, $8,097)). Dam of 6 foals, 1 to race--
+update on line 35: +    Empire's Best (2020 c. by Empire Maker). Placed in 2 starts at 2, 2022, $10,250.
+Dam is in line 34:   LIBERTY GIRL, by A. P. Warrior. Winner at 2 and 3, $106,890, in N.A./U.S.; unplaced in 1 start, $400, in Canada. (Total: $107,299). Half-sister to **CHAMPAGNE D'ORO** ($614,940, 1st Betfair TVG Acorn S. **[G1]** (BEL, $180,000), etc.), **RULER ON ICE** ($1,709,566, 1st Belmont S. **[G1]** (BEL, $600,000), etc.), **Lost On Champagne** ($26,962, 3rd Cinderella S. (HOL, $8,097)). Dam of 6 foals, 1 to race--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>427</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  TIZ MY LOVE, by Tiz Wonderful. 3 wins at 3 and 4, $39,005. Half-sister to **Afleet Destiny** ($249,230, 2nd Demoiselle S. **[G2]** (AQU, $50,000), etc.). Dam of 3 foals--
+update on line 37: +    Unnamed (2022 f. by The Factor). See above.
+Dam is in line 34:   TIZ MY LOVE, by Tiz Wonderful. 3 wins at 3 and 4, $39,005. Half-sister to **Afleet Destiny** ($249,230, 2nd Demoiselle S. **[G2]** (AQU, $50,000), etc.). Dam of 3 foals--
+		<hip>427</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Angkor</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  **Afleet Lover**, by Northern Afleet. 5 wins at 3 and 4, $104,471, 3rd Hawkeyes H.-R (PRM, $7,500). Dam of 7 foals, 6 to race, 5 winners--
+update on line 46: +    Angkor (2018 g. by Anchor Down). Winner at 2, placed at 4, 2022, $156,683.
+Dam is in line 41:   **Afleet Lover**, by Northern Afleet. 5 wins at 3 and 4, $104,471, 3rd Hawkeyes H.-R (PRM, $7,500). Dam of 7 foals, 6 to race, 5 winners--
+		<hip>427</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Graydawn Day</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  **Afleet Lover**, by Northern Afleet. 5 wins at 3 and 4, $104,471, 3rd Hawkeyes H.-R (PRM, $7,500). Dam of 7 foals, 6 to race, 5 winners--
+update on line 52: +    Graydawn Day (2017 f. by Graydar). Winner at 4, placed at 5, 2022, $27,211.
+Dam is in line 41:   **Afleet Lover**, by Northern Afleet. 5 wins at 3 and 4, $104,471, 3rd Hawkeyes H.-R (PRM, $7,500). Dam of 7 foals, 6 to race, 5 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

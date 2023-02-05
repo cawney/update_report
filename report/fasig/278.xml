@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>278</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**MISS HARD KNOCKS**</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  MISS HISSY FIT, by Aldebaran. Unraced. Half-sister to **RHUBARB RED** ($83,820, 1st Mom's Command S. (SUF, $15,000), etc.), **Southey** ($125,846, 2nd Bourbonette Breeders' Cup S. [L] (TP, $30,000), etc.). Dam of 9 foals, 8 to race, 4 winners--
+update on line 36: +    **MISS HARD KNOCKS** (2019 f. by Mr Speaker). 4 wins at 3, placed at 4, 2023, $136,511, 1st Island Fashion S. (SUN, $45,000), Borderplex S. (SUN, $39,000).
+Dam is in line 33:   MISS HISSY FIT, by Aldebaran. Unraced. Half-sister to **RHUBARB RED** ($83,820, 1st Mom's Command S. (SUF, $15,000), etc.), **Southey** ($125,846, 2nd Bourbonette Breeders' Cup S. [L] (TP, $30,000), etc.). Dam of 9 foals, 8 to race, 4 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

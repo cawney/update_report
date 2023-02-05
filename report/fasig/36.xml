@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>36</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Red Label</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  BACK IN FASHION, by Consolidator. 3 wins at 3 and 4, $43,869. Dam of 5 foals, 1 to race, 1 winner--
+update on line 36: +    Red Label (2019 g. by Sky Kingdom). 2 wins at 2, placed at 3, 2022, $88,284.
+Dam is in line 33:   BACK IN FASHION, by Consolidator. 3 wins at 3 and 4, $43,869. Dam of 5 foals, 1 to race, 1 winner--
+		<hip>36</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Red Wine Lady</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  BACK IN FASHION, by Consolidator. 3 wins at 3 and 4, $43,869. Dam of 5 foals, 1 to race, 1 winner--
+update on line 40: +    Red Wine Lady (2021 f. by Klimt). Unraced.
+Dam is in line 33:   BACK IN FASHION, by Consolidator. 3 wins at 3 and 4, $43,869. Dam of 5 foals, 1 to race, 1 winner--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>502</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Absolute Chaos</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  **Light of a Star**, by Muqtarib. 12 wins, 2 to 4, $140,590, 3rd Angie C. S. (EMD, $6,750). Died 2022. Half-sister to **SUMMER HIT** ($575,299, 1st All American S. **[G3]** (GG, $60,000) twice, etc.), **STARBIRD ROAD** ($198,697, 1st Seattle H. (EMD, $24,750), etc.). Dam of 9 foals, 7 to race, 7 winners--
+update on line 40: +    Absolute Chaos (2018 g. by Mineshaft). 2 wins at 3, placed at 4, 2022, $115,959.
+Dam is in line 34:   **Light of a Star**, by Muqtarib. 12 wins, 2 to 4, $140,590, 3rd Angie C. S. (EMD, $6,750). Died 2022. Half-sister to **SUMMER HIT** ($575,299, 1st All American S. **[G3]** (GG, $60,000) twice, etc.), **STARBIRD ROAD** ($198,697, 1st Seattle H. (EMD, $24,750), etc.). Dam of 9 foals, 7 to race, 7 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

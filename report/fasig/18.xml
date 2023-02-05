@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>18</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Vegas Trip</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  **Nawal (FR)**, by =Homme de Loi (IRE). 2 wins at 2, 24,849 Euro, in France, 3rd Prix d'Aumale **[G3]**; placed at 4, $14,720, in N.A./U.S. Sent from France to United States in 1997. Sent from United States to Ireland in 2010. (Total: $46,310). Dam of 13 foals, 11 to race, 9 winners--
+update on line 74: +    Vegas Trip (2008 f. by Aldebaran). Winner at 4, $29,474. Dam of 8 foals, 5 to race, 4 winners--
+Dam is in line 37:   **Nawal (FR)**, by =Homme de Loi (IRE). 2 wins at 2, 24,849 Euro, in France, 3rd Prix d'Aumale **[G3]**; placed at 4, $14,720, in N.A./U.S. Sent from France to United States in 1997. Sent from United States to Ireland in 2010. (Total: $46,310). Dam of 13 foals, 11 to race, 9 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

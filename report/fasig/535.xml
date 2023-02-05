@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>535</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>1995 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  **VALID VICTRESS**, by Valid Appeal. 3 wins at 2 and 3, $95,482, 1st Dramatic Joy S. (GG, $16,770), 3rd Moraga S. [L] (GG, $7,500), Blazing Skies H. (GG, $4,500). Died 2008. Half-sister to **THE COUNT** ($63,908, 1st Eau Claire S. (CBY, $17,200)). Dam of 8 foals, 5 to race, 5 winners--
+update on line 172: +    Unnamed (1995 c. by El Gran Senor). Died 1996.RACE RECORD for Super Sting: At 2, unplaced in 1 start. Earned $7502023 Bred to Mucho Macho Man.
+Dam is in line 122:   **VALID VICTRESS**, by Valid Appeal. 3 wins at 2 and 3, $95,482, 1st Dramatic Joy S. (GG, $16,770), 3rd Moraga S. [L] (GG, $7,500), Blazing Skies H. (GG, $4,500). Died 2008. Half-sister to **THE COUNT** ($63,908, 1st Eau Claire S. (CBY, $17,200)). Dam of 8 foals, 5 to race, 5 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

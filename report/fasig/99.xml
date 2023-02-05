@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>99</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>My Amasoning Grace</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  SPRING UNBRIDLED, by Unbridled's Song. Unraced. Half-sister to **KID MAMBO** (Total: $65,185, 1st Macau Hong Kong Trophy [L], etc.), **Markyg** (Total: $59,694, 3rd Chesham S. [L]). Dam of 6 foals, 4 to race, 3 winners--
+update on line 54: +    My Amasoning Grace (2010 f. by Yes It's True). Unraced.RACE RECORD for Cold Little Heart: Unraced.2023 Bred to Independence Hall.
+Dam is in line 44:   SPRING UNBRIDLED, by Unbridled's Song. Unraced. Half-sister to **KID MAMBO** (Total: $65,185, 1st Macau Hong Kong Trophy [L], etc.), **Markyg** (Total: $59,694, 3rd Chesham S. [L]). Dam of 6 foals, 4 to race, 3 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

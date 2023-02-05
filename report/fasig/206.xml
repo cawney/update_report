@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>206</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  HURRICANE SHEILA, by Congrats. Winner at 5, $73,610. Dam of 2 foals--
+update on line 42: +    Unnamed (2022 f. by Yorkton). See above.
+Dam is in line 39:   HURRICANE SHEILA, by Congrats. Winner at 5, $73,610. Dam of 2 foals--
+		<hip>206</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Blue Paynt</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  **Storm City Blues**, by Carson City. 6 wins, 3 to 5, $123,752, 3rd Ema Bovary S. (CRC, $4,400). Half-sister to **CAT ON A CLOUD** ($209,496, 1st Monmouth Park NATC Futurity-R (MTH, $120,000), etc.). Dam of 9 foals, 8 to race, 5 winners--
+update on line 58: +    Blue Paynt (2018 f. by Paynter). 5 wins at 3 and 4, 2022, $188,580.
+Dam is in line 45:   **Storm City Blues**, by Carson City. 6 wins, 3 to 5, $123,752, 3rd Ema Bovary S. (CRC, $4,400). Half-sister to **CAT ON A CLOUD** ($209,496, 1st Monmouth Park NATC Futurity-R (MTH, $120,000), etc.). Dam of 9 foals, 8 to race, 5 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>458</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Don't Let Me Down</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  A. P. ANDREA, by Notional. Unraced. Half-sister to **MUCHO MAS MACHO** ($295,048, 1st Ft. Lauderdale S. **[G2]** (GP, $90,000), etc.), **Star Zapper** ($144,815, 3rd Charles Town Juvenile S. [L] (CT, $10,000)). Dam of 6 foals, 3 to race, 2 winners--
+update on line 39: +    Don't Let Me Down (2020 r. by Tourist). Placed at 2, 2022, $21,718.
+Dam is in line 34:   A. P. ANDREA, by Notional. Unraced. Half-sister to **MUCHO MAS MACHO** ($295,048, 1st Ft. Lauderdale S. **[G2]** (GP, $90,000), etc.), **Star Zapper** ($144,815, 3rd Charles Town Juvenile S. [L] (CT, $10,000)). Dam of 6 foals, 3 to race, 2 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

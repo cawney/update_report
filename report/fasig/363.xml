@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>363</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Solar System</HorseName>
+		<HorseYOB>2001 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  STARR COUNTY, by Ogygian. Winner in 2 starts at 2, $15,900. Half-sister to **WIND SHEAR** ($120,160, 1st Elie Destruel H. (SR, $19,900), etc.), **My Lovely** (2nd Tomboy S. (DET, $5,475)). Dam of 15 foals, 9 to race, 9 winners--
+update on line 99: +    Solar System (2001 c. by Pleasant Tap). Unraced.RACE RECORD for Salino: At 2, unplaced in 1 start; at 3, two wins, once 3rd, . Totals: 2 wins, once 3rd. Earned $60,7002023 Bred to Vekoma.
+Dam is in line 72:   STARR COUNTY, by Ogygian. Winner in 2 starts at 2, $15,900. Half-sister to **WIND SHEAR** ($120,160, 1st Elie Destruel H. (SR, $19,900), etc.), **My Lovely** (2nd Tomboy S. (DET, $5,475)). Dam of 15 foals, 9 to race, 9 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

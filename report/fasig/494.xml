@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>494</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Longer View</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  **Divergent View**, by Congrats. 2 wins at 2, $68,001, in N.A./U.S., 2nd Prairie Gold Lassie S. (PRM, $15,000); winner at 3, $19,520, in Canada. (Total: $85,947). Half-sister to **Wasted At Midnight** ($213,718, 2nd Desert Stormer S. (SA, $16,100)). Dam of 4 foals, 3 to race, 1 winner--
+update on line 38: +    Longer View (2019 g. by Candy Ride (ARG)). Placed at 3, 2022, $7,676.
+Dam is in line 34:   **Divergent View**, by Congrats. 2 wins at 2, $68,001, in N.A./U.S., 2nd Prairie Gold Lassie S. (PRM, $15,000); winner at 3, $19,520, in Canada. (Total: $85,947). Half-sister to **Wasted At Midnight** ($213,718, 2nd Desert Stormer S. (SA, $16,100)). Dam of 4 foals, 3 to race, 1 winner--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

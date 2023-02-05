@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>440</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Lady Alexandria</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  TRUE BLISS, by Yes It's True. Winner at 2 and 5, $101,327. Half-sister to **HIERRO** ($271,301, 1st The Cliff's Edge Derby Trial S. **[G3]** (CD, $139,886)), **CHEROKEE TRIANGLE** ($330,294, 1st Sunday Silence S. [L] (LAD, $120,000), etc.), **Sam's Bliss** ($195,931, 2nd Inaugural S. [L] (PID, $20,000), etc.). Dam of 7 foals, 5 to race, 3 winners--
+update on line 41: +    Lady Alexandria (2018 f. by Alternation). 9 wins, 2 to 4, 2022, $54,083.
+Dam is in line 38:   TRUE BLISS, by Yes It's True. Winner at 2 and 5, $101,327. Half-sister to **HIERRO** ($271,301, 1st The Cliff's Edge Derby Trial S. **[G3]** (CD, $139,886)), **CHEROKEE TRIANGLE** ($330,294, 1st Sunday Silence S. [L] (LAD, $120,000), etc.), **Sam's Bliss** ($195,931, 2nd Inaugural S. [L] (PID, $20,000), etc.). Dam of 7 foals, 5 to race, 3 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

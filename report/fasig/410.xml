@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>410</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  SURF RIDE, by Scat Daddy. Winner at 2, $21,630. Dam of 4 foals, 1 to race--
+update on line 42: +    Unnamed (2022 f. by Echo Town). See above.
+Dam is in line 39:   SURF RIDE, by Scat Daddy. Winner at 2, $21,630. Dam of 4 foals, 1 to race--
+		<hip>410</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Legal Eagle</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  **Perennial Song**, by Songandaprayer. 2 wins at 2, $83,715, 2nd Tempted S. **[G3]** (BEL, $20,000). Dam of 8 foals, 4 to race, 3 winners--
+update on line 51: +    Legal Eagle (2020 c. by Eagle). Placed at 3, 2023, $6,365.
+Dam is in line 47:   **Perennial Song**, by Songandaprayer. 2 wins at 2, $83,715, 2nd Tempted S. **[G3]** (BEL, $20,000). Dam of 8 foals, 4 to race, 3 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

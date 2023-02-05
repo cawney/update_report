@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>400</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Ghostly Dancer</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  GHOST OF SAGE CAT, by Ghostzapper. 2 wins at 4, $26,002. Half-sister to **DESERT PARTY** (Total: $928,467, 1st Sanford S. **[G2]** (SAR, $90,000), etc., sire), **ELLIECAT** ($190,646, 1st Chou Croute H. (FG, $36,000), etc.). Dam of 7 foals, 3 to race, 3 winners--
+update on line 39: +    Ghostly Dancer (2021 f. by War Dancer). Unraced.
+Dam is in line 34:   GHOST OF SAGE CAT, by Ghostzapper. 2 wins at 4, $26,002. Half-sister to **DESERT PARTY** (Total: $928,467, 1st Sanford S. **[G2]** (SAR, $90,000), etc., sire), **ELLIECAT** ($190,646, 1st Chou Croute H. (FG, $36,000), etc.). Dam of 7 foals, 3 to race, 3 winners--
+		<hip>400</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>She's Justa Friend</HorseName>
+		<HorseYOB>2005 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380. Dam of 11 foals, 7 to race, 5 winners--
+update on line 51: +    She's Justa Friend (2005 f. by Hussonet). Winner at 4, $47,086. Dam of 7 foals, 5 to race, 5 winners--
+Dam is in line 46:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380. Dam of 11 foals, 7 to race, 5 winners--
+		<hip>400</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Verdad</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380. Dam of 11 foals, 7 to race, 5 winners--
+update on line 102: +    Verdad (2010 f. by Street Cry (IRE)). Unraced. Dam of 5 foals, 4 to race, 1 winner--
+Dam is in line 46:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380. Dam of 11 foals, 7 to race, 5 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

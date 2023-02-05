@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>355</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Tiznow Time</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  **Rontos Lily**, by Big Drama. Winner at 2 and 5, $107,714, 3rd Honey Ryder S. (GP, $7,275), Juvenile Filly Sprint S.-R (GPW, $9,850). Sent from United States to Saudi Arabia in 2022. Dam of 3 foals, 1 to race--
+update on line 39: +    Tiznow Time (2020 g. by Tiznow). Unplaced, $2,611.
+Dam is in line 34:   **Rontos Lily**, by Big Drama. Winner at 2 and 5, $107,714, 3rd Honey Ryder S. (GP, $7,275), Juvenile Filly Sprint S.-R (GPW, $9,850). Sent from United States to Saudi Arabia in 2022. Dam of 3 foals, 1 to race--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

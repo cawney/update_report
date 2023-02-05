@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>439</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Pretty U</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-sister to **Triple Cream** ($98,560, 2nd Desert Vixen S. [L] (MTH, $20,000), etc.), **Venado** ($90,215, 3rd Ohio Valley H. [L] (MNR, $7,500)). Dam of 9 foals, 8 to race, 5 winners--
+update on line 74: +    Pretty U (2012 f. by Pomeroy). Winner at 2, $19,708. Dam of 5 foals, 3 to race, 3 winners--
+Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-sister to **Triple Cream** ($98,560, 2nd Desert Vixen S. [L] (MTH, $20,000), etc.), **Venado** ($90,215, 3rd Ohio Valley H. [L] (MNR, $7,500)). Dam of 9 foals, 8 to race, 5 winners--
+		<hip>439</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Moon Over Matter</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-sister to **Triple Cream** ($98,560, 2nd Desert Vixen S. [L] (MTH, $20,000), etc.), **Venado** ($90,215, 3rd Ohio Valley H. [L] (MNR, $7,500)). Dam of 9 foals, 8 to race, 5 winners--
+update on line 92: +    Moon Over Matter (2014 f. by Malibu Moon). Unraced. Dam of 4 foals, 2 to race, 2 winners--
+Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-sister to **Triple Cream** ($98,560, 2nd Desert Vixen S. [L] (MTH, $20,000), etc.), **Venado** ($90,215, 3rd Ohio Valley H. [L] (MNR, $7,500)). Dam of 9 foals, 8 to race, 5 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

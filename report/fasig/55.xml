@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>55</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  BOX OFFICE SMASH, by Dixie Union. Winner at 3 and 4, $51,236. Half-sister to **BEE JERSEY** (Total: $976,293, 1st Runhappy Metropolitan H. **[G1]** (BEL, $650,000), etc., sire). Dam of 4 foals, 1 to race, 1 winner--
+update on line 42: +    Unnamed (2022 f. by Mo Town). See above.
+Dam is in line 38:   BOX OFFICE SMASH, by Dixie Union. Winner at 3 and 4, $51,236. Half-sister to **BEE JERSEY** (Total: $976,293, 1st Runhappy Metropolitan H. **[G1]** (BEL, $650,000), etc., sire). Dam of 4 foals, 1 to race, 1 winner--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>360</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Witsec</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  RUN CARRIE RUN, by Orientate. Unraced. Dam of 8 foals, 7 to race, 4 winners--
+update on line 42: +    Witsec (2020 f. by Run Away and Hide). Placed at 2, 2022, $14,446.
+Dam is in line 33:   RUN CARRIE RUN, by Orientate. Unraced. Dam of 8 foals, 7 to race, 4 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

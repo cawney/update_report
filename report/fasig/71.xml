@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>71</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  CARINHOSA, by Sky Mesa. Unraced. Sister to **THISKYHASNOLIMIT** ($777,828, 1st Texas Mile S. **[G3]** (LS, $125,000), etc.). Dam of 6 foals, 4 to race, 4 winners--
+update on line 41: +    Unnamed (2022 c. by Palace Malice). See above.
+Dam is in line 34:   CARINHOSA, by Sky Mesa. Unraced. Sister to **THISKYHASNOLIMIT** ($777,828, 1st Texas Mile S. **[G3]** (LS, $125,000), etc.). Dam of 6 foals, 4 to race, 4 winners--
+<hip>71</hip>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+update on line 46: + LOVELY REGINA, by Deputy Minister. Unplaced, $1,260. Half-sister to **BERNARDINI** ($3,060,480, champion 3-year-old colt in U.S. (2006), 1st Preakness S. **[G1]** (PIM, $600,000), etc., leading broodmare sire in U.S. (2022)), **Ile de France** ($125,300, 3rd Santa Anita Oaks **[G1]** (SA, $36,000)). Dam of 11 foals, 8 to race, 8 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

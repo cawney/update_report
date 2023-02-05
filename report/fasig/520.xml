@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>520</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Benevolent Austin</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  ERZULIE DANTOR, by Yonaguska. 2 wins at 5, $36,642. Half-sister to **INHISGLORY** ($221,734, 1st Turfway Prevue S. (TP, $29,140), etc.), **Hat of Jacks** ($152,551, 3rd Ack Ack H. **[G3]** (CD, $9,800)). Dam of 6 foals, 3 to race--
+update on line 40: +    Benevolent Austin (2019 g. by Lemon Drop Kid). Placed at 2, $2,455.
+Dam is in line 37:   ERZULIE DANTOR, by Yonaguska. 2 wins at 5, $36,642. Half-sister to **INHISGLORY** ($221,734, 1st Turfway Prevue S. (TP, $29,140), etc.), **Hat of Jacks** ($152,551, 3rd Ack Ack H. **[G3]** (CD, $9,800)). Dam of 6 foals, 3 to race--
+		<hip>520</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Erzulie Dantor</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  BELLE ERZULIE, by Pulpit. Unraced. Died 2011. Dam of 4 foals, 4 to race, 4 winners--
+update on line 70: +    Erzulie Dantor (2009 f. by Yonaguska). See above.RACE RECORD for Speedy Nefertiti: Unraced.2023 Bred to Mor Spirit.
+Dam is in line 48:   BELLE ERZULIE, by Pulpit. Unraced. Died 2011. Dam of 4 foals, 4 to race, 4 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

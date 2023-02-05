@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>307</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Mag the Mighty</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  **Grace Anatomy**, by Aldebaran. Winner at 2, $171,340, 2nd Santa Ysabel S. **[G3]** (SA, $21,780), 3rd Darley Alcibiades S. **[G1]** (KEE, $50,000). Sister to **Position A** ($311,717, 2nd Harry Henson S. (HOL, $14,610)). Dam of 7 foals, 6 to race, 5 winners--
+update on line 63: +    Mag the Mighty (2014 f. by Giant's Causeway). Unplaced, $4,770. Sent from United States to Philippines in 2018.RACE RECORD for No One's Laughing: At 2, unraced; at 3, 2022, once 2nd in 2 starts. Earned $15,800
+Dam is in line 41:   **Grace Anatomy**, by Aldebaran. Winner at 2, $171,340, 2nd Santa Ysabel S. **[G3]** (SA, $21,780), 3rd Darley Alcibiades S. **[G1]** (KEE, $50,000). Sister to **Position A** ($311,717, 2nd Harry Henson S. (HOL, $14,610)). Dam of 7 foals, 6 to race, 5 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

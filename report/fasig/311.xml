@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>311</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Little Trouble</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  ONE HOT SENORITA, by Sharp Humor. Unraced. Half-sister to **NICOLE H** ($811,144, 1st Distaff H. **[G2]** (AQU, $90,000), etc.), **Tap Attack** ($203,127, 2nd Mike Lee S.-R (BEL, $20,000), etc.). Dam of 7 foals, 2 to race, 1 winner--
+update on line 38: +    Little Trouble (2021 c. by Violence). Unraced.
+Dam is in line 34:   ONE HOT SENORITA, by Sharp Humor. Unraced. Half-sister to **NICOLE H** ($811,144, 1st Distaff H. **[G2]** (AQU, $90,000), etc.), **Tap Attack** ($203,127, 2nd Mike Lee S.-R (BEL, $20,000), etc.). Dam of 7 foals, 2 to race, 1 winner--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

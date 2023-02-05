@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>481</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Red Menace</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  NEAR AND DEAR, by Red Ransom. 3 wins at 3 and 4, $80,400. Half-sister to **Bond Arbitrage** ($77,481, 2nd Bertram F. Bongard S.-R (BEL, $21,900)). Dam of 10 foals, 7 to race, 6 winners--
+update on line 72: +    Red Menace (2011 f. by Stormy Atlantic). Unraced. Dam of 7 foals, 4 to race, 1 winner--
+Dam is in line 52:   NEAR AND DEAR, by Red Ransom. 3 wins at 3 and 4, $80,400. Half-sister to **Bond Arbitrage** ($77,481, 2nd Bertram F. Bongard S.-R (BEL, $21,900)). Dam of 10 foals, 7 to race, 6 winners--
+		<hip>481</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Dear Bear</HorseName>
+		<HorseYOB>2005 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  NEAR AND DEAR, by Red Ransom. 3 wins at 3 and 4, $80,400. Half-sister to **Bond Arbitrage** ($77,481, 2nd Bertram F. Bongard S.-R (BEL, $21,900)). Dam of 10 foals, 7 to race, 6 winners--
+update on line 89: +    Dear Bear (2005 f. by Belong to Me). Unraced. Died 2017.RACE RECORD for Fast and Flirty: At 2, unraced; at 3, 2022, once 3rd (Cash Run S. (GP, $9,800)); at 4, 2023, once 2nd in 1 start; at 2, one win, once 2nd in 2 starts; . Totals: 1 win, twice 2nd, once 3rd. Earned $123,093
+Dam is in line 52:   NEAR AND DEAR, by Red Ransom. 3 wins at 3 and 4, $80,400. Half-sister to **Bond Arbitrage** ($77,481, 2nd Bertram F. Bongard S.-R (BEL, $21,900)). Dam of 10 foals, 7 to race, 6 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

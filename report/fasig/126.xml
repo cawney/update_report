@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>126</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Poronui</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  **DOTHRAKI QUEEN**, by Pure Prize. 2 wins at 2, $465,206, 1st Pocahontas S. **[G2]** (CD, $120,280), 2nd Darley Alcibiades S. **[G1]** (KEE, $80,000), 3rd Breeders' Cup Juvenile Fillies **[G1]** (KEE, $200,000), Golden Rod S. **[G2]** (CD, $19,200). Dam of 5 foals, 2 to race, 1 winner--
+update on line 38: +    Poronui (2019 f. by Pioneerof the Nile). Placed, 2 to 4, 2023, $72,081.
+Dam is in line 34:   **DOTHRAKI QUEEN**, by Pure Prize. 2 wins at 2, $465,206, 1st Pocahontas S. **[G2]** (CD, $120,280), 2nd Darley Alcibiades S. **[G1]** (KEE, $80,000), 3rd Breeders' Cup Juvenile Fillies **[G1]** (KEE, $200,000), Golden Rod S. **[G2]** (CD, $19,200). Dam of 5 foals, 2 to race, 1 winner--
+		<hip>126</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Morning Blush</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  **DOTHRAKI QUEEN**, by Pure Prize. 2 wins at 2, $465,206, 1st Pocahontas S. **[G2]** (CD, $120,280), 2nd Darley Alcibiades S. **[G1]** (KEE, $80,000), 3rd Breeders' Cup Juvenile Fillies **[G1]** (KEE, $200,000), Golden Rod S. **[G2]** (CD, $19,200). Dam of 5 foals, 2 to race, 1 winner--
+update on line 44: +    Morning Blush (2020 f. by Justify). Unraced. Sent from United States to Ireland in 2021.
+Dam is in line 34:   **DOTHRAKI QUEEN**, by Pure Prize. 2 wins at 2, $465,206, 1st Pocahontas S. **[G2]** (CD, $120,280), 2nd Darley Alcibiades S. **[G1]** (KEE, $80,000), 3rd Breeders' Cup Juvenile Fillies **[G1]** (KEE, $200,000), Golden Rod S. **[G2]** (CD, $19,200). Dam of 5 foals, 2 to race, 1 winner--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>264</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Pop Star</HorseName>
+		<HorseYOB>2000 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  **Star Reputation**, by Star Spangled. 3 wins at 2 and 3, $53,524, 3rd Star Shoot S. [L] (WO, $7,643(CAN)), Victoria S. [L] (WO, $6,160(CAN)). Half-sister to **TRIPLE WOW** ($706,695, 1st Next Move H. **[G3]**, etc.), **ZILZAL ZAMAAN** (Total: $138,803, 1st Ormonde S. **[G3]**, etc., sire), **Quianlong** (Total: $406,602, 2nd Prix Matchem [L]). Dam of 9 foals, 9 to race, 9 winners--
+update on line 209: +    Pop Star (2000 g. by Whiskey Wisdom). Winner at 3, $15,253.RACE RECORD for May Island: In Canada. At 2, once 2nd in 2 starts; at 3, one win, twice 3rd, . Totals: 1 win, once 2nd, twice 3rd. Earned  $68,062. In N.A./U.S. At 5, one win, 3 times 2nd, twice 3rd; at 4, four wins, 3 times 2nd, twice 3rd, . Totals: 5 wins, 6 times 2nd, 4 times 3rd. Earned $158,699. (Total: $225,773.)PRODUCE RECORD for May Island:2016 Island Kitten, f. by Kitten's Joy. Unraced. Dam of 1 foal--
+Dam is in line 55:   **Star Reputation**, by Star Spangled. 3 wins at 2 and 3, $53,524, 3rd Star Shoot S. [L] (WO, $7,643(CAN)), Victoria S. [L] (WO, $6,160(CAN)). Half-sister to **TRIPLE WOW** ($706,695, 1st Next Move H. **[G3]**, etc.), **ZILZAL ZAMAAN** (Total: $138,803, 1st Ormonde S. **[G3]**, etc., sire), **Quianlong** (Total: $406,602, 2nd Prix Matchem [L]). Dam of 9 foals, 9 to race, 9 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

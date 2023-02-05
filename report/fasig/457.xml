@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>457</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Twilight Rose</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  **LA ROSA**, by Wild Again. 4 wins at 2 and 4, $267,194, 1st Demoiselle S. **[G2]**, 3rd Bonnie Miss S. **[G2]**, Davona Dale S. **[G3]**. Half-sister to **DAYLIGHT RIDGE** ($177,695, 1st Victoria Lass H. [L] (FG, $46,125), etc.), **Game Coin** ($117,760, 2nd Louisiana Derby **[G3]**, sire). Dam of 11 foals, 9 to race, 7 winners--
+update on line 111: +    Twilight Rose (2012 f. by Smart Strike). Unplaced, $450. Sent from United States to Saudi Arabia in 2022. Dam of 3 foals, 2 to race--
+Dam is in line 47:   **LA ROSA**, by Wild Again. 4 wins at 2 and 4, $267,194, 1st Demoiselle S. **[G2]**, 3rd Bonnie Miss S. **[G2]**, Davona Dale S. **[G3]**. Half-sister to **DAYLIGHT RIDGE** ($177,695, 1st Victoria Lass H. [L] (FG, $46,125), etc.), **Game Coin** ($117,760, 2nd Louisiana Derby **[G3]**, sire). Dam of 11 foals, 9 to race, 7 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

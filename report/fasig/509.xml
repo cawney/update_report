@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>509</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Tyry Tyrannosaurus</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  LIDO LADY, by Lido Palace (CHI). Unraced. Half-sister to **BIRDBIRDISTHEWORD** ($783,544, 1st Boyd Gaming's Delta Jackpot S. **[G3]** (DED, $600,000), etc., sire). Dam of 6 foals, 5 to race, 5 winners--
+update on line 39: +    Tyry Tyrannosaurus (2018 c. by Goldencents). Winner at 3 and 4, placed at 5, 2023, $77,077.
+Dam is in line 33:   LIDO LADY, by Lido Palace (CHI). Unraced. Half-sister to **BIRDBIRDISTHEWORD** ($783,544, 1st Boyd Gaming's Delta Jackpot S. **[G3]** (DED, $600,000), etc., sire). Dam of 6 foals, 5 to race, 5 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

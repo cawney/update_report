@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>503</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Faraday Effect</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>r</HorseSex>
++ Jan 29 2023 10:03PM          PH23 CONSIGNOR: 1 HORSE: 501 GROUP: 1 HIP NUMBER: 00503          Page 1
+update on line 66: +    =Faraday Effect (IRE) (2013 g. by Rip Van Winkle (IRE)). Unplaced in England.RACE RECORD for Flashy Fig (IRE): Unraced.
+Dam is in line 0: + Jan 29 2023 10:03PM          PH23 CONSIGNOR: 1 HORSE: 501 GROUP: 1 HIP NUMBER: 00503          Page 1
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

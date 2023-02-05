@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>517</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  LAHAINA LUCK, by Uncle Mo. Unplaced in 1 start, $420. Dam of 1 foal--
+update on line 37: +    Unnamed (2022 c. by Improbable). See above.
+Dam is in line 34:   LAHAINA LUCK, by Uncle Mo. Unplaced in 1 start, $420. Dam of 1 foal--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>339</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>V V's Dream</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  QUAY, by Tapit. 3 wins at 3 and 4, $213,526. Half-sister to **Quaver** ($82,965, 2nd Crank It Up S. (MTH, $12,000)). Dam of 5 foals, 2 to race, 2 winners--
+update on line 39: +    V V's Dream (2021 f. by Mitole). Unraced.
+Dam is in line 34:   QUAY, by Tapit. 3 wins at 3 and 4, $213,526. Half-sister to **Quaver** ($82,965, 2nd Crank It Up S. (MTH, $12,000)). Dam of 5 foals, 2 to race, 2 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

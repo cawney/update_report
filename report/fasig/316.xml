@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>316</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Miss Paget</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  MISS PAGET (IRE), by $Galileo (IRE). Unraced. Sent from Ireland to United States in 2013. Sister to **=VITA NOVA (IRE)** (Total: $204,613, 1st Betfred the Bonus King E.B.F. Daisy Warwick S. [L], etc.). Dam of 8 foals, 5 to race, 1 winner--
+update on line 62: +    Miss Paget (IRE) (2009 f. by $Galileo (IRE)). See above.RACE RECORD for Pallas Athene: At 2, unraced; at 3, once 2nd; at 4, three wins; at 5, twice 2nd; at 6, 2022, two wins, once 2nd, . Totals: 5 wins, 4 times 2nd. Earned $174,6492017 no report received.2018 no report received.2019 no report received.2020 no report received.2021 no report received.2022 no report received.2023 no report received.
+Dam is in line 34:   MISS PAGET (IRE), by $Galileo (IRE). Unraced. Sent from Ireland to United States in 2013. Sister to **=VITA NOVA (IRE)** (Total: $204,613, 1st Betfred the Bonus King E.B.F. Daisy Warwick S. [L], etc.). Dam of 8 foals, 5 to race, 1 winner--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

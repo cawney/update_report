@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>30</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Chaeronea</HorseName>
+		<HorseYOB>2006 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  GUAGAMELA, by Schossberg. Unraced. Half-sister to **CHOPININA** ($613,696, champion grass mare in Canada (2002), 1st Royal North H. **[G3]** (WO, $131,430(CAN)), etc.), **DESPITE THE ODDS** ($261,429, 1st Hill Prince S. **[G3]** (BEL, $65,400), etc., sire), **KARRA KUL** ($286,205, 1st Geri S. [L] (WO, $42,060(CAN)), etc.). Dam of 5 foals, 2 to race, 2 winners--
+update on line 50: +    Chaeronea (2006 f. by Iskandar Elakbar). Unraced.RACE RECORD for A Tail to Tell: Unraced.2023 Bred to Enticed.
+Dam is in line 44:   GUAGAMELA, by Schossberg. Unraced. Half-sister to **CHOPININA** ($613,696, champion grass mare in Canada (2002), 1st Royal North H. **[G3]** (WO, $131,430(CAN)), etc.), **DESPITE THE ODDS** ($261,429, 1st Hill Prince S. **[G3]** (BEL, $65,400), etc., sire), **KARRA KUL** ($286,205, 1st Geri S. [L] (WO, $42,060(CAN)), etc.). Dam of 5 foals, 2 to race, 2 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

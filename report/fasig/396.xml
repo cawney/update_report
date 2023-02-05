@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>396</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Auntie Mabel</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  EVROBI, by Tabasco Cat. Winner at 2, $34,765. Died 2022. Half-sister to **Sublime Beauty** (Total: $66,050, 2nd Conrad International Dublin Silver S. [L]). Dam of 13 foals, 11 to race, 8 winners--
+update on line 57: +    Auntie Mabel (2017 f. by Bayern). 2 wins at 4, $72,988. Died 2022.
+Dam is in line 38:   EVROBI, by Tabasco Cat. Winner at 2, $34,765. Died 2022. Half-sister to **Sublime Beauty** (Total: $66,050, 2nd Conrad International Dublin Silver S. [L]). Dam of 13 foals, 11 to race, 8 winners--
+		<hip>396</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Forty Winks</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  EVROBI, by Tabasco Cat. Winner at 2, $34,765. Died 2022. Half-sister to **Sublime Beauty** (Total: $66,050, 2nd Conrad International Dublin Silver S. [L]). Dam of 13 foals, 11 to race, 8 winners--
+update on line 96: +    Forty Winks (2020 f. by Always Dreaming). Unplaced in 2 starts, $938.
+Dam is in line 38:   EVROBI, by Tabasco Cat. Winner at 2, $34,765. Died 2022. Half-sister to **Sublime Beauty** (Total: $66,050, 2nd Conrad International Dublin Silver S. [L]). Dam of 13 foals, 11 to race, 8 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

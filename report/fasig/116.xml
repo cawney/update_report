@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>116</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Mose Perfect</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  **Delightful Dawn**, by Act of Duty. 4 wins, 2 to 5, $167,449, 2nd Lindsay Frolic S. (CRC, $20,000), 3rd Ms Brookski S. (CRC, $6,000). Dam of 7 foals, 4 to race, 3 winners--
+update on line 38: +    Mose Perfect (2019 g. by Mosler). 4 wins at 3 and 4, 2023, $130,669.
+Dam is in line 34:   **Delightful Dawn**, by Act of Duty. 4 wins, 2 to 5, $167,449, 2nd Lindsay Frolic S. (CRC, $20,000), 3rd Ms Brookski S. (CRC, $6,000). Dam of 7 foals, 4 to race, 3 winners--
+		<hip>116</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Forth</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  **Delightful Dawn**, by Act of Duty. 4 wins, 2 to 5, $167,449, 2nd Lindsay Frolic S. (CRC, $20,000), 3rd Ms Brookski S. (CRC, $6,000). Dam of 7 foals, 4 to race, 3 winners--
+update on line 40: +    Forth (2018 g. by Run Away and Hide). 3 wins, 3 to 5, 2023, $107,812.
+Dam is in line 34:   **Delightful Dawn**, by Act of Duty. 4 wins, 2 to 5, $167,449, 2nd Lindsay Frolic S. (CRC, $20,000), 3rd Ms Brookski S. (CRC, $6,000). Dam of 7 foals, 4 to race, 3 winners--
+		<hip>116</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  **Delightful Dawn**, by Act of Duty. 4 wins, 2 to 5, $167,449, 2nd Lindsay Frolic S. (CRC, $20,000), 3rd Ms Brookski S. (CRC, $6,000). Dam of 7 foals, 4 to race, 3 winners--
+update on line 44: +    Unnamed (2022 c. by Good Samaritan). See above.
+Dam is in line 34:   **Delightful Dawn**, by Act of Duty. 4 wins, 2 to 5, $167,449, 2nd Lindsay Frolic S. (CRC, $20,000), 3rd Ms Brookski S. (CRC, $6,000). Dam of 7 foals, 4 to race, 3 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

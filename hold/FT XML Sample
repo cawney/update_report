@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+<Update>
+<HipNumber>00003 </HipNumber>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+<HorseName>horse name</HorseName>
+<HorseYob>2016</HorseYob>
+<HorseSex>G</HorseSex>
+<DamName>Dam Name 1</DamName>
+<DamDamName>2nd Dam Name 2</DamDamName>
+<SireName>Horse Sire</SireName>
+<OfficialPosition>3</OfficialPosition>
+<RaceNumber>2</RaceNumber>
+<RaceType>MCL</RaceType>
+<Grade></Grade>
+<RaceDate>20200606</RaceDate>
+<TrackName>CHURCHILL DOWNS</TrackName>
+<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink> 
+</Update>
+<Update>
+<HipNumber>00003 </HipNumber>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+<HorseName>Horse Name 2</HorseName>
+<HorseYob>2015</HorseYob>
+<HorseSex>G</HorseSex>
+<DamName>Dame Name 2</DamName>
+<DamDamName>2nd Dam Horse 2</DamDamName>
+<SireName>Sire horse 2</SireName>
+<OfficialPosition>2</OfficialPosition>
+<RaceNumber>3</RaceNumber>
+<RaceType>CLM</RaceType>
+<Grade></Grade>
+<RaceDate>20200608</RaceDate>
+<TrackName>GULFSTREAM PARK</TrackName>
+<UpdPosition>1</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$3,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink> 
+</Update>
+<Update>
+<HipNumber>00003 </HipNumber>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+<HorseName>Horse Name 3</HorseName>
+<HorseYob>2014</HorseYob>
+<HorseSex>G</HorseSex>
+<DamName>Dam Name 3</DamName>
+<DamDamName>2nd Dam Horse 3</DamDamName>
+<SireName>Sire 3</SireName>
+<OfficialPosition>3</OfficialPosition>
+<RaceNumber>10</RaceNumber>
+<RaceType>CLM</RaceType>
+<Grade></Grade>
+<RaceDate>20200701</RaceDate>
+<TrackName>SANTA ANITA</TrackName>
+<UpdPosition>1</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$1,760</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink> 
+</Update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

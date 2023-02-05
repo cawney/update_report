@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>444</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Varton</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  VARUS, by Vicar. Unraced. Half-sister to **Cape Good Hope** ($228,611, 3rd Dover S. [L] (DEL, $11,000), etc.). Dam of 14 foals, 12 to race, 10 winners--
+update on line 39: +    Varton (2018 f. by Tonalist). 5 wins at 3 and 4, 2022, $114,167.
+Dam is in line 34:   VARUS, by Vicar. Unraced. Half-sister to **Cape Good Hope** ($228,611, 3rd Dover S. [L] (DEL, $11,000), etc.). Dam of 14 foals, 12 to race, 10 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

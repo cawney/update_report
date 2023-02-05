@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>369</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  SECRET CANDY, by Candy Ride (ARG). Unraced. Half-sister to **You Missed It** ($106,860, 2nd Providencia S. **[G3]** (SA, $30,000), etc.). Dam of 3 foals, 1 to race--
+update on line 37: +    Unnamed (2022 f. by Collected). See above.
+Dam is in line 34:   SECRET CANDY, by Candy Ride (ARG). Unraced. Half-sister to **You Missed It** ($106,860, 2nd Providencia S. **[G3]** (SA, $30,000), etc.). Dam of 3 foals, 1 to race--
+		<hip>369</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>High Treason</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  SECRET OF THE SEA, by Storm Cat. Unplaced in 2 starts, $2,682. Dam of 8 foals, 5 to race, 2 winners--
+update on line 59: +    High Treason (2019 f. by Connect). Placed at 3, 2022, $29,597, in Canada. (Total: $22,604).
+Dam is in line 41:   SECRET OF THE SEA, by Storm Cat. Unplaced in 2 starts, $2,682. Dam of 8 foals, 5 to race, 2 winners--
+		<hip>369</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  SECRET OF THE SEA, by Storm Cat. Unplaced in 2 starts, $2,682. Dam of 8 foals, 5 to race, 2 winners--
+update on line 64: +    Unnamed (2022 f. by Danish Dynaformer).
+Dam is in line 41:   SECRET OF THE SEA, by Storm Cat. Unplaced in 2 starts, $2,682. Dam of 8 foals, 5 to race, 2 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

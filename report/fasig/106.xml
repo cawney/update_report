@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>106</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Byzantine</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  **CRISTINA'S JOURNEY**, by Any Given Saturday. 2 wins at 2, $171,768, 1st Pocahontas S. **[G2]** (CD, $136,059). Dam of 5 foals, 3 to race, 1 winner--
+update on line 36: +    Byzantine (2019 f. by Pioneerof the Nile). Winner at 3, 2022, $53,243.
+Dam is in line 33:   **CRISTINA'S JOURNEY**, by Any Given Saturday. 2 wins at 2, $171,768, 1st Pocahontas S. **[G2]** (CD, $136,059). Dam of 5 foals, 3 to race, 1 winner--
+		<hip>106</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Abbey Cakes</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  **CRISTINA'S JOURNEY**, by Any Given Saturday. 2 wins at 2, $171,768, 1st Pocahontas S. **[G2]** (CD, $136,059). Dam of 5 foals, 3 to race, 1 winner--
+update on line 38: +    Abbey Cakes (2020 f. by Carpe Diem). Placed in 2 starts at 3, 2023, $3,000.
+Dam is in line 33:   **CRISTINA'S JOURNEY**, by Any Given Saturday. 2 wins at 2, $171,768, 1st Pocahontas S. **[G2]** (CD, $136,059). Dam of 5 foals, 3 to race, 1 winner--
+		<hip>106</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Audio</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  **CRISTINA'S JOURNEY**, by Any Given Saturday. 2 wins at 2, $171,768, 1st Pocahontas S. **[G2]** (CD, $136,059). Dam of 5 foals, 3 to race, 1 winner--
+update on line 41: +    Audio (2021 c. by Audible). Unraced.
+Dam is in line 33:   **CRISTINA'S JOURNEY**, by Any Given Saturday. 2 wins at 2, $171,768, 1st Pocahontas S. **[G2]** (CD, $136,059). Dam of 5 foals, 3 to race, 1 winner--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>450</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Friend</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  FRIENDLY LIVI, by Friendly Island. Unraced. Half-sister to **BALTO STAR** ($2,363,780, 1st United Nations H. **[G1]** (MTH, $450,000), etc.). Dam of 5 foals, 3 to race, 2 winners--
+update on line 42: +    Friend (2019 f. by Klimt). Winner at 3, 2022, $37,805.
+Dam is in line 38:   FRIENDLY LIVI, by Friendly Island. Unraced. Half-sister to **BALTO STAR** ($2,363,780, 1st United Nations H. **[G1]** (MTH, $450,000), etc.). Dam of 5 foals, 3 to race, 2 winners--
+		<hip>450</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Louie's Luck</HorseName>
+		<HorseYOB>2001 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  MISS LIVI, by Devil's Bag. Unraced. Died 2013. Dam of 11 foals, 6 to race, 5 winners--
+update on line 101: +    Louie's Luck (2001 g. by El Prado (IRE)). Unplaced, $1,185.RACE RECORD for Washita: Unraced.PRODUCE RECORD for Washita:2020 Runway Run Away, g. by Run Away and Hide. Winner at 2, 2022, $18,944.2021 Sittin On a Beach, f. by Dorrance. Unraced.2022 Bred to Brody's Cause.2023 Bred to Kantharos.
+Dam is in line 48:   MISS LIVI, by Devil's Bag. Unraced. Died 2013. Dam of 11 foals, 6 to race, 5 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

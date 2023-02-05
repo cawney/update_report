@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>205</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Klimt Ride</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  HONEYED, by Candy Ride (ARG). Placed at 4, $10,295. Half-sister to **Willow Place** ($194,623, 2nd Junior Champion S. (MTH, $8,550), etc.), **Sword Chief** ($133,387, 2nd Roman Brother S.-R (CRC, $10,000)). Dam of 5 foals, 2 to race, 1 winner--
+update on line 38: +    Klimt Ride (2019 g. by Klimt). Placed at 3, 2022, $15,150.
+Dam is in line 34:   HONEYED, by Candy Ride (ARG). Placed at 4, $10,295. Half-sister to **Willow Place** ($194,623, 2nd Junior Champion S. (MTH, $8,550), etc.), **Sword Chief** ($133,387, 2nd Roman Brother S.-R (CRC, $10,000)). Dam of 5 foals, 2 to race, 1 winner--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>67</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  THE TRICKS ON ME, by Favorite Trick. Unraced. Dam of 7 foals, 7 to race, 7 winners--
+update on line 90: +    Unnamed (2010 f. by Simon Pure). (application cancelled)RACE RECORD for Canadian Sunset: At 2, unraced; at 3, unplaced; at 4, unplaced in 1 start. Earned $7,266PRODUCE RECORD for Canadian Sunset:2021 Unnamed, c. by Paynter.2022 Unnamed, c. by Instagrand.2023 Bred to Instagrand.
+Dam is in line 60:   THE TRICKS ON ME, by Favorite Trick. Unraced. Dam of 7 foals, 7 to race, 7 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

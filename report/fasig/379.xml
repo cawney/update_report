@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>379</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Advection</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  LETHAL HUNTER, by Jade Hunter. Unraced. Half-sister to **LETHAL HEAT** ($655,988, 1st Hollywood Oaks **[G2]** (HOL, $94,560), etc.), **PREVALENT** ($61,760, 1st Meafara S. (HAW, $25,680)). Dam of 11 foals, 6 to race, 4 winners--
+update on line 63: +    Advection (2011 f. by Unusual Heat). Unplaced in 1 start, $250. Dam of 3 foals, 3 to race, 1 winner--
+Dam is in line 34:   LETHAL HUNTER, by Jade Hunter. Unraced. Half-sister to **LETHAL HEAT** ($655,988, 1st Hollywood Oaks **[G2]** (HOL, $94,560), etc.), **PREVALENT** ($61,760, 1st Meafara S. (HAW, $25,680)). Dam of 11 foals, 6 to race, 4 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

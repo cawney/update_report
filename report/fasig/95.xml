@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>95</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  CLEVER GRETEL, by Bluegrass Cat. 2 wins at 3, $32,406. Dam of 7 foals, 2 to race, 1 winner--
+update on line 41: +    Unnamed (2022 c. by Shagaf). See above.
+Dam is in line 37:   CLEVER GRETEL, by Bluegrass Cat. 2 wins at 3, $32,406. Dam of 7 foals, 2 to race, 1 winner--
+		<hip>95</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Go Muneca</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  CLEVER GRETEL, by Bluegrass Cat. 2 wins at 3, $32,406. Dam of 7 foals, 2 to race, 1 winner--
+update on line 43: +    Go Muneca (2021 f. by Greeley's Conquest). Unraced.
+Dam is in line 37:   CLEVER GRETEL, by Bluegrass Cat. 2 wins at 3, $32,406. Dam of 7 foals, 2 to race, 1 winner--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

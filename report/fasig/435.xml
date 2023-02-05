@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>435</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Mast Threat</HorseName>
+		<HorseYOB>2004 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  BOLD THREAT, by Bold Ruckus. Winner at 2, $28,212. Sent from United States to Argentina in 1995. Returned to United States from Argentina in 1998. Half-sister to **Exotic Stranger** ($46,943, 3rd Miss Liberty S. [L] (MED, $5,000)). Dam of 11 foals, 9 to race, 5 winners--
+update on line 139: +    Mast Threat (2004 g. by Mizzen Mast). Unplaced, $5,050, in Canada. (Total: $4,771).RACE RECORD for Twisted Adage: At 2, unraced; at 3, unraced; at 4, once 3rd; at 3, once 2nd. Earned $12,198PRODUCE RECORD for Twisted Adage:2020 Golden Adage, c. by Goldencents. Unraced.2021 Vinos Angel, f. by Vino Rosso. Unraced.2022 Unnamed, c. by Mendelssohn.2023 Bred to Mitole.
+Dam is in line 47:   BOLD THREAT, by Bold Ruckus. Winner at 2, $28,212. Sent from United States to Argentina in 1995. Returned to United States from Argentina in 1998. Half-sister to **Exotic Stranger** ($46,943, 3rd Miss Liberty S. [L] (MED, $5,000)). Dam of 11 foals, 9 to race, 5 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

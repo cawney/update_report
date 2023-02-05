@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>183</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Smart Aegis</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  THAT'S HOT, by Seeking the Gold. Unraced. Sent from United States to Brazil in 2008. Returned to United States from Brazil in 2013. Dam of 10 foals, 7 to race, 4 winners--
+update on line 48: +    Smart Aegis (2016 c. by Animal Kingdom). 6 wins in 12 starts, 4 to 6, placed at 7, 2023, 6,049,000 Yen, in Japan. Sent from United States to Japan in 2017. (Total: $48,909).
+Dam is in line 44:   THAT'S HOT, by Seeking the Gold. Unraced. Sent from United States to Brazil in 2008. Returned to United States from Brazil in 2013. Dam of 10 foals, 7 to race, 4 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

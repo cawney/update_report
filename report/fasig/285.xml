@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>285</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Money Works</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  MONEYBRU, by Talk Is Money. 2 wins at 2, $32,100. Half-sister to **SUNI** (Total: $5,430,749, 1st JBC Sprint [LR] twice, etc.), **Meredith Bee** ($145,613, 2nd Manatee S. (TAM, $10,000)). Dam of 8 foals, 5 to race, 5 winners--
+update on line 47: +    Money Works (2021 f. by Outwork). Unraced.
+Dam is in line 34:   MONEYBRU, by Talk Is Money. 2 wins at 2, $32,100. Half-sister to **SUNI** (Total: $5,430,749, 1st JBC Sprint [LR] twice, etc.), **Meredith Bee** ($145,613, 2nd Manatee S. (TAM, $10,000)). Dam of 8 foals, 5 to race, 5 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

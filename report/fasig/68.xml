@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>68</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Avant</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  ENTH, by Seeking the Gold. Winner at 2, $30,135. Half-sister to **CEASE** ($714,937, 1st Maxxam Gold Cup H. [L] (HOU, $90,000), etc.), **TOTAL** ($155,703, 1st Letellier Memorial S. [L] (FG, $45,000), etc.), **Barrier** ($94,626, 2nd Kentucky Breeders' Cup S. **[G3]**, etc.). Dam of 11 foals, 9 to race, 7 winners--
+update on line 49: +    Avant (2020 f. by Uncle Mo). Placed at 3, 2023, $15,330.
+Dam is in line 37:   ENTH, by Seeking the Gold. Winner at 2, $30,135. Half-sister to **CEASE** ($714,937, 1st Maxxam Gold Cup H. [L] (HOU, $90,000), etc.), **TOTAL** ($155,703, 1st Letellier Memorial S. [L] (FG, $45,000), etc.), **Barrier** ($94,626, 2nd Kentucky Breeders' Cup S. **[G3]**, etc.). Dam of 11 foals, 9 to race, 7 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

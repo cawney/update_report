@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>275</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Guaguarero</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  MISS DEL GALLO, by Hennessy. 6 wins, 3 to 5, $95,633. Half-sister to **ASPEN HILL** ($103,040, 1st Sun City H. (TUP, $24,000), etc.). Dam of 9 foals, 4 to race, 2 winners--
+update on line 56: +    Guaguarero (2021 c. by Mo Town). Unraced.
+Dam is in line 34:   MISS DEL GALLO, by Hennessy. 6 wins, 3 to 5, $95,633. Half-sister to **ASPEN HILL** ($103,040, 1st Sun City H. (TUP, $24,000), etc.). Dam of 9 foals, 4 to race, 2 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

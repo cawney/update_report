@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>570</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Bring the Mountain</HorseName>
+		<HorseYOB>2005 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  GONE TO UTAH, by Salt Lake. Winner at 3 and 4, $40,958. Died 2018. Half-sister to **QUE PASO** ($354,064, 1st Unbridled H. [L] (LAD, $45,000), etc.). Dam of 10 foals, 8 to race, 8 winners--
+update on line 55: +    Bring the Mountain (2005 g. by Bop). Unraced.RACE RECORD for Cerchi: At 2, 2022, twice 2nd in 2 starts. Earned $16,800
+Dam is in line 41:   GONE TO UTAH, by Salt Lake. Winner at 3 and 4, $40,958. Died 2018. Half-sister to **QUE PASO** ($354,064, 1st Unbridled H. [L] (LAD, $45,000), etc.). Dam of 10 foals, 8 to race, 8 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

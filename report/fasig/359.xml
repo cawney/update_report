@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+<hip>359</hip>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+update on line 36: + RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to **Ninth Client** ($242,485, 3rd Woodford Reserve Bourbon S. **[G3]** (KEE, $20,000)). Dam of 6 foals, 4 to race, 4 winners--
+		<hip>359</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Inspeightoftrainer</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>g</HorseSex>
++ RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to **Ninth Client** ($242,485, 3rd Woodford Reserve Bourbon S. **[G3]** (KEE, $20,000)). Dam of 6 foals, 4 to race, 4 winners--
+update on line 39: +    Inspeightoftrainer (2020 g. by Speightster). Winner at 2, placed at 3, 2023, $83,770.
+Dam is in line 36: + RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to **Ninth Client** ($242,485, 3rd Woodford Reserve Bourbon S. **[G3]** (KEE, $20,000)). Dam of 6 foals, 4 to race, 4 winners--
+		<hip>359</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Formal Order</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
++ RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to **Ninth Client** ($242,485, 3rd Woodford Reserve Bourbon S. **[G3]** (KEE, $20,000)). Dam of 6 foals, 4 to race, 4 winners--
+update on line 43: +    Formal Order (2019 c. by Strong Mandate). Winner at 2 and 3, 2022, $62,420.
+Dam is in line 36: + RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to **Ninth Client** ($242,485, 3rd Woodford Reserve Bourbon S. **[G3]** (KEE, $20,000)). Dam of 6 foals, 4 to race, 4 winners--
+		<hip>359</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
++ RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to **Ninth Client** ($242,485, 3rd Woodford Reserve Bourbon S. **[G3]** (KEE, $20,000)). Dam of 6 foals, 4 to race, 4 winners--
+update on line 48: +    Unnamed (2022 f. by Yorkton). See above.
+Dam is in line 36: + RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to **Ninth Client** ($242,485, 3rd Woodford Reserve Bourbon S. **[G3]** (KEE, $20,000)). Dam of 6 foals, 4 to race, 4 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+<hip>322</hip>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+update on line 40: + BEAUTIFUL GIRL, by Malibu Moon. Unraced. Dam of 6 foals, 3 to race, 2 winners--
+		<hip>322</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Tekila</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
++ BEAUTIFUL GIRL, by Malibu Moon. Unraced. Dam of 6 foals, 3 to race, 2 winners--
+update on line 45: +    Tekila (2018 f. by Liam's Map). Winner at 5, 2023, $105,020.
+Dam is in line 40: + BEAUTIFUL GIRL, by Malibu Moon. Unraced. Dam of 6 foals, 3 to race, 2 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>510</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sally Ride</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  SEEINSBELIEVEN, by Carson City. Winner at 2 and 4, $90,154. Half-sister to **SOFTLY** ($373,783, 1st Churchill Downs Distaff H. **[G2]** (CD, $138,632), etc.), **CORAGIL CAT** ($247,476, 1st Hanshin Cup H. **[G3]** (AP, $58,200), etc.), **Spring Eclipse** ($48,062, 3rd Tiznow Kentucky Cup Juvenile Fillies S. [L] (TP, $9,700)). Dam of 8 foals, 5 to race, 2 winners--
+update on line 76: +    Sally Ride (2012 f. by Tapit). See above.RACE RECORD for Unnamed: Unraced.
+Dam is in line 41:   SEEINSBELIEVEN, by Carson City. Winner at 2 and 4, $90,154. Half-sister to **SOFTLY** ($373,783, 1st Churchill Downs Distaff H. **[G2]** (CD, $138,632), etc.), **CORAGIL CAT** ($247,476, 1st Hanshin Cup H. **[G3]** (AP, $58,200), etc.), **Spring Eclipse** ($48,062, 3rd Tiznow Kentucky Cup Juvenile Fillies S. [L] (TP, $9,700)). Dam of 8 foals, 5 to race, 2 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

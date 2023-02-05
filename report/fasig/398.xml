@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>398</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Fornasetti</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  **Spinnette (IRE)**, by Spinning World. Winner at 3, 32,092 Pounds, in England, 2nd Tattersalls Musidora S. **[G3]**, E.B.F. Montrose Fillies S. [L], 3rd Peugeot Sun Chariot S. **[G2]**. Sent from Ireland to United States in 2005. (Total: $48,337). Half-sister to **NAISSANCE ROYALE (IRE)** (Total: $740,213, 1st Nassau S. **[G2]** (WO, $180,000), etc.). Dam of 11 foals, 5 to race, 5 winners--
+update on line 92: +    Fornasetti (2009 c. by Gone West). Unraced.RACE RECORD for Spin Munnings: Unraced.
+Dam is in line 61:   **Spinnette (IRE)**, by Spinning World. Winner at 3, 32,092 Pounds, in England, 2nd Tattersalls Musidora S. **[G3]**, E.B.F. Montrose Fillies S. [L], 3rd Peugeot Sun Chariot S. **[G2]**. Sent from Ireland to United States in 2005. (Total: $48,337). Half-sister to **NAISSANCE ROYALE (IRE)** (Total: $740,213, 1st Nassau S. **[G2]** (WO, $180,000), etc.). Dam of 11 foals, 5 to race, 5 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

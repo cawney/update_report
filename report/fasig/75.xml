@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>75</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sunandsea</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, $106,951, 1st Go for Wand S. (DEL, $26,520), 2nd Peach Blossom S. (DEL, $10,000), 3rd Miss Preakness S. [L] (PIM, $9,119), Our Mims S. (DEL, $4,950). Half-sister to **Oh Summer** ($160,570, 2nd Skipat S. [L] (LRL, $15,780), etc.). Dam of 11 foals, 9 to race, 7 winners--
+update on line 68: +    Sunandsea (2010 f. by Henny Hughes). 3 wins at 4, $45,153. Dam of 7 foals, 3 to race, 2 winners--
+Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, $106,951, 1st Go for Wand S. (DEL, $26,520), 2nd Peach Blossom S. (DEL, $10,000), 3rd Miss Preakness S. [L] (PIM, $9,119), Our Mims S. (DEL, $4,950). Half-sister to **Oh Summer** ($160,570, 2nd Skipat S. [L] (LRL, $15,780), etc.). Dam of 11 foals, 9 to race, 7 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

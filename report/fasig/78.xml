@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>78</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Recall and Reload</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  CHAINSMOKNSUPRMODL, by Super Saver. Winner at 3, $36,410. Half-sister to **GREELEY'S GALAXY** ($446,222, 1st Illinois Derby **[G2]** (HAW, $300,000), etc., sire). Dam of 4 foals, 3 to race, 3 winners--
+update on line 38: +    Recall and Reload (2019 c. by Tapizar). Winner in 3 starts at 3 and 4, 2023, $83,900.
+Dam is in line 34:   CHAINSMOKNSUPRMODL, by Super Saver. Winner at 3, $36,410. Half-sister to **GREELEY'S GALAXY** ($446,222, 1st Illinois Derby **[G2]** (HAW, $300,000), etc., sire). Dam of 4 foals, 3 to race, 3 winners--
+		<hip>78</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  CHAINSMOKNSUPRMODL, by Super Saver. Winner at 3, $36,410. Half-sister to **GREELEY'S GALAXY** ($446,222, 1st Illinois Derby **[G2]** (HAW, $300,000), etc., sire). Dam of 4 foals, 3 to race, 3 winners--
+update on line 43: +    Unnamed (2022 f. by Collected). See above.
+Dam is in line 34:   CHAINSMOKNSUPRMODL, by Super Saver. Winner at 3, $36,410. Half-sister to **GREELEY'S GALAXY** ($446,222, 1st Illinois Derby **[G2]** (HAW, $300,000), etc., sire). Dam of 4 foals, 3 to race, 3 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>540</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Monomoy</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  BINAVICAR, by Vicar. Winner at 2, $6,305. Half-sister to **Smokin' Legend** ($149,664, 3rd Borderland Derby [L] (SUN, $10,000), etc.), **Bonnano** (2nd Clasico Celestino Carbonell [L]). Dam of 9 foals, 9 to race, 9 winners--
+update on line 60: +    Monomoy (2011 c. by Bernardini). Winner in 1 start at 3, $8,250.RACE RECORD for Aunt Mischief: At 2, 2022, unplaced. Earned $4,785
+Dam is in line 40:   BINAVICAR, by Vicar. Winner at 2, $6,305. Half-sister to **Smokin' Legend** ($149,664, 3rd Borderland Derby [L] (SUN, $10,000), etc.), **Bonnano** (2nd Clasico Celestino Carbonell [L]). Dam of 9 foals, 9 to race, 9 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

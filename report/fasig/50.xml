@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+<hip>50</hip>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+update on line 36: + **America's Blossom**, by Quiet American. 5 wins, 3 to 5, $185,502, 2nd Peach of It H.-R (HAW, $17,110), 3rd Peach of It H.-R (HAW, $12,254). Dam of 7 foals, 5 to race, 4 winners--
+		<hip>50</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Atta Alghali</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>g</HorseSex>
++ **America's Blossom**, by Quiet American. 5 wins, 3 to 5, $185,502, 2nd Peach of It H.-R (HAW, $17,110), 3rd Peach of It H.-R (HAW, $12,254). Dam of 7 foals, 5 to race, 4 winners--
+update on line 43: +    Atta Alghali (2020 c. by Karakontie (JPN)). Winner at 2, placed at 3, 2023, 110,500 Riyals, in Saudi Arabia. Sent from United States to Ireland in 2021. (Total: $29,467).
+Dam is in line 36: + **America's Blossom**, by Quiet American. 5 wins, 3 to 5, $185,502, 2nd Peach of It H.-R (HAW, $17,110), 3rd Peach of It H.-R (HAW, $12,254). Dam of 7 foals, 5 to race, 4 winners--
+		<hip>50</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>All American Rose</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
++ **America's Blossom**, by Quiet American. 5 wins, 3 to 5, $185,502, 2nd Peach of It H.-R (HAW, $17,110), 3rd Peach of It H.-R (HAW, $12,254). Dam of 7 foals, 5 to race, 4 winners--
+update on line 46: +    All American Rose (2021 f. by Karakontie (JPN)). Unraced.
+Dam is in line 36: + **America's Blossom**, by Quiet American. 5 wins, 3 to 5, $185,502, 2nd Peach of It H.-R (HAW, $17,110), 3rd Peach of It H.-R (HAW, $12,254). Dam of 7 foals, 5 to race, 4 winners--
+		<hip>50</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Bud</HorseName>
+		<HorseYOB>2003 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  RUNAWAY ROSY, by Runaway Groom. 4 wins at 3 and 4, $58,210. Died 2010. Half-sister to **BLACK GIANT** (1st Clasico Independencia de Panama [LR], etc.). Dam of 5 foals, 5 to race, 3 winners--
+update on line 63: +    Bud (2003 g. by You and I). Unplaced.RACE RECORD for Blossom Road: At 2, unraced; at 3, unraced; at 4, 2022, once 3rd; at 2, one win; at 3, one win, once 2nd, . Totals: 2 wins, once 2nd, once 3rd. Earned $70,2692019 no report received.2020 no report received.2021 no report received.2022 no report received.2023 no report received.
+Dam is in line 52:   RUNAWAY ROSY, by Runaway Groom. 4 wins at 3 and 4, $58,210. Died 2010. Half-sister to **BLACK GIANT** (1st Clasico Independencia de Panama [LR], etc.). Dam of 5 foals, 5 to race, 3 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

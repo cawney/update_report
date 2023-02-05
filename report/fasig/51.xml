@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>51</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Entranced</HorseName>
+		<HorseYOB>2007 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  FAST AND EARLY, by Carson City. Winner at 2, $36,870. Half-sister to **NATURAL SELECTION** ($477,310, 1st Illinois Derby **[G2]**, etc., sire). Dam of 13 foals, 9 to race, 6 winners--
+update on line 54: +    Entranced (2007 f. by Ghostzapper). Winner at 3, $32,590, in N.A./U.S.; placed at 2, $7,400, in Canada. Sent from United States to Argentina in 2011. (Total: $39,369). Dam of 10 foals, 4 to race, 4 winners--
+Dam is in line 38:   FAST AND EARLY, by Carson City. Winner at 2, $36,870. Half-sister to **NATURAL SELECTION** ($477,310, 1st Illinois Derby **[G2]**, etc., sire). Dam of 13 foals, 9 to race, 6 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

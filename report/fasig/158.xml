@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>158</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Young Blood</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  **November Slew**, by Seattle Slew. 3 wins at 2 and 3, $134,245, 2nd Sorrento S. **[G2]**. Sent from United States to Japan in 2004. Dam of 14 foals, 11 to race, 8 winners--
+update on line 50: +    =Young Blood (JPN) (2017 f. by =To the World (JPN)). 2 wins at 4, placed at 5, 2022, 13,824,000 Yen, in Japan. (Total: $125,600).
+Dam is in line 42:   **November Slew**, by Seattle Slew. 3 wins at 2 and 3, $134,245, 2nd Sorrento S. **[G2]**. Sent from United States to Japan in 2004. Dam of 14 foals, 11 to race, 8 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

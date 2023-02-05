@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>42</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**HA HA TONKA**</HorseName>
+		<HorseYOB>2007 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  GATA BELLA, by Storm Cat. Placed at 3, $10,360. Half-sister to **ZAPPER BELLE** ($144,586, 1st Pago Hop S. (FG, $45,000), etc.). Dam of 11 foals, 9 to race, 6 winners--
+update on line 40: +    **HA HA TONKA** (2007 f. by Distorted Humor). 4 wins in 7 starts at 4, $156,400, 1st Prairie Rose S. (PRM, $36,000), 2nd Saylorville S. [L] (PRM, $20,000). Sent from United States to India in 2018. Dam of 7 foals, 3 to race, 3 winners--
+Dam is in line 36:   GATA BELLA, by Storm Cat. Placed at 3, $10,360. Half-sister to **ZAPPER BELLE** ($144,586, 1st Pago Hop S. (FG, $45,000), etc.). Dam of 11 foals, 9 to race, 6 winners--
+		<hip>42</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>My Tara Bella</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  GATA BELLA, by Storm Cat. Placed at 3, $10,360. Half-sister to **ZAPPER BELLE** ($144,586, 1st Pago Hop S. (FG, $45,000), etc.). Dam of 11 foals, 9 to race, 6 winners--
+update on line 58: +    My Tara Bella (2008 f. by Elusive Quality). Winner at 3, $30,893. Dam of 6 foals, 3 to race, 1 winner--
+Dam is in line 36:   GATA BELLA, by Storm Cat. Placed at 3, $10,360. Half-sister to **ZAPPER BELLE** ($144,586, 1st Pago Hop S. (FG, $45,000), etc.). Dam of 11 foals, 9 to race, 6 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

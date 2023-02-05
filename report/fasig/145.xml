@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>145</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Electric Cowgirl</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  EVENING PRINCESS, by Monarchos. Unraced. Half-sister to **GREAT NOTION** ($194,608, 1st Southwest S. [L] (OP, $45,000), etc., sire), **Chester Le Street** (Total: $24,401, 2nd Weatherbys Superlative S. **[G3]**). Dam of 10 foals, 8 to race, 7 winners--
+update on line 45: +    Electric Cowgirl (2013 f. by Cowboy Cal). 4 wins at 3 and 5, $70,719, in N.A./U.S.; 2 wins at 3, $39,448, in Canada. (Total: $101,315). Dam of 2 foals, 1 to race--
+Dam is in line 34:   EVENING PRINCESS, by Monarchos. Unraced. Half-sister to **GREAT NOTION** ($194,608, 1st Southwest S. [L] (OP, $45,000), etc., sire), **Chester Le Street** (Total: $24,401, 2nd Weatherbys Superlative S. **[G3]**). Dam of 10 foals, 8 to race, 7 winners--
+		<hip>145</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  EVENING PRINCESS, by Monarchos. Unraced. Half-sister to **GREAT NOTION** ($194,608, 1st Southwest S. [L] (OP, $45,000), etc., sire), **Chester Le Street** (Total: $24,401, 2nd Weatherbys Superlative S. **[G3]**). Dam of 10 foals, 8 to race, 7 winners--
+update on line 57: +    Unnamed (2022 f. by Lord Nelson). See above.
+Dam is in line 34:   EVENING PRINCESS, by Monarchos. Unraced. Half-sister to **GREAT NOTION** ($194,608, 1st Southwest S. [L] (OP, $45,000), etc., sire), **Chester Le Street** (Total: $24,401, 2nd Weatherbys Superlative S. **[G3]**). Dam of 10 foals, 8 to race, 7 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

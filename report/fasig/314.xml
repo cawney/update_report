@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>314</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  OUTRAGEOUS MISS, by Bernardini. Unraced. Dam of 2 foals--
+update on line 37: +    Unnamed (2022 c. by Outwork). See above.
+Dam is in line 34:   OUTRAGEOUS MISS, by Bernardini. Unraced. Dam of 2 foals--
+		<hip>314</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Outrageously</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  OUTRAGEOUS MISS, by Bernardini. Unraced. Dam of 2 foals--
+update on line 39: +    Outrageously (2021 f. by Practical Joke). Unraced.
+Dam is in line 34:   OUTRAGEOUS MISS, by Bernardini. Unraced. Dam of 2 foals--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

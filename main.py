@@ -21,6 +21,8 @@ def main():
     three_dam_re = re.compile(r'3rd dam\n') # Gets the third dam
     sex_sire_re = re.compile(r'\(\d{4}\s') # Gets the sex and sire (technically gets the YOB, but it's the same thing)
     race_record_re = re.compile(r'RACE RECORD') # Gets the race record
+    re_yob = re.compile(r"(?!\()\d{4}\s") # Gets the YOB
+    re_sex = re.compile(r"(?!by\s)([fcgr])")
 
     ############################################################
     # Paths
@@ -196,7 +198,7 @@ def main():
         f = open(original, "r")
         f2 = open(update, "r")
         f3 = open(report, 'w')
-        f4 = open(f"{p_report}/{hip}.html", 'w')
+        f4 = open(f"{p_report}/pp/{hip}.html", 'w')
         flines = f.readlines()
         flines2 = f2.readlines()
         diff = difflib.ndiff(flines, flines2) #, fromfile=f"{original}", tofile=f"{update}"
@@ -221,12 +223,16 @@ def main():
         lines = f.readlines()
         # Regex for junk spaces:
         re_junk = re.compile(r'(?!^)(\s{3}\.?([\s\.])*)')
+        # re_unnamed = re.compile(r'Unnamed')
+        # re_unraced = re.compile(r'Unraced\.$')
         for line in lines:
             if re_junk.search(line):
                 # print("Found junk")
                 line = re.sub(re_junk, ' ', line)
                 f2.writelines(line)
-            # elif line == re.match(r'\n', line):
+            # elif re_unnamed.search(line):
+            #     pass
+            # elif re_unraced.search(line):
             #     pass
             else:
                 f2.writelines(line)
@@ -275,7 +281,7 @@ def main():
         f2 = open(f"{p_report}/hip{horse}.xml", 'w')
         lines = f.readlines()
         i = 0
-        f2.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<FasigTiptonSalesServices>\n<Service>saleUpdates</Service>\n<FasigTiptonUpdates>\n<Update>")
+        f2.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<FasigTiptonSalesServices>\n<Service>saleUpdates</Service>\n<FasigTiptonUpdates>\n\t<Update>\n")
         for line in lines:
             if i <= 1:
                 pass
@@ -289,19 +295,142 @@ def main():
     def get_updates(file_name, horse):
         """reads through a file and finds the lines that starts with a + and then prints them"""
         f = open(f"{file_name}", 'r')
-        f2 = open(f"{p_report}/{horse}.xml", 'w')
+        f2 = open(f"{p_report}/fasig/{horse}.xml", 'w')
         lines = f.readlines()
+        f.close()
+        gen1 = get_generation(file_name)[0]
+        gen2 = get_generation(file_name)[1]
+        gen3 = get_generation(file_name)[2]
+        gen4 = get_generation(file_name)[3]
+
         i = 0
+        n = 0
+        
+        print("Starting on horse\n", horse)
+        f2.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<FasigTiptonSalesServices>\n<Service>saleUpdates</Service>\n<FasigTiptonUpdates>\n\t<Update>\n")
         for line in lines:
             if i <= 1:
                 pass
             elif line.startswith('-'):
                 pass
             elif line.startswith('+'):
-                f2.write(line)
+                if i in gen1:
+                    print("update in Gen1")
+                    print(f"Line {i}, and line: {line}")
+                    f2.write(f"<hip>{horse}</hip>\n")
+                    f2.write("<SaleEntryCode>PH23</SaleEntryCode>\n<SaleCode>FTFEB</SaleCode>\n<SaleName>FT FEB MIXED 21</SaleName>\n")
+                    f2.writelines(f"update on line {i}: {line}")
+                elif i in gen2:
+                    print("update in Gen2")
+                    print(f"Line {i}, and line: {line}")
+                    # print(f"The dam is in this line: {lines[get_closest(i, gen1)]}")
+                    f2.write(f"\t\t<hip>{horse}</hip>\n")
+                    f2.write("\t\t<SaleEntryCode>PH23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")
+                    f2.write(f"\t\t<HorseName>{get_names(line, 2)}</HorseName>\n")
+                    f2.write(f"\t\t<HorseYOB>{get_substring(line, re_yob)}</HorseYOB>\n")
+                    f2.write(f"\t\t<HorseSex>{get_substring(line, re_sex)}</HorseSex>\n")
+                    f2.write(f"{lines[get_closest(i, gen1)]}")
+                    f2.write(f"\t\t<DamName>{get_names(lines[get_closest(i, gen1)], 1)}</DamName>\n")
+                    f2.writelines(f"update on line {i}: {line}")
+                    f2.writelines(f"Dam is in line {get_closest(i, gen1)}: {lines[get_closest(i, gen1)]}")
+                elif i in gen3:
+                    print("update in Gen3")
+                    print(f"Line {i}, and line: {line}")
+                    print(f"The dam is in this line: {lines[get_closest(i, gen2)]}")
+                elif i in gen4:
+                    print("update in Gen4")
+                    print(f"Line {i}, and line: {line}")
+                    # dam_line = get_closest(i, gen3)
+                    # print(f"The dam is in this line: {dam_line}")
             else:
                 pass
             i += 1
+        f2.write("\t</update>\n</FasigTiptonUpdates>\n</FasigTiptonSalesServices>")
+
+        # file_lines = {}
+
+        # with open(file_name) as f:
+        #     for line_num, line in enumerate(f):
+        #         file_lines[line_num] = line
+        # print("Starting on horse\n", horse)
+
+        # line_numbers = file_lines.keys()
+        
+        # for line_num in file_lines:
+        #     if file_lines[line_num].startswith('+'):
+        #         print("Found a +")
+        #         print(file_lines[line_num])
+        #         print(file_lines.keys())
+        
+        f2.close()
+        n += 1
+
+
+    def get_generation(file_name):
+        """Gets the generation of the horse"""
+        g1 = re.compile(r'^[\s+-]{2}(\w|\*).+?(, by)')
+        g2 = re.compile(r"^[\s+-]{5}([\w\*=])")
+        g3 = re.compile(r"^[\s+-]{5}\.\s{2}[\w\*=]")
+        g4 = re.compile(r"^[\s+-]{5}\.\s{2}\.\s{2}[\w\*=]")
+        f = open(f"{file_name}", 'r')
+        lines = f.readlines()
+        lines_g1 = []
+        lines_g2 = []
+        lines_g3 = []
+        lines_g4 = []
+        for l, line in enumerate(lines):
+            if g1.search(line):
+                lines_g1.append(l)
+            elif g2.search(line):
+                lines_g2.append(l)
+            elif g3.search(line):
+                lines_g3.append(l)
+            elif g4.search(line):
+                lines_g4.append(l)
+            else:
+                pass
+        return lines_g1, lines_g2, lines_g3, lines_g4
+
+
+    def get_closest(k, nums):
+        """Gets the closest number to k in nums"""
+        max_num = 0
+        for num in nums:
+            if num < k and num > max_num:
+                max_num = num
+        return max_num
+
+    def get_names(string, generation):
+        """Gets the names of the horses"""
+        re_gen1 = re.compile(r'(^[\w=]+)(, by)')
+        re_name = re.compile(r'^[\s+]+.*?((\w|=|\*).+?)\s\(')
+        if generation == 1:
+            name = re_gen1.search(string)
+            return name.group(1)
+        else:
+            name = re_name.search(string)
+            return name.group(1)
+
+    def get_substring(string, regex):
+        """Gets the substring from a string"""
+        return regex.search(string).group(0)
+        
+    def drop_useless(file_name, new_file_name):
+        """Drops the useless lines from the file"""
+        f = open(f"{file_name}", 'r')
+        lines = f.readlines()
+        f.close()
+        f = open(f"{new_file_name}", 'w')
+        # Special regex
+        re_unnamed = re.compile(r"Unnamed")
+        re_unnamed_exeption = re.compile(r'Racing in ')
+        for line in lines:
+            if re_unnamed.search(line) and not re_unnamed_exeption.search(line):
+                pass
+            else:
+                f.write(line)
+        
+
 
 ##########################################################################################
 # Main part of the program
@@ -367,9 +496,9 @@ def main():
 
     print("Cleaning up HTML...")
     for horse in zip(source_list, hip_list):
-        with open(f"{p_report}/{horse[1]}.html", 'r') as f:
+        with open(f"{p_report}/pp/{horse[1]}.html", 'r') as f:
             flines = f.readlines()
-        with open(f"{p_report}/{horse[1]}.html", 'w') as f:
+        with open(f"{p_report}/pp/{horse[1]}.html", 'w') as f:
             for line in flines:
                 # [1mCATNIP[22m
                 line = line.replace('[1m', '<strong>')
@@ -385,30 +514,46 @@ def main():
     # for horse in zip(source_list, hip_list):
     #     make_xml(f"{p_report}/{horse[1]}.txt", horse[1])
 
+    print("Making text file markdown...")
+    # This is so I can manipulate the text file to make it look better
+    for horse in zip(source_list, hip_list):
+        with open(f"{p_report}/{horse[1]}.txt", 'r') as f:
+            flines = f.readlines()
+        with open(f"{p_report}/{horse[1]}.txt", 'w') as f:
+            i = 0
+            for line in flines:
+                # [1mCATNIP[22m
+                line = line.replace('[1m', '**')
+                line = line.replace('[22m', '**')
+                if i <= 1:
+                    pass
+                else:
+                    f.writelines(line)
+                i += 1
+
     print("Making an getting updates...")
     for horse in zip(source_list, hip_list):
         get_updates(f"{p_report}/{horse[1]}.txt", horse[1])
 
-    
-    # for horse in os.listdir(p_report):
-    #     with open(f"{p_report}/{horse}", 'r') as f:
-    #         flines = f.readlines()
-    #     with open(f"{p_report}/{horse}", 'w') as f:
-    #         for line in flines:
-    #             # [1mCATNIP[22m
-    #             line = line.replace('[1m', '<strong>')
-    #             line = line.replace('[22m', '</strong>')
-    #             f.writelines(line)
-    # print("Done cleaning the diff")
+    # for horse in zip(source_list, hip_list):
+    #     horse_gen = get_generation(f"{p_report}/{horse[1]}.txt", horse[1])
+        # print(horse[1])
+        # print(horse_gen[0])
+        # print(horse_gen[1])
+        # print(horse_gen[2])
+        # print(horse_gen[3])
     print("Cleaning up...")
     for horse in zip(source_list, hip_list):
         os.remove(f"{p_original}/{horse[0]}_1.txt")
         os.remove(f"{p_original}/{horse[0]}_2.txt")
         os.remove(f"{p_original}/{horse[0]}_3.txt")
         os.remove(f"{p_original}/{horse[0]}_4.txt")
+        os.remove(f"{p_original}/{horse[0]}_5.txt")
         os.remove(f"{p_update}/PH{horse[1].zfill(6)}_1.txt")
         os.remove(f"{p_update}/PH{horse[1].zfill(6)}_2.txt")
         os.remove(f"{p_update}/PH{horse[1].zfill(6)}_3.txt")
+        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_4.txt")
+        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_5.txt")
     # print("Done cleaning up")
 
     print("Done")

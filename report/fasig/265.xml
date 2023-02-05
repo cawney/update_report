@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>265</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Drama Diva</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  JUNKINTHETRUNK, by Top Account. Winner at 3, $20,320. Half-sister to **PLEASANT TANGO** ($281,880, 1st El Cajon S.-R (DMR, $31,375), etc.), **COLONIAL SAGA** ($133,630, 1st Bristol H. (PHA, $22,950), etc.), **EXCLUSIVE STORY** ($50,481, 1st Glade S., etc.). Dam of 12 foals, 8 to race, 7 winners--
+update on line 70: +    Drama Diva (2020 f. by Oscar Performance). Placed at 2, 2022, $8,715.
+Dam is in line 38:   JUNKINTHETRUNK, by Top Account. Winner at 3, $20,320. Half-sister to **PLEASANT TANGO** ($281,880, 1st El Cajon S.-R (DMR, $31,375), etc.), **COLONIAL SAGA** ($133,630, 1st Bristol H. (PHA, $22,950), etc.), **EXCLUSIVE STORY** ($50,481, 1st Glade S., etc.). Dam of 12 foals, 8 to race, 7 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

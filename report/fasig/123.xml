@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>123</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>c</HorseSex>
+  ZEPA, by Theatrical (IRE). Unplaced, $175. Died 2013. Half-sister to **WINGLET** ($155,975, 1st Princess S. **[G2]**, etc.), **DANCE BID** (1st Tetrarch S.**-G3**, etc., sire), **NORTHERN PLAIN** (1st H. M. Hartigan Tetrarch S. **[G3]**, etc., sire), **Jugah** (2nd Ballycorus S. [L], etc., sire), **Wasnah** (2nd Crawley Warren Pretty Polly S. [L]). Dam of 10 foals, 7 to race, 6 winners--
+update on line 91: +    Unnamed (2010 c. by Henny Hughes).RACE RECORD for Dixie Moll: At 2, unraced; at 3, once 3rd; at 4, two wins, once 2nd, twice 3rd; at 5, twice 2nd, twice 3rd; . Totals: 2 wins, 3 times 2nd, 5 times 3rd. Earned $26,0012023 Bred to Modernist.
+Dam is in line 50:   ZEPA, by Theatrical (IRE). Unplaced, $175. Died 2013. Half-sister to **WINGLET** ($155,975, 1st Princess S. **[G2]**, etc.), **DANCE BID** (1st Tetrarch S.**-G3**, etc., sire), **NORTHERN PLAIN** (1st H. M. Hartigan Tetrarch S. **[G3]**, etc., sire), **Jugah** (2nd Ballycorus S. [L], etc., sire), **Wasnah** (2nd Crawley Warren Pretty Polly S. [L]). Dam of 10 foals, 7 to race, 6 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

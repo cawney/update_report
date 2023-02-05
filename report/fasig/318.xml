@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>318</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**First Peace**</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  PEACE OPPORTUNITY, by Point of Entry. Placed in 1 start at 3, $12,000. Half-sister to **Crawl From the Bar** ($132,781, 2nd Clarendon S.-R (WO, $25,000), etc.). Dam of 3 foals, 1 to race, 1 winner--
+update on line 42: +    **First Peace** (2020 c. by Funtastic). Winner at 2, 2022, $81,300, 2nd Eddie Logan S. [L] (SA, $20,000), 3rd Cecil B. DeMille S. **[G3]** (DMR, $12,000).
+Dam is in line 39:   PEACE OPPORTUNITY, by Point of Entry. Placed in 1 start at 3, $12,000. Half-sister to **Crawl From the Bar** ($132,781, 2nd Clarendon S.-R (WO, $25,000), etc.). Dam of 3 foals, 1 to race, 1 winner--
+		<hip>318</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Always Wanting</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  PEACE OPPORTUNITY, by Point of Entry. Placed in 1 start at 3, $12,000. Half-sister to **Crawl From the Bar** ($132,781, 2nd Clarendon S.-R (WO, $25,000), etc.). Dam of 3 foals, 1 to race, 1 winner--
+update on line 46: +    Always Wanting (2021 f. by Always Dreaming). Unraced.
+Dam is in line 39:   PEACE OPPORTUNITY, by Point of Entry. Placed in 1 start at 3, $12,000. Half-sister to **Crawl From the Bar** ($132,781, 2nd Clarendon S.-R (WO, $25,000), etc.). Dam of 3 foals, 1 to race, 1 winner--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

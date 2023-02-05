@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>32</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Overthought</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  AUNT SALLY, by Uncle Mo. Unraced. Half-sister to **EDISON** ($186,647, 1st Canadian Derby **[G3]** (NP, $120,000), sire), **Graceful Heart** ($81,156, 3rd Sunshine Millions Filly and Mare Turf S.-R (GP, $14,250)). Dam of 5 foals, 3 to race, 3 winners--
+update on line 38: +    Overthought (2019 g. by Overanalyze). 3 wins at 3, 2022, $51,235.
+Dam is in line 34:   AUNT SALLY, by Uncle Mo. Unraced. Half-sister to **EDISON** ($186,647, 1st Canadian Derby **[G3]** (NP, $120,000), sire), **Graceful Heart** ($81,156, 3rd Sunshine Millions Filly and Mare Turf S.-R (GP, $14,250)). Dam of 5 foals, 3 to race, 3 winners--
+		<hip>32</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>A Gem Is a Gem</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
+  AUNT SALLY, by Uncle Mo. Unraced. Half-sister to **EDISON** ($186,647, 1st Canadian Derby **[G3]** (NP, $120,000), sire), **Graceful Heart** ($81,156, 3rd Sunshine Millions Filly and Mare Turf S.-R (GP, $14,250)). Dam of 5 foals, 3 to race, 3 winners--
+update on line 42: +    A Gem Is a Gem (2018 g. by Gemologist). Winner at 3 and 4, 2022, $31,661.
+Dam is in line 34:   AUNT SALLY, by Uncle Mo. Unraced. Half-sister to **EDISON** ($186,647, 1st Canadian Derby **[G3]** (NP, $120,000), sire), **Graceful Heart** ($81,156, 3rd Sunshine Millions Filly and Mare Turf S.-R (GP, $14,250)). Dam of 5 foals, 3 to race, 3 winners--
+		<hip>32</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Lt. Commander</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  AUNT SALLY, by Uncle Mo. Unraced. Half-sister to **EDISON** ($186,647, 1st Canadian Derby **[G3]** (NP, $120,000), sire), **Graceful Heart** ($81,156, 3rd Sunshine Millions Filly and Mare Turf S.-R (GP, $14,250)). Dam of 5 foals, 3 to race, 3 winners--
+update on line 46: +    Lt. Commander (2021 c. by Exaggerator). Unraced.
+Dam is in line 34:   AUNT SALLY, by Uncle Mo. Unraced. Half-sister to **EDISON** ($186,647, 1st Canadian Derby **[G3]** (NP, $120,000), sire), **Graceful Heart** ($81,156, 3rd Sunshine Millions Filly and Mare Turf S.-R (GP, $14,250)). Dam of 5 foals, 3 to race, 3 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

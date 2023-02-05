@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>479</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Pittoresca</HorseName>
+		<HorseYOB>2005 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  **TESTA ROSSI (FR)**, by Dr Fong. 3 wins in 5 starts at 2, 42,500 Euro, in France; 3 wins, 2 to 4, $578,878, in N.A./U.S., 1st Miss Grillo S. **[G3]** (BEL, $120,000), Florida Oaks **[G3]** (TAM, $90,000), Lambholm South Endeavour S. **[G3]** (TAM, $90,000), 2nd Breeders' Cup Juvenile Fillies Turf **[G1]** (SA, $180,000), Dr. James Penny Memorial H. **[G3]** (PRX, $40,000), 3rd WinStar Matchmaker S. **[G3]** (MTH, $15,000). Sent from France to United States in 2013. (Total: $634,317). Dam of 5 foals, 3 to race, 2 winners--
+update on line 54: +    =Pittoresca (GB) (2005 f. by Bahhare). Unplaced in France; unplaced in Germany.RACE RECORD for Lemon Red: At 2, unraced; at 3, 2022, unplaced. Earned $2,925
+Dam is in line 34:   **TESTA ROSSI (FR)**, by Dr Fong. 3 wins in 5 starts at 2, 42,500 Euro, in France; 3 wins, 2 to 4, $578,878, in N.A./U.S., 1st Miss Grillo S. **[G3]** (BEL, $120,000), Florida Oaks **[G3]** (TAM, $90,000), Lambholm South Endeavour S. **[G3]** (TAM, $90,000), 2nd Breeders' Cup Juvenile Fillies Turf **[G1]** (SA, $180,000), Dr. James Penny Memorial H. **[G3]** (PRX, $40,000), 3rd WinStar Matchmaker S. **[G3]** (MTH, $15,000). Sent from France to United States in 2013. (Total: $634,317). Dam of 5 foals, 3 to race, 2 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

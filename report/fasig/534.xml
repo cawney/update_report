@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>534</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Amber Light</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+  **LIGHT GREEN**, by Pleasantly Perfect. 3 wins at 3, $167,690, 1st Fall Aspen S.-R (BEL, $39,750), 2nd Prioress S. **[G1]** (BEL, $60,000). Half-sister to **RUN THE LIGHT** ($222,899, 1st Daniel Van Clief S.-R (CNL, $36,000), etc.). Dam of 9 foals, 3 to race, 2 winners--
+update on line 54: +    Amber Light (2018 c. by Creative Cause). Unplaced in 1 start, $2,793, in Canada. (Total: $2,096).RACE RECORD for Silent Sparkle: In Canada. At 2, one win, . Totals: 1 win. Earned  $29,780. In N.A./U.S. At 3, unplaced in 1 start. Earned $400. (Total: $23,088.)PRODUCE RECORD for Silent Sparkle:2022 Unnamed, c. by Mitole.2023 Bred to Shaman Ghost.
+Dam is in line 44:   **LIGHT GREEN**, by Pleasantly Perfect. 3 wins at 3, $167,690, 1st Fall Aspen S.-R (BEL, $39,750), 2nd Prioress S. **[G1]** (BEL, $60,000). Half-sister to **RUN THE LIGHT** ($222,899, 1st Daniel Van Clief S.-R (CNL, $36,000), etc.). Dam of 9 foals, 3 to race, 2 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>

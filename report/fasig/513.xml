@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FasigTiptonSalesServices>
+<Service>saleUpdates</Service>
+<FasigTiptonUpdates>
+	<Update>
+		<hip>513</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Catlanta</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>f</HorseSex>
+  **Catstar**, by Storm Cat. Winner at 2, 20,584 Pounds, in England, 2nd Queen Mary S. **[G3]**; winner in 1 start at 3, 596,987 Dirhams, in United Arab Emirates. Sent from United States to United Arab Emirates in 2002. Returned to United States from Great Britain in 2004. (Total: $197,105). Dam of 8 foals, 6 to race, 5 winners--
+update on line 61: +    Catlanta (2011 f. by Medaglia d'Oro). Unraced. Dam of 6 foals, 4 to race, 4 winners--
+Dam is in line 43:   **Catstar**, by Storm Cat. Winner at 2, 20,584 Pounds, in England, 2nd Queen Mary S. **[G3]**; winner in 1 start at 3, 596,987 Dirhams, in United Arab Emirates. Sent from United States to United Arab Emirates in 2002. Returned to United States from Great Britain in 2004. (Total: $197,105). Dam of 8 foals, 6 to race, 5 winners--
+	</update>
+</FasigTiptonUpdates>
+</FasigTiptonSalesServices>
