@@ -3,6 +3,70 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>401</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Step Forward</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+39
+		<DamName>STAND BACK</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 42: +    Step Forward (2019 g. by Speightstown). Winner in 2 starts at 3, 2022, $42,400, in Canada; placed in 1 start at 3, 2022, $6,840, in N.A./U.S. (Total: $37,667).
+Dam is in line 39:   STAND BACK, by Giant's Causeway. Unraced. Half-sister to **FILA PRIMERA** ($138,455, 1st Pago Hop S. (FG, $45,750), etc.). Dam of 4 foals, 1 to race, 1 winner--
+		<hip>401</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Tipsy Runner</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+39
+		<DamName>STAND BACK</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 46: +    Tipsy Runner (2021 f. by Omaha Beach). Unraced.
+Dam is in line 39:   STAND BACK, by Giant's Causeway. Unraced. Half-sister to **FILA PRIMERA** ($138,455, 1st Pago Hop S. (FG, $45,750), etc.). Dam of 4 foals, 1 to race, 1 winner--
+		<hip>401</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>401</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Bodie's Storm</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

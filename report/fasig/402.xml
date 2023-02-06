@@ -3,6 +3,45 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>402</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Greatest Moment</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+38
+		<DamName>AN ANNIKA MOMENT</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 55: +    Greatest Moment (2021 f. by Protonico). Unraced.
+Dam is in line 38:   AN ANNIKA MOMENT, by Mecke. Winner at 3, $109,800. Half-sister to **Ready for Spring** (Total: $88,243, 3rd Symphony Group Acomb S. **[G3]**). Dam of 11 foals, 8 to race, 6 winners--
+		<hip>402</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Run for Z</HorseName>
+		<HorseYOB>2004 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>402</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Tic Toc Boom</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

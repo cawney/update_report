@@ -3,6 +3,59 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>542</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**Wolfblade**</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>542</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>542</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**Campania**</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>542</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>542</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Gustavo</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>g</HorseSex>
+42
+		<DamName>RUNNING CREEK</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 74: +    Gustavo (2020 g. by Klimt). Placed at 3, 2023, $5,908.
+Dam is in line 42:   RUNNING CREEK, by Cape Town. Unraced. Half-sister to **HE LOVES ME** ($355,698, 1st Iowa Oaks **[G3]** (PRM, $75,000), etc.), **FOR KISSES** ($344,056, 1st Monmouth Beach S. (MTH, $42,000), etc.). Dam of 14 foals, 11 to race, 10 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

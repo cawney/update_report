@@ -3,6 +3,231 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Zous Juice</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Elusive Candy</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Carson's Princess</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Liuzza</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Gracie Lee</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Smart Samurai</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Vegas Weekend</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Propellant</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Market Street</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Less Traveled</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>r</HorseSex>
+102
+		<DamName>TANGLED UP IN BLUE</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 123: +    Less Traveled (2010 f. by Gottcha Gold). Unraced. Dam of 5 foals, 3 to race, 2 winners--
+Dam is in line 102:   TANGLED UP IN BLUE, by Phone Trick. 3 wins at 4, $34,640. Half-sister to **COUNT ON A CHANGE** ($233,699, 1st Etobicoke H. [L] (WO, $39,204(CAN)), etc.), **T. V. COUNTESS** ($117,237, 1st Politely S. [LR] (PIM, $32,500), etc.). Dam of 11 foals, 5 to race, 4 winners--
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sky Traveler</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>I Love Jaxson</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Pahlmuhree</HorseName>
+		<HorseYOB>2004 </HorseYOB>
+		<HorseSex>r</HorseSex>
+102
+		<DamName>TANGLED UP IN BLUE</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 147: +    Pahlmuhree (2004 f. by Gone West). Unraced. Dam of 8 foals, 7 to race, 5 winners--
+Dam is in line 102:   TANGLED UP IN BLUE, by Phone Trick. 3 wins at 4, $34,640. Half-sister to **COUNT ON A CHANGE** ($233,699, 1st Etobicoke H. [L] (WO, $39,204(CAN)), etc.), **T. V. COUNTESS** ($117,237, 1st Politely S. [LR] (PIM, $32,500), etc.). Dam of 11 foals, 5 to race, 4 winners--
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Bird Gone West</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Passionville</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Cat Lady Blues</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Ryano Rose</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Blueain'tyourcolor</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Abbreviated Career</HorseName>
+		<HorseYOB>2004 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Froggyville</HorseName>
+		<HorseYOB>2007 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Seekingacareer</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

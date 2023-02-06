@@ -3,6 +3,142 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+<hip>482</hip>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+update on line 35: + IMAGISTIC, by Deputy Minister. Winner at 3, $83,484. Half-sister to **Instrumentalist** ($71,645, 3rd Bourbonette Oaks **[G3]** (TP, $14,625)), **Boyfriend Material** ($236,740, 2nd Evangeline Mile S.-R (EVD, $9,500)). Dam of 13 foals, 10 to race, 7 winners--
+		<hip>482</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Mosler's Image</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+35
+		<DamName>IMAGISTIC</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 40: +    Mosler's Image (2018 f. by Mosler). 4 wins, 3 to 5, 2023, $111,866.
+Dam is in line 35: + IMAGISTIC, by Deputy Minister. Winner at 3, $83,484. Half-sister to **Instrumentalist** ($71,645, 3rd Bourbonette Oaks **[G3]** (TP, $14,625)), **Boyfriend Material** ($236,740, 2nd Evangeline Mile S.-R (EVD, $9,500)). Dam of 13 foals, 10 to race, 7 winners--
+		<hip>482</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sweet Talia</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+35
+		<DamName>IMAGISTIC</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 44: +    Sweet Talia (2019 f. by Divining Rod). Winner at 2 and 3, 2022, $91,750.
+Dam is in line 35: + IMAGISTIC, by Deputy Minister. Winner at 3, $83,484. Half-sister to **Instrumentalist** ($71,645, 3rd Bourbonette Oaks **[G3]** (TP, $14,625)), **Boyfriend Material** ($236,740, 2nd Evangeline Mile S.-R (EVD, $9,500)). Dam of 13 foals, 10 to race, 7 winners--
+		<hip>482</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Top of the Table</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>482</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Flor de La Luna</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>482</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>482</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Wahim</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>482</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**Boyfriend Material**</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>f</HorseSex>
+62
+		<DamName>RESURGE</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 77: +    **Boyfriend Material** (2015 g. by Hold Me Back). 7 wins, 2 to 5, placed at 7, 2022, $236,740, 2nd Evangeline Mile S.-R (EVD, $9,500).
+Dam is in line 62:   RESURGE, by Seeking the Gold. Placed at 3 and 4, $16,320. Half-sister to **BIO** ($516,957, 1st Sapling S. **[G2]**, etc., sire), **ORDER** ($169,077, 1st Bedside Promise Fall Sprint Championship H. [L] (BM, $30,000), etc., sire), **Bookkeeper** ($127,528, 2nd Demoiselle S. **[G1]**, etc.). Dam of 14 foals, 11 to race, 7 winners--
+		<hip>482</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**ALTER MOON**</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>482</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>482</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Desert Image</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>482</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Mark My Memory</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

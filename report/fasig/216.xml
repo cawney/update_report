@@ -3,6 +3,385 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Magnificent Chrome</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
+38
+		<DamName>**MAGNIFICENT SONG**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 42: +    Magnificent Chrome (2018 g. by California Chrome). 3 wins at 3 and 4, 2022, $122,703.
+Dam is in line 38:   **MAGNIFICENT SONG**, by Unbridled's Song. 5 wins at 2 and 3, $445,732, 1st Garden City Breeders' Cup S. **[G1]** (BEL, $150,000), Lake George S. **[G3]** (SAR, $67,740), Edgewood S. [L] (CD, $68,389), 2nd Regret S. **[G3]** (CD, $43,052), Early Times Mint Julep H. **[G3]** (CD, $32,491). Half-sister to **Great Barrier Reef** (Total: $92,671, 2nd Ireland Gimcrack S. **[G2]**, etc., sire), **Galileo's Song (IRE)** ($220,350, 2nd Long Island H. **[G3]** (AQU, $40,000), etc.), **=Park Avenue (IRE)** (Total: $99,306, 2nd Irish Stallion Farms E.B.F. Star Appeal S. [L], etc.), **Queen Daenerys (IRE)** (Total: $48,845, 2nd Betfair E.B.F. Pretty Polly S. [L]). Dam of 11 foals, 5 to race, 3 winners--
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Magnificent Code</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>g</HorseSex>
+38
+		<DamName>**MAGNIFICENT SONG**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 47: +    Magnificent Code (2020 f. by Honor Code). Unraced.
+Dam is in line 38:   **MAGNIFICENT SONG**, by Unbridled's Song. 5 wins at 2 and 3, $445,732, 1st Garden City Breeders' Cup S. **[G1]** (BEL, $150,000), Lake George S. **[G3]** (SAR, $67,740), Edgewood S. [L] (CD, $68,389), 2nd Regret S. **[G3]** (CD, $43,052), Early Times Mint Julep H. **[G3]** (CD, $32,491). Half-sister to **Great Barrier Reef** (Total: $92,671, 2nd Ireland Gimcrack S. **[G2]**, etc., sire), **Galileo's Song (IRE)** ($220,350, 2nd Long Island H. **[G3]** (AQU, $40,000), etc.), **=Park Avenue (IRE)** (Total: $99,306, 2nd Irish Stallion Farms E.B.F. Star Appeal S. [L], etc.), **Queen Daenerys (IRE)** (Total: $48,845, 2nd Betfair E.B.F. Pretty Polly S. [L]). Dam of 11 foals, 5 to race, 3 winners--
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Captain's Song</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**=Monashada</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Silvano's Song</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Al Aasy</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Song Thrush</HorseName>
+		<HorseYOB>2007 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Sudden Song</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Lancer</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**Royal Obsession**</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Rue de Bac</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Silver Ticket</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Royal Azahar</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**Jumby Bay**</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Erna</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Miss Nancy</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Run Wild</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Real Wild Solution</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Run Ginger Run</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Ninja Abarrio</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Kathya</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Kokoro</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Full Master</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Asyah</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Milha</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Richmond Spider</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Here's the Spider</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Red Head Lady</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Melissani</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Golden Purchase</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Roaring Rapids</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Nevershow Weakness</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Steelin the Rhythm</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Built Different</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sweet Sweet Beauty</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Bold Determination</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>216</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Diana de Gales</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,6 +3,115 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>101</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Yankee Doodle Girl</HorseName>
+		<HorseYOB>2005 </HorseYOB>
+		<HorseSex>r</HorseSex>
+39
+		<DamName>**POCHO'S DREAM GIRL**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 47: +    Yankee Doodle Girl (2005 f. by Yankee Gentleman). 3 wins, 2 to 5, $88,981. Dam of 7 foals, 7 to race, 6 winners--
+Dam is in line 39:   **POCHO'S DREAM GIRL**, by Fortunate Prospect. 7 wins, 3 to 5, $336,794, 1st Obeah S. [L] (DEL, $60,000), Personal Ensign S. [L] (MTH, $36,000), Nellie Morse S. [L] (LRL, $32,805), Gala Lil S.-R (PIM, $22,155), 2nd Inside Information S. [L] (MTH, $10,000), Prismatical S. [L] (MED, $10,000), 3rd Beldame S. **[G1]**, Pimlico Distaff H. **[G3]**, Lady's Secret S. [L] (MTH, $6,600), Monmouth Beach S. [L] (MTH, $6,000). Half-sister to **WAYNE'S CRANE** ($339,378, 1st Mutual Savings Life Sprint Championship H. [L] (FG, $60,000), etc., sire), **Mucha Mosca** ($52,313, 3rd Calder Derby [L] (CRC, $11,000)). Dam of 13 foals, 11 to race, 10 winners--
+		<hip>101</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Tour the World</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>101</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Wired to Go</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>101</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Tiki Torch</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>101</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>101</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Mrs. Boyd</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>101</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Can I Go Too</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>101</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>She Is Special</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>101</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>You're a Survivor</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>101</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Robert J</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>101</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sissy's May</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>101</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>101</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>She Has Quality</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,6 +3,82 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+<hip>411</hip>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+update on line 36: + THUNDER WAY, by Thunder Gulch. Winner at 3, $15,617. Half-sister to **Hearts of Red** ($154,867, 2nd Dream Supreme S. [L] (BEL, $16,000), etc.). Dam of 7 foals, 6 to race, 5 winners--
+		<hip>411</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Works for Me</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>411</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Susie's Saver</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+36
+		<DamName>THUNDER WAY</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 43: +    Susie's Saver (2020 f. by Super Saver). See above.
+Dam is in line 36: + THUNDER WAY, by Thunder Gulch. Winner at 3, $15,617. Half-sister to **Hearts of Red** ($154,867, 2nd Dream Supreme S. [L] (BEL, $16,000), etc.). Dam of 7 foals, 6 to race, 5 winners--
+		<hip>411</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Brown as a Biscuit</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+36
+		<DamName>THUNDER WAY</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 46: +    Brown as a Biscuit (2021 f. by Practical Joke). Unraced.
+Dam is in line 36: + THUNDER WAY, by Thunder Gulch. Winner at 3, $15,617. Half-sister to **Hearts of Red** ($154,867, 2nd Dream Supreme S. [L] (BEL, $16,000), etc.). Dam of 7 foals, 6 to race, 5 winners--
+		<hip>411</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Latin Casino</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>411</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Euronthemoney</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

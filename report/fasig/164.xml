@@ -3,6 +3,147 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**TRIPOLI**</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>c</HorseSex>
+34
+		<DamName>**Love Train**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 37: +    **TRIPOLI** (2017 c. by Kitten's Joy). 4 wins at 3 and 4, placed at 5, 2022, $924,460, 1st TVG Pacific Classic S. **[G1]** (DMR, $600,000), 2nd San Diego H. **[G2]** (DMR, $50,000).
+Dam is in line 34:   **Love Train**, by Tapit. 3 wins at 3 and 4, $146,499, 3rd Lightning City S. [L] (TAM, $7,500). Half-sister to **STARFISH BAY** ($241,831, 1st Candy Eclair S. [L] (MTH, $55,000), etc.), **Tekton** ($156,442, 2nd Pegasus S. **[G3]** (MTH, $30,000), etc., sire). Dam of 6 foals, 3 to race, 3 winners--
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**STARFISH BAY**</HorseName>
+		<HorseYOB>2006 </HorseYOB>
+		<HorseSex>f</HorseSex>
+45
+		<DamName>**TOUCH LOVE**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 47: +    **STARFISH BAY** (2006 f. by Elusive Quality). 6 wins in 12 starts at 3 and 4, $241,831, in N.A./U.S., 1st Candy Eclair S. [L]-ncr, 5 1/2 furlongs in 1:00.76 (MTH, $55,000), Ladies Turf Sprint S. [L]-ncr, 5 furlongs in 0:53.75 (GP, $45,000), From New York to Old York S. (SAR, $43,470), The Very One S. (PIM, $30,000). Set ncr at Monmouth Park, 5 furlongs in 0:54.79 (07/08/09); unplaced in 1 start in England. Sent from United States to Great Britain in 2010. Returned to United States from Great Britain in 2010. (Total: $241,831). Died 2017. Dam of 5 foals, 4 to race, 2 winners--
+Dam is in line 45:   **TOUCH LOVE**, by Not For Love. 3 wins in 6 starts at 2, $153,060, 1st Schuylerville S. **[G2]**, Astoria S. [L] (BEL, $65,100). Died 2018. Dam of 13 foals, 9 to race, 9 winners--
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sensitized</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Little Arabella</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Kaz's Beach</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Stayonthegrind</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>New York Beach</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Athena Beach</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**Parnelli**</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Ask The Dust</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Family Rules</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>164</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Rosie Ann Rules</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

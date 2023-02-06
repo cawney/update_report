@@ -3,6 +3,682 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>They Shot Sonny</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>g</HorseSex>
+38
+		<DamName>AMBER GRACE</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 42: +    They Shot Sonny (2014 g. by Giant's Causeway). 9 wins, 3 to 7, placed at 8, 2022, $312,455.
+Dam is in line 38:   AMBER GRACE, by Elusive Quality. Winner at 3 and 4, $77,717. Half-sister to **RUSSIAN RHYTHM** (Total: $1,260,794, european Champion 3-year-old filly (2003), hwt. filly at 3 on English Free Hand., 7 - 9 1/2 fur. (2003), hwt. filly at 3 on English Free Hand., 9 1/2 - 11 fur. (2003), 1st Sagitta One Thousand Guineas **[G1]**, etc.), **PERFECTPERFORMANCE** (Total: $198,922, 1st Hackney Empire Royal Lodge S. **[G2]**, etc., sire), **Ive Gota Bad Liver** ($84,503, 2nd Lady's Secret H. (RP, $6,000), etc.). Dam of 9 foals, 4 to race, 2 winners--
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**=MARENKO</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Davydenko</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Panova</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Melnikova</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Islanova</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Sabalenko</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Russian Crescendo</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Royal Mila</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Foxtrot</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Russian Heroine</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Amasova</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Kilham</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Bonny Power</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Isakova</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Vasiliev</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Whitlock</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Veleta</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Red Astaire</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Nemov</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Star of Mycroft</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**=SPANGLED</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**=Jumira Bridge</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Ametist</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Jantina</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Frolova</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Otelcaliforni</HorseName>
+		<HorseYOB>2003 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Scudetta</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=High Response</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Sardinia</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Artiste</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Irish Treasure</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Pelican Hill</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Giotto</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Soak</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**=Dyf</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**=November Rain</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Cavarozzi</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Splashing</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Apollonia Vitelli</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Wine House</HorseName>
+		<HorseYOB>2006 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Relentless Pursuit</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Alpine Flower</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Star Generation</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Luna Lucinda</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Fakhrunisa</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Grapevine</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Sandilands</HorseName>
+		<HorseYOB>2005 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Whitepark Wells</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Sugarbush</HorseName>
+		<HorseYOB>2004 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Al Wasmiya</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Tinassang</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Alzeer</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Candy Tuft</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Faziyah</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Alan</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Steve Steve Steve</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Lara's Song</HorseName>
+		<HorseYOB>2007 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Virtuoso Lad</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Ma Chao</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Gunarani</HorseName>
+		<HorseYOB>2004 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Gunna Excel</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Robin Charles</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Imaginative</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=New Dayrell</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Gold Eliza</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Sorbello</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Miss Eliza</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Russian Maria Star</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Matay Tory</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**Portilla**</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Zahrat Jumeirah</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Giant K</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Quinano</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>20</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Fantastical</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,6 +3,63 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>167</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**Zero Gravity**</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+38
+		<DamName>**Freedom Rings**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 41: +    **Zero Gravity** (2015 g. by Orb). 9 wins, 3 to 7, placed at 8, 2023, $277,974, 2nd Commonwealth Turf S. **[G3]** (CD, $19,600).
+Dam is in line 38:   **Freedom Rings**, by Proud Citizen. 2 wins at 3, $195,477, 2nd Miss Grillo S. **[G3]** (BEL, $32,840), Fairway S. [L] (DEL, $20,000), John Hettinger S.-R (BEL, $30,000). Half-sister to **PEG'S PRAYER** ($139,416, 1st New York Stallion Statue of Liberty S.-R (SAR, $90,000)). Dam of 7 foals, 7 to race, 4 winners--
+		<hip>167</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Mr Liberty</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+38
+		<DamName>**Freedom Rings**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 44: +    Mr Liberty (2019 g. by American Freedom). Winner at 3 and 4, 2023, $20,425.
+Dam is in line 38:   **Freedom Rings**, by Proud Citizen. 2 wins at 3, $195,477, 2nd Miss Grillo S. **[G3]** (BEL, $32,840), Fairway S. [L] (DEL, $20,000), John Hettinger S.-R (BEL, $30,000). Half-sister to **PEG'S PRAYER** ($139,416, 1st New York Stallion Statue of Liberty S.-R (SAR, $90,000)). Dam of 7 foals, 7 to race, 4 winners--
+		<hip>167</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Boom Boom Kaboom</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>g</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

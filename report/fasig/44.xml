@@ -3,6 +3,48 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+<hip>44</hip>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+update on line 35: + **Best Intentions**, by Curlin. Placed at 2 and 3, $33,474, 3rd Trapeze S. (RP, $11,000). Sent from United States to Philippines in 2022. Dam of 1 foal--
+<hip>44</hip>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+update on line 41: + **Centrique**, by Malibu Moon. 12 wins, 3 to 6, $461,995, 2nd U Can Do It H. (CRC, $12,740), 3rd Barbara Fritchie H. **[G2]** (LRL, $30,000), Nancy's Glitter H. [L] (CRC, $7,350) twice, Musical Romance S. (CRC, $5,500), Bold World H. (CRC, $4,900). Died 2022. Half-sister to **Tyfosha** ($151,460, 3rd Kalookan Queen S. [L] (SA, $9,144)), **Carbon Data** ($122,707, 3rd Edward P. Evans S.-R (CNL, $6,000)), **Bern Legacy** ($33,686, 2nd Happy Ticket S. [L] (LAD, $20,000)). Dam of 5 foals, 5 to race, 2 winners--
+		<hip>44</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Accusatory</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>44</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Calipari</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+41
+		<DamName>**Centrique**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 49: +    Calipari (2019 g. by Curlin). Winner at 3, 2022, $29,863.
+Dam is in line 41: + **Centrique**, by Malibu Moon. 12 wins, 3 to 6, $461,995, 2nd U Can Do It H. (CRC, $12,740), 3rd Barbara Fritchie H. **[G2]** (LRL, $30,000), Nancy's Glitter H. [L] (CRC, $7,350) twice, Musical Romance S. (CRC, $5,500), Bold World H. (CRC, $4,900). Died 2022. Half-sister to **Tyfosha** ($151,460, 3rd Kalookan Queen S. [L] (SA, $9,144)), **Carbon Data** ($122,707, 3rd Edward P. Evans S.-R (CNL, $6,000)), **Bern Legacy** ($33,686, 2nd Happy Ticket S. [L] (LAD, $20,000)). Dam of 5 foals, 5 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

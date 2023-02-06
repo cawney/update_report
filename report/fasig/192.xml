@@ -3,6 +3,111 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+<hip>192</hip>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+update on line 36: + TWO TO ONE, by Yesbyjimminy. 3 wins at 2 and 3, $47,212. Half-sister to **MORELLO** ($359,900, 1st Gotham S. **[G3]** (AQU, $165,000), etc.). Dam of 4 foals, 2 to race, 1 winner--
+		<hip>192</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Little Terror</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+36
+		<DamName>TWO TO ONE</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 40: +    Little Terror (2021 c. by Upstart). Unraced.
+Dam is in line 36: + TWO TO ONE, by Yesbyjimminy. 3 wins at 2 and 3, $47,212. Half-sister to **MORELLO** ($359,900, 1st Gotham S. **[G3]** (AQU, $165,000), etc.). Dam of 4 foals, 2 to race, 1 winner--
+		<hip>192</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**MORELLO**</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>c</HorseSex>
+44
+		<DamName>STOP THE WEDDING</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 46: +    **MORELLO** (2019 c. by Classic Empire). 4 wins in 8 starts at 2 and 3, 2022, $359,900, 1st Gotham S. **[G3]** (AQU, $165,000), Jimmy Winkfield S. (AQU, $55,000), 3rd Gravesend S. [L] (AQU, $16,200).
+Dam is in line 44:   STOP THE WEDDING, by Congrats. Winner at 2, $40,379. Died 2022. Half-sister to **Saint Bernadette** ($145,900, 3rd Hollywood Breeders' Cup Oaks **[G2]** (HOL, $32,016)). Dam of 8 foals, 5 to race, 2 winners--
+		<hip>192</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Ella Frances</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+44
+		<DamName>STOP THE WEDDING</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 50: +    Ella Frances (2020 f. by Cairo Prince). Placed at 2, 2022, $11,650.
+Dam is in line 44:   STOP THE WEDDING, by Congrats. Winner at 2, $40,379. Died 2022. Half-sister to **Saint Bernadette** ($145,900, 3rd Hollywood Breeders' Cup Oaks **[G2]** (HOL, $32,016)). Dam of 8 foals, 5 to race, 2 winners--
+		<hip>192</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Paynt Your Way</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+44
+		<DamName>STOP THE WEDDING</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 54: +    Paynt Your Way (2021 f. by Paynter). Unraced.
+Dam is in line 44:   STOP THE WEDDING, by Congrats. Winner at 2, $40,379. Died 2022. Half-sister to **Saint Bernadette** ($145,900, 3rd Hollywood Breeders' Cup Oaks **[G2]** (HOL, $32,016)). Dam of 8 foals, 5 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

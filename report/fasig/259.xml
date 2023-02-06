@@ -3,6 +3,56 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>259</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Major Frontier</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+37
+		<DamName>MAKE HASTE</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 44: +    Major Frontier (2018 g. by Air Force Blue). Winner at 2 and 4, placed at 5, 2023, $43,016.
+Dam is in line 37:   MAKE HASTE, by Tiznow. Unraced. Half-sister to **Mise En Rose** (Total: $98,132, 2nd Lormarins Queens Plate Oak Tree S. **[G3]**, etc.), **Stave** ($285,361, 2nd Blushing K. D. S. (FG, $15,000), etc.). Dam of 8 foals, 5 to race, 4 winners--
+		<hip>259</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Veracruzin</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+37
+		<DamName>MAKE HASTE</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 48: +    Veracruzin (2021 c. by Summer Front). Unraced.
+Dam is in line 37:   MAKE HASTE, by Tiznow. Unraced. Half-sister to **Mise En Rose** (Total: $98,132, 2nd Lormarins Queens Plate Oak Tree S. **[G3]**, etc.), **Stave** ($285,361, 2nd Blushing K. D. S. (FG, $15,000), etc.). Dam of 8 foals, 5 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

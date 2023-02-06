@@ -3,6 +3,31 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>341</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Loose Goose</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>c</HorseSex>
+41
+		<DamName>CLICK YOUR HEELS</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 45: +    Loose Goose (2019 c. by Will Take Charge). Winner at 3, 2022, $51,790.
+Dam is in line 41:   CLICK YOUR HEELS, by Pulpit. Placed at 3, $16,862. Sister to **TAPIT** ($557,300, 1st Wood Memorial S. **[G1]** (AQU, $450,000), etc., leading sire in U.S. (2014), leading sire in U.S. (2015), leading sire in U.S. (2016), among the leading sires in U.S. (2011), among the leading sires in U.S. (2012), among the leading sires in U.S. (2019), among the leading sires in U.S. (2020), among the leading sires in U.S. (2021)), half-sister to **Overandabeauty** ($159,472, 2nd Ohio Valley H. [L] (MNR, $15,000), etc.). Dam of 7 foals, 2 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

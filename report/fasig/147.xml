@@ -3,6 +3,194 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>147</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Takeaway</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+34
+		<DamName>EXCLUDE (GB)</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 38: +    Takeaway (2018 f. by Super Saver). Placed in 1 start at 2, $4,620. Sent from United States to Republic of Korea in 2021. Dam of 1 foal--
+Dam is in line 34:   EXCLUDE (GB), by Include. Winner in 2 starts at 3, 12,500 Euro, in France; placed at 4, $13,780, in N.A./U.S. Sent from France to United States in 2013. (Total: $29,803). Half-sister to **EXHI** ($807,917, 1st Coolmore Lexington S. **[G2]** (KEE, $180,000), etc., sire), **=DILUVIEN (FR)** (Total: $191,992, 1st Prix Denisy [L]). Dam of 6 foals, 3 to race, 2 winners--
+		<hip>147</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>147</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Expatriate</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>r</HorseSex>
+34
+		<DamName>EXCLUDE (GB)</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 43: +    Expatriate (2021 f. by Cairo Prince). Unraced.
+Dam is in line 34:   EXCLUDE (GB), by Include. Winner in 2 starts at 3, 12,500 Euro, in France; placed at 4, $13,780, in N.A./U.S. Sent from France to United States in 2013. (Total: $29,803). Half-sister to **EXHI** ($807,917, 1st Coolmore Lexington S. **[G2]** (KEE, $180,000), etc., sire), **=DILUVIEN (FR)** (Total: $191,992, 1st Prix Denisy [L]). Dam of 6 foals, 3 to race, 2 winners--
+		<hip>147</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Dataman</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>147</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Donizzeta</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>147</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>147</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Gravitas</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>147</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>147</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Mascotte</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>147</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Modiano</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>147</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Unital</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>g</HorseSex>
+47
+		<DamName>**SOLDERA**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 75: +    =Unital (FR) (2011 g. by =Pivotal (GB)). 4 wins, 4 to 7, 72,440 Euro, in France; unplaced in Belgium. (Total: $81,670).
+Dam is in line 47:   **SOLDERA**, by Polish Numbers. Winner at 2 and 3, 46,185 Pounds, in England, 1st October Club Treehouse Trust E.B.F. Valiant S. [L], 2nd Oh So Sharp S. [L], 3rd Windsor Forest S. **[G2]**; unplaced in 1 start in France; unplaced in 2 starts, 11,700 Euro, in Ireland. Sent from United States to Ireland in 2000. Returned to United States from Great Britain in 2004. Sent from United States to France in 2009. (Total: $91,579). Half-sister to **Patriot Strike** ($213,380, 2nd Kentucky Cup Starter H.-R (TP, $10,000), sire). Dam of 10 foals, 10 to race, 8 winners--
+		<hip>147</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Exhit</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+47
+		<DamName>**SOLDERA**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 79: +    =Exhit (FR) (2019 g. by =Dariyan (FR)). 2 wins at 3, 2022, 29,900 Euro, in France. (Total: $31,074).
+Dam is in line 47:   **SOLDERA**, by Polish Numbers. Winner at 2 and 3, 46,185 Pounds, in England, 1st October Club Treehouse Trust E.B.F. Valiant S. [L], 2nd Oh So Sharp S. [L], 3rd Windsor Forest S. **[G2]**; unplaced in 1 start in France; unplaced in 2 starts, 11,700 Euro, in Ireland. Sent from United States to Ireland in 2000. Returned to United States from Great Britain in 2004. Sent from United States to France in 2009. (Total: $91,579). Half-sister to **Patriot Strike** ($213,380, 2nd Kentucky Cup Starter H.-R (TP, $10,000), sire). Dam of 10 foals, 10 to race, 8 winners--
+		<hip>147</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Kutina</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>f</HorseSex>
+47
+		<DamName>**SOLDERA**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 82: +    =Kutina (FR) (2013 f. by Kendargent (FR)). Winner at 3, 26,200 Euro, in France. (Total: $29,138). Dam of 4 foals, 2 to race, 1 winner--
+Dam is in line 47:   **SOLDERA**, by Polish Numbers. Winner at 2 and 3, 46,185 Pounds, in England, 1st October Club Treehouse Trust E.B.F. Valiant S. [L], 2nd Oh So Sharp S. [L], 3rd Windsor Forest S. **[G2]**; unplaced in 1 start in France; unplaced in 2 starts, 11,700 Euro, in Ireland. Sent from United States to Ireland in 2000. Returned to United States from Great Britain in 2004. Sent from United States to France in 2009. (Total: $91,579). Half-sister to **Patriot Strike** ($213,380, 2nd Kentucky Cup Starter H.-R (TP, $10,000), sire). Dam of 10 foals, 10 to race, 8 winners--
+		<hip>147</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Northern Star</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

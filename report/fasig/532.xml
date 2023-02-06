@@ -3,6 +3,61 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+<hip>532</hip>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+update on line 36: + **BURBAN**, by Speightstown. 5 wins, 3 to 5, $289,087, 1st Roxelana S. (CD, $39,540), 2nd Humana Distaff S. **[G1]** (CD, $66,356). Half-sister to **KIKISOBLU** ($79,524, 1st Hastings H. (EMD, $27,500), etc.). Dam of 7 foals, 4 to race, 2 winners--
+		<hip>532</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Botero</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+36
+		<DamName>**BURBAN**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 40: +    Botero (2015 g. by Medaglia d'Oro). 8 wins, 4 to 8, 2023, $104,642 Set ntr at Arizona Downs, 5 1/2 furlongs in 1:02.32 (07/21/21). Set ntr at Arizona Downs, 5 1/2 furlongs in 1:01.56 (08/17/21).
+Dam is in line 36: + **BURBAN**, by Speightstown. 5 wins, 3 to 5, $289,087, 1st Roxelana S. (CD, $39,540), 2nd Humana Distaff S. **[G1]** (CD, $66,356). Half-sister to **KIKISOBLU** ($79,524, 1st Hastings H. (EMD, $27,500), etc.). Dam of 7 foals, 4 to race, 2 winners--
+		<hip>532</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Mostly Harmless</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+36
+		<DamName>**BURBAN**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 44: +    Mostly Harmless (2019 f. by Violence). Winner at 4, 2023, $100,485.
+Dam is in line 36: + **BURBAN**, by Speightstown. 5 wins, 3 to 5, $289,087, 1st Roxelana S. (CD, $39,540), 2nd Humana Distaff S. **[G1]** (CD, $66,356). Half-sister to **KIKISOBLU** ($79,524, 1st Hastings H. (EMD, $27,500), etc.). Dam of 7 foals, 4 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

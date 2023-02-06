@@ -3,6 +3,77 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>221</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**Sanad Libya**</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>c</HorseSex>
+39
+		<DamName>**I WANT TO DUST HER**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 42: +    **Sanad Libya** (2017 c. by Tapiture). 3 wins at 3 and 5, placed at 6, 2023, 353,564 Dirhams, in United Arab Emirates, 2nd Race Of Ambition Curlin S. [L]. Sent from United States to United Arab Emirates in 2019. (Total: $96,278).
+Dam is in line 39:   **I WANT TO DUST HER**, by Mass Market. 2 wins at 2, $95,730, in Canada, 1st Sadie Diamond Futurity-R (HST, $60,000), 2nd CTHS Sales S.-R (HST, $10,000). (Total: $96,500). Sister to **EXCITED MISS** ($170,240, 1st Emerald  Downs H. (HST, $33,510), etc.), **TOO MUCH DIRT** ($92,692, 1st Ascot Graduation S. (HST, $28,625), etc.), **Brother Duster** ($50,370, 2nd Chris Loseth H. (HST, $10,000), etc.), half-sister to **EXCITED AT LAST** ($54,069, 1st CTHS Sales S.-R (HST, $39,168(CAN))), **My Special Angel** ($115,529, 2nd Sadie Diamond Futurity-R (HST, $21,492), etc.). Dam of 6 foals, 3 to race, 3 winners--
+		<hip>221</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+39
+		<DamName>**I WANT TO DUST HER**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 48: +    Unnamed (2022 f. by Lord Nelson). See above.
+Dam is in line 39:   **I WANT TO DUST HER**, by Mass Market. 2 wins at 2, $95,730, in Canada, 1st Sadie Diamond Futurity-R (HST, $60,000), 2nd CTHS Sales S.-R (HST, $10,000). (Total: $96,500). Sister to **EXCITED MISS** ($170,240, 1st Emerald  Downs H. (HST, $33,510), etc.), **TOO MUCH DIRT** ($92,692, 1st Ascot Graduation S. (HST, $28,625), etc.), **Brother Duster** ($50,370, 2nd Chris Loseth H. (HST, $10,000), etc.), half-sister to **EXCITED AT LAST** ($54,069, 1st CTHS Sales S.-R (HST, $39,168(CAN))), **My Special Angel** ($115,529, 2nd Sadie Diamond Futurity-R (HST, $21,492), etc.). Dam of 6 foals, 3 to race, 3 winners--
+		<hip>221</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**ARABELLA'S MUSE**</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>221</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Mairabella</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>221</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Remarkable Angel</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

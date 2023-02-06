@@ -3,6 +3,98 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>244</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Commanders Palace</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+34
+		<DamName>L. A. MAGIC</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 37: +    Commanders Palace (2018 f. by Declaration of War). Winner at 3, placed at 5, 2023, $100,249, in N.A./U.S.; winner in 1 start at 4, 2022, $40,500, in Canada. (Total: $132,406).
+Dam is in line 34:   L. A. MAGIC, by Tizdejavu. 3 wins at 3 and 4, $59,945. Half-sister to **EXFACTOR** ($158,999, 1st Bashford Manor S. **[G3]** (CD, $67,748), etc.), **MARKET MAGIC** ($164,070, 1st West Virginia Senate President's Cup S. (MNR, $61,600)), **Trump's Magic** (Total: $126,543, 3rd Premio Ippolito Fassati [L]). Dam of 2 foals, 1 to race, 1 winner--
+		<hip>244</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**MARKET MAGIC**</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>f</HorseSex>
+41
+		<DamName>**BRIGHT MAGIC**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 44: +    **MARKET MAGIC** (2011 f. by After Market). 4 wins at 2 and 4, $164,070, 1st West Virginia Senate President's Cup S. (MNR, $61,600). Sent from United States to Republic of Korea in 2022. Dam of 5 foals, 3 to race, 3 winners--
+Dam is in line 41:   **BRIGHT MAGIC**, by Prized. 4 wins at 3, $212,393, 1st Fleet Treat S.-R (DMR, $66,300), CTBA Marian S.-R (FPX, $27,500), 3rd Harold C. Ramser Sr. H. [L] (SA, $13,416), Cat's Cradle H.-R (HOL, $12,000), Torrey Pines S.-R (DMR, $11,736). Sister to **Oysters** ($224,050, 2nd Real Good Deal S.-R (DMR, $22,480)), half-sister to **TAKE THE RIBBON** ($372,102, 1st Churchill Distaff Turf Mile S. **[G3]** (CD, $103,138), etc.), **FLASH FORWARD** ($259,790, 1st My Flag S.-R (SAR, $60,000), etc.), **FLASH MASH** (Total: $231,856, 1st Giant's Causeway S. [L] (KEE, $60,000), etc.), **GLINDA THE GOOD** ($226,758, 1st Instant Racing S. [L] (OP, $60,000), etc.), **HOT WAR** ($165,130, 1st Real Good Deal S.-R (DMR, $60,000), etc., sire), **Inside Passage** ($129,303, 3rd Proud Delta S. [L] (BEL, $7,735)), **House of Magic** ($99,526, 3rd With Approval S.-R (WO, $8,250)). Dam of 15 foals, 13 to race, 12 winners--
+		<hip>244</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Soothsaying</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>244</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Unnamed</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>244</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Honey Jar</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>244</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Akor</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>244</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Fog My Heart</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>244</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Zefzaf</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

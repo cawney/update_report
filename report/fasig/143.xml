@@ -3,6 +3,36 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+		<hip>143</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Momma Kim</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>f</HorseSex>
+34
+		<DamName>ESTORIL</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 37: +    Momma Kim (2021 f. by Noble Mission (GB)). Unraced.
+Dam is in line 34:   ESTORIL, by Into Mischief. Unraced. Half-sister to **TIDE OF THE SEA** ($496,899, 1st W. L. McKnight S. **[G3]** (GP, $87,420), etc.), **Boule** ($152,900, 2nd Interborough S. [L] (AQU, $20,000)), **Module** ($104,850, 3rd Ginger Brew S. [L] (GP, $9,500)). Dam of 2 foals--
+<hip>143</hip>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+update on line 42: + ROUTINE, by Empire Maker. Unraced. Half-sister to **=SPIRIT RIDGE (GB)** (Total: $519,951, 1st Brisbane For 2032 Premiers Cup **[G3]**, etc.). Dam of 9 foals, 6 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

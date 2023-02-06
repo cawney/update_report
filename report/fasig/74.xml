@@ -3,6 +3,82 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
+<hip>74</hip>
+<SaleEntryCode>PH23</SaleEntryCode>
+<SaleCode>FTFEB</SaleCode>
+<SaleName>FT FEB MIXED 21</SaleName>
+update on line 35: + KITTEN'S CATCH, by Kitten's Joy. Placed in 1 start at 2, $7,381, in Canada. (Total: $5,677). Half-sister to **CURLIN'S CATCH** ($146,543, 1st Suncoast S. [L] (TAM, $60,000), etc.), **Arollercoasterride** ($65,170, 2nd British Columbia Derby **[G3]** (HST, $25,000), etc.), **Chic Thrill** ($159,375, 2nd Sweet Briar Too S. (WO, $24,000)). Dam of 5 foals, 1 to race, 1 winner--
+		<hip>74</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Chloe's Crown</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+35
+		<DamName>KITTEN'S CATCH</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 37: +    Chloe's Crown (2019 f. by Declaration of War). Winner at 4, 2023, $44,720.
+Dam is in line 35: + KITTEN'S CATCH, by Kitten's Joy. Placed in 1 start at 2, $7,381, in Canada. (Total: $5,677). Half-sister to **CURLIN'S CATCH** ($146,543, 1st Suncoast S. [L] (TAM, $60,000), etc.), **Arollercoasterride** ($65,170, 2nd British Columbia Derby **[G3]** (HST, $25,000), etc.), **Chic Thrill** ($159,375, 2nd Sweet Briar Too S. (WO, $24,000)). Dam of 5 foals, 1 to race, 1 winner--
+		<hip>74</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Curlin's Thrill</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+45
+		<DamName>**CATCH THE THRILL**</DamName>
+		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 54: +    Curlin's Thrill (2017 g. by Curlin). 6 wins at 4 and 5, 2022, $101,325, in N.A./U.S.; placed at 3, $10,048, in Canada. (Total: $108,922).
+Dam is in line 45:   **CATCH THE THRILL**, by A.P. Indy. 3 wins at 2 and 4, $316,425, in Canada, champion 2-year-old filly in Canada (2006), 1st Princess Elizabeth S.-R (WO, $150,000), 2nd Ontario Lassie S.-R (WO, $30,000); unplaced in 1 start in N.A./U.S. (Total: $290,167). Half-sister to **Cognashene** ($320,954, 3rd Singspiel S. **[G3]** (WO, $19,800), etc.), **Finn's Jewel** ($157,477, 3rd Carotene S.-R (WO, $15,000)), **Kitten's Boy** ($122,781, 3rd Coronation Futurity-R (WO, $22,500)). Dam of 8 foals, 7 to race, 5 winners--
+		<hip>74</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**Caroline the Great**</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>74</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sweet Like Fudge</HorseName>
+		<HorseYOB>2021 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>74</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Almost a Factor</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>
