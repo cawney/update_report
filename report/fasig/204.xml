@@ -11,8 +11,7 @@
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
 34
-		<DamName>HOLIDAY TRUFFLES</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>HOLIDAY TRUFFLES</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -36,8 +35,7 @@ Dam is in line 34:   HOLIDAY TRUFFLES, by Harlan's Holiday. Unraced. Dam of 5 fo
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
 34
-		<DamName>HOLIDAY TRUFFLES</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>HOLIDAY TRUFFLES</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -57,37 +55,11 @@ Dam is in line 34:   HOLIDAY TRUFFLES, by Harlan's Holiday. Unraced. Dam of 5 fo
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>E J's Way</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>g</HorseSex>
-34
-		<DamName>HOLIDAY TRUFFLES</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    E J's Way (2020 g. by Tapiture). Placed in 2 starts at 2, 2022, $3,000.
-Dam is in line 34:   HOLIDAY TRUFFLES, by Harlan's Holiday. Unraced. Dam of 5 foals, 3 to race, 1 winner--
-		<hip>204</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>First Spring</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
-48
-		<DamName>**Bianco Tartufo**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+45
+		<DamDamName>**Bianco Tartufo**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -101,40 +73,8 @@ Dam is in line 34:   HOLIDAY TRUFFLES, by Harlan's Holiday. Unraced. Dam of 5 fo
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 51: +    First Spring (2015 g. by Spring At Last). 2 wins at 3, $86,090, in N.A./U.S.; winner at 5, placed at 7, 2022, $71,203, in Canada. (Total: $139,915).
-Dam is in line 48:   **Bianco Tartufo**, by Unbridled's Song. Winner at 4, $77,296, in Canada; 2 wins at 5, $73,128, in N.A./U.S., 3rd Omnibus S. (MTH, $7,200). (Total: $150,846). Sister to **CROSS TRAFFIC** ($687,967, 1st Whitney Invitational H. **[G1]** (SAR, $450,000), etc., sire), half-sister to **THIRTEEN ARROWS** ($277,375, 1st Zia Park Distaff S. (ZIA, $65,100), etc.), **EXODUS** ($64,950, 1st Allen's Landing S. (HOU, $30,000), sire), **Into My Soul** ($101,057, 2nd I Take All S. [L] (BEL, $15,350), etc.). Dam of 7 foals, 2 to race, 2 winners--
-		<hip>204</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Blame the Gelato</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-48
-		<DamName>**Bianco Tartufo**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 56: +    Blame the Gelato (2021 f. by Blame). Unraced.
-Dam is in line 48:   **Bianco Tartufo**, by Unbridled's Song. Winner at 4, $77,296, in Canada; 2 wins at 5, $73,128, in N.A./U.S., 3rd Omnibus S. (MTH, $7,200). (Total: $150,846). Sister to **CROSS TRAFFIC** ($687,967, 1st Whitney Invitational H. **[G1]** (SAR, $450,000), etc., sire), half-sister to **THIRTEEN ARROWS** ($277,375, 1st Zia Park Distaff S. (ZIA, $65,100), etc.), **EXODUS** ($64,950, 1st Allen's Landing S. (HOU, $30,000), sire), **Into My Soul** ($101,057, 2nd I Take All S. [L] (BEL, $15,350), etc.). Dam of 7 foals, 2 to race, 2 winners--
-		<hip>204</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hot Chocolate</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
+update on line 48: +    First Spring (2015 g. by Spring At Last). 2 wins at 3, $86,090, in N.A./U.S.; winner at 5, placed at 7, 2022, $71,203, in Canada. (Total: $139,915).
+Dam is in line 45:   **Bianco Tartufo**, by Unbridled's Song. Winner at 4, $77,296, in Canada; 2 wins at 5, $73,128, in N.A./U.S., 3rd Omnibus S. (MTH, $7,200). (Total: $150,846). Sister to **CROSS TRAFFIC** ($687,967, 1st Whitney Invitational H. **[G1]** (SAR, $450,000), etc., sire), half-sister to **THIRTEEN ARROWS** ($277,375, 1st Zia Park Distaff S. (ZIA, $65,100), etc.), **EXODUS** ($64,950, 1st Allen's Landing S. (HOU, $30,000), sire), **Into My Soul** ($101,057, 2nd I Take All S. [L] (BEL, $15,350), etc.). Dam of 7 foals, 2 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

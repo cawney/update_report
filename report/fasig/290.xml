@@ -11,8 +11,7 @@
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
 37
-		<DamName>ANALEMMA</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>ANALEMMA</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>

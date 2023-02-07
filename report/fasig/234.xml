@@ -10,9 +10,8 @@
 		<HorseName>Mystery Mo</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
-40
-		<DamName>**J Z WARRIOR**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+37
+		<DamDamName>**J Z WARRIOR**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,33 +25,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 44: +    Mystery Mo (2018 g. by Uncle Mo). 4 wins at 3 and 4, 2022, $110,765.
-Dam is in line 40:   **J Z WARRIOR**, by Harlan's Holiday. 6 wins, 2 to 5, $342,123, 1st House Party S. [L] (BEL, $45,900), Glowing Honor S. (BEL, $44,100), Dearly Precious S. (MTH, $42,000), Light Hearted S. (MTH, $36,000), 2nd Caress S. (BEL, $13,640), Meafara S. (HAW, $10,350), Loudonville S.-R (SAR, $14,590), Addison Mallery S.-R (SAR, $14,300), 3rd Nassau County S. **[G3]** (BEL, $20,940), Top Secret S. (BEL, $6,750). Sent from United States to France in 2021. Half-sister to **A Z WARRIOR** ($286,906, 1st Frizette S. **[G1]** (BEL, $180,000), etc.), **JOJO WARRIOR** ($396,231, 1st Summertime Oaks **[G2]** (SA, $120,000), etc.), **E Z WARRIOR** ($238,468, 1st Hollywood Juvenile Championship S. **[G3]** (HOL, $60,000), etc., sire), **Alberobello** ($185,280, 3rd Summer Colony S. [LR] (SAR, $12,000)). Dam of 7 foals, 5 to race, 4 winners--
-		<hip>234</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Success Lady</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-40
-		<DamName>**J Z WARRIOR**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 49: +    Success Lady (2021 f. by American Pharoah). Unraced. Sent from United States to France in 2021.
-Dam is in line 40:   **J Z WARRIOR**, by Harlan's Holiday. 6 wins, 2 to 5, $342,123, 1st House Party S. [L] (BEL, $45,900), Glowing Honor S. (BEL, $44,100), Dearly Precious S. (MTH, $42,000), Light Hearted S. (MTH, $36,000), 2nd Caress S. (BEL, $13,640), Meafara S. (HAW, $10,350), Loudonville S.-R (SAR, $14,590), Addison Mallery S.-R (SAR, $14,300), 3rd Nassau County S. **[G3]** (BEL, $20,940), Top Secret S. (BEL, $6,750). Sent from United States to France in 2021. Half-sister to **A Z WARRIOR** ($286,906, 1st Frizette S. **[G1]** (BEL, $180,000), etc.), **JOJO WARRIOR** ($396,231, 1st Summertime Oaks **[G2]** (SA, $120,000), etc.), **E Z WARRIOR** ($238,468, 1st Hollywood Juvenile Championship S. **[G3]** (HOL, $60,000), etc., sire), **Alberobello** ($185,280, 3rd Summer Colony S. [LR] (SAR, $12,000)). Dam of 7 foals, 5 to race, 4 winners--
+update on line 41: +    Mystery Mo (2018 g. by Uncle Mo). 4 wins at 3 and 4, 2022, $110,765.
+Dam is in line 37:   **J Z WARRIOR**, by Harlan's Holiday. 6 wins, 2 to 5, $342,123, 1st House Party S. [L] (BEL, $45,900), Glowing Honor S. (BEL, $44,100), Dearly Precious S. (MTH, $42,000), Light Hearted S. (MTH, $36,000), 2nd Caress S. (BEL, $13,640), Meafara S. (HAW, $10,350), Loudonville S.-R (SAR, $14,590), Addison Mallery S.-R (SAR, $14,300), 3rd Nassau County S. **[G3]** (BEL, $20,940), Top Secret S. (BEL, $6,750). Sent from United States to France in 2021. Half-sister to **A Z WARRIOR** ($286,906, 1st Frizette S. **[G1]** (BEL, $180,000), etc.), **JOJO WARRIOR** ($396,231, 1st Summertime Oaks **[G2]** (SA, $120,000), etc.), **E Z WARRIOR** ($238,468, 1st Hollywood Juvenile Championship S. **[G3]** (HOL, $60,000), etc., sire), **Alberobello** ($185,280, 3rd Summer Colony S. [LR] (SAR, $12,000)). Dam of 7 foals, 5 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

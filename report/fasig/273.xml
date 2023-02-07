@@ -11,8 +11,7 @@
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>f</HorseSex>
 39
-		<DamName>MISSAMERICA BERTIE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>MISSAMERICA BERTIE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -46,13 +45,6 @@ Dam is in line 39:   MISSAMERICA BERTIE, by Quiet American. Placed at 3, $7,400.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sky High Bertie</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>g</HorseSex>
@@ -67,34 +59,6 @@ Dam is in line 39:   MISSAMERICA BERTIE, by Quiet American. Placed at 3, $7,400.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Our Best Bertie</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Keep the Change</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Flashy Bertie</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -105,27 +69,6 @@ Dam is in line 39:   MISSAMERICA BERTIE, by Quiet American. Placed at 3, $7,400.
 		<HorseName>Mr. Halftime</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Collectthemoney</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Paynted Flash</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lookinforfun</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>273</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -186,37 +129,9 @@ Dam is in line 39:   MISSAMERICA BERTIE, by Quiet American. Placed at 3, $7,400.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Rub My Belly</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>El Matador Moon</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Eye Be Seeing You</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
 		<hip>273</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -277,20 +192,6 @@ Dam is in line 39:   MISSAMERICA BERTIE, by Quiet American. Placed at 3, $7,400.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>She's a Knockout</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Knockout Guy</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Shanghai Schwartz</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
@@ -312,20 +213,6 @@ Dam is in line 39:   MISSAMERICA BERTIE, by Quiet American. Placed at 3, $7,400.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ajmal</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Moondance</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>c</HorseSex>
@@ -335,27 +222,6 @@ Dam is in line 39:   MISSAMERICA BERTIE, by Quiet American. Placed at 3, $7,400.
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Hang the Moon</HorseName>
 		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ninety Two</HorseName>
-		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
 		<hip>273</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -375,13 +241,6 @@ Dam is in line 39:   MISSAMERICA BERTIE, by Quiet American. Placed at 3, $7,400.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Princess Arantza</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Red Hot Chick</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>c</HorseSex>
@@ -389,43 +248,8 @@ Dam is in line 39:   MISSAMERICA BERTIE, by Quiet American. Placed at 3, $7,400.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Khufu</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dr Schuster</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hot Candy</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Just Like the Moon</HorseName>
 		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>f</HorseSex>
 		<hip>273</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -445,65 +269,9 @@ Dam is in line 39:   MISSAMERICA BERTIE, by Quiet American. Placed at 3, $7,400.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Moons Malibu Barbi</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fear Not N Believe</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Praise Be</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Gold Express</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Explorer Giovanni</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dona Elsita</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>273</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -515,58 +283,9 @@ Dam is in line 39:   MISSAMERICA BERTIE, by Quiet American. Placed at 3, $7,400.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>De Two Step</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Awsome Charlie</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Datil Dancer</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>De Prophetess</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lola's Dance</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Carolina Bertie</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>273</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

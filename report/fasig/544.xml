@@ -11,8 +11,7 @@
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
 36
-		<DamName>**Miss Scout**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**Miss Scout**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -46,36 +45,8 @@ Dam is in line 36:   **Miss Scout**, by Pleasant Tap. Winner at 3, $74,067, 2nd 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lion in the Sun</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>544</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>544</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pams Crystal Candy</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>544</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Individualistic</HorseName>
 		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>544</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>c</HorseSex>
 		<hip>544</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -102,13 +73,6 @@ Dam is in line 36:   **Miss Scout**, by Pleasant Tap. Winner at 3, $74,067, 2nd 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Rustler's Moon</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>544</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**DON'TTALKTOME**</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -119,20 +83,6 @@ Dam is in line 36:   **Miss Scout**, by Pleasant Tap. Winner at 3, $74,067, 2nd 
 		<HorseName>All for Me</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>544</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>El Tracio</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>544</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ninja Chicken</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>c</HorseSex>
 		<hip>544</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -165,20 +115,6 @@ Dam is in line 36:   **Miss Scout**, by Pleasant Tap. Winner at 3, $74,067, 2nd 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Z Z's Prince</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>544</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pearl's Prince</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>544</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Gimme Sugar</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>g</HorseSex>
@@ -193,44 +129,9 @@ Dam is in line 36:   **Miss Scout**, by Pleasant Tap. Winner at 3, $74,067, 2nd 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Inspire Me</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>544</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Another Choice</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>544</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Theloveofmunnings</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>544</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>544</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>544</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>All in Good Time</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>g</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -11,8 +11,7 @@
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
 34
-		<DamName>**Hellenistic**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**Hellenistic**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -32,23 +31,9 @@ Dam is in line 34:   **Hellenistic**, by English Channel. 2 wins at 3, 14,690 Eu
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Red Rock Solution</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Dressy</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
 		<hip>197</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -102,20 +87,6 @@ Dam is in line 34:   **Hellenistic**, by English Channel. 2 wins at 3, 14,690 Eu
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Familia Virtual</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Jump At the Chance</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>c</HorseSex>
@@ -144,65 +115,9 @@ Dam is in line 34:   **Hellenistic**, by English Channel. 2 wins at 3, 14,690 Eu
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Balitrix</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Total Joy</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Total Para Que</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Candy Joy</HorseName>
-		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Total Boss</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Total Fun</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Total Triomphe</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=The Dorset</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Trickers</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>197</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -214,20 +129,6 @@ Dam is in line 34:   **Hellenistic**, by English Channel. 2 wins at 3, 14,690 Eu
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2010 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Angelight</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>g</HorseSex>
@@ -235,51 +136,9 @@ Dam is in line 34:   **Hellenistic**, by English Channel. 2 wins at 3, 14,690 Eu
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>R H F Gabriel</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Harleys Angel</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Valrhona Noir</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Quarter Angel</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Too Many Captains</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Isn't He Handsome</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Beatitude</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>197</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -298,50 +157,8 @@ Dam is in line 34:   **Hellenistic**, by English Channel. 2 wins at 3, 14,690 Eu
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Angel Circling</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Angel Curlena</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Angel On Point</HorseName>
 		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Angel Given</HorseName>
-		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>g</HorseSex>
 		<hip>197</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -392,34 +209,6 @@ Dam is in line 34:   **Hellenistic**, by English Channel. 2 wins at 3, 14,690 Eu
 		<HorseName>Woodsong's Castle</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Littlebitofaldrin</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Uncork Big Red</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Double Toll Gate</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>197</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Luft Songs</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

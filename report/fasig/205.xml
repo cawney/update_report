@@ -11,8 +11,7 @@
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
 34
-		<DamName>HONEYED</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>HONEYED</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -67,20 +66,6 @@ Dam is in line 34:   HONEYED, by Candy Ride (ARG). Placed at 4, $10,295. Half-si
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Infinite Cents</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -102,43 +87,8 @@ Dam is in line 34:   HONEYED, by Candy Ride (ARG). Placed at 4, $10,295. Half-si
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tiz Oblivion</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Waitin On Sharron</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Okbyecya</HorseName>
 		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Classic Farewell</HorseName>
-		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>c</HorseSex>
 		<hip>205</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -158,13 +108,6 @@ Dam is in line 34:   HONEYED, by Candy Ride (ARG). Placed at 4, $10,295. Half-si
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Midnitesalright**</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -175,20 +118,6 @@ Dam is in line 34:   HONEYED, by Candy Ride (ARG). Placed at 4, $10,295. Half-si
 		<HorseName>Targe</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Junglherly Love</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>205</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

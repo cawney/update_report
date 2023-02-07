@@ -16,8 +16,7 @@ update on line 36: + SPAC, by Gio Ponti. Placed at 3, $5,000. Half-sister to **A
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>g</HorseSex>
 40
-		<DamName>ASK ME WHEN</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>ASK ME WHEN</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -37,19 +36,11 @@ Dam is in line 40:   ASK ME WHEN, by Speightstown. Placed in 1 start at 3, $7,60
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tampico</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>394</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Moonshine Now</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>c</HorseSex>
 40
-		<DamName>ASK ME WHEN</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>ASK ME WHEN</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -63,15 +54,8 @@ Dam is in line 40:   ASK ME WHEN, by Speightstown. Placed in 1 start at 3, $7,60
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 58: +    Moonshine Now (2017 c. by Malibu Moon). 3 wins at 4, $63,540.
+update on line 51: +    Moonshine Now (2017 c. by Malibu Moon). 3 wins at 4, $63,540.
 Dam is in line 40:   ASK ME WHEN, by Speightstown. Placed in 1 start at 3, $7,600. Half-sister to **DOMINUS** ($444,717, 1st Bernard Baruch H. **[G2]** (SAR, $150,000), etc., sire), **Arcturus** ($64,600, 3rd Continental Mile S. (MTH, $6,050)). Dam of 9 foals, 7 to race, 5 winners--
-		<hip>394</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Reservation</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

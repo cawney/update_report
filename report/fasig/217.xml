@@ -7,63 +7,6 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Bestia Azul</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>217</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Appalachian Trail</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-34
-		<DamName>BURREN TRAIL (IRE)</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    Appalachian Trail (2020 f. by Accelerate). Placed in 2 starts at 3, 2023, $4,845.
-Dam is in line 34:   BURREN TRAIL (IRE), by Shamardal. Placed at 3, 1,600 Euro, in Ireland. Sent from Ireland to United States in 2014. (Total: $2,115). Sister to **OREGON LADY (IRE)** ($266,178, 1st My Charmer H. **[G3]** (CRC, $60,760), etc.). Dam of 8 foals, 4 to race, 2 winners--
-		<hip>217</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>San Sebastian</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-34
-		<DamName>BURREN TRAIL (IRE)</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 45: +    San Sebastian (2021 c. by Tourist). Unraced.
-Dam is in line 34:   BURREN TRAIL (IRE), by Shamardal. Placed at 3, 1,600 Euro, in Ireland. Sent from Ireland to United States in 2014. (Total: $2,115). Sister to **OREGON LADY (IRE)** ($266,178, 1st My Charmer H. **[G3]** (CRC, $60,760), etc.). Dam of 8 foals, 4 to race, 2 winners--
-		<hip>217</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Meiner Astoria</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -78,23 +21,9 @@ Dam is in line 34:   BURREN TRAIL (IRE), by Shamardal. Placed at 3, 1,600 Euro, 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lavender</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>217</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Vetusta</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>217</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Favila</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

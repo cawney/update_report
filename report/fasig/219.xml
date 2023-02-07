@@ -11,8 +11,7 @@
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
 34
-		<DamName>**MAMMA KIMBO**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**MAMMA KIMBO**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -36,8 +35,7 @@ Dam is in line 34:   **MAMMA KIMBO**, by Discreet Cat. 2 wins at 3, $242,250, 1s
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
 34
-		<DamName>**MAMMA KIMBO**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**MAMMA KIMBO**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -53,13 +51,6 @@ Dam is in line 34:   **MAMMA KIMBO**, by Discreet Cat. 2 wins at 3, $242,250, 1s
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 40: +    Mendenhall (2019 g. by Pioneerof the Nile). Winner at 3, 2022, $36,523.
 Dam is in line 34:   **MAMMA KIMBO**, by Discreet Cat. 2 wins at 3, $242,250, 1st Fantasy S. **[G2]** (OP, $180,000). Half-sister to **Jane of All Trades** ($151,689, 2nd Vagrancy H. **[G3]** (BEL, $30,000)). Dam of 8 foals, 6 to race, 4 winners--
-		<hip>219</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Treasure Coast</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>219</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

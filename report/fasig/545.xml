@@ -22,9 +22,8 @@ update on line 36: + **INDIAN BLESSING**, by Indian Charlie. 10 wins in 15 start
 		<HorseName>**AX MAN**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
-54
-		<DamName>**SHAMEFUL**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+46
+		<DamDamName>**SHAMEFUL**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -38,8 +37,8 @@ update on line 36: + **INDIAN BLESSING**, by Indian Charlie. 10 wins in 15 start
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 59: +    **AX MAN** (2015 g. by Misremembered). 8 wins, 3 to 7, 2022, $400,253, 1st Santana Mile S. [L] (SA, $47,880), Jim Rasmussen S. (PRM, $29,400), LARC Sir Barton S.-R (PIM, $60,000), 3rd Los Alamitos Derby **[G3]** (LRC, $18,000), Matt Winn S. **[G3]** (CD, $9,900), Clocker's Corner S.-R (SA, $9,072).
-Dam is in line 54:   **SHAMEFUL**, by Flying Chevron. 4 wins at 3 and 4, $241,345, 1st Pine Tree Lane S. [L] (SA, $47,190), 2nd La Troienne S. **[G3]** (CD, $22,520), Santa Paula S. [L] (SA, $15,915), Padua Stables Filly & Mare Sprint S.-R (GP, $50,000), 3rd Miss Preakness S. **[G3]** (PIM, $11,000). Half-sister to **LITTLE MATTH MAN** ($223,166, 1st Whirlaway S. [L] (AQU, $49,725), etc.), **Malibu Legacy** ($41,637, 2nd Cheap Seats S. (AQU, $12,000)). Dam of 13 foals, 10 to race, 10 winners--
+update on line 50: +    **AX MAN** (2015 g. by Misremembered). 8 wins, 3 to 7, 2022, $400,253, 1st Santana Mile S. [L] (SA, $47,880), Jim Rasmussen S. (PRM, $29,400), LARC Sir Barton S.-R (PIM, $60,000), 3rd Los Alamitos Derby **[G3]** (LRC, $18,000), Matt Winn S. **[G3]** (CD, $9,900), Clocker's Corner S.-R (SA, $9,072).
+Dam is in line 46:   **SHAMEFUL**, by Flying Chevron. 4 wins at 3 and 4, $241,345, 1st Pine Tree Lane S. [L] (SA, $47,190), 2nd La Troienne S. **[G3]** (CD, $22,520), Santa Paula S. [L] (SA, $15,915), Padua Stables Filly & Mare Sprint S.-R (GP, $50,000), 3rd Miss Preakness S. **[G3]** (PIM, $11,000). Half-sister to **LITTLE MATTH MAN** ($223,166, 1st Whirlaway S. [L] (AQU, $49,725), etc.), **Malibu Legacy** ($41,637, 2nd Cheap Seats S. (AQU, $12,000)). Dam of 13 foals, 10 to race, 10 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

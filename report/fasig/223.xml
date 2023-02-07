@@ -7,13 +7,6 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Diver</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>223</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>The X Factor</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
@@ -25,8 +18,7 @@
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
 38
-		<DamName>CAT DANCER</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>CAT DANCER</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -40,7 +32,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 60: +    Pinata Cat (2012 f. by Tiznow). Placed, 3 to 5, $23,696. Dam of 5 foals, 3 to race, 1 winner--
+update on line 49: +    Pinata Cat (2012 f. by Tiznow). Placed, 3 to 5, $23,696. Dam of 5 foals, 3 to race, 1 winner--
 Dam is in line 38:   CAT DANCER, by Storm Cat. Winner at 3, $53,465. Sister to **MAGIC STORM** ($249,135, 1st Monmouth Breeders' Cup Oaks **[G2]** (MTH, $150,000), etc.). Dam of 14 foals, 8 to race, 7 winners--
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -49,13 +41,6 @@ Dam is in line 38:   CAT DANCER, by Storm Cat. Winner at 3, $53,465. Sister to *
 		<HorseName>Silent Declaration</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
-		<hip>223</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Smart System</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -105,27 +90,6 @@ Dam is in line 38:   CAT DANCER, by Storm Cat. Winner at 3, $53,465. Sister to *
 		<HorseName>=Grace Valentina</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>223</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Fauda</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>223</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Grace World</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>223</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Agradecida</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>g</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

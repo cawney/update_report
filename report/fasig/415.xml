@@ -16,8 +16,7 @@ update on line 36: + SWEET BUT SASSY, by Skip to the Stone. Winner at 3, $8,940.
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>g</HorseSex>
 36
-		<DamName>SWEET BUT SASSY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>SWEET BUT SASSY</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -100,27 +99,6 @@ Dam is in line 36: + SWEET BUT SASSY, by Skip to the Stone. Winner at 3, $8,940.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>415</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Ay La Martita</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>415</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Giuseppino</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>415</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Quiet Time</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -142,20 +120,6 @@ Dam is in line 36: + SWEET BUT SASSY, by Skip to the Stone. Winner at 3, $8,940.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>415</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Time Honour</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>415</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Dixy Danger</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>g</HorseSex>
@@ -163,30 +127,9 @@ Dam is in line 36: + SWEET BUT SASSY, by Skip to the Stone. Winner at 3, $8,940.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Miss Delicada</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>415</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Russian Cat</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>415</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Scarlet's Song</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>415</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

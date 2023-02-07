@@ -8,31 +8,6 @@
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
 update on line 34: + PERFECT BOURBON, by Majesticperfection. Unraced. Dam of 3 foals, 1 to race--
-		<hip>319</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>El Gran Cuyaya</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
-34
-		<DamName>PERFECT BOURBON</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 40: +    El Gran Cuyaya (2020 g. by Klimt). Unplaced in 2 starts, $818.
-Dam is in line 34: + PERFECT BOURBON, by Majesticperfection. Unraced. Dam of 3 foals, 1 to race--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

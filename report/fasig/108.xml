@@ -16,8 +16,7 @@ update on line 34: + CTIMENE, by Consolidator. Winner at 3, $40,270. Half-sister
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
 34
-		<DamName>CTIMENE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>CTIMENE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -40,20 +39,6 @@ Dam is in line 34: + CTIMENE, by Consolidator. Winner at 3, $40,270. Half-sister
 		<HorseName>**DECKED OUT**</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>108</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>108</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Volles Kleid</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>c</HorseSex>
 		<hip>108</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -93,22 +78,8 @@ Dam is in line 34: + CTIMENE, by Consolidator. Winner at 3, $40,270. Half-sister
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>108</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Factor Around</HorseName>
 		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>108</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>c</HorseSex>
 		<hip>108</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -121,23 +92,9 @@ Dam is in line 34: + CTIMENE, by Consolidator. Winner at 3, $40,270. Half-sister
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>108</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Blessings Around</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
-		<hip>108</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
 		<hip>108</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -177,23 +134,9 @@ Dam is in line 34: + CTIMENE, by Consolidator. Winner at 3, $40,270. Half-sister
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Zipalongnow</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>108</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Super Gallop</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>108</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>108</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -205,30 +148,9 @@ Dam is in line 34: + CTIMENE, by Consolidator. Winner at 3, $40,270. Half-sister
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>108</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>108</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Margarita Hill</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>108</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Play Havoc</HorseName>
-		<HorseYOB>2012 </HorseYOB>
-		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

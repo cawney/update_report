@@ -11,8 +11,7 @@
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>c</HorseSex>
 34
-		<DamName>HEDONISM</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>HEDONISM</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -39,13 +38,6 @@ Dam is in line 34:   HEDONISM, by Curlin. Placed at 2, $9,860. Half-sister to **
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>196</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mozu Kin Medalist</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -62,13 +54,6 @@ Dam is in line 34:   HEDONISM, by Curlin. Placed at 2, $9,860. Half-sister to **
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Crystal Orb</HorseName>
 		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>196</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Misprint</HorseName>
-		<HorseYOB>2021 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>196</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>

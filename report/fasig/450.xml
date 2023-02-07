@@ -11,8 +11,7 @@
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
 38
-		<DamName>FRIENDLY LIVI</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>FRIENDLY LIVI</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -53,29 +52,8 @@ Dam is in line 38:   FRIENDLY LIVI, by Friendly Island. Unraced. Half-sister to 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Wilson A.</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>450</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>La Vecina</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>450</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>My Winchester Lady</HorseName>
 		<HorseYOB>2011 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>450</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Monday's Cause</HorseName>
-		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
 		<hip>450</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -95,37 +73,9 @@ Dam is in line 38:   FRIENDLY LIVI, by Friendly Island. Unraced. Half-sister to 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>My Aviatrix</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>450</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>My Awesomeness</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>450</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Awesome Advocate</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>450</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Gerivello</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>450</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Skye Jace</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

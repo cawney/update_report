@@ -16,8 +16,7 @@ update on line 36: + **MISS EMPIRE**, by Empire Maker. 2 wins at 2, $228,250, 1s
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>g</HorseSex>
 36
-		<DamName>**MISS EMPIRE**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**MISS EMPIRE**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -37,69 +36,9 @@ Dam is in line 36: + **MISS EMPIRE**, by Empire Maker. 2 wins at 2, $228,250, 1s
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Justine's Empire</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-36
-		<DamName>**MISS EMPIRE**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    Justine's Empire (2021 f. by Justify). Unraced.
-Dam is in line 36: + **MISS EMPIRE**, by Empire Maker. 2 wins at 2, $228,250, 1st Cinderella S. [L] (BHP, $60,000), Pike Place Dancer S. [L] (GG, $60,000), 2nd Sandy Blue H. (DMR, $18,940), 3rd Chandelier S. **[G1]** (SA, $30,000), Best Pal S. **[G2]** (DMR, $18,000), Landaluce S. [L] (BHP, $18,000). Half-sister to **BORDONARO** ($938,128, 1st Ancient Title Breeders' Cup S. **[G1]** (OSA, $120,000), etc.). Dam of 6 foals, 4 to race, 2 winners--
-		<hip>276</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>276</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Stunning Taste</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>g</HorseSex>
-		<hip>276</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Luksol</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>276</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>276</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>276</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>276</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -139,26 +78,11 @@ Dam is in line 36: + **MISS EMPIRE**, by Empire Maker. 2 wins at 2, $228,250, 1s
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Standforgrit</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>276</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>So Do What U Like</HorseName>
-		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>276</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Kulinski Rose</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>f</HorseSex>
-54
-		<DamName>MISS EXCITEMENT</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+44
+		<DamDamName>MISS EXCITEMENT</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -172,35 +96,14 @@ Dam is in line 36: + **MISS EMPIRE**, by Empire Maker. 2 wins at 2, $228,250, 1s
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 84: +    Kulinski Rose (2005 f. by Mud Route). Winner at 4, $49,580. Dam of 4 foals, 2 to race--
-Dam is in line 54:   MISS EXCITEMENT, by Rajab. 3 wins at 4 and 5, $103,825. Died 2014. Half-sister to **SEAHAWK GOLD** ($513,512, 1st Blue Eyed Davy S. [L] (SA, $29,050), etc.), **BEYOND THE WAVES** (Total: $187,752, broodmare of the year in U.S. (2019), 1st Prix des Tourelles [L], etc.). Dam of 11 foals, 8 to race, 8 winners--
-		<hip>276</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Uncle Walt</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
+update on line 67: +    Kulinski Rose (2005 f. by Mud Route). Winner at 4, $49,580. Dam of 4 foals, 2 to race--
+Dam is in line 44:   MISS EXCITEMENT, by Rajab. 3 wins at 4 and 5, $103,825. Died 2014. Half-sister to **SEAHAWK GOLD** ($513,512, 1st Blue Eyed Davy S. [L] (SA, $29,050), etc.), **BEYOND THE WAVES** (Total: $187,752, broodmare of the year in U.S. (2019), 1st Prix des Tourelles [L], etc.). Dam of 11 foals, 8 to race, 8 winners--
 		<hip>276</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Malibu Diamond</HorseName>
 		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>276</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>276</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
 		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>

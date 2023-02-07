@@ -11,8 +11,7 @@
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>c</HorseSex>
 34
-		<DamName>WABANAKI</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>WABANAKI</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -36,8 +35,7 @@ Dam is in line 34:   WABANAKI, by Indian Charlie. Unraced. Half-sister to **HELD
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
 34
-		<DamName>WABANAKI</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>WABANAKI</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -64,50 +62,8 @@ Dam is in line 34:   WABANAKI, by Indian Charlie. Unraced. Half-sister to **HELD
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>447</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>447</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mask Patrol</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>447</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Gordaya Dzheyn</HorseName>
 		<HorseYOB>2011 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>447</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Gurha</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>447</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>447</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Gorets Perviy</HorseName>
-		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>447</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -116,20 +72,6 @@ Dam is in line 34:   WABANAKI, by Indian Charlie. Unraced. Half-sister to **HELD
 		<HorseName>**TOP CATS</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>447</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>447</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sultry Kitten</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

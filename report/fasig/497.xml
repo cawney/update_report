@@ -14,37 +14,9 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>497</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>497</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Lady Jayhawk</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>497</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Spirit</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>497</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Gracea</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>497</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -56,19 +28,11 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Flor de Key</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>497</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Ourquickdrawmcgraw</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
-44
-		<DamName>**Mystery At Sea**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+40
+		<DamDamName>**Mystery At Sea**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -82,8 +46,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 79: +    Ourquickdrawmcgraw (2019 g. by Half Ours). Winner at 3, placed at 4, 2023, $16,150.
-Dam is in line 44:   **Mystery At Sea**, by Capote. Winner at 3, $37,183, 3rd Pepsi Bassinet S. [L] (RD, $10,000). Half-sister to **DESERT WAVES** ($1,241,295, 1st King Edward Breeders' Cup H. **[G2]**, etc.), **DUCKPOWER** ($447,253, 1st Heresy S. [L] (WO, $35,190(CAN)), etc.), **WAVE WISE** ($409,019, 1st Cup and Saucer S. [LR] (WO, $88,905(CAN)), etc.), **SPINNAKERS FLYING** ($237,019, 1st Wonder Where S. [LR] (WO, $69,900(CAN)), etc.), **SEARCH THE SEA** ($176,635, 1st Ontario Damsel S.-R (WO, $50,400(CAN)), etc.), **Dawn At Sea** ($362,029, 2nd Canadian Maturity S. [LR] (WO, $25,594(CAN)), etc.), **Ocean Secret** ($44,161, 2nd Cup and Saucer S.-R (WO, $26,852(CAN))). Dam of 12 foals, 11 to race, 8 winners--
+update on line 56: +    Ourquickdrawmcgraw (2019 g. by Half Ours). Winner at 3, placed at 4, 2023, $16,150.
+Dam is in line 40:   **Mystery At Sea**, by Capote. Winner at 3, $37,183, 3rd Pepsi Bassinet S. [L] (RD, $10,000). Half-sister to **DESERT WAVES** ($1,241,295, 1st King Edward Breeders' Cup H. **[G2]**, etc.), **DUCKPOWER** ($447,253, 1st Heresy S. [L] (WO, $35,190(CAN)), etc.), **WAVE WISE** ($409,019, 1st Cup and Saucer S. [LR] (WO, $88,905(CAN)), etc.), **SPINNAKERS FLYING** ($237,019, 1st Wonder Where S. [LR] (WO, $69,900(CAN)), etc.), **SEARCH THE SEA** ($176,635, 1st Ontario Damsel S.-R (WO, $50,400(CAN)), etc.), **Dawn At Sea** ($362,029, 2nd Canadian Maturity S. [LR] (WO, $25,594(CAN)), etc.), **Ocean Secret** ($44,161, 2nd Cup and Saucer S.-R (WO, $26,852(CAN))). Dam of 12 foals, 11 to race, 8 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

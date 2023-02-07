@@ -11,8 +11,7 @@
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>c</HorseSex>
 33
-		<DamName>RUN CARRIE RUN</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>RUN CARRIE RUN</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,15 +25,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    Witsec (2020 f. by Run Away and Hide). Placed at 2, 2022, $14,446.
+update on line 39: +    Witsec (2020 f. by Run Away and Hide). Placed at 2, 2022, $14,446.
 Dam is in line 33:   RUN CARRIE RUN, by Orientate. Unraced. Dam of 8 foals, 7 to race, 4 winners--
-		<hip>360</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Gospel Blossom</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

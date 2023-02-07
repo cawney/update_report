@@ -7,37 +7,11 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Laser Sharp</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-34
-		<DamName>MAISIE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 37: +    Laser Sharp (2021 c. by Sharp Azteca). Unraced.
-Dam is in line 34:   MAISIE, by Stay Thirsty. Placed at 2 and 3, $24,308, in Canada; unplaced, $5,227, in N.A./U.S. (Total: $24,301). Half-sister to **LOVELY BERNADETTE** ($570,312, 1st Mrs. Revere S. **[G2]** (CD, $117,800), etc.). Dam of 3 foals--
-		<hip>257</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**LOVELY BERNADETTE**</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
-41
-		<DamName>INLOVEWITHLOVE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+37
+		<DamDamName>INLOVEWITHLOVE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -51,8 +25,8 @@ Dam is in line 34:   MAISIE, by Stay Thirsty. Placed at 2 and 3, $24,308, in Can
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    **LOVELY BERNADETTE** (2014 f. by Wilburn). 8 wins, 2 to 4, $570,312, 1st Mrs. Revere S. **[G2]** (CD, $117,800), Pin Oak Valley View S. **[G3]** (KEE, $90,000), Old Forester Mint Julep H. **[G3]** (CD, $58,900), Indiana Grand S. [L] (IND, $114,000), Rags to Riches S. (CD, $50,021), 3rd Pucker Up S. **[G3]** (AP, $10,230), TaWee S. (IND, $10,230). Sent from United States to Japan in 2018. Dam of 2 foals, 1 to race, 1 winner--
-Dam is in line 41:   INLOVEWITHLOVE, by Bernstein. Winner at 4 and 5, $26,124. Dam of 8 foals, 4 to race, 2 winners--
+update on line 39: +    **LOVELY BERNADETTE** (2014 f. by Wilburn). 8 wins, 2 to 4, $570,312, 1st Mrs. Revere S. **[G2]** (CD, $117,800), Pin Oak Valley View S. **[G3]** (KEE, $90,000), Old Forester Mint Julep H. **[G3]** (CD, $58,900), Indiana Grand S. [L] (IND, $114,000), Rags to Riches S. (CD, $50,021), 3rd Pucker Up S. **[G3]** (AP, $10,230), TaWee S. (IND, $10,230). Sent from United States to Japan in 2018. Dam of 2 foals, 1 to race, 1 winner--
+Dam is in line 37:   INLOVEWITHLOVE, by Bernstein. Winner at 4 and 5, $26,124. Dam of 8 foals, 4 to race, 2 winners--
 		<hip>257</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -67,9 +41,8 @@ Dam is in line 41:   INLOVEWITHLOVE, by Bernstein. Winner at 4 and 5, $26,124. D
 		<HorseName>Leopardi</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
-41
-		<DamName>INLOVEWITHLOVE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+37
+		<DamDamName>INLOVEWITHLOVE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -83,33 +56,8 @@ Dam is in line 41:   INLOVEWITHLOVE, by Bernstein. Winner at 4 and 5, $26,124. D
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 50: +    Leopardi (2019 g. by Curlin). Winner at 3, 2022, $34,670.
-Dam is in line 41:   INLOVEWITHLOVE, by Bernstein. Winner at 4 and 5, $26,124. Dam of 8 foals, 4 to race, 2 winners--
-		<hip>257</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ghent Road</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>g</HorseSex>
-41
-		<DamName>INLOVEWITHLOVE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 58: +    Ghent Road (2020 g. by Good Magic). Unraced.
-Dam is in line 41:   INLOVEWITHLOVE, by Bernstein. Winner at 4 and 5, $26,124. Dam of 8 foals, 4 to race, 2 winners--
+update on line 44: +    Leopardi (2019 g. by Curlin). Winner at 3, 2022, $34,670.
+Dam is in line 37:   INLOVEWITHLOVE, by Bernstein. Winner at 4 and 5, $26,124. Dam of 8 foals, 4 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

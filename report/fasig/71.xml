@@ -11,8 +11,7 @@
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>c</HorseSex>
 34
-		<DamName>CARINHOSA</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>CARINHOSA</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,13 +25,13 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 41: +    Unnamed (2022 c. by Palace Malice). See above.
+update on line 40: +    Unnamed (2022 c. by Palace Malice). See above.
 Dam is in line 34:   CARINHOSA, by Sky Mesa. Unraced. Sister to **THISKYHASNOLIMIT** ($777,828, 1st Texas Mile S. **[G3]** (LS, $125,000), etc.). Dam of 6 foals, 4 to race, 4 winners--
 <hip>71</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
-update on line 46: + LOVELY REGINA, by Deputy Minister. Unplaced, $1,260. Half-sister to **BERNARDINI** ($3,060,480, champion 3-year-old colt in U.S. (2006), 1st Preakness S. **[G1]** (PIM, $600,000), etc., leading broodmare sire in U.S. (2022)), **Ile de France** ($125,300, 3rd Santa Anita Oaks **[G1]** (SA, $36,000)). Dam of 11 foals, 8 to race, 8 winners--
+update on line 44: + LOVELY REGINA, by Deputy Minister. Unplaced, $1,260. Half-sister to **BERNARDINI** ($3,060,480, champion 3-year-old colt in U.S. (2006), 1st Preakness S. **[G1]** (PIM, $600,000), etc., leading broodmare sire in U.S. (2022)), **Ile de France** ($125,300, 3rd Santa Anita Oaks **[G1]** (SA, $36,000)). Dam of 11 foals, 8 to race, 8 winners--
 		<hip>71</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -51,23 +50,9 @@ update on line 46: + LOVELY REGINA, by Deputy Minister. Unplaced, $1,260. Half-s
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Gamblers Tail</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>71</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Scurry</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>c</HorseSex>
-		<hip>71</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Delightful Ava</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>g</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -10,9 +10,8 @@
 		<HorseName>One Whirlwind Ride</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
-39
-		<DamName>**THE FUNKY EXPRESS**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+37
+		<DamDamName>**THE FUNKY EXPRESS**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,8 +25,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 44: +    One Whirlwind Ride (2018 g. by Twirling Candy). Winner at 3 and 4, 2022, $174,250.
-Dam is in line 39:   **THE FUNKY EXPRESS**, by Freud. 3 wins in 4 starts at 2, $123,400, 1st New York Stallion Series S.-R (AQU, $60,000). Half-sister to **Funky Munky Mama** ($170,143, 3rd Lady Finger S.-R (FL, $13,923)). Dam of 9 foals, 6 to race, 5 winners--
+update on line 42: +    One Whirlwind Ride (2018 g. by Twirling Candy). Winner at 3 and 4, 2022, $174,250.
+Dam is in line 37:   **THE FUNKY EXPRESS**, by Freud. 3 wins in 4 starts at 2, $123,400, 1st New York Stallion Series S.-R (AQU, $60,000). Half-sister to **Funky Munky Mama** ($170,143, 3rd Lady Finger S.-R (FL, $13,923)). Dam of 9 foals, 6 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

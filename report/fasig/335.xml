@@ -7,62 +7,11 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-34
-		<DamName>KRAZY KATHY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 39: +    Unnamed (2022 f. by Good Magic).
-Dam is in line 34:   KRAZY KATHY, by Harlan's Holiday. Winner at 3, $41,107. Sister to **INTENSE HOLIDAY** ($551,900, 1st Risen Star S. **[G2]** (FG, $240,000), etc.), half-sister to **MONEY MULTIPLIER** ($1,182,684, 1st Monmouth S. **[G2]** (MTH, $120,000) twice, etc.). Dam of 4 foals, 2 to race, 2 winners--
-		<hip>335</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bayou Magic</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>g</HorseSex>
-34
-		<DamName>KRAZY KATHY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 41: +    Bayou Magic (2021 c. by Good Magic). Unraced.
-Dam is in line 34:   KRAZY KATHY, by Harlan's Holiday. Winner at 3, $41,107. Sister to **INTENSE HOLIDAY** ($551,900, 1st Risen Star S. **[G2]** (FG, $240,000), etc.), half-sister to **MONEY MULTIPLIER** ($1,182,684, 1st Monmouth S. **[G2]** (MTH, $120,000) twice, etc.). Dam of 4 foals, 2 to race, 2 winners--
-		<hip>335</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Cruelmore</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
-44
-		<DamName>INTENSIFY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+38
+		<DamDamName>INTENSIFY</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -76,8 +25,8 @@ Dam is in line 34:   KRAZY KATHY, by Harlan's Holiday. Winner at 3, $41,107. Sis
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 51: +    Cruelmore (2010 f. by Forestry). Placed at 3, $8,244. Dam of 7 foals, 6 to race, 5 winners--
-Dam is in line 44:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sister to **CRAFTY SHAW** ($1,046,440, 1st Rebel S. **[G3]**, etc., sire), **HER SHE KISSES** ($270,595, 1st Lady's Secret H. (RP, $21,000), etc.). Dam of 10 foals, 7 to race, 4 winners--
+update on line 45: +    Cruelmore (2010 f. by Forestry). Placed at 3, $8,244. Dam of 7 foals, 6 to race, 5 winners--
+Dam is in line 38:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sister to **CRAFTY SHAW** ($1,046,440, 1st Rebel S. **[G3]**, etc., sire), **HER SHE KISSES** ($270,595, 1st Lady's Secret H. (RP, $21,000), etc.). Dam of 10 foals, 7 to race, 4 winners--
 		<hip>335</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -103,37 +52,11 @@ Dam is in line 44:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sist
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Turino</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-44
-		<DamName>INTENSIFY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 69: +    Turino (2021 f. by Kantharos). Unraced.
-Dam is in line 44:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sister to **CRAFTY SHAW** ($1,046,440, 1st Rebel S. **[G3]**, etc., sire), **HER SHE KISSES** ($270,595, 1st Lady's Secret H. (RP, $21,000), etc.). Dam of 10 foals, 7 to race, 4 winners--
-		<hip>335</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Backroom</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>c</HorseSex>
-44
-		<DamName>INTENSIFY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+38
+		<DamDamName>INTENSIFY</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -147,15 +70,8 @@ Dam is in line 44:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sist
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 74: +    Backroom (2017 f. by Fed Biz). Unplaced in 1 start, $310. Dam of 1 foal--
-Dam is in line 44:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sister to **CRAFTY SHAW** ($1,046,440, 1st Rebel S. **[G3]**, etc., sire), **HER SHE KISSES** ($270,595, 1st Lady's Secret H. (RP, $21,000), etc.). Dam of 10 foals, 7 to race, 4 winners--
-		<hip>335</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Il Divo</HorseName>
-		<HorseYOB>2023 </HorseYOB>
-		<HorseSex>c</HorseSex>
+update on line 61: +    Backroom (2017 f. by Fed Biz). Unplaced in 1 start, $310. Dam of 1 foal--
+Dam is in line 38:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sister to **CRAFTY SHAW** ($1,046,440, 1st Rebel S. **[G3]**, etc., sire), **HER SHE KISSES** ($270,595, 1st Lady's Secret H. (RP, $21,000), etc.). Dam of 10 foals, 7 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

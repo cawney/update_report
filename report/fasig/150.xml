@@ -11,8 +11,7 @@
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>f</HorseSex>
 37
-		<DamName>EXTRA IMPACT</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>EXTRA IMPACT</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,7 +25,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 48: +    Unnamed (2022 f. by Vino Rosso). See above.
+update on line 45: +    Unnamed (2022 f. by Vino Rosso). See above.
 Dam is in line 37:   EXTRA IMPACT, by Honour and Glory. 4 wins at 3 and 4, $97,660. Half-sister to **RED KING** ($586,555, 1st Del Mar H. **[G2]** (DMR, $120,000), etc.). Dam of 9 foals, 6 to race, 5 winners--
 		<hip>150</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>

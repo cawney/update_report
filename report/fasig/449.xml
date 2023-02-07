@@ -11,8 +11,7 @@
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
 33
-		<DamName>SPANISH HALO</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>SPANISH HALO</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -46,20 +45,6 @@ Dam is in line 33:   SPANISH HALO, by Comic Strip. Unraced. Dam of 10 foals, 8 t
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>449</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>449</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Alesha</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -71,8 +56,7 @@ Dam is in line 33:   SPANISH HALO, by Comic Strip. Unraced. Dam of 10 foals, 8 t
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
 33
-		<DamName>SPANISH HALO</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>SPANISH HALO</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -86,15 +70,8 @@ Dam is in line 33:   SPANISH HALO, by Comic Strip. Unraced. Dam of 10 foals, 8 t
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 59: +    Halo Ahead (2014 f. by Kitten's Joy). Placed at 3, $45,067. Dam of 3 foals, 1 to race--
+update on line 50: +    Halo Ahead (2014 f. by Kitten's Joy). Placed at 3, $45,067. Dam of 3 foals, 1 to race--
 Dam is in line 33:   SPANISH HALO, by Comic Strip. Unraced. Dam of 10 foals, 8 to race, 5 winners--
-		<hip>449</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Halo Code</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>g</HorseSex>
 		<hip>449</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -103,8 +80,7 @@ Dam is in line 33:   SPANISH HALO, by Comic Strip. Unraced. Dam of 10 foals, 8 t
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
 33
-		<DamName>SPANISH HALO</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>SPANISH HALO</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -118,7 +94,7 @@ Dam is in line 33:   SPANISH HALO, by Comic Strip. Unraced. Dam of 10 foals, 8 t
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 69: +    Crown of Light (2013 f. by Popular). Unplaced, $1,140. Dam of 5 foals, 2 to race, 1 winner--
+update on line 54: +    Crown of Light (2013 f. by Popular). Unplaced, $1,140. Dam of 5 foals, 2 to race, 1 winner--
 Dam is in line 33:   SPANISH HALO, by Comic Strip. Unraced. Dam of 10 foals, 8 to race, 5 winners--
 		<hip>449</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -127,20 +103,6 @@ Dam is in line 33:   SPANISH HALO, by Comic Strip. Unraced. Dam of 10 foals, 8 t
 		<HorseName>J C Express</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>449</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Royal and Ready</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>449</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

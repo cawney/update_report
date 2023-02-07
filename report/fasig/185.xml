@@ -11,8 +11,7 @@
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>c</HorseSex>
 34
-		<DamName>GYPSY JO</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>GYPSY JO</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>

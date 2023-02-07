@@ -7,31 +7,6 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Longer View</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>g</HorseSex>
-34
-		<DamName>**Divergent View**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 38: +    Longer View (2019 g. by Candy Ride (ARG)). Placed at 3, 2022, $7,676.
-Dam is in line 34:   **Divergent View**, by Congrats. 2 wins at 2, $68,001, in N.A./U.S., 2nd Prairie Gold Lassie S. (PRM, $15,000); winner at 3, $19,520, in Canada. (Total: $85,947). Half-sister to **Wasted At Midnight** ($213,718, 2nd Desert Stormer S. (SA, $16,100)). Dam of 4 foals, 3 to race, 1 winner--
-		<hip>494</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Midnight Majesty</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>

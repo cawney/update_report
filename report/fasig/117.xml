@@ -11,8 +11,7 @@
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>c</HorseSex>
 33
-		<DamName>DESERT BLISS</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>DESERT BLISS</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -35,9 +34,8 @@ Dam is in line 33:   DESERT BLISS, by Utopia (JPN). 5 wins, 3 to 7, $275,596. Da
 		<HorseName>Lillehammer</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>r</HorseSex>
-40
-		<DamName>DESERT DEED</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+38
+		<DamDamName>DESERT DEED</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -51,8 +49,8 @@ Dam is in line 33:   DESERT BLISS, by Utopia (JPN). 5 wins, 3 to 7, $275,596. Da
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    Lillehammer (2008 f. by North Light (IRE)). 3 wins, 3 to 6, $80,316. Dam of 3 foals, 1 to race, 1 winner--
-Dam is in line 40:   DESERT DEED, by Exploit. Winner at 3, $29,679. Sent from United States to Republic of Korea in 2010. Half-sister to **SIR CAT** ($401,185, 1st National Museum of Racing Hall of Fame S. **[G2]**, etc., sire). Dam of 8 foals, 6 to race, 3 winners--
+update on line 41: +    Lillehammer (2008 f. by North Light (IRE)). 3 wins, 3 to 6, $80,316. Dam of 3 foals, 1 to race, 1 winner--
+Dam is in line 38:   DESERT DEED, by Exploit. Winner at 3, $29,679. Sent from United States to Republic of Korea in 2010. Half-sister to **SIR CAT** ($401,185, 1st National Museum of Racing Hall of Fame S. **[G2]**, etc., sire). Dam of 8 foals, 6 to race, 3 winners--
 		<hip>117</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

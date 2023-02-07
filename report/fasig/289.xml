@@ -11,8 +11,7 @@
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
 34
-		<DamName>CASTING DIRECTOR</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>CASTING DIRECTOR</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -36,8 +35,7 @@ Dam is in line 34:   CASTING DIRECTOR, by Bernardini. Unraced. Dam of 6 foals, 5
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
 34
-		<DamName>CASTING DIRECTOR</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>CASTING DIRECTOR</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>

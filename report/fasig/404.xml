@@ -7,19 +7,11 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Oberer</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>404</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Unnamed</HorseName>
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>c</HorseSex>
 33
-		<DamName>STORM THE CHURCH</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>STORM THE CHURCH</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -33,7 +25,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 47: +    Unnamed (2022 c. by Street Boss). See above.
+update on line 40: +    Unnamed (2022 c. by Street Boss). See above.
 Dam is in line 33:   STORM THE CHURCH, by Pulpit. Placed at 3, $41,880. Half-sister to **CAJUN CONQUEST** ($173,190, 1st Seeking the Gold S. (LAD, $30,000)). Dam of 5 foals, 4 to race, 3 winners--
 		<hip>404</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -42,9 +34,8 @@ Dam is in line 33:   STORM THE CHURCH, by Pulpit. Placed at 3, $41,880. Half-sis
 		<HorseName>Probably Thursday</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
-50
-		<DamName>PROBABLE STORM</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+42
+		<DamDamName>PROBABLE STORM</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -58,8 +49,8 @@ Dam is in line 33:   STORM THE CHURCH, by Pulpit. Placed at 3, $41,880. Half-sis
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 70: +    Probably Thursday (2013 f. by Gio Ponti). Unplaced, $2,622. Dam of 5 foals, 3 to race, 1 winner--
-Dam is in line 50:   PROBABLE STORM, by Tabasco Cat. Unraced. Half-sister to **SUMMER COLONY** ($1,448,930, 1st Personal Ensign H. **[G1]** (SAR, $240,000), etc.), **Colonial Causeway** ($130,200, 3rd Primal S. (CRC, $5,500)). Dam of 11 foals, 9 to race, 5 winners--
+update on line 53: +    Probably Thursday (2013 f. by Gio Ponti). Unplaced, $2,622. Dam of 5 foals, 3 to race, 1 winner--
+Dam is in line 42:   PROBABLE STORM, by Tabasco Cat. Unraced. Half-sister to **SUMMER COLONY** ($1,448,930, 1st Personal Ensign H. **[G1]** (SAR, $240,000), etc.), **Colonial Causeway** ($130,200, 3rd Primal S. (CRC, $5,500)). Dam of 11 foals, 9 to race, 5 winners--
 		<hip>404</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

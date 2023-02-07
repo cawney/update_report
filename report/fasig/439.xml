@@ -28,27 +28,6 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Her Best Friend</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Feast Day</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>American Bastet</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -77,19 +56,11 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Pretty U</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
 38
-		<DamName>PRETTYATTHETABLE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>PRETTYATTHETABLE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -103,7 +74,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 74: +    Pretty U (2012 f. by Pomeroy). Winner at 2, $19,708. Dam of 5 foals, 3 to race, 3 winners--
+update on line 65: +    Pretty U (2012 f. by Pomeroy). Winner at 2, $19,708. Dam of 5 foals, 3 to race, 3 winners--
 Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-sister to **Triple Cream** ($98,560, 2nd Desert Vixen S. [L] (MTH, $20,000), etc.), **Venado** ($90,215, 3rd Ohio Valley H. [L] (MNR, $7,500)). Dam of 9 foals, 8 to race, 5 winners--
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -123,19 +94,11 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Moon Over Matter</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
 38
-		<DamName>PRETTYATTHETABLE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>PRETTYATTHETABLE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -149,7 +112,7 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 92: +    Moon Over Matter (2014 f. by Malibu Moon). Unraced. Dam of 4 foals, 2 to race, 2 winners--
+update on line 75: +    Moon Over Matter (2014 f. by Malibu Moon). Unraced. Dam of 4 foals, 2 to race, 2 winners--
 Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-sister to **Triple Cream** ($98,560, 2nd Desert Vixen S. [L] (MTH, $20,000), etc.), **Venado** ($90,215, 3rd Ohio Valley H. [L] (MNR, $7,500)). Dam of 9 foals, 8 to race, 5 winners--
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -162,37 +125,9 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ararat</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Gateau St Honore</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -204,57 +139,8 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Whappen</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Scarlett O'Mara</HorseName>
 		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tiz a Gift</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>El Burrito</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>My Good Good Boy</HorseName>
-		<HorseYOB>2021 </HorseYOB>
 		<HorseSex>c</HorseSex>
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -263,13 +149,6 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 		<HorseName>Daniel's Magic</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lemon Drop Love</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -284,34 +163,6 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 		<HorseName>Big Papa Steve</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Big Sis Little Sis</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Steve's Big Ticket</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>439</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>The Kid I Neverhad</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

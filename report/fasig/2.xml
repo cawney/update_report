@@ -11,8 +11,7 @@
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>f</HorseSex>
 38
-		<DamName>**BEAUTIFUL EAST**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**BEAUTIFUL EAST**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -50,8 +49,7 @@ Dam is in line 38:   **BEAUTIFUL EAST**, by Wolf Power (SAF). 4 wins at 3 and 5,
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
 38
-		<DamName>**BEAUTIFUL EAST**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**BEAUTIFUL EAST**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -65,7 +63,7 @@ Dam is in line 38:   **BEAUTIFUL EAST**, by Wolf Power (SAF). 4 wins at 3 and 5,
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 57: +    Strum and Pluck (2017 g. by Midnight Lute). 3 wins at 4 and 5, 2022, $60,232.
+update on line 51: +    Strum and Pluck (2017 g. by Midnight Lute). 3 wins at 4 and 5, 2022, $60,232.
 Dam is in line 38:   **BEAUTIFUL EAST**, by Wolf Power (SAF). 4 wins at 3 and 5, $195,405, 1st Queen Lib H.-R (MED, $33,000), 2nd Spruce Fir H.-R (MTH, $12,000), Goldfinch H.-R (MTH, $12,000), 3rd Eleven North H.-R (MTH, $11,000). Half-sister to **BET A BUCK** ($93,695, 1st Danzig S.-R (PEN, $27,420)). Dam of 7 foals, 4 to race, 4 winners--
 		<hip>2</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -92,79 +90,9 @@ Dam is in line 38:   **BEAUTIFUL EAST**, by Wolf Power (SAF). 4 wins at 3 and 5,
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Nancy My Love</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ice Moon</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Moon Queen</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Auto Glide</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Rock Me Mama</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>c</HorseSex>
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Oceana</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Jukebox Juju</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>g</HorseSex>
 		<hip>2</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -176,19 +104,11 @@ Dam is in line 38:   **BEAUTIFUL EAST**, by Wolf Power (SAF). 4 wins at 3 and 5,
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Boptart</HorseName>
-		<HorseYOB>2012 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Dark Eyes</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>r</HorseSex>
-71
-		<DamName>**SQUARE UP THE BET**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+62
+		<DamDamName>**SQUARE UP THE BET**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -202,8 +122,8 @@ Dam is in line 38:   **BEAUTIFUL EAST**, by Wolf Power (SAF). 4 wins at 3 and 5,
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 112: +    Dark Eyes (2006 f. by Holy Bull). Winner at 3, $44,800. Dam of 5 foals, 5 to race, 4 winners--
-Dam is in line 71:   **SQUARE UP THE BET**, by Bet Big. 4 wins at 2 and 3, $60,480, 1st Notches Trace S. (LRL, $18,825). Half-sister to **THUNDERELLO** ($388,400, 1st Gallant Bob H. [L] (PHA, $90,000), etc., sire), **MS. DEEP POCKETS** ($225,477, 1st OBS Championship S.-R (OTC, $60,000), etc.). Dam of 10 foals, 9 to race, 7 winners--
+update on line 84: +    Dark Eyes (2006 f. by Holy Bull). Winner at 3, $44,800. Dam of 5 foals, 5 to race, 4 winners--
+Dam is in line 62:   **SQUARE UP THE BET**, by Bet Big. 4 wins at 2 and 3, $60,480, 1st Notches Trace S. (LRL, $18,825). Half-sister to **THUNDERELLO** ($388,400, 1st Gallant Bob H. [L] (PHA, $90,000), etc., sire), **MS. DEEP POCKETS** ($225,477, 1st OBS Championship S.-R (OTC, $60,000), etc.). Dam of 10 foals, 9 to race, 7 winners--
 		<hip>2</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -218,13 +138,6 @@ Dam is in line 71:   **SQUARE UP THE BET**, by Bet Big. 4 wins at 2 and 3, $60,4
 		<HorseName>Such Spirit</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>c</HorseSex>
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>So Steady</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

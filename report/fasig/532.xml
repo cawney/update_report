@@ -16,8 +16,7 @@ update on line 36: + **BURBAN**, by Speightstown. 5 wins, 3 to 5, $289,087, 1st 
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
 36
-		<DamName>**BURBAN**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**BURBAN**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -41,8 +40,7 @@ Dam is in line 36: + **BURBAN**, by Speightstown. 5 wins, 3 to 5, $289,087, 1st 
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
 36
-		<DamName>**BURBAN**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**BURBAN**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>

@@ -11,8 +11,7 @@
 		<HorseYOB>2021 </HorseYOB>
 		<HorseSex>g</HorseSex>
 33
-		<DamName>PLEIN AIR</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>PLEIN AIR</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -41,8 +40,7 @@ update on line 42: + FALSE IMPRESSION, by A.P. Indy. Winner at 2, $47,572. Half-
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
 42
-		<DamName>FALSE IMPRESSION</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>FALSE IMPRESSION</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -57,31 +55,6 @@ update on line 42: + FALSE IMPRESSION, by A.P. Indy. Winner at 2, $47,572. Half-
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 49: +    Thales (2018 g. by Quality Road). Winner at 4, 2022, $38,360.
-Dam is in line 42: + FALSE IMPRESSION, by A.P. Indy. Winner at 2, $47,572. Half-sister to **Divine Elegance** ($238,577, 3rd Matron S. **[G3]** (CD, $9,400)), **Unbridled Endeavor** ($73,600, 2nd Livermore Valley Wines S. (PLN, $10,100)). Dam of 11 foals, 8 to race, 7 winners--
-		<hip>331</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-42
-		<DamName>FALSE IMPRESSION</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 55: +    Unnamed (2022 c. by Gun Runner).
 Dam is in line 42: + FALSE IMPRESSION, by A.P. Indy. Winner at 2, $47,572. Half-sister to **Divine Elegance** ($238,577, 3rd Matron S. **[G3]** (CD, $9,400)), **Unbridled Endeavor** ($73,600, 2nd Livermore Valley Wines S. (PLN, $10,100)). Dam of 11 foals, 8 to race, 7 winners--
 	</update>
 </FasigTiptonUpdates>

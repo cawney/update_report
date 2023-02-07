@@ -11,8 +11,7 @@
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
 34
-		<DamName>GAMBLERS ROSE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>GAMBLERS ROSE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -28,36 +27,11 @@
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 36: +    Smoking Gun (2018 g. by Oxbow). 3 wins, 3 to 5, 2023, $66,669.
 Dam is in line 34:   GAMBLERS ROSE, by Pulpit. 2 wins at 4, $152,321. Half-sister to **THISKYHASNOLIMIT** ($777,828, 1st Texas Mile S. **[G3]** (LS, $125,000), etc.). Dam of 5 foals, 3 to race, 1 winner--
-		<hip>313</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Gamblers Tail</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-34
-		<DamName>GAMBLERS ROSE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 41: +    Gamblers Tail (2021 c. by Hightail). Unraced.
-Dam is in line 34:   GAMBLERS ROSE, by Pulpit. 2 wins at 4, $152,321. Half-sister to **THISKYHASNOLIMIT** ($777,828, 1st Texas Mile S. **[G3]** (LS, $125,000), etc.). Dam of 5 foals, 3 to race, 1 winner--
 <hip>313</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
-update on line 45: + LOVELY REGINA, by Deputy Minister. Unplaced, $1,260. Half-sister to **BERNARDINI** ($3,060,480, champion 3-year-old colt in U.S. (2006), 1st Preakness S. **[G1]** (PIM, $600,000), etc., leading broodmare sire in U.S. (2022)), **Ile de France** ($125,300, 3rd Santa Anita Oaks **[G1]** (SA, $36,000)). Dam of 11 foals, 8 to race, 8 winners--
+update on line 42: + LOVELY REGINA, by Deputy Minister. Unplaced, $1,260. Half-sister to **BERNARDINI** ($3,060,480, champion 3-year-old colt in U.S. (2006), 1st Preakness S. **[G1]** (PIM, $600,000), etc., leading broodmare sire in U.S. (2022)), **Ile de France** ($125,300, 3rd Santa Anita Oaks **[G1]** (SA, $36,000)). Dam of 11 foals, 8 to race, 8 winners--
 		<hip>313</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -65,9 +39,8 @@ update on line 45: + LOVELY REGINA, by Deputy Minister. Unplaced, $1,260. Half-s
 		<HorseName>Satyana</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>f</HorseSex>
-45
-		<DamName>LOVELY REGINA</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+42
+		<DamDamName>LOVELY REGINA</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -81,8 +54,8 @@ update on line 45: + LOVELY REGINA, by Deputy Minister. Unplaced, $1,260. Half-s
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 56: +    Satyana (2009 f. by Street Cry (IRE)). Winner at 3, $29,406. Sent from United States to Japan in 2016. Dam of 7 foals, 7 to race, 3 winners--
-Dam is in line 45: + LOVELY REGINA, by Deputy Minister. Unplaced, $1,260. Half-sister to **BERNARDINI** ($3,060,480, champion 3-year-old colt in U.S. (2006), 1st Preakness S. **[G1]** (PIM, $600,000), etc., leading broodmare sire in U.S. (2022)), **Ile de France** ($125,300, 3rd Santa Anita Oaks **[G1]** (SA, $36,000)). Dam of 11 foals, 8 to race, 8 winners--
+update on line 53: +    Satyana (2009 f. by Street Cry (IRE)). Winner at 3, $29,406. Sent from United States to Japan in 2016. Dam of 7 foals, 7 to race, 3 winners--
+Dam is in line 42: + LOVELY REGINA, by Deputy Minister. Unplaced, $1,260. Half-sister to **BERNARDINI** ($3,060,480, champion 3-year-old colt in U.S. (2006), 1st Preakness S. **[G1]** (PIM, $600,000), etc., leading broodmare sire in U.S. (2022)), **Ile de France** ($125,300, 3rd Santa Anita Oaks **[G1]** (SA, $36,000)). Dam of 11 foals, 8 to race, 8 winners--
 		<hip>313</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -96,27 +69,6 @@ Dam is in line 45: + LOVELY REGINA, by Deputy Minister. Unplaced, $1,260. Half-s
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Scurry</HorseName>
 		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>313</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Delightful Ava</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>313</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Epic Hero</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>313</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>

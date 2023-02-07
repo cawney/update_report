@@ -16,8 +16,7 @@ update on line 40: + **La Salle Glory**, by Lit de Justice. 4 wins at 2 and 3, $
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
 40
-		<DamName>**La Salle Glory**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**La Salle Glory**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -31,7 +30,7 @@ update on line 40: + **La Salle Glory**, by Lit de Justice. 4 wins at 2 and 3, $
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 49: +    Gotta Deal (2019 g. by El Deal). Winner in 2 starts at 3, 2022, $11,190.
+update on line 48: +    Gotta Deal (2019 g. by El Deal). Winner in 2 starts at 3, 2022, $11,190.
 Dam is in line 40: + **La Salle Glory**, by Lit de Justice. 4 wins at 2 and 3, $248,348, in N.A./U.S., 2nd Juvenile S.-R (FE, $15,000(CAN)); 4 wins at 5 and 6, $272,125, in Canada. (Total: $506,039). Dam of 8 foals, 7 to race, 7 winners--
 		<hip>16</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -39,13 +38,6 @@ Dam is in line 40: + **La Salle Glory**, by Lit de Justice. 4 wins at 2 and 3, $
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**AFRICAN ROSE**</HorseName>
 		<HorseYOB>2009 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>16</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Affray</HorseName>
-		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
 		<hip>16</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -65,13 +57,6 @@ Dam is in line 40: + **La Salle Glory**, by Lit de Justice. 4 wins at 2 and 3, $
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kaz' Rose</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>16</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Bwana Be Cowgirl</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>g</HorseSex>
@@ -86,37 +71,9 @@ Dam is in line 40: + **La Salle Glory**, by Lit de Justice. 4 wins at 2 and 3, $
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Champs Money</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>16</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hot Diggity Dom</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>16</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Rebel Total</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>16</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Limonado Total</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>16</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=King Totale</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>g</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

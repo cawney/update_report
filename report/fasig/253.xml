@@ -11,8 +11,7 @@
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>g</HorseSex>
 34
-		<DamName>LOVEMEORLEAVEME</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>LOVEMEORLEAVEME</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -36,8 +35,7 @@ Dam is in line 34:   LOVEMEORLEAVEME, by Unbridled's Song. Unraced. Half-sister 
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
 34
-		<DamName>LOVEMEORLEAVEME</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>LOVEMEORLEAVEME</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -51,7 +49,7 @@ Dam is in line 34:   LOVEMEORLEAVEME, by Unbridled's Song. Unraced. Half-sister 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 41: +    Charmonte (2019 f. by Into Mischief). Placed in 2 starts at 3, 2022, $13,800.
+update on line 40: +    Charmonte (2019 f. by Into Mischief). Placed in 2 starts at 3, 2022, $13,800.
 Dam is in line 34:   LOVEMEORLEAVEME, by Unbridled's Song. Unraced. Half-sister to **SQUARE EDDIE** (Total: $856,019, 1st Lane's End Breeders' Futurity **[G1]** (KEE, $310,000), etc., sire), **Reverently** ($150,402, 3rd Princess Elizabeth S.-R (WO, $27,500)), **Conquest Smartee** ($149,679, 3rd KLAQ H. (SUN, $6,500)), **Hoi An** ($105,881, 3rd Wonder Where S.-R (WO, $25,000)), **Dubai Media** (Total: $29,329, 2nd Betfred the Bonus King Cecil Frail S. [L]). Dam of 7 foals, 5 to race, 2 winners--
 		<hip>253</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -64,65 +62,9 @@ Dam is in line 34:   LOVEMEORLEAVEME, by Unbridled's Song. Unraced. Half-sister 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tall Command</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mendelssohns Kid</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Candy Is Sweet</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Maisie's Moon</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Red Moon Lady</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Crazie Maisie</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Preacher Man Sam</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>253</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -141,36 +83,8 @@ Dam is in line 34:   LOVEMEORLEAVEME, by Unbridled's Song. Unraced. Half-sister 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bet On White</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Taho Snow</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Princess Salamah</HorseName>
 		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Al Shabab Storm</HorseName>
-		<HorseYOB>2021 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>253</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -186,13 +100,6 @@ Dam is in line 34:   LOVEMEORLEAVEME, by Unbridled's Song. Unraced. Half-sister 
 		<HorseName>=Shadzadi</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Donna Fedora</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>253</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

@@ -11,8 +11,7 @@
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
 33
-		<DamName>AGUADILLA</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>AGUADILLA</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -36,8 +35,7 @@ Dam is in line 33:   AGUADILLA, by Stormy Atlantic. Placed at 2, $7,334. Sister 
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
 33
-		<DamName>AGUADILLA</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>AGUADILLA</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -61,8 +59,7 @@ Dam is in line 33:   AGUADILLA, by Stormy Atlantic. Placed at 2, $7,334. Sister 
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
 33
-		<DamName>AGUADILLA</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>AGUADILLA</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -84,13 +81,6 @@ Dam is in line 33:   AGUADILLA, by Stormy Atlantic. Placed at 2, $7,334. Sister 
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Karakatsie**</HorseName>
 		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>10</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Estuary</HorseName>
-		<HorseYOB>2021 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>10</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -124,27 +114,6 @@ Dam is in line 33:   AGUADILLA, by Stormy Atlantic. Placed at 2, $7,334. Sister 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>10</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Go Nicole Go</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>10</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ineffable</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>10</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Giulio's Jewel</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -166,27 +135,6 @@ Dam is in line 33:   AGUADILLA, by Stormy Atlantic. Placed at 2, $7,334. Sister 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>10</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>10</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Seeking Mo Jewel</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>10</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Abbeville</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -204,13 +152,6 @@ Dam is in line 33:   AGUADILLA, by Stormy Atlantic. Placed at 2, $7,334. Sister 
 		<HorseName>Karenville</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>10</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Celebutant</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

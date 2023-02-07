@@ -11,8 +11,7 @@
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
 34
-		<DamName>SHEBA'S SECRET</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>SHEBA'S SECRET</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -32,37 +31,11 @@ Dam is in line 34:   SHEBA'S SECRET, by Kingmambo. Winner at 4, $32,034, in Cana
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kara</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-34
-		<DamName>SHEBA'S SECRET</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 41: +    Kara (2021 f. by Karakontie (JPN)). Unraced.
-Dam is in line 34:   SHEBA'S SECRET, by Kingmambo. Winner at 4, $32,034, in Canada; unplaced in 1 start, $466, in N.A./U.S. (Total: $31,714). Half-sister to **Seeking Sheba** ($162,200, 3rd HBPA S. [L] (PID, $10,000)). Dam of 7 foals, 1 to race, 1 winner--
-		<hip>281</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Seeking Sheba**</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>g</HorseSex>
-48
-		<DamName>SHEBA GOLD (IRE)</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+41
+		<DamDamName>SHEBA GOLD (IRE)</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -76,28 +49,14 @@ Dam is in line 34:   SHEBA'S SECRET, by Kingmambo. Winner at 4, $32,034, in Cana
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 51: +    **Seeking Sheba** (2007 f. by Seeking the Gold). Winner at 3, $64,240, in Canada; 2 wins at 4, $99,699, in N.A./U.S., 3rd HBPA S. [L] (PID, $10,000). (Total: $162,200). Dam of 8 foals, 7 to race, 4 winners--
-Dam is in line 48:   SHEBA GOLD (IRE), by Sadler's Wells. Unplaced in 2 starts, $800, in Canada. Sent from Ireland to United States in 2003. (Total: $641). Sister to **PERFECT SOUL (IRE)** ($1,527,764, champion grass horse in Canada (2003), 1st Shadwell Keeneland Turf Mile S. **[G1]** (KEE, $372,000), etc., leading sire in Canada (2011)), half-sister to **Dimontina** ($184,606, 2nd George C. Hendrie H. **[G3]**, etc.), **Dance Secretary (IRE)** (Total: $24,565, 3rd Derrinstown Stud One Thousand Guineas Trial **[G3]**). Dam of 11 foals, 7 to race, 4 winners--
-		<hip>281</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sofalgin</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>f</HorseSex>
+update on line 44: +    **Seeking Sheba** (2007 f. by Seeking the Gold). Winner at 3, $64,240, in Canada; 2 wins at 4, $99,699, in N.A./U.S., 3rd HBPA S. [L] (PID, $10,000). (Total: $162,200). Dam of 8 foals, 7 to race, 4 winners--
+Dam is in line 41:   SHEBA GOLD (IRE), by Sadler's Wells. Unplaced in 2 starts, $800, in Canada. Sent from Ireland to United States in 2003. (Total: $641). Sister to **PERFECT SOUL (IRE)** ($1,527,764, champion grass horse in Canada (2003), 1st Shadwell Keeneland Turf Mile S. **[G1]** (KEE, $372,000), etc., leading sire in Canada (2011)), half-sister to **Dimontina** ($184,606, 2nd George C. Hendrie H. **[G3]**, etc.), **Dance Secretary (IRE)** (Total: $24,565, 3rd Derrinstown Stud One Thousand Guineas Trial **[G3]**). Dam of 11 foals, 7 to race, 4 winners--
 		<hip>281</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**INFINITE DIAMOND**</HorseName>
 		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>281</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>

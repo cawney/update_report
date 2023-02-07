@@ -11,8 +11,7 @@
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
 38
-		<DamName>LA BELLE MARQUET</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>LA BELLE MARQUET</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,32 +25,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 45: +    Chasing the Crown (2019 c. by Skipshot). Winner at 3, placed at 4, 2023, $87,310.
-Dam is in line 38:   LA BELLE MARQUET, by Marquetry. Winner in 2 starts at 3, $8,700. Sister to **CHRIS'S BAD BOY** ($903,285, 1st Kennedy Road S. [L] (WO, $82,425(CAN)), etc.). Dam of 13 foals, 8 to race, 7 winners--
-		<hip>445</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Laptop</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-38
-		<DamName>LA BELLE MARQUET</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 53: +    Laptop (2021 c. by Tapit). Unraced. Sent from United States to Kazakhstan in 2022.
+update on line 44: +    Chasing the Crown (2019 c. by Skipshot). Winner at 3, placed at 4, 2023, $87,310.
 Dam is in line 38:   LA BELLE MARQUET, by Marquetry. Winner in 2 starts at 3, $8,700. Sister to **CHRIS'S BAD BOY** ($903,285, 1st Kennedy Road S. [L] (WO, $82,425(CAN)), etc.). Dam of 13 foals, 8 to race, 7 winners--
 		<hip>445</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -61,8 +35,7 @@ Dam is in line 38:   LA BELLE MARQUET, by Marquetry. Winner in 2 starts at 3, $8
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
 38
-		<DamName>LA BELLE MARQUET</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>LA BELLE MARQUET</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -76,15 +49,8 @@ Dam is in line 38:   LA BELLE MARQUET, by Marquetry. Winner in 2 starts at 3, $8
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 58: +    Hy Belle Champ (2011 f. by Tale of the Cat). Unraced. Dam of 3 foals, 2 to race, 1 winner--
+update on line 51: +    Hy Belle Champ (2011 f. by Tale of the Cat). Unraced. Dam of 3 foals, 2 to race, 1 winner--
 Dam is in line 38:   LA BELLE MARQUET, by Marquetry. Winner in 2 starts at 3, $8,700. Sister to **CHRIS'S BAD BOY** ($903,285, 1st Kennedy Road S. [L] (WO, $82,425(CAN)), etc.). Dam of 13 foals, 8 to race, 7 winners--
-		<hip>445</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Insensitive</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>445</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -131,30 +97,9 @@ Dam is in line 38:   LA BELLE MARQUET, by Marquetry. Winner in 2 starts at 3, $8
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>S S Four Queens</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>445</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Brandon's Princess</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>445</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Miss Peppermint</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>445</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dads Money Man</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

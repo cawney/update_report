@@ -34,7 +34,7 @@ def main():
     race_record_re = re.compile(r'RACE RECORD') # Gets the race record
     re_yob = re.compile(r"(?!\()\d{4}\s") # Gets the YOB
     re_sex = re.compile(r"(?!by\s)([fcgr])")
-    re_money = re.compile(r"(Total:\s|\d,\s)\$(?P<money>[0-9]+(\,[0-9]+)?)")
+    re_money = re.compile(r"(Total:\s|\d,\s)\$(?P<money>\d+(?:\,\d+(?:\,\d+)?)?)")
 
     ############################################################
     # Paths
@@ -266,27 +266,45 @@ def main():
         re_placed = re.compile(r'\b[pP]laced.')
         re_dam = re.compile(r'\d[stnd]+\sdam')
         for line in lines:
-            if re_unnamed.search(line) and not re_unnamed_exception.search(line):
-                # Gets rid of the unnamed lines
-                pass
-            if re_dam.search(line):
+            if producer_exception.search(line) or re_dam.search(line):
                 f2.writelines(line)
-            elif re_unraced.search(line) and not producer_exception.search(line): # Gets rid of unraced w/o producer
-                pass
-            elif re_unplaced.search(line) and not producer_exception.search(line) and not re_placed.search(line):
-                pass
-            elif line.find('See Above') != -1:
+            elif 'See above' in line:
                 f2.writelines(line)
+            elif re_unnamed.search(line):
+                pass
+            elif re_unraced.search(line):
+                pass
+            elif re_unplaced.search(line):
+                pass
             elif re_money.search(line) == None:
                 pass
             elif re_money.search(line):
                 money = re_money.search(line)
-                # print(money.group('money'))
-                if int(money.group('money').replace(',', '')) < 10000 and not producer_exception.search(line):
-                    # f2.write(line+'poooop')
-                    print("Less than 5k")
-                else:
+                if int(money.group('money').replace(',', '')) >= 10000:
                     f2.writelines(line)
+
+            # if re_unnamed.search(line) and not re_unnamed_exception.search(line):
+            #     # Gets rid of the unnamed lines
+            #     pass
+            # if re_dam.search(line):
+            #     f2.writelines(line)
+            # elif re_unraced.search(line) and not producer_exception.search(line): # Gets rid of unraced w/o producer
+            #     pass
+            # elif re_unplaced.search(line) and not producer_exception.search(line) and not re_placed.search(line):
+            #     pass
+            # elif 'See above' in line:
+            #     f2.writelines(line)
+            # elif re_money.search(line) == None:
+            #     pass
+            # elif re_money.search(line):
+            #     money = re_money.search(line)
+            #     # print(money.group('money'))
+            #     if int(money.group('money').replace(',', '')) < 10000 and not producer_exception.search(line):
+            #         # f2.write(line+'poooop')
+            #         print("Less than 5k")
+            #         pass
+            #     else:
+            #         f2.writelines(line)
             else:
                 f2.writelines(line)
 
@@ -348,7 +366,7 @@ def main():
         gen4 = get_generation(file_name)[3]
         i = 0
         n = 0
-        # print("Starting on horse\n", horse)
+        print("Starting on horse\n", horse)
         get_update_strings(lines)
         # print(get_update_strings(file_name))
         # line_index = get_update_strings(file_name)[0]
@@ -365,6 +383,8 @@ def main():
                     f2.write("<SaleEntryCode>PH23</SaleEntryCode>\n<SaleCode>FTFEB</SaleCode>\n<SaleName>FT FEB MIXED 21</SaleName>\n")
                     f2.writelines(f"update on line {i}: {line}")
                 elif i in gen2:
+                    print("Gen 1: ", gen1)
+                    print("Gen 2: ", gen2)
                     f2.write(f"\t\t<hip>{horse}</hip>\n")
                     f2.write("\t\t<SaleEntryCode>PH23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")
                     f2.write(f"\t\t<HorseName>{get_names(line, 2)}</HorseName>\n")
@@ -372,8 +392,8 @@ def main():
                     f2.write(f"\t\t<HorseSex>{get_substring(line, re_sex)}</HorseSex>\n")
                   #   f2.write(f"{lines[get_closest(i, gen1)]}")
                     f2.write(f"{get_closest(i, gen1)}\n")
-                    f2.write(f"\t\t<DamName>{get_names(lines[get_closest(i, gen1)], 1)}</DamName>\n")
-                    f2.write("\t\t<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>\n")
+                    # f2.write(f"\t\t<DamName>{get_names(lines[get_closest(i, gen1)], 1)}</DamName>\n")
+                    f2.write(f"\t\t<DamDamName>{get_names(lines[get_closest(i, gen1)], 1)}</DamDamName>\n")
                     f2.write(f"\t\t<SireName>Sire Name</SireName>\n")
                     f2.write(f"\t\t<OfficalPosition>3</OfficalPosition>\n")
                     f2.write(f"\t\t<RaceNumber>2</RaceNumber>\n")
@@ -518,9 +538,9 @@ def main():
         jettison_shit(f"{p_update}/PH{horse[1].zfill(6)}_5.txt", f"{p_update}/PH{horse[1].zfill(6)}_test.txt")
 
     print("Appending files...")
-    for horse in zip(source_list, hip_list):
-        append_files(f"{p_original}/{horse[0]}_3.txt", f"{p_original}/{horse[0]}_5.txt", f"{p_original}/{horse[0]}_2.txt", f"{p_original}/{horse[0]}_final.txt")
-        append_files(f"{p_update}/PH{horse[1].zfill(6)}_3.txt", f"{p_update}/PH{horse[1].zfill(6)}_5.txt", f"{p_update}/PH{horse[1].zfill(6)}_2.txt", f"{p_update}/PH{horse[1].zfill(6)}_final.txt")
+    for horse in zip(source_list, hip_list): # I'm changing out _5 with _test
+        append_files(f"{p_original}/{horse[0]}_3.txt", f"{p_original}/{horse[0]}_test.txt", f"{p_original}/{horse[0]}_2.txt", f"{p_original}/{horse[0]}_final.txt")
+        append_files(f"{p_update}/PH{horse[1].zfill(6)}_3.txt", f"{p_update}/PH{horse[1].zfill(6)}_test.txt", f"{p_update}/PH{horse[1].zfill(6)}_2.txt", f"{p_update}/PH{horse[1].zfill(6)}_final.txt")
     print("Done appending files")
     
     print("Comparing files...")
@@ -539,14 +559,6 @@ def main():
                 line = line.replace('[22m', '</strong>')
                 f.writelines(line)
     print("Done cleaning the diff")
-    print("Cleaning up...")
-    # for horse in zip(source_list, hip_list):
-    #     clean_horse(f"{p_report}/{horse[1]}.html", horse[1])
-
-
-    # print("Making my own HTML...")
-    # for horse in zip(source_list, hip_list):
-    #     make_xml(f"{p_report}/{horse[1]}.txt", horse[1])
 
     print("Making text file markdown...")
     # This is so I can manipulate the text file to make it look better
@@ -569,27 +581,24 @@ def main():
     for horse in zip(source_list, hip_list):
         get_updates(f"{p_report}/{horse[1]}.txt", horse[1])
 
-    # for horse in zip(source_list, hip_list):
-    #     horse_gen = get_generation(f"{p_report}/{horse[1]}.txt", horse[1])
-        # print(horse[1])
-        # print(horse_gen[0])
-        # print(horse_gen[1])
-        # print(horse_gen[2])
-        # print(horse_gen[3])
     print("Cleaning up...")
     for horse in zip(source_list, hip_list):
         os.remove(f"{p_original}/{horse[0]}_1.txt")
         os.remove(f"{p_original}/{horse[0]}_2.txt")
         os.remove(f"{p_original}/{horse[0]}_3.txt")
         os.remove(f"{p_original}/{horse[0]}_4.txt")
-        # os.remove(f"{p_original}/{horse[0]}_5.txt")
+        os.remove(f"{p_original}/{horse[0]}_5.txt")
         os.remove(f"{p_original}/{horse[0]}_norr.txt")
+        os.remove(f"{p_original}/{horse[0]}_test.txt")
         os.remove(f"{p_original}/{horse[0]}_final.txt")
         os.remove(f"{p_update}/PH{horse[1].zfill(6)}_1.txt")
         os.remove(f"{p_update}/PH{horse[1].zfill(6)}_2.txt")
         os.remove(f"{p_update}/PH{horse[1].zfill(6)}_3.txt")
         os.remove(f"{p_update}/PH{horse[1].zfill(6)}_4.txt")
         os.remove(f"{p_update}/PH{horse[1].zfill(6)}_5.txt")
+        os.remove(f"{p_update}/{horse[1]}_norr.txt")
+        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_final.txt")
+        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_test.txt")
     # print("Done cleaning up")
 
     print("Done")

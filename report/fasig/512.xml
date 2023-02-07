@@ -11,8 +11,7 @@
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>f</HorseSex>
 34
-		<DamName>POR QUE' TE QUIERO</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>POR QUE' TE QUIERO</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -34,13 +33,6 @@ Dam is in line 34:   POR QUE' TE QUIERO, by A.P. Indy. Unplaced, $4,350. Half-si
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lady Banba</HorseName>
 		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>512</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>f</HorseSex>
 		<hip>512</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>

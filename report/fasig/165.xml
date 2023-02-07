@@ -11,8 +11,7 @@
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>f</HorseSex>
 33
-		<DamName>**FOXY SARA**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**FOXY SARA**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -35,9 +34,8 @@ Dam is in line 33:   **FOXY SARA**, by Even the Score. 3 wins at 2, $119,792, 1s
 		<HorseName>Aftertheballisover</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>f</HorseSex>
-43
-		<DamName>MAGSTER</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+40
+		<DamDamName>MAGSTER</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -51,8 +49,8 @@ Dam is in line 33:   **FOXY SARA**, by Even the Score. 3 wins at 2, $119,792, 1s
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 50: +    Aftertheballisover (2003 f. by Bernstein). 8 wins, 3 to 8, $67,566. Dam of 6 foals, 5 to race, 3 winners--
-Dam is in line 43:   MAGSTER, by Houston. Unplaced in 2 starts. Dam of 12 foals, 10 to race, 8 winners--
+update on line 46: +    Aftertheballisover (2003 f. by Bernstein). 8 wins, 3 to 8, $67,566. Dam of 6 foals, 5 to race, 3 winners--
+Dam is in line 40:   MAGSTER, by Houston. Unplaced in 2 starts. Dam of 12 foals, 10 to race, 8 winners--
 		<hip>165</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -67,13 +65,6 @@ Dam is in line 43:   MAGSTER, by Houston. Unplaced in 2 starts. Dam of 12 foals,
 		<HorseName>Playing Ball</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
-		<hip>165</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Play Ball Susie</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

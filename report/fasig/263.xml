@@ -14,26 +14,11 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Citrina</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Elianagrace</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
 34
-		<DamName>REBALITE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>REBALITE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -47,7 +32,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 52: +    Elianagrace (2018 f. by Malibu Moon). Winner at 3 and 4, placed at 5, 2023, $52,984.
+update on line 44: +    Elianagrace (2018 f. by Malibu Moon). Winner at 3 and 4, placed at 5, 2023, $52,984.
 Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. Half-sister to **LITE LIGHT** ($1,231,596, 1st Coaching Club American Oaks **[G1]**, etc.), **Gold Press** ($88,708, 3rd Sam Houston Sprint H. [L] (HOU, $5,500), sire). Dam of 7 foals, 7 to race, 5 winners--
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -56,13 +41,6 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<HorseName>Special Operator</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>c</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kore Kinetic</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -91,13 +69,6 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<HorseName>Heron Watch</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Laudable</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -151,51 +122,9 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Marine Look</HorseName>
-		<HorseYOB>2010 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Le Secret</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>c</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Auric Force</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Iron Will</HorseName>
-		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Arminius</HorseName>
-		<HorseYOB>2011 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Karamel</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -214,23 +143,9 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lidar</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Quality Light</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>g</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Shy Star</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -263,41 +178,6 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tiz Tap</HorseName>
-		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ballondor Iji</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2010 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Smartacus</HorseName>
-		<HorseYOB>2009 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lord Tik Tik</HorseName>
-		<HorseYOB>2005 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Dazzling Light</HorseName>
 		<HorseYOB>1994 </HorseYOB>
 		<HorseSex>g</HorseSex>
@@ -321,27 +201,6 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Noble Light</HorseName>
 		<HorseYOB>2003 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pony Broker</HorseName>
-		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lovelight</HorseName>
-		<HorseYOB>2010 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dazzling Minister</HorseName>
-		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>g</HorseSex>
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -392,20 +251,6 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<HorseName>=Foundry Ryu</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Isolado</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=R the Fame</HorseName>
-		<HorseYOB>2007 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -466,22 +311,8 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Zion Punch</HorseName>
-		<HorseYOB>2001 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lambano</HorseName>
 		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lights of the City</HorseName>
-		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>g</HorseSex>
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -522,20 +353,6 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Orion Barows</HorseName>
-		<HorseYOB>2012 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Daiwa Gentle</HorseName>
-		<HorseYOB>2011 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Absolution</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -546,20 +363,6 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<HorseName>=Flower Fairy</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2005 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Daiwa Lofty</HorseName>
-		<HorseYOB>2010 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -629,27 +432,6 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Suzuka Charisma</HorseName>
 		<HorseYOB>2004 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Noah Porte</HorseName>
-		<HorseYOB>2011 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Tigo Dancer</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Kurino Alpamayo</HorseName>
-		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -760,13 +542,6 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Tanu Kick</HorseName>
-		<HorseYOB>2011 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Taisei Go</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>c</HorseSex>
@@ -777,13 +552,6 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<HorseName>=Neo Paradox</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Love Clinton</HorseName>
-		<HorseYOB>2010 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -802,44 +570,9 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Chop Suey</HorseName>
-		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2010 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fung's Charlie</HorseName>
-		<HorseYOB>2009 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Indira Baby</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2010 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Seguin's Lady</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>g</HorseSex>
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -893,13 +626,6 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>King Whale</HorseName>
-		<HorseYOB>2010 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Jaunty Day</HorseName>
 		<HorseYOB>2000 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -942,37 +668,9 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Jaunty Dave</HorseName>
-		<HorseYOB>2007 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**HELEN BELEN**</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Celebrate</HorseName>
-		<HorseYOB>2012 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2010 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>c</HorseSex>
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -1019,13 +717,6 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Preacher's Pasture</HorseName>
-		<HorseYOB>2010 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Carson Can Can</HorseName>
 		<HorseYOB>1996 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -1033,23 +724,9 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Big Twister</HorseName>
-		<HorseYOB>2005 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Dehere's de Lite</HorseName>
 		<HorseYOB>1997 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pianissima</HorseName>
-		<HorseYOB>2002 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -1082,34 +759,6 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Aggies Cat M H F</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Prospectors Tale</HorseName>
-		<HorseYOB>2000 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>1999 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Spitfire M H F</HorseName>
-		<HorseYOB>2006 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Attic Gold</HorseName>
 		<HorseYOB>2001 </HorseYOB>
 		<HorseSex>c</HorseSex>
@@ -1120,27 +769,6 @@ Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. H
 		<HorseName>On Higher Wings</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>g</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Goldis Sosweet</HorseName>
-		<HorseYOB>2011 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Liberty Grove</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>One Unique Rho</HorseName>
-		<HorseYOB>2010 </HorseYOB>
-		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

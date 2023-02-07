@@ -7,31 +7,6 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Seawitch</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-33
-		<DamName>SO SQUALLY (GER)</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 57: +    Seawitch (2020 f. by Honor Code). Unplaced in 2 starts, $2,138.
-Dam is in line 33:   SO SQUALLY (GER), by =Monsun (GER). Unraced. Sent from Germany to United States in 2017. Died 2021. Sister to **SHIROCCO (GER)** (Total: $2,477,588, hwt. at 3 on German Free Hand., 11 - 14 fur. (2004), hwt. at 3 on Italian Free Hand., 11 - 14 fur. (2004), 1st BMW 135 Deutsches Derby **[G1]**, etc., sire), **=SUBIACO (GER)** (Total: $299,404, 1st 66 Gerling-Preis **[G2]**, etc.), **STORM TROOPER (GER)** (Total: $194,273, 1st Grosser Preis der Sparkasse Dortmund [L], etc.), **=SEPTEMBER STORM (GER)** (Total: $32,783, 1st SWB Derby-Trail [L], sire), half-sister to **=SATCHMO (GER)** (Total: $62,225, 1st Ittlingen-Pokal S. [L]). Dam of 8 foals, 7 to race, 3 winners--
-		<hip>525</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=SHINING GLORY</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -46,43 +21,8 @@ Dam is in line 33:   SO SQUALLY (GER), by =Monsun (GER). Unraced. Sent from Germ
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Three Fans</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>525</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Tesoro Moi</HorseName>
 		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>525</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Fiston</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>525</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>525</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Elle'diablo</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>525</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Pour Alfred</HorseName>
-		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>525</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -102,20 +42,6 @@ Dam is in line 33:   SO SQUALLY (GER), by =Monsun (GER). Unraced. Sent from Germ
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Admire Sonne</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>525</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Admire Calm</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>525</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Sunwake</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -130,44 +56,9 @@ Dam is in line 33:   SO SQUALLY (GER), by =Monsun (GER). Unraced. Sent from Germ
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Presenting Sun</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>525</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>525</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>525</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>525</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Ellenbogen</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>g</HorseSex>
-		<hip>525</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
 		<hip>525</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -231,13 +122,6 @@ Dam is in line 33:   SO SQUALLY (GER), by =Monsun (GER). Unraced. Sent from Germ
 		<HorseName>Sri Lanka</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>525</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

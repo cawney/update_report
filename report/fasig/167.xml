@@ -11,8 +11,7 @@
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
 38
-		<DamName>**Freedom Rings**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**Freedom Rings**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -36,8 +35,7 @@ Dam is in line 38:   **Freedom Rings**, by Proud Citizen. 2 wins at 3, $195,477,
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
 38
-		<DamName>**Freedom Rings**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**Freedom Rings**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>

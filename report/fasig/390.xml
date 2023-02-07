@@ -7,31 +7,6 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Skindy Dipper</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-33
-		<DamName>SKINDY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    Skindy Dipper (2021 f. by Tourist). Unraced.
-Dam is in line 33:   SKINDY, by Skip Away. Unraced. Half-sister to **PRESSED** ($182,130, 1st Fair Grounds Sales S.-R (FG, $43,800), etc.), **CARSON CITY BABE** ($160,930, 1st Lagniappe Ladies Sprint S.-R (FG, $36,000)), **Silver Indy** ($139,954, 2nd Fair Grounds Sales S.-R (FG, $13,800)), **Court Mischief** ($111,675, 2nd Bart Heller S. (GG, $10,000)). Dam of 9 foals, 5 to race, 3 winners--
-		<hip>390</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Diva Treva**</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -42,27 +17,6 @@ Dam is in line 33:   SKINDY, by Skip Away. Unraced. Half-sister to **PRESSED** (
 		<HorseName>Summertime Gal</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>390</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>390</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Summertime Peppers</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>390</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lucelent</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
 		<hip>390</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -81,26 +35,11 @@ Dam is in line 33:   SKINDY, by Skip Away. Unraced. Half-sister to **PRESSED** (
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>True Beast</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>390</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Brandy Runner</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>390</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Cort'n Asong</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
-47
-		<DamName>MISS CORT'N</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+39
+		<DamDamName>MISS CORT'N</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -114,22 +53,8 @@ Dam is in line 33:   SKINDY, by Skip Away. Unraced. Half-sister to **PRESSED** (
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 89: +    Cort'n Asong (2012 g. by Unbridled's Song). Winner in 1 start at 3, $33,540, in Canada; 20 wins, 4 to 10, 2022, $332,090, in N.A./U.S. (Total: $359,023).
-Dam is in line 47:   MISS CORT'N, by A.P. Indy. Winner at 3, $19,600. Died 2016. Dam of 13 foals, 12 to race, 10 winners--
-		<hip>390</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Laugh Now</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>390</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Miss Susan B</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
+update on line 65: +    Cort'n Asong (2012 g. by Unbridled's Song). Winner in 1 start at 3, $33,540, in Canada; 20 wins, 4 to 10, 2022, $332,090, in N.A./U.S. (Total: $359,023).
+Dam is in line 39:   MISS CORT'N, by A.P. Indy. Winner at 3, $19,600. Died 2016. Dam of 13 foals, 12 to race, 10 winners--
 		<hip>390</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

@@ -11,8 +11,7 @@
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>c</HorseSex>
 33
-		<DamName>**STREET GIRL**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**STREET GIRL**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -28,36 +27,11 @@
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 38: +    Obeyaan (2016 c. by Tiznow). Winner at 5 and 6, 2022, 119,055 Dirhams, in United Arab Emirates. Sent from United States to Great Britain in 2017. (Total: $32,419).
 Dam is in line 33:   **STREET GIRL**, by Street Hero. 2 wins at 3, $446,716, 1st Calder Oaks (CRC, $61,380), 2nd Humana Distaff S. **[G1]** (CD, $65,459), Chilukki S. **[G2]** (CD, $45,240), 3rd Cotillion S. **[G1]** (PRX, $110,100), Leave Me Alone S. (CRC, $7,150). Dam of 7 foals, 4 to race, 3 winners--
-		<hip>283</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-33
-		<DamName>**STREET GIRL**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    Unnamed (2021 c. by Medaglia d'Oro). Sent from United States to Ireland in 2022.
-Dam is in line 33:   **STREET GIRL**, by Street Hero. 2 wins at 3, $446,716, 1st Calder Oaks (CRC, $61,380), 2nd Humana Distaff S. **[G1]** (CD, $65,459), Chilukki S. **[G2]** (CD, $45,240), 3rd Cotillion S. **[G1]** (PRX, $110,100), Leave Me Alone S. (CRC, $7,150). Dam of 7 foals, 4 to race, 3 winners--
 <hip>283</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
-update on line 48: + KRISTY BEETHOVEN, by Kris S.. 4 wins at 3 and 4, $146,381. Half-sister to **GOLDEN SONATA** (Total: $288,811, 1st Oaklawn Breeders' Cup S. **[G3]** (OP, $120,000), etc.), **Le Chateau** ($132,230, 2nd Heed S.-R (SAR, $17,400)). Dam of 10 foals, 7 to race, 5 winners--
+update on line 44: + KRISTY BEETHOVEN, by Kris S.. 4 wins at 3 and 4, $146,381. Half-sister to **GOLDEN SONATA** (Total: $288,811, 1st Oaklawn Breeders' Cup S. **[G3]** (OP, $120,000), etc.), **Le Chateau** ($132,230, 2nd Heed S.-R (SAR, $17,400)). Dam of 10 foals, 7 to race, 5 winners--
 		<hip>283</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -65,9 +39,8 @@ update on line 48: + KRISTY BEETHOVEN, by Kris S.. 4 wins at 3 and 4, $146,381. 
 		<HorseName>Brittany Goes West</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
-48
-		<DamName>KRISTY BEETHOVEN</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+44
+		<DamDamName>KRISTY BEETHOVEN</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -81,22 +54,8 @@ update on line 48: + KRISTY BEETHOVEN, by Kris S.. 4 wins at 3 and 4, $146,381. 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 55: +    Brittany Goes West (2007 f. by Gone West). Winner at 2, $10,335. Sent from United States to Saudi Arabia in 2017. Dam of 9 foals, 3 to race, 1 winner--
-Dam is in line 48: + KRISTY BEETHOVEN, by Kris S.. 4 wins at 3 and 4, $146,381. Half-sister to **GOLDEN SONATA** (Total: $288,811, 1st Oaklawn Breeders' Cup S. **[G3]** (OP, $120,000), etc.), **Le Chateau** ($132,230, 2nd Heed S.-R (SAR, $17,400)). Dam of 10 foals, 7 to race, 5 winners--
-		<hip>283</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>283</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
+update on line 50: +    Brittany Goes West (2007 f. by Gone West). Winner at 2, $10,335. Sent from United States to Saudi Arabia in 2017. Dam of 9 foals, 3 to race, 1 winner--
+Dam is in line 44: + KRISTY BEETHOVEN, by Kris S.. 4 wins at 3 and 4, $146,381. Half-sister to **GOLDEN SONATA** (Total: $288,811, 1st Oaklawn Breeders' Cup S. **[G3]** (OP, $120,000), etc.), **Le Chateau** ($132,230, 2nd Heed S.-R (SAR, $17,400)). Dam of 10 foals, 7 to race, 5 winners--
 		<hip>283</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -111,59 +70,6 @@ Dam is in line 48: + KRISTY BEETHOVEN, by Kris S.. 4 wins at 3 and 4, $146,381. 
 		<HorseName>Tonal Impact</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
-		<hip>283</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>283</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fitzy Fee</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>283</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>283</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Verrazano Kat</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>283</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Red's Revenge</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>g</HorseSex>
-48
-		<DamName>KRISTY BEETHOVEN</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 84: +    Red's Revenge (2020 c. by Hard Spun). Unplaced in 1 start, $300.
-Dam is in line 48: + KRISTY BEETHOVEN, by Kris S.. 4 wins at 3 and 4, $146,381. Half-sister to **GOLDEN SONATA** (Total: $288,811, 1st Oaklawn Breeders' Cup S. **[G3]** (OP, $120,000), etc.), **Le Chateau** ($132,230, 2nd Heed S.-R (SAR, $17,400)). Dam of 10 foals, 7 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

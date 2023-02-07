@@ -11,8 +11,7 @@
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
 38
-		<DamName>SHAKEDOWN STREET</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>SHAKEDOWN STREET</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -28,13 +27,6 @@
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 41: +    Street Biz (2013 f. by Nobiz Like Shobiz). 4 wins at 4, $154,930. Dam of 3 foals, 1 to race, 1 winner--
 Dam is in line 38:   SHAKEDOWN STREET, by Trippi. Unraced. Dam of 4 foals, 4 to race, 3 winners--
-		<hip>279</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

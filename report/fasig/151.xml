@@ -11,8 +11,7 @@
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>c</HorseSex>
 39
-		<DamName>FAMOUS ROSE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>FAMOUS ROSE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,7 +25,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 44: +    Unnamed (2022 c. by Lord Nelson). See above.
+update on line 43: +    Unnamed (2022 c. by Lord Nelson). See above.
 Dam is in line 39:   FAMOUS ROSE, by Forest Danger. 6 wins, 3 to 5, $163,860. Dam of 3 foals, 2 to race, 1 winner--
 	</update>
 </FasigTiptonUpdates>

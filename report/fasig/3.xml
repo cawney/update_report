@@ -7,37 +7,11 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-34
-		<DamName>MAKE MERRY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 37: +    Unnamed (2022 f. by Hard Spun).
-Dam is in line 34:   MAKE MERRY, by Medaglia d'Oro. Placed at 3 and 4, $15,782. Sister to **Wren's Day** (Total: $369,495, 2nd Prix Ganay - Prix de l'Inauguration de Parislongchamp **[G1]**), half-sister to **GRACE HALL** ($1,546,360, 1st Spinaway S. **[G1]** (SAR, $150,000), etc.), **Mrs Claus** ($66,135, 3rd Indiana Grand S. [L] (IND, $16,335)). Dam of 3 foals--
-		<hip>3</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Season Maker</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
-41
-		<DamName>**SEASON'S GREETINGS (IRE)**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+37
+		<DamDamName>**SEASON'S GREETINGS (IRE)**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -51,8 +25,8 @@ Dam is in line 34:   MAKE MERRY, by Medaglia d'Oro. Placed at 3 and 4, $15,782. 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 68: +    Season Maker (2016 f. by Pioneerof the Nile). Unplaced in 1 start, $200. Dam of 2 foals, 1 to race, 1 winner--
-Dam is in line 41:   **SEASON'S GREETINGS (IRE)**, by $Ezzoud (IRE). 3 wins at 2, 103,056 Euro, in France, 1st Criterium de Vitesse [L], 2nd Prix du Gros-Chene **[G2]**, Prix de Saint-Georges **[G3]**, Prix d'Arenberg **[G3]**, 3rd Prix Hampton [L]. Sent from Great Britain to United States in 2001. (Total: $91,094). Died 2021. Half-sister to **Legend of Spring (GB)** (Total: $49,434, 2nd Prix du Bois **[G3]**, etc.), **=Deep Space (IRE)** (Total: $187,214, 3rd Vodafone Dash Rated S. [L], etc.). Dam of 12 foals, 10 to race, 6 winners--
+update on line 50: +    Season Maker (2016 f. by Pioneerof the Nile). Unplaced in 1 start, $200. Dam of 2 foals, 1 to race, 1 winner--
+Dam is in line 37:   **SEASON'S GREETINGS (IRE)**, by $Ezzoud (IRE). 3 wins at 2, 103,056 Euro, in France, 1st Criterium de Vitesse [L], 2nd Prix du Gros-Chene **[G2]**, Prix de Saint-Georges **[G3]**, Prix d'Arenberg **[G3]**, 3rd Prix Hampton [L]. Sent from Great Britain to United States in 2001. (Total: $91,094). Died 2021. Half-sister to **Legend of Spring (GB)** (Total: $49,434, 2nd Prix du Bois **[G3]**, etc.), **=Deep Space (IRE)** (Total: $187,214, 3rd Vodafone Dash Rated S. [L], etc.). Dam of 12 foals, 10 to race, 6 winners--
 		<hip>3</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -60,13 +34,6 @@ Dam is in line 41:   **SEASON'S GREETINGS (IRE)**, by $Ezzoud (IRE). 3 wins at 2
 		<HorseName>Hardwired</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>3</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

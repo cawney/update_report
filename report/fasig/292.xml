@@ -3,56 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>292</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Alexis Rose</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-34
-		<DamName>HILLS OF BEVERLY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 37: +    Alexis Rose (2021 f. by Kitten's Joy). Unraced.
-Dam is in line 34:   HILLS OF BEVERLY, by Ghostzapper. Unplaced in 1 start. Half-sister to **CHICAGO STYLE** ($312,328, 1st Hollywood Turf Cup S. **[G2]** (DMR, $120,000), etc.). Dam of 4 foals, 1 to race--
-		<hip>292</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ice Axe</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>c</HorseSex>
-42
-		<DamName>**YOU GO WEST GIRL**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 51: +    Ice Axe (2019 c. by Bernardini). Unplaced, $2,460.
-Dam is in line 42:   **YOU GO WEST GIRL**, by Mr. Greeley. 10 wins, 3 to 7, $637,043, 1st Ticonderoga S.-R (BEL, $90,000), Ticonderoga S.-R (BEL, $75,000), John Hettinger S.-R (BEL, $64,500), Hey Baba Lulu S.-R (BEL, $46,950), 2nd Regret S. **[G3]** (CD, $43,434), Cardinal H. **[G3]** (CD, $21,446), Ticonderoga H.-R (BEL, $30,000), Yaddo H.-R (SAR, $21,500), Yaddo S.-R (SAR, $20,000), Hatoof S. (AP, $9,580), 3rd Mount Vernon S.-R (BEL, $11,100), Possibly Perfect S. (AP, $5,830), William B. Fasig S.-R (SAR, $7,000). Half-sister to **Schatzeli** ($78,180, 2nd Dearly Precious S. [L] (AQU, $15,975)). Dam of 7 foals, 4 to race, 1 winner--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

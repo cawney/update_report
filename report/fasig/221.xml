@@ -11,8 +11,7 @@
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>c</HorseSex>
 39
-		<DamName>**I WANT TO DUST HER**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**I WANT TO DUST HER**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -36,8 +35,7 @@ Dam is in line 39:   **I WANT TO DUST HER**, by Mass Market. 2 wins at 2, $95,73
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>f</HorseSex>
 39
-		<DamName>**I WANT TO DUST HER**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**I WANT TO DUST HER**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -60,13 +58,6 @@ Dam is in line 39:   **I WANT TO DUST HER**, by Mass Market. 2 wins at 2, $95,73
 		<HorseName>**ARABELLA'S MUSE**</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>221</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mairabella</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>221</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

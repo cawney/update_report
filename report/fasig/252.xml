@@ -11,8 +11,7 @@
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
 34
-		<DamName>**LOVELY SYN**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**LOVELY SYN**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,15 +25,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 39: +    Brentford (2020 c. by Uncle Mo). Winner at 2, placed at 3, 2023, $31,901.
+update on line 38: +    Brentford (2020 c. by Uncle Mo). Winner at 2, placed at 3, 2023, $31,901.
 Dam is in line 34:   **LOVELY SYN**, by Freud. 4 wins in 4 starts at 3, $202,200, 1st Bouwerie S.-R (BEL, $75,000), New York Stallion S.-R (BEL, $60,000). Sister to **MENTALITY** ($299,534, 1st Hessonite S.-R (BEL, $41,250), etc.). Dam of 5 foals, 3 to race, 3 winners--
-		<hip>252</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Southern Superone</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>252</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -42,9 +34,8 @@ Dam is in line 34:   **LOVELY SYN**, by Freud. 4 wins in 4 starts at 3, $202,200
 		<HorseName>Keeping It Country</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
-44
-		<DamName>LEMON DROP'S LOVE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+41
+		<DamDamName>LEMON DROP'S LOVE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -58,15 +49,8 @@ Dam is in line 34:   **LOVELY SYN**, by Freud. 4 wins in 4 starts at 3, $202,200
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 64: +    Keeping It Country (2019 g. by Freud). Winner in 4 starts at 3 and 4, 2023, $23,898.
-Dam is in line 44:   LEMON DROP'S LOVE, by Lemon Drop Kid. Unplaced in 1 start, $2,050. Dam of 10 foals, 9 to race, 8 winners--
-		<hip>252</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
+update on line 50: +    Keeping It Country (2019 g. by Freud). Winner in 4 starts at 3 and 4, 2023, $23,898.
+Dam is in line 41:   LEMON DROP'S LOVE, by Lemon Drop Kid. Unplaced in 1 start, $2,050. Dam of 10 foals, 9 to race, 8 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

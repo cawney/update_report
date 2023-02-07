@@ -10,9 +10,8 @@
 		<HorseName>Twinkle Lucky Star</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>c</HorseSex>
-45
-		<DamName>FULL OF LIFE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+42
+		<DamDamName>FULL OF LIFE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,8 +25,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 58: +    Twinkle Lucky Star (2014 f. by Dominus). Placed at 3, $11,401. Dam of 3 foals, 1 to race, 1 winner--
-Dam is in line 45:   FULL OF LIFE, by Idabel. 2 wins at 3, $22,420. Half-sister to **AUTUMN KING** ($112,468, 1st Fair Grounds Sales Derby-R (FG, $35,400)), **BURIED TREASURE** ($94,425, 1st Derby Trial, etc.). Dam of 12 foals, 9 to race, 8 winners--
+update on line 51: +    Twinkle Lucky Star (2014 f. by Dominus). Placed at 3, $11,401. Dam of 3 foals, 1 to race, 1 winner--
+Dam is in line 42:   FULL OF LIFE, by Idabel. 2 wins at 3, $22,420. Half-sister to **AUTUMN KING** ($112,468, 1st Fair Grounds Sales Derby-R (FG, $35,400)), **BURIED TREASURE** ($94,425, 1st Derby Trial, etc.). Dam of 12 foals, 9 to race, 8 winners--
 		<hip>209</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -35,13 +34,6 @@ Dam is in line 45:   FULL OF LIFE, by Idabel. 2 wins at 3, $22,420. Half-sister 
 		<HorseName>Tater</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>209</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>R D C Posse</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

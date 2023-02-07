@@ -16,8 +16,7 @@ update on line 36: + **STIFFED**, by Stephen Got Even. 5 wins at 3 and 4, $256,5
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>f</HorseSex>
 36
-		<DamName>**STIFFED**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**STIFFED**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -40,9 +39,8 @@ Dam is in line 36: + **STIFFED**, by Stephen Got Even. 5 wins at 3 and 4, $256,5
 		<HorseName>**SPEAKING**</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
-45
-		<DamName>HIGH NOON NELLIE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+44
+		<DamDamName>HIGH NOON NELLIE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -56,40 +54,8 @@ Dam is in line 36: + **STIFFED**, by Stephen Got Even. 5 wins at 3 and 4, $256,5
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 48: +    **SPEAKING** (2019 g. by Mr Speaker). 4 wins at 2 and 3, 2022, $288,100, 1st Smoke Glacken S. (MTH, $75,000), New Jersey Breeders H.-R (MTH, $60,000), 2nd Parx Juvenile S. (PRX, $18,800), Sunny Ridge H.-R (MTH, $17,000), 3rd Jersey Shore S. (MTH, $14,000).
-Dam is in line 45:   HIGH NOON NELLIE, by Silver Deputy. Unraced. Half-sister to **Half Metal Jacket** ($279,070, 2nd James Marvin S. [L] (SAR, $15,000), etc.). Dam of 13 foals, 10 to race, 7 winners--
-		<hip>304</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Navesink Pirate</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>304</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sea Streak</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-45
-		<DamName>HIGH NOON NELLIE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 64: +    Sea Streak (2021 c. by Sea Wizard). Unraced.
-Dam is in line 45:   HIGH NOON NELLIE, by Silver Deputy. Unraced. Half-sister to **Half Metal Jacket** ($279,070, 2nd James Marvin S. [L] (SAR, $15,000), etc.). Dam of 13 foals, 10 to race, 7 winners--
+update on line 47: +    **SPEAKING** (2019 g. by Mr Speaker). 4 wins at 2 and 3, 2022, $288,100, 1st Smoke Glacken S. (MTH, $75,000), New Jersey Breeders H.-R (MTH, $60,000), 2nd Parx Juvenile S. (PRX, $18,800), Sunny Ridge H.-R (MTH, $17,000), 3rd Jersey Shore S. (MTH, $14,000).
+Dam is in line 44:   HIGH NOON NELLIE, by Silver Deputy. Unraced. Half-sister to **Half Metal Jacket** ($279,070, 2nd James Marvin S. [L] (SAR, $15,000), etc.). Dam of 13 foals, 10 to race, 7 winners--
 		<hip>304</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

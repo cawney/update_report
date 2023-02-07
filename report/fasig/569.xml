@@ -11,8 +11,7 @@
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
 34
-		<DamName>JACKIE'S CAUSEWAY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>JACKIE'S CAUSEWAY</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>

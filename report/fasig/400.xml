@@ -7,37 +7,11 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ghostly Dancer</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-34
-		<DamName>GHOST OF SAGE CAT</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 39: +    Ghostly Dancer (2021 f. by War Dancer). Unraced.
-Dam is in line 34:   GHOST OF SAGE CAT, by Ghostzapper. 2 wins at 4, $26,002. Half-sister to **DESERT PARTY** (Total: $928,467, 1st Sanford S. **[G2]** (SAR, $90,000), etc., sire), **ELLIECAT** ($190,646, 1st Chou Croute H. (FG, $36,000), etc.). Dam of 7 foals, 3 to race, 3 winners--
-		<hip>400</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>She's Justa Friend</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>r</HorseSex>
-46
-		<DamName>SAGE CAT</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+40
+		<DamDamName>SAGE CAT</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -51,8 +25,8 @@ Dam is in line 34:   GHOST OF SAGE CAT, by Ghostzapper. 2 wins at 4, $26,002. Ha
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 51: +    She's Justa Friend (2005 f. by Hussonet). Winner at 4, $47,086. Dam of 7 foals, 5 to race, 5 winners--
-Dam is in line 46:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380. Dam of 11 foals, 7 to race, 5 winners--
+update on line 45: +    She's Justa Friend (2005 f. by Hussonet). Winner at 4, $47,086. Dam of 7 foals, 5 to race, 5 winners--
+Dam is in line 40:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380. Dam of 11 foals, 7 to race, 5 winners--
 		<hip>400</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -60,20 +34,6 @@ Dam is in line 46:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380.
 		<HorseName>Basil Flavor</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>400</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>400</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
 		<hip>400</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -92,51 +52,9 @@ Dam is in line 46:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>400</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>400</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Court Contender</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>400</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Prince of Logic</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>400</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Heung Addy</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>400</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Alquimia</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>400</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Aalee Alzowq</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
 		<hip>400</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -155,29 +73,8 @@ Dam is in line 46:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=No Contess</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>400</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=The Grey Tess</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>400</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Reciprocity</HorseName>
 		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>400</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>c</HorseSex>
 		<hip>400</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -186,9 +83,8 @@ Dam is in line 46:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380.
 		<HorseName>Verdad</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
-46
-		<DamName>SAGE CAT</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+40
+		<DamDamName>SAGE CAT</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -202,22 +98,8 @@ Dam is in line 46:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380.
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 102: +    Verdad (2010 f. by Street Cry (IRE)). Unraced. Dam of 5 foals, 4 to race, 1 winner--
-Dam is in line 46:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380. Dam of 11 foals, 7 to race, 5 winners--
-		<hip>400</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>True Comfort</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>400</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ready She Is</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>f</HorseSex>
+update on line 71: +    Verdad (2010 f. by Street Cry (IRE)). Unraced. Dam of 5 foals, 4 to race, 1 winner--
+Dam is in line 40:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380. Dam of 11 foals, 7 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -16,8 +16,7 @@ update on line 36: + SMILEFORAMILE, by Unbridled's Song. Winner at 4, $40,800. H
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
 36
-		<DamName>SMILEFORAMILE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>SMILEFORAMILE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -51,19 +50,11 @@ Dam is in line 36: + SMILEFORAMILE, by Unbridled's Song. Winner at 4, $40,800. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Walk With Me</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>393</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Greys the Boy</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
 36
-		<DamName>SMILEFORAMILE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>SMILEFORAMILE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -77,15 +68,8 @@ Dam is in line 36: + SMILEFORAMILE, by Unbridled's Song. Winner at 4, $40,800. H
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 61: +    Greys the Boy (2019 g. by Midnight Lute). Winner at 3, 2022, $44,110.
+update on line 53: +    Greys the Boy (2019 g. by Midnight Lute). Winner at 3, 2022, $44,110.
 Dam is in line 36: + SMILEFORAMILE, by Unbridled's Song. Winner at 4, $40,800. Half-sister to **Tigre Di Slugo** ($245,126, 2nd San Carlos S. **[G2]** (SA, $40,000), etc.), **Derivative** ($135,379, 3rd Northern Spur S. [L] (OP, $10,000)). Dam of 11 foals, 6 to race, 5 winners--
-		<hip>393</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Otra Vida</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>393</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -100,9 +84,8 @@ Dam is in line 36: + SMILEFORAMILE, by Unbridled's Song. Winner at 4, $40,800. H
 		<HorseName>**Tigre Di Slugo**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
-79
-		<DamName>**ERICA'S SMILE**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+64
+		<DamDamName>**ERICA'S SMILE**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -116,15 +99,8 @@ Dam is in line 36: + SMILEFORAMILE, by Unbridled's Song. Winner at 4, $40,800. H
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 82: +    **Tigre Di Slugo** (2015 g. by Smiling Tiger). 3 wins at 4 and 5, placed at 7, 2022, $245,126, 2nd San Carlos S. **[G2]** (SA, $40,000), Kona Gold S. **[G3]** (SA, $20,000), Don Valpredo California Cup Sprint S.-R (SA, $30,000), 3rd Thor's Echo S.-R (SA, $12,000).
-Dam is in line 79:   **ERICA'S SMILE**, by Williamstown. 4 wins at 2 and 3, $232,190, 1st Washington Breeders' Cup Oaks [L] (EMD, $55,000), Fairfield S. (SOL, $23,510), 2nd Indiana Breeders' Cup Oaks **[G3]** (HOO, $61,280), 3rd La Brea S. **[G1]** (SA, $24,000), Star Ball H. (GG, $9,000), Golden Poppy H. (BM, $9,000). Half-sister to **PURELY COZZENE** ($541,671, 1st La Jolla H. **[G3]**, etc.), **Forestry Prince** ($78,826, 2nd Inaugural S. (TAM, $9,000)). Dam of 12 foals, 9 to race, 8 winners--
-		<hip>393</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Socially Awkward</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
+update on line 67: +    **Tigre Di Slugo** (2015 g. by Smiling Tiger). 3 wins at 4 and 5, placed at 7, 2022, $245,126, 2nd San Carlos S. **[G2]** (SA, $40,000), Kona Gold S. **[G3]** (SA, $20,000), Don Valpredo California Cup Sprint S.-R (SA, $30,000), 3rd Thor's Echo S.-R (SA, $12,000).
+Dam is in line 64:   **ERICA'S SMILE**, by Williamstown. 4 wins at 2 and 3, $232,190, 1st Washington Breeders' Cup Oaks [L] (EMD, $55,000), Fairfield S. (SOL, $23,510), 2nd Indiana Breeders' Cup Oaks **[G3]** (HOO, $61,280), 3rd La Brea S. **[G1]** (SA, $24,000), Star Ball H. (GG, $9,000), Golden Poppy H. (BM, $9,000). Half-sister to **PURELY COZZENE** ($541,671, 1st La Jolla H. **[G3]**, etc.), **Forestry Prince** ($78,826, 2nd Inaugural S. (TAM, $9,000)). Dam of 12 foals, 9 to race, 8 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

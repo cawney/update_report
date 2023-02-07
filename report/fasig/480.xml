@@ -11,8 +11,7 @@
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>f</HorseSex>
 33
-		<DamName>MIDNIGHT SEARCH</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>MIDNIGHT SEARCH</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,7 +25,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    Unnamed (2022 f. by Mor Spirit). See above.
+update on line 40: +    Unnamed (2022 f. by Mor Spirit). See above.
 Dam is in line 33:   MIDNIGHT SEARCH, by Vying Victor. 3 wins at 3 and 4, $43,716, in Canada; 2 wins at 4, $50,038, in N.A./U.S. (Total: $90,817). Dam of 9 foals, 6 to race, 6 winners--
 	</update>
 </FasigTiptonUpdates>

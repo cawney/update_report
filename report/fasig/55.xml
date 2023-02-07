@@ -11,8 +11,7 @@
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>f</HorseSex>
 38
-		<DamName>BOX OFFICE SMASH</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>BOX OFFICE SMASH</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -28,13 +27,6 @@
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 42: +    Unnamed (2022 f. by Mo Town). See above.
 Dam is in line 38:   BOX OFFICE SMASH, by Dixie Union. Winner at 3 and 4, $51,236. Half-sister to **BEE JERSEY** (Total: $976,293, 1st Runhappy Metropolitan H. **[G1]** (BEL, $650,000), etc., sire). Dam of 4 foals, 1 to race, 1 winner--
-		<hip>55</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

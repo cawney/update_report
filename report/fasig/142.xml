@@ -16,8 +16,7 @@ update on line 41: + ESKY, by Eskendereya. 3 wins at 3 and 4, $43,928. Half-sist
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
 41
-		<DamName>ESKY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>ESKY</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -41,8 +40,7 @@ Dam is in line 41: + ESKY, by Eskendereya. 3 wins at 3 and 4, $43,928. Half-sist
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>c</HorseSex>
 41
-		<DamName>ESKY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>ESKY</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -65,9 +63,8 @@ Dam is in line 41: + ESKY, by Eskendereya. 3 wins at 3 and 4, $43,928. Half-sist
 		<HorseName>**GAMBLING GIRL**</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>f</HorseSex>
-52
-		<DamName>TULIPMANIA</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+51
+		<DamDamName>TULIPMANIA</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -81,54 +78,8 @@ Dam is in line 41: + ESKY, by Eskendereya. 3 wins at 3 and 4, $43,928. Half-sist
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 54: +    **GAMBLING GIRL** (2020 f. by Dialed In). 2 wins at 2, placed at 3, 2023, $194,210, 1st Joseph A. Gimma S.-R (BAQ, $68,750), 2nd Busanda S. (AQU, $20,000), 3rd Demoiselle S. **[G2]** (AQU, $30,000).
-Dam is in line 52:   TULIPMANIA, by Empire Maker. 3 wins, 3 to 5, $143,796. Half-sister to **STRAIGHT STORY** ($736,393, 1st Autumn S. **[G2]** (WO, $90,000), etc.), **=STRONG SOUTHER (JPN)** (Total: $1,317,702, 1st Saga Kinen [LR], etc.), **=Mobile (JPN)** (Total: $774,378, 3rd Sapporo Nikkei Open [LR]). Dam of 10 foals, 8 to race, 4 winners--
-		<hip>142</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Gallant Greta</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-52
-		<DamName>TULIPMANIA</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 61: +    Gallant Greta (2021 f. by Twirling Candy). Unraced.
-Dam is in line 52:   TULIPMANIA, by Empire Maker. 3 wins, 3 to 5, $143,796. Half-sister to **STRAIGHT STORY** ($736,393, 1st Autumn S. **[G2]** (WO, $90,000), etc.), **=STRONG SOUTHER (JPN)** (Total: $1,317,702, 1st Saga Kinen [LR], etc.), **=Mobile (JPN)** (Total: $774,378, 3rd Sapporo Nikkei Open [LR]). Dam of 10 foals, 8 to race, 4 winners--
-		<hip>142</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>142</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bold Look</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>142</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pagett</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>g</HorseSex>
+update on line 53: +    **GAMBLING GIRL** (2020 f. by Dialed In). 2 wins at 2, placed at 3, 2023, $194,210, 1st Joseph A. Gimma S.-R (BAQ, $68,750), 2nd Busanda S. (AQU, $20,000), 3rd Demoiselle S. **[G2]** (AQU, $30,000).
+Dam is in line 51:   TULIPMANIA, by Empire Maker. 3 wins, 3 to 5, $143,796. Half-sister to **STRAIGHT STORY** ($736,393, 1st Autumn S. **[G2]** (WO, $90,000), etc.), **=STRONG SOUTHER (JPN)** (Total: $1,317,702, 1st Saga Kinen [LR], etc.), **=Mobile (JPN)** (Total: $774,378, 3rd Sapporo Nikkei Open [LR]). Dam of 10 foals, 8 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

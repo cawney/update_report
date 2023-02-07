@@ -7,37 +7,11 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-38
-		<DamName>CAP</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 41: +    Unnamed (2022 c. by Flatter). Died 2022.
-Dam is in line 38:   CAP, by Arch. 2 wins at 3, $27,300. Half-sister to **SOWER** ($299,890, 1st Jersey Girl S. [L] (BEL, $90,000), etc.), **VAST** ($120,910, 1st Hollywood Wildcat S. (MTH, $45,000)). Dam of 5 foals, 1 to race, 1 winner--
-		<hip>70</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Avant</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>f</HorseSex>
-47
-		<DamName>ENTH</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+42
+		<DamDamName>ENTH</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -51,8 +25,8 @@ Dam is in line 38:   CAP, by Arch. 2 wins at 3, $27,300. Half-sister to **SOWER*
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 59: +    Avant (2020 f. by Uncle Mo). Placed at 3, 2023, $15,330.
-Dam is in line 47:   ENTH, by Seeking the Gold. Winner at 2, $30,135. Half-sister to **CEASE** ($714,937, 1st Maxxam Gold Cup H. [L] (HOU, $90,000), etc.), **TOTAL** ($155,703, 1st Letellier Memorial S. [L] (FG, $45,000), etc.), **Barrier** ($94,626, 2nd Kentucky Breeders' Cup S. **[G3]**, etc.). Dam of 11 foals, 9 to race, 7 winners--
+update on line 50: +    Avant (2020 f. by Uncle Mo). Placed at 3, 2023, $15,330.
+Dam is in line 42:   ENTH, by Seeking the Gold. Winner at 2, $30,135. Half-sister to **CEASE** ($714,937, 1st Maxxam Gold Cup H. [L] (HOU, $90,000), etc.), **TOTAL** ($155,703, 1st Letellier Memorial S. [L] (FG, $45,000), etc.), **Barrier** ($94,626, 2nd Kentucky Breeders' Cup S. **[G3]**, etc.). Dam of 11 foals, 9 to race, 7 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

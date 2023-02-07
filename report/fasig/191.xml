@@ -7,31 +7,6 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mo Go</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-34
-		<DamName>**MO' GREEN**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 38: +    Mo Go (2021 c. by Medaglia d'Oro). Unraced.
-Dam is in line 34:   **MO' GREEN**, by Uncle Mo. 4 wins at 3 and 4, $279,420, 1st Top Flight Invitational S. **[G3]** (AQU, $120,000), 2nd Royal Delta S. **[G2]** (GP, $39,600), 3rd Allaire DuPont Distaff S. **[G3]** (PIM, $15,000). Half-sister to **SHE'SCREATIVE** ($103,060, 1st D. S. Shine Young Futurity-R (EVD, $45,000)), **Brother in Arms** ($211,305, 2nd Tyro S. [L] (MTH, $20,000), etc.). Dam of 3 foals, 1 to race, 1 winner--
-		<hip>191</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Gem Power</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -39,19 +14,11 @@ Dam is in line 34:   **MO' GREEN**, by Uncle Mo. 4 wins at 3 and 4, $279,420, 1s
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>191</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Shes a Lucky Rebel</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>c</HorseSex>
-41
-		<DamName>**She's a Rebel Too**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+37
+		<DamDamName>**She's a Rebel Too**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -65,8 +32,8 @@ Dam is in line 34:   **MO' GREEN**, by Uncle Mo. 4 wins at 3 and 4, $279,420, 1s
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 54: +    Shes a Lucky Rebel (2020 f. by Lookin At Lucky). Placed at 3, 2023, $15,395.
-Dam is in line 41:   **She's a Rebel Too**, by Two Punch. 4 wins, 2 to 4, $144,965, 3rd Jameela S.-R (LRL, $8,250). Sister to **TWO PUNCH SONNY** ($326,819, 1st Evangeline Mile H. [L] (EVD, $45,000), etc., sire), half-sister to **RAGTIME DOLL** ($129,665, 1st Singing Beauty S.-R (LRL, $22,995), etc.), **Cheverly Gold** ($108,371, 2nd Humphrey S. Finney S.-R (PIM, $12,000), etc.). Dam of 8 foals, 7 to race, 5 winners--
+update on line 44: +    Shes a Lucky Rebel (2020 f. by Lookin At Lucky). Placed at 3, 2023, $15,395.
+Dam is in line 37:   **She's a Rebel Too**, by Two Punch. 4 wins, 2 to 4, $144,965, 3rd Jameela S.-R (LRL, $8,250). Sister to **TWO PUNCH SONNY** ($326,819, 1st Evangeline Mile H. [L] (EVD, $45,000), etc., sire), half-sister to **RAGTIME DOLL** ($129,665, 1st Singing Beauty S.-R (LRL, $22,995), etc.), **Cheverly Gold** ($108,371, 2nd Humphrey S. Finney S.-R (PIM, $12,000), etc.). Dam of 8 foals, 7 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

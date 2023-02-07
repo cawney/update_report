@@ -11,8 +11,7 @@
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>f</HorseSex>
 39
-		<DamName>JINX JOHNSON</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>JINX JOHNSON</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -32,7 +31,7 @@ Dam is in line 39:   JINX JOHNSON, by Morning Line. Winner at 2, $20,510. Dam of
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
-update on line 47: + WARM EMBRACE, by Street Cry (IRE). Unraced. Died 2019. Half-sister to **CODE OF HONOR** ($2,981,320, 1st Runhappy Travers S. **[G1]** (SAR, $670,000), etc.), **Big League** ($323,200, 2nd Best Pal S. **[G2]** (DMR, $40,000), etc.). Dam of 4 foals, 4 to race, 4 winners--
+update on line 46: + WARM EMBRACE, by Street Cry (IRE). Unraced. Died 2019. Half-sister to **CODE OF HONOR** ($2,981,320, 1st Runhappy Travers S. **[G1]** (SAR, $670,000), etc.), **Big League** ($323,200, 2nd Best Pal S. **[G2]** (DMR, $40,000), etc.). Dam of 4 foals, 4 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

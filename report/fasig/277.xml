@@ -11,8 +11,7 @@
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>c</HorseSex>
 40
-		<DamName>MISS HERMES</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>MISS HERMES</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -32,7 +31,7 @@ Dam is in line 40:   MISS HERMES, by Lemon Drop Kid. Unraced. Dam of 2 foals--
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
-update on line 48: + OUR IRISH LASSIE'S, by Yes It's True. Unraced. Half-sister to **MADDALENA** ($250,820, 1st Old Hat S. **[G3]** (GP, $60,000), etc.), **Haley's Lolipop** ($105,300, 3rd Nassau County S. **[G3]** (BEL, $20,000), etc.), **Tale of the Nile** ($287,049, 2nd Presque Isle Mile S. [L] (PID, $40,000)), **Crazy Uncle Rick** ($36,181, 3rd Barretts Juvenile S.-R (LRC, $12,500)). Dam of 5 foals, 3 to race, 2 winners--
+update on line 47: + OUR IRISH LASSIE'S, by Yes It's True. Unraced. Half-sister to **MADDALENA** ($250,820, 1st Old Hat S. **[G3]** (GP, $60,000), etc.), **Haley's Lolipop** ($105,300, 3rd Nassau County S. **[G3]** (BEL, $20,000), etc.), **Tale of the Nile** ($287,049, 2nd Presque Isle Mile S. [L] (PID, $40,000)), **Crazy Uncle Rick** ($36,181, 3rd Barretts Juvenile S.-R (LRC, $12,500)). Dam of 5 foals, 3 to race, 2 winners--
 		<hip>277</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -40,9 +39,8 @@ update on line 48: + OUR IRISH LASSIE'S, by Yes It's True. Unraced. Half-sister 
 		<HorseName>Abby the Bull Dawg</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
-48
-		<DamName>OUR IRISH LASSIE'S</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+47
+		<DamDamName>OUR IRISH LASSIE'S</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -56,65 +54,8 @@ update on line 48: + OUR IRISH LASSIE'S, by Yes It's True. Unraced. Half-sister 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 52: +    Abby the Bull Dawg (2019 f. by Klimt). Winner at 3, 2022, $31,260.
-Dam is in line 48: + OUR IRISH LASSIE'S, by Yes It's True. Unraced. Half-sister to **MADDALENA** ($250,820, 1st Old Hat S. **[G3]** (GP, $60,000), etc.), **Haley's Lolipop** ($105,300, 3rd Nassau County S. **[G3]** (BEL, $20,000), etc.), **Tale of the Nile** ($287,049, 2nd Presque Isle Mile S. [L] (PID, $40,000)), **Crazy Uncle Rick** ($36,181, 3rd Barretts Juvenile S.-R (LRC, $12,500)). Dam of 5 foals, 3 to race, 2 winners--
-		<hip>277</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>277</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sweet Shugs</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>g</HorseSex>
-48
-		<DamName>OUR IRISH LASSIE'S</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 60: +    Sweet Shugs (2020 f. by Practical Joke). Placed in 2 starts at 2, 2022, $3,462.
-Dam is in line 48: + OUR IRISH LASSIE'S, by Yes It's True. Unraced. Half-sister to **MADDALENA** ($250,820, 1st Old Hat S. **[G3]** (GP, $60,000), etc.), **Haley's Lolipop** ($105,300, 3rd Nassau County S. **[G3]** (BEL, $20,000), etc.), **Tale of the Nile** ($287,049, 2nd Presque Isle Mile S. [L] (PID, $40,000)), **Crazy Uncle Rick** ($36,181, 3rd Barretts Juvenile S.-R (LRC, $12,500)). Dam of 5 foals, 3 to race, 2 winners--
-		<hip>277</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2023 </HorseYOB>
-		<HorseSex>f</HorseSex>
-48
-		<DamName>OUR IRISH LASSIE'S</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 62: +    Unnamed (2023 f. by Army Mule). (application pending)
-Dam is in line 48: + OUR IRISH LASSIE'S, by Yes It's True. Unraced. Half-sister to **MADDALENA** ($250,820, 1st Old Hat S. **[G3]** (GP, $60,000), etc.), **Haley's Lolipop** ($105,300, 3rd Nassau County S. **[G3]** (BEL, $20,000), etc.), **Tale of the Nile** ($287,049, 2nd Presque Isle Mile S. [L] (PID, $40,000)), **Crazy Uncle Rick** ($36,181, 3rd Barretts Juvenile S.-R (LRC, $12,500)). Dam of 5 foals, 3 to race, 2 winners--
+update on line 51: +    Abby the Bull Dawg (2019 f. by Klimt). Winner at 3, 2022, $31,260.
+Dam is in line 47: + OUR IRISH LASSIE'S, by Yes It's True. Unraced. Half-sister to **MADDALENA** ($250,820, 1st Old Hat S. **[G3]** (GP, $60,000), etc.), **Haley's Lolipop** ($105,300, 3rd Nassau County S. **[G3]** (BEL, $20,000), etc.), **Tale of the Nile** ($287,049, 2nd Presque Isle Mile S. [L] (PID, $40,000)), **Crazy Uncle Rick** ($36,181, 3rd Barretts Juvenile S.-R (LRC, $12,500)). Dam of 5 foals, 3 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

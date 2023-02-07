@@ -11,8 +11,7 @@
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
 34
-		<DamName>**Onna Bugeisha**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**Onna Bugeisha**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -36,8 +35,7 @@ Dam is in line 34:   **Onna Bugeisha**, by First Samurai. 3 wins at 4 and 5, $15
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
 34
-		<DamName>**Onna Bugeisha**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**Onna Bugeisha**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -61,8 +59,7 @@ Dam is in line 34:   **Onna Bugeisha**, by First Samurai. 3 wins at 4 and 5, $15
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
 34
-		<DamName>**Onna Bugeisha**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**Onna Bugeisha**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>

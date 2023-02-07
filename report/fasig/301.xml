@@ -10,9 +10,8 @@
 		<HorseName>I'mnotshyi'llbuy</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
-38
-		<DamName>**DONTBESHY I'LL BUY**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+37
+		<DamDamName>**DONTBESHY I'LL BUY**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,22 +25,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    I'mnotshyi'llbuy (2015 f. by Distorted Humor). 4 wins at 4, $51,419. Dam of 2 foals--
-Dam is in line 38:   **DONTBESHY I'LL BUY**, by Cherokee Run. 3 wins at 3 and 4, $142,541, 1st Bold Brat S. [L] (AQU, $45,000), 3rd Distaff H. **[G2]** (AQU, $20,000). Sent from United States to Great Britain in 2009. Returned to United States from France in 2009. Sent from United States to Saudi Arabia in 2016. Half-sister to **ARTISTIC LICENSE** ($196,488, 1st River Cities S. (LAD, $45,000), etc.). Dam of 6 foals, 6 to race, 5 winners--
-		<hip>301</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2023 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>301</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Let's Go Tiger</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>g</HorseSex>
+update on line 41: +    I'mnotshyi'llbuy (2015 f. by Distorted Humor). 4 wins at 4, $51,419. Dam of 2 foals--
+Dam is in line 37:   **DONTBESHY I'LL BUY**, by Cherokee Run. 3 wins at 3 and 4, $142,541, 1st Bold Brat S. [L] (AQU, $45,000), 3rd Distaff H. **[G2]** (AQU, $20,000). Sent from United States to Great Britain in 2009. Returned to United States from France in 2009. Sent from United States to Saudi Arabia in 2016. Half-sister to **ARTISTIC LICENSE** ($196,488, 1st River Cities S. (LAD, $45,000), etc.). Dam of 6 foals, 6 to race, 5 winners--
 		<hip>301</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -49,9 +34,8 @@ Dam is in line 38:   **DONTBESHY I'LL BUY**, by Cherokee Run. 3 wins at 3 and 4,
 		<HorseName>=Geneva</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
-38
-		<DamName>**DONTBESHY I'LL BUY**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+37
+		<DamDamName>**DONTBESHY I'LL BUY**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -65,8 +49,8 @@ Dam is in line 38:   **DONTBESHY I'LL BUY**, by Cherokee Run. 3 wins at 3 and 4,
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 49: +    =Geneva (KSA) (2019 f. by Spring At Last). Winner at 2, placed at 4, 2023, 54,150 Riyals, in Saudi Arabia. (Total: $14,441).
-Dam is in line 38:   **DONTBESHY I'LL BUY**, by Cherokee Run. 3 wins at 3 and 4, $142,541, 1st Bold Brat S. [L] (AQU, $45,000), 3rd Distaff H. **[G2]** (AQU, $20,000). Sent from United States to Great Britain in 2009. Returned to United States from France in 2009. Sent from United States to Saudi Arabia in 2016. Half-sister to **ARTISTIC LICENSE** ($196,488, 1st River Cities S. (LAD, $45,000), etc.). Dam of 6 foals, 6 to race, 5 winners--
+update on line 44: +    =Geneva (KSA) (2019 f. by Spring At Last). Winner at 2, placed at 4, 2023, 54,150 Riyals, in Saudi Arabia. (Total: $14,441).
+Dam is in line 37:   **DONTBESHY I'LL BUY**, by Cherokee Run. 3 wins at 3 and 4, $142,541, 1st Bold Brat S. [L] (AQU, $45,000), 3rd Distaff H. **[G2]** (AQU, $20,000). Sent from United States to Great Britain in 2009. Returned to United States from France in 2009. Sent from United States to Saudi Arabia in 2016. Half-sister to **ARTISTIC LICENSE** ($196,488, 1st River Cities S. (LAD, $45,000), etc.). Dam of 6 foals, 6 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

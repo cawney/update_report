@@ -11,8 +11,7 @@
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
 38
-		<DamName>**Runge**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**Runge**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,7 +25,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    Jack Gave Back (2018 g. by Honor Code). Winner at 2 and 4, 2022, $81,655.
+update on line 42: +    Jack Gave Back (2018 g. by Honor Code). Winner at 2 and 4, 2022, $81,655.
 Dam is in line 38:   **Runge**, by Posse. 3 wins at 3 and 4, $99,402, 2nd Permian Basin S. (ZIA, $12,100). Died 2018. Half-sister to **Certain Pride** ($200,814, 2nd Permian Basin S. (ZIA, $13,200)). Dam of 4 foals, 4 to race, 4 winners--
 		<hip>159</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -35,9 +34,8 @@ Dam is in line 38:   **Runge**, by Posse. 3 wins at 3 and 4, $99,402, 2nd Permia
 		<HorseName>**Certain Pride**</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
-47
-		<DamName>**Tioga**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+46
+		<DamDamName>**Tioga**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -51,15 +49,8 @@ Dam is in line 38:   **Runge**, by Posse. 3 wins at 3 and 4, $99,402, 2nd Permia
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 50: +    **Certain Pride** (2007 f. by Offlee Wild). 2 wins at 2, $54,298, in N.A./U.S., 2nd Permian Basin S. (ZIA, $13,200); 5 wins at 3, $151,253, in Canada. Sent from United States to Venezuela in 2015. (Total: $200,814). Dam of 3 foals, 3 to race, 1 winner--
-Dam is in line 47:   **Tioga**, by Hadif. Winner at 2 and 3, $81,008, 2nd TTA Sales Futurity-R (LS, $49,624), 3rd Texas Stallion S.-R (HOU, $5,207). Half-sister to **BLUEGRASS SARA** ($153,052, 1st TTA Sales Futurity-R (LS, $82,920), etc.), **RICHBABE** ($98,319, 1st Friendship S.-R (LAD, $49,059), etc.), **Fortunate Bebe** ($23,497, 2nd Bara Lass S.-R (HOU, $9,070)). Dam of 11 foals, 8 to race, 8 winners--
-		<hip>159</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Center Middle</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
+update on line 49: +    **Certain Pride** (2007 f. by Offlee Wild). 2 wins at 2, $54,298, in N.A./U.S., 2nd Permian Basin S. (ZIA, $13,200); 5 wins at 3, $151,253, in Canada. Sent from United States to Venezuela in 2015. (Total: $200,814). Dam of 3 foals, 3 to race, 1 winner--
+Dam is in line 46:   **Tioga**, by Hadif. Winner at 2 and 3, $81,008, 2nd TTA Sales Futurity-R (LS, $49,624), 3rd Texas Stallion S.-R (HOU, $5,207). Half-sister to **BLUEGRASS SARA** ($153,052, 1st TTA Sales Futurity-R (LS, $82,920), etc.), **RICHBABE** ($98,319, 1st Friendship S.-R (LAD, $49,059), etc.), **Fortunate Bebe** ($23,497, 2nd Bara Lass S.-R (HOU, $9,070)). Dam of 11 foals, 8 to race, 8 winners--
 		<hip>159</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -67,9 +58,8 @@ Dam is in line 47:   **Tioga**, by Hadif. Winner at 2 and 3, $81,008, 2nd TTA Sa
 		<HorseName>Lady London</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
-47
-		<DamName>**Tioga**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+46
+		<DamDamName>**Tioga**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -83,15 +73,8 @@ Dam is in line 47:   **Tioga**, by Hadif. Winner at 2 and 3, $81,008, 2nd TTA Sa
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 58: +    Lady London (2014 f. by The Factor). 2 wins at 3, $29,821. Dam of 1 foal, 1 to race--
-Dam is in line 47:   **Tioga**, by Hadif. Winner at 2 and 3, $81,008, 2nd TTA Sales Futurity-R (LS, $49,624), 3rd Texas Stallion S.-R (HOU, $5,207). Half-sister to **BLUEGRASS SARA** ($153,052, 1st TTA Sales Futurity-R (LS, $82,920), etc.), **RICHBABE** ($98,319, 1st Friendship S.-R (LAD, $49,059), etc.), **Fortunate Bebe** ($23,497, 2nd Bara Lass S.-R (HOU, $9,070)). Dam of 11 foals, 8 to race, 8 winners--
-		<hip>159</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Flight to London</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>g</HorseSex>
+update on line 55: +    Lady London (2014 f. by The Factor). 2 wins at 3, $29,821. Dam of 1 foal, 1 to race--
+Dam is in line 46:   **Tioga**, by Hadif. Winner at 2 and 3, $81,008, 2nd TTA Sales Futurity-R (LS, $49,624), 3rd Texas Stallion S.-R (HOU, $5,207). Half-sister to **BLUEGRASS SARA** ($153,052, 1st TTA Sales Futurity-R (LS, $82,920), etc.), **RICHBABE** ($98,319, 1st Friendship S.-R (LAD, $49,059), etc.), **Fortunate Bebe** ($23,497, 2nd Bara Lass S.-R (HOU, $9,070)). Dam of 11 foals, 8 to race, 8 winners--
 		<hip>159</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -99,9 +82,8 @@ Dam is in line 47:   **Tioga**, by Hadif. Winner at 2 and 3, $81,008, 2nd TTA Sa
 		<HorseName>Oga Bear</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
-47
-		<DamName>**Tioga**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+46
+		<DamDamName>**Tioga**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -115,8 +97,8 @@ Dam is in line 47:   **Tioga**, by Hadif. Winner at 2 and 3, $81,008, 2nd TTA Sa
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 64: +    Oga Bear (2019 g. by Black Bear). Winner at 3 and 4, 2023, $28,467.
-Dam is in line 47:   **Tioga**, by Hadif. Winner at 2 and 3, $81,008, 2nd TTA Sales Futurity-R (LS, $49,624), 3rd Texas Stallion S.-R (HOU, $5,207). Half-sister to **BLUEGRASS SARA** ($153,052, 1st TTA Sales Futurity-R (LS, $82,920), etc.), **RICHBABE** ($98,319, 1st Friendship S.-R (LAD, $49,059), etc.), **Fortunate Bebe** ($23,497, 2nd Bara Lass S.-R (HOU, $9,070)). Dam of 11 foals, 8 to race, 8 winners--
+update on line 57: +    Oga Bear (2019 g. by Black Bear). Winner at 3 and 4, 2023, $28,467.
+Dam is in line 46:   **Tioga**, by Hadif. Winner at 2 and 3, $81,008, 2nd TTA Sales Futurity-R (LS, $49,624), 3rd Texas Stallion S.-R (HOU, $5,207). Half-sister to **BLUEGRASS SARA** ($153,052, 1st TTA Sales Futurity-R (LS, $82,920), etc.), **RICHBABE** ($98,319, 1st Friendship S.-R (LAD, $49,059), etc.), **Fortunate Bebe** ($23,497, 2nd Bara Lass S.-R (HOU, $9,070)). Dam of 11 foals, 8 to race, 8 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

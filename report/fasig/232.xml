@@ -11,8 +11,7 @@
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>f</HorseSex>
 33
-		<DamName>KALISTOGA GIRL</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>KALISTOGA GIRL</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -36,8 +35,7 @@ Dam is in line 33:   KALISTOGA GIRL, by Tapit. Unraced. Half-sister to **Always 
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
 33
-		<DamName>KALISTOGA GIRL</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>KALISTOGA GIRL</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -60,9 +58,8 @@ Dam is in line 33:   KALISTOGA GIRL, by Tapit. Unraced. Half-sister to **Always 
 		<HorseName>Kalistoga Girl</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>g</HorseSex>
-44
-		<DamName>**CALENDAR GIRL**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+42
+		<DamDamName>**CALENDAR GIRL**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -76,8 +73,8 @@ Dam is in line 33:   KALISTOGA GIRL, by Tapit. Unraced. Half-sister to **Always 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 50: +    Kalistoga Girl (2011 f. by Tapit). See above.
-Dam is in line 44:   **CALENDAR GIRL**, by Elusive Quality. Winner at 3, $67,900, in Canada, 1st Mount Royal H. (STP, $30,000), 2nd Northlands Oaks [L] (NP, $20,000), Supernaturel H. (HST, $10,000), 3rd Penny Ridge S. [L] (STP, $7,500); winner at 3, $14,143, in N.A./U.S. (Total: $77,228). Dam of 10 foals, 5 to race, 3 winners--
+update on line 46: +    Kalistoga Girl (2011 f. by Tapit). See above.
+Dam is in line 42:   **CALENDAR GIRL**, by Elusive Quality. Winner at 3, $67,900, in Canada, 1st Mount Royal H. (STP, $30,000), 2nd Northlands Oaks [L] (NP, $20,000), Supernaturel H. (HST, $10,000), 3rd Penny Ridge S. [L] (STP, $7,500); winner at 3, $14,143, in N.A./U.S. (Total: $77,228). Dam of 10 foals, 5 to race, 3 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

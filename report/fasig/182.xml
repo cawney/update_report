@@ -16,8 +16,7 @@ update on line 35: + **Gran Brandy**, by First Samurai. Winner at 2, $28,073, 3r
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
 38
-		<DamName>WEEKEND CONNECTION</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>WEEKEND CONNECTION</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -47,13 +46,6 @@ Dam is in line 38:   WEEKEND CONNECTION, by Pulpit. Winner at 3, $20,335. Dam of
 		<HorseName>=I'm Your Lemon</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>182</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

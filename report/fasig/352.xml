@@ -11,8 +11,7 @@
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>f</HorseSex>
 34
-		<DamName>ROCK HARD VIXEN</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>ROCK HARD VIXEN</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,7 +25,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 38: +    Unnamed (2022 f. by Kantharos). See above.
+update on line 37: +    Unnamed (2022 f. by Kantharos). See above.
 Dam is in line 34:   ROCK HARD VIXEN, by Rock Hard Ten. Placed at 4, $8,650. Dam of 5 foals, 1 to race--
 	</update>
 </FasigTiptonUpdates>

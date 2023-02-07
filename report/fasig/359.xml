@@ -16,8 +16,7 @@ update on line 36: + RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to 
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>g</HorseSex>
 36
-		<DamName>RUN A ROUND</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>RUN A ROUND</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -31,7 +30,7 @@ update on line 36: + RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 39: +    Inspeightoftrainer (2020 g. by Speightster). Winner at 2, placed at 3, 2023, $83,770.
+update on line 38: +    Inspeightoftrainer (2020 g. by Speightster). Winner at 2, placed at 3, 2023, $83,770.
 Dam is in line 36: + RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to **Ninth Client** ($242,485, 3rd Woodford Reserve Bourbon S. **[G3]** (KEE, $20,000)). Dam of 6 foals, 4 to race, 4 winners--
 		<hip>359</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -41,8 +40,7 @@ Dam is in line 36: + RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to 
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
 36
-		<DamName>RUN A ROUND</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>RUN A ROUND</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -56,7 +54,7 @@ Dam is in line 36: + RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    Formal Order (2019 c. by Strong Mandate). Winner at 2 and 3, 2022, $62,420.
+update on line 42: +    Formal Order (2019 c. by Strong Mandate). Winner at 2 and 3, 2022, $62,420.
 Dam is in line 36: + RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to **Ninth Client** ($242,485, 3rd Woodford Reserve Bourbon S. **[G3]** (KEE, $20,000)). Dam of 6 foals, 4 to race, 4 winners--
 		<hip>359</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -66,8 +64,7 @@ Dam is in line 36: + RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to 
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>f</HorseSex>
 36
-		<DamName>RUN A ROUND</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>RUN A ROUND</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -81,7 +78,7 @@ Dam is in line 36: + RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 48: +    Unnamed (2022 f. by Yorkton). See above.
+update on line 47: +    Unnamed (2022 f. by Yorkton). See above.
 Dam is in line 36: + RUN A ROUND, by Broken Vow. Unplaced, $680. Half-sister to **Ninth Client** ($242,485, 3rd Woodford Reserve Bourbon S. **[G3]** (KEE, $20,000)). Dam of 6 foals, 4 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>

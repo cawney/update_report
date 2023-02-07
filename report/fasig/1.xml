@@ -10,9 +10,8 @@
 		<HorseName>Baskerville</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
-38
-		<DamName>**Divalarious**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+37
+		<DamDamName>**Divalarious**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,8 +25,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 41: +    Baskerville (2014 c. by Bernardini). 5 wins, 2 to 9, 2023, 80,698,000 Yen, in Japan. Sent from United States to Great Britain in 2015. (Total: $732,772).
-Dam is in line 38:   **Divalarious**, by Distorted Humor. 2 wins at 3, $80,350, 3rd Riskaverse S. [L] (SAR, $7,500). Half-sister to **=TAIPAN (IRE)** (Total: $1,169,246, hwt. older horse at 6 on German Free Hand., 9 1/2 - 11 fur. (1998), hwt. older horse at 5 on Italian Free Hand., 9 1/2 - 11 fur. (1997), hwt. older horse at 6 on Italian Free Hand., 9 1/2 - 11 fur. (1998), 1st Premio Roma Trofeo After Eight **[G1]**, etc., sire), **=ALI-ROYAL (IRE)** (Total: $328,409, hwt. older horse at 4 on English Free Hand., 7 - 9 1/2 fur. (1997), 1st Sussex S. **[G1]**, etc., sire), **SLEEPYTIME (IRE)** (Total: $239,946, hwt. filly at 3 on European Free Hand., 7 - 9 fur. (1997), 1st Pertemps One Thousand Guineas **[G1]**, etc.), **OONAGH MACCOOL (IRE)** (Total: $379,528, 1st Louisville Breeders' Cup H. **[G2]** (CD, $140,127), etc.). Dam of 8 foals, 5 to race, 4 winners--
+update on line 40: +    Baskerville (2014 c. by Bernardini). 5 wins, 2 to 9, 2023, 80,698,000 Yen, in Japan. Sent from United States to Great Britain in 2015. (Total: $732,772).
+Dam is in line 37:   **Divalarious**, by Distorted Humor. 2 wins at 3, $80,350, 3rd Riskaverse S. [L] (SAR, $7,500). Half-sister to **=TAIPAN (IRE)** (Total: $1,169,246, hwt. older horse at 6 on German Free Hand., 9 1/2 - 11 fur. (1998), hwt. older horse at 5 on Italian Free Hand., 9 1/2 - 11 fur. (1997), hwt. older horse at 6 on Italian Free Hand., 9 1/2 - 11 fur. (1998), 1st Premio Roma Trofeo After Eight **[G1]**, etc., sire), **=ALI-ROYAL (IRE)** (Total: $328,409, hwt. older horse at 4 on English Free Hand., 7 - 9 1/2 fur. (1997), 1st Sussex S. **[G1]**, etc., sire), **SLEEPYTIME (IRE)** (Total: $239,946, hwt. filly at 3 on European Free Hand., 7 - 9 fur. (1997), 1st Pertemps One Thousand Guineas **[G1]**, etc.), **OONAGH MACCOOL (IRE)** (Total: $379,528, 1st Louisville Breeders' Cup H. **[G2]** (CD, $140,127), etc.). Dam of 8 foals, 5 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

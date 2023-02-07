@@ -7,62 +7,11 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Di Risata Molto</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-34
-		<DamName>ELITE HUMOR</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    Di Risata Molto (2022 c. by Liaison).
-Dam is in line 34:   ELITE HUMOR, by Distorted Humor. Placed at 2 and 3, $24,645. Half-sister to **OXY LADY** ($181,246, 1st Tempted S. **[G3]** (AQU, $82,500), etc.), **Elusive Schemes** ($160,698, 2nd Mt. Rainier H. (EMD, $10,000), etc.). Dam of 7 foals, 5 to race, 4 winners--
-		<hip>66</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Girls a Legacy</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-34
-		<DamName>ELITE HUMOR</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    Girls a Legacy (2021 f. by Den's Legacy). Unraced.
-Dam is in line 34:   ELITE HUMOR, by Distorted Humor. Placed at 2 and 3, $24,645. Half-sister to **OXY LADY** ($181,246, 1st Tempted S. **[G3]** (AQU, $82,500), etc.), **Elusive Schemes** ($160,698, 2nd Mt. Rainier H. (EMD, $10,000), etc.). Dam of 7 foals, 5 to race, 4 winners--
-		<hip>66</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>The Public Halo</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>c</HorseSex>
-45
-		<DamName>**Renaissance Lady**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+40
+		<DamDamName>**Renaissance Lady**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -76,15 +25,8 @@ Dam is in line 34:   ELITE HUMOR, by Distorted Humor. Placed at 2 and 3, $24,645
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 52: +    The Public Halo (2015 g. by Snapy Halo (ARG)). 6 wins, 2 to 7, 2022, $84,308.
-Dam is in line 45:   **Renaissance Lady**, by A.P. Indy. Winner at 2, $132,050, 2nd Debutante S. **[G3]** (CD, $22,180), Kentucky Cup Juvenile Fillies S. [L] (TP, $20,000), Anna M. Fisher Debutante S. [L] (ELP, $20,000), Fashion S. [L] (BEL, $16,000). Sister to **Value Stream** ($186,378, 3rd Redondo Beach S.-R (HOL, $7,434), etc.), half-sister to **BUFFUM** (Total: $261,550, 1st Bold Ruler H. **[G3]** (BEL, $90,000), sire), **STORMY WEST** ($367,153, 1st Caress S. (BEL, $45,750), etc.). Dam of 13 foals, 12 to race, 7 winners--
-		<hip>66</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sonya Knows Better</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
+update on line 45: +    The Public Halo (2015 g. by Snapy Halo (ARG)). 6 wins, 2 to 7, 2022, $84,308.
+Dam is in line 40:   **Renaissance Lady**, by A.P. Indy. Winner at 2, $132,050, 2nd Debutante S. **[G3]** (CD, $22,180), Kentucky Cup Juvenile Fillies S. [L] (TP, $20,000), Anna M. Fisher Debutante S. [L] (ELP, $20,000), Fashion S. [L] (BEL, $16,000). Sister to **Value Stream** ($186,378, 3rd Redondo Beach S.-R (HOL, $7,434), etc.), half-sister to **BUFFUM** (Total: $261,550, 1st Bold Ruler H. **[G3]** (BEL, $90,000), sire), **STORMY WEST** ($367,153, 1st Caress S. (BEL, $45,750), etc.). Dam of 13 foals, 12 to race, 7 winners--
 		<hip>66</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -99,27 +41,6 @@ Dam is in line 45:   **Renaissance Lady**, by A.P. Indy. Winner at 2, $132,050, 
 		<HorseName>Cajun Two Step</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>66</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Racy Bille</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>66</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>66</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Rusty's Sunrise</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

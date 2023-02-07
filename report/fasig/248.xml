@@ -7,41 +7,9 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sparkling Shire</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>r</HorseSex>
-33
-		<DamName>MY SPARKLING ARCH</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 39: +    Sparkling Shire (2019 g. by Flintshire (GB)). Unplaced, $3,345.
-Dam is in line 33:   MY SPARKLING ARCH, by Arch. Placed at 3, $2,458. Dam of 4 foals, 2 to race, 1 winner--
-		<hip>248</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Economic Hangover</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
-		<hip>248</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>248</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -56,9 +24,8 @@ Dam is in line 33:   MY SPARKLING ARCH, by Arch. Placed at 3, $2,458. Dam of 4 f
 		<HorseName>Catch That Song</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>c</HorseSex>
-42
-		<DamName>CATCH THE BLUE HAT</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+36
+		<DamDamName>CATCH THE BLUE HAT</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -72,8 +39,8 @@ Dam is in line 33:   MY SPARKLING ARCH, by Arch. Placed at 3, $2,458. Dam of 4 f
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 66: +    Catch That Song (2009 f. by Unbridled's Song). Unraced. Dam of 7 foals, 5 to race, 2 winners--
-Dam is in line 42:   CATCH THE BLUE HAT, by Storm Cat. Placed in 2 starts at 2 and 3, 7,900 Euro, in France. Sent from United States to France in 2004. Returned to United States from France in 2006. (Total: $9,832). Half-sister to **ANTONIUS PIUS** (Total: $563,776, 1st Anheuser-Busch Railway S. **[G2]**, etc., sire), **Songoficeandfire** ($156,600, 2nd Orchid S. **[G3]** (GP, $38,400), etc.). Dam of 10 foals, 8 to race, 4 winners--
+update on line 53: +    Catch That Song (2009 f. by Unbridled's Song). Unraced. Dam of 7 foals, 5 to race, 2 winners--
+Dam is in line 36:   CATCH THE BLUE HAT, by Storm Cat. Placed in 2 starts at 2 and 3, 7,900 Euro, in France. Sent from United States to France in 2004. Returned to United States from France in 2006. (Total: $9,832). Half-sister to **ANTONIUS PIUS** (Total: $563,776, 1st Anheuser-Busch Railway S. **[G2]**, etc., sire), **Songoficeandfire** ($156,600, 2nd Orchid S. **[G3]** (GP, $38,400), etc.). Dam of 10 foals, 8 to race, 4 winners--
 		<hip>248</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

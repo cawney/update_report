@@ -16,8 +16,7 @@ update on line 40: + **Preach It**, by Saint Ballado. 3 wins at 3 and 4, $120,83
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
 40
-		<DamName>**Preach It**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**Preach It**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -37,37 +36,11 @@ Dam is in line 40: + **Preach It**, by Saint Ballado. 3 wins at 3 and 4, $120,83
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bossier City Run</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-40
-		<DamName>**Preach It**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 50: +    Bossier City Run (2021 f. by Takeover Target). Unraced.
-Dam is in line 40: + **Preach It**, by Saint Ballado. 3 wins at 3 and 4, $120,839, 2nd Wayward Lass S. (TAM, $9,000), 3rd Florida Breeders' Distaff S.-R (OTC, $4,000). Half-sister to **ORATORY** ($189,000, 1st Peter Pan S. **[G2]** (BEL, $120,000), sire). Dam of 13 foals, 7 to race, 5 winners--
-		<hip>334</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Realisons Le Reve</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
-58
-		<DamName>**ARRESTED DREAMS**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+49
+		<DamDamName>**ARRESTED DREAMS**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -81,8 +54,8 @@ Dam is in line 40: + **Preach It**, by Saint Ballado. 3 wins at 3 and 4, $120,83
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 63: +    Realisons Le Reve (2013 f. by Lemon Drop Kid). Winner at 3, 14,950,000 Yen, in Japan. Sent from United States to Japan in 2015. (Total: $141,257). Dam of 1 foal, 1 to race--
-Dam is in line 58:   **ARRESTED DREAMS**, by Dehere. 8 wins in 12 starts at 2 and 3, $319,969, 1st Silver Spur S. [L] (LS, $90,000), Pago Hop S. [L] (FG, $60,000), Pontalba S. [L] (FG, $30,000), Thelma S. [L] (FG, $30,000), 2nd Matron S. **[G1]**. Died 2013. Dam of 11 foals, 10 to race, 9 winners--
+update on line 53: +    Realisons Le Reve (2013 f. by Lemon Drop Kid). Winner at 3, 14,950,000 Yen, in Japan. Sent from United States to Japan in 2015. (Total: $141,257). Dam of 1 foal, 1 to race--
+Dam is in line 49:   **ARRESTED DREAMS**, by Dehere. 8 wins in 12 starts at 2 and 3, $319,969, 1st Silver Spur S. [L] (LS, $90,000), Pago Hop S. [L] (FG, $60,000), Pontalba S. [L] (FG, $30,000), Thelma S. [L] (FG, $30,000), 2nd Matron S. **[G1]**. Died 2013. Dam of 11 foals, 10 to race, 9 winners--
 		<hip>334</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -125,27 +98,6 @@ Dam is in line 58:   **ARRESTED DREAMS**, by Dehere. 8 wins in 12 starts at 2 an
 		<HorseName>Mini Megan</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>g</HorseSex>
-		<hip>334</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>334</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sondsliksomdiniddo</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>334</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Trinity Hall</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

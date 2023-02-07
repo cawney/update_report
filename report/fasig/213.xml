@@ -11,8 +11,7 @@
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
 38
-		<DamName>INFINITE HOPE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>INFINITE HOPE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -36,8 +35,7 @@ Dam is in line 38:   INFINITE HOPE, by Dynaformer. Winner at 3, 4,640 Pounds, in
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>c</HorseSex>
 38
-		<DamName>INFINITE HOPE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>INFINITE HOPE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -53,13 +51,6 @@ Dam is in line 38:   INFINITE HOPE, by Dynaformer. Winner at 3, 4,640 Pounds, in
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 45: +    Unnamed (2022 c. by Spun to Run). See above.
 Dam is in line 38:   INFINITE HOPE, by Dynaformer. Winner at 3, 4,640 Pounds, in England. Sent from United States to Great Britain in 2010. Returned to United States from Great Britain in 2013. (Total: $7,338). Half-sister to **BROTHER O'CONNELL** ($291,586, 1st Mohawk S.-R (BEL, $120,000)), **Single Verse** ($177,960, 2nd Lady Finger S.-R (FL, $21,755), etc.). Dam of 5 foals, 1 to race, 1 winner--
-		<hip>213</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Party At the Post</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

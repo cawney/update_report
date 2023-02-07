@@ -10,9 +10,8 @@
 		<HorseName>**Dirty Rush**</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>r</HorseSex>
-39
-		<DamName>SATINET</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+37
+		<DamDamName>SATINET</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,8 +25,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 45: +    **Dirty Rush** (2003 f. by Wild Rush). 2 wins at 3, $77,373, 3rd Meafara S. [L] (HAW, $12,364). Dam of 11 foals, 10 to race, 8 winners--
-Dam is in line 39:   SATINET, by Olympio. 4 wins at 2 and 3, $72,475. Half-sister to **PROMISE OF WAR** ($437,030, 1st Tri-State H. [L] (ELP, $46,250), etc.), **BALDWIN COUNTY** ($241,275, 1st Charlie Iles Express H. (ALB, $24,000)). Dam of 15 foals, 13 to race, 9 winners--
+update on line 43: +    **Dirty Rush** (2003 f. by Wild Rush). 2 wins at 3, $77,373, 3rd Meafara S. [L] (HAW, $12,364). Dam of 11 foals, 10 to race, 8 winners--
+Dam is in line 37:   SATINET, by Olympio. 4 wins at 2 and 3, $72,475. Half-sister to **PROMISE OF WAR** ($437,030, 1st Tri-State H. [L] (ELP, $46,250), etc.), **BALDWIN COUNTY** ($241,275, 1st Charlie Iles Express H. (ALB, $24,000)). Dam of 15 foals, 13 to race, 9 winners--
 		<hip>357</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -46,20 +45,6 @@ Dam is in line 39:   SATINET, by Olympio. 4 wins at 2 and 3, $72,475. Half-siste
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Combativa</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Pressing Concern</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -69,41 +54,6 @@ Dam is in line 39:   SATINET, by Olympio. 4 wins at 2 and 3, $72,475. Half-siste
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Vezzali</HorseName>
 		<HorseYOB>2009 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Hawa Alwidyan</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Black Power</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Shoqatee</HorseName>
-		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
 		<hip>357</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -123,13 +73,6 @@ Dam is in line 39:   SATINET, by Olympio. 4 wins at 2 and 3, $72,475. Half-siste
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tiz Her Now</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -137,26 +80,11 @@ Dam is in line 39:   SATINET, by Olympio. 4 wins at 2 and 3, $72,475. Half-siste
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Old South Ball</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
-39
-		<DamName>SATINET</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+37
+		<DamDamName>SATINET</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -170,8 +98,8 @@ Dam is in line 39:   SATINET, by Olympio. 4 wins at 2 and 3, $72,475. Half-siste
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 86: +    Old South Ball (2013 f. by Drosselmeyer). 2 wins at 3, $30,380. Sent from United States to Saudi Arabia in 2022. Dam of 4 foals, 3 to race, 2 winners--
-Dam is in line 39:   SATINET, by Olympio. 4 wins at 2 and 3, $72,475. Half-sister to **PROMISE OF WAR** ($437,030, 1st Tri-State H. [L] (ELP, $46,250), etc.), **BALDWIN COUNTY** ($241,275, 1st Charlie Iles Express H. (ALB, $24,000)). Dam of 15 foals, 13 to race, 9 winners--
+update on line 69: +    Old South Ball (2013 f. by Drosselmeyer). 2 wins at 3, $30,380. Sent from United States to Saudi Arabia in 2022. Dam of 4 foals, 3 to race, 2 winners--
+Dam is in line 37:   SATINET, by Olympio. 4 wins at 2 and 3, $72,475. Half-sister to **PROMISE OF WAR** ($437,030, 1st Tri-State H. [L] (ELP, $46,250), etc.), **BALDWIN COUNTY** ($241,275, 1st Charlie Iles Express H. (ALB, $24,000)). Dam of 15 foals, 13 to race, 9 winners--
 		<hip>357</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -190,20 +118,6 @@ Dam is in line 39:   SATINET, by Olympio. 4 wins at 2 and 3, $72,475. Half-siste
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Academic Probation</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>c</HorseSex>
@@ -211,36 +125,8 @@ Dam is in line 39:   SATINET, by Olympio. 4 wins at 2 and 3, $72,475. Half-siste
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tyler Time</HorseName>
 		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Baytown Admiral</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Barons Blitz</HorseName>
-		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>

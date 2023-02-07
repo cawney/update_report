@@ -12,61 +12,8 @@ update on line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Juan Simon</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>c</HorseSex>
-35
-		<DamName>DOC'S LEADING LADY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 52: +    Juan Simon (2015 c. by Run Away and Hide). Winner at 2 in Panama. Sent from United States to Panama in 2016.
-Dam is in line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sister to **PHI BETA DOC** ($442,815, 1st Saranac H. **[G3]**, etc.), half-sister to **QUEEN MARY'S BOY** ($85,899, 1st San Mateo Mile S. [L] (BM, $33,700)), **Queen Ginni** ($43,083, 3rd Little Lady S. (SUF, $2,578)). Dam of 11 foals, 10 to race, 6 winners--
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Liars At the Spa</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lady Temple</HorseName>
 		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Run Away Temple</HorseName>
-		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>f</HorseSex>
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -82,27 +29,6 @@ Dam is in line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<HorseName>Molly's Warrior</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Molly's Temple</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -135,44 +61,9 @@ Dam is in line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Houdini the King</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kiddle Miss</HorseName>
-		<HorseYOB>2000 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Queen's Riches</HorseName>
 		<HorseYOB>1997 </HorseYOB>
 		<HorseSex>c</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Julianne's Pyramid</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2006 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Not Just Glitter</HorseName>
-		<HorseYOB>2005 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -191,44 +82,9 @@ Dam is in line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2009 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2007 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fire Off</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tras Las Rejas</HorseName>
-		<HorseYOB>2006 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**One Smart Farrah**</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2003 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -243,34 +99,6 @@ Dam is in line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<HorseName>=Go Quick</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>c</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Dalstontosiloth</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2007 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Dolce Dota</HorseName>
-		<HorseYOB>2003 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Granite Lad</HorseName>
-		<HorseYOB>2006 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -298,27 +126,6 @@ Dam is in line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Guapa Morena</HorseName>
 		<HorseYOB>2005 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Everglades Drifter</HorseName>
-		<HorseYOB>2002 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mr. Friendly Man</HorseName>
-		<HorseYOB>2006 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Burlman</HorseName>
-		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -401,20 +208,6 @@ Dam is in line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2011 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hanna the Cellist</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**DAYATTHESPA**</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -432,20 +225,6 @@ Dam is in line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<HorseName>Ava Malone</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Spaliday</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>467</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pampered Pretty</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

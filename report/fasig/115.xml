@@ -10,9 +10,8 @@
 		<HorseName>Spin Cycle</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>c</HorseSex>
-41
-		<DamName>**Submerge**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+38
+		<DamDamName>**Submerge**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,8 +25,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 44: +    Spin Cycle (2013 g. by Hard Spun). 14 wins, 2 to 9, 2022, $297,689.
-Dam is in line 41:   **Submerge**, by Fusaichi Pegasus. Winner at 2, $64,259, 2nd East View S.-R (AQU, $16,155). Sister to **Time Squared** ($100,740, 2nd Round Table S. [L] (AP, $19,800)), half-sister to **ARTEMIS AGROTERA** ($943,800, 1st Frizette S. **[G1]** (BEL, $300,000), etc.). Dam of 4 foals, 3 to race, 2 winners--
+update on line 41: +    Spin Cycle (2013 g. by Hard Spun). 14 wins, 2 to 9, 2022, $297,689.
+Dam is in line 38:   **Submerge**, by Fusaichi Pegasus. Winner at 2, $64,259, 2nd East View S.-R (AQU, $16,155). Sister to **Time Squared** ($100,740, 2nd Round Table S. [L] (AP, $19,800)), half-sister to **ARTEMIS AGROTERA** ($943,800, 1st Frizette S. **[G1]** (BEL, $300,000), etc.). Dam of 4 foals, 3 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

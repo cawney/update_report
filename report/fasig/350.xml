@@ -16,8 +16,7 @@ update on line 36: + RICH LOVE, by Not For Love. Winner at 3, $28,110. Half-sist
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
 36
-		<DamName>RICH LOVE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>RICH LOVE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -41,8 +40,7 @@ Dam is in line 36: + RICH LOVE, by Not For Love. Winner at 3, $28,110. Half-sist
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
 36
-		<DamName>RICH LOVE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>RICH LOVE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -66,8 +64,7 @@ Dam is in line 36: + RICH LOVE, by Not For Love. Winner at 3, $28,110. Half-sist
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>f</HorseSex>
 36
-		<DamName>RICH LOVE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>RICH LOVE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -87,37 +84,11 @@ Dam is in line 36: + RICH LOVE, by Not For Love. Winner at 3, $28,110. Half-sist
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sexarito</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-36
-		<DamName>RICH LOVE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 49: +    Sexarito (2021 f. by Frosted). Unraced.
-Dam is in line 36: + RICH LOVE, by Not For Love. Winner at 3, $28,110. Half-sister to **CONCEALED IDENTITY** ($461,140, 1st John B. Campbell H. (LRL, $75,000), etc.), **PEACH OF A GAL** ($101,155, 1st Christiana S. (DEL, $30,000), etc.), **Riccio** ($124,388, 3rd Rocky Run S. (DEL, $13,750), etc.), **Cu Rahy** ($122,794, 3rd Clever Trevor S. [L] (RP, $11,000), etc.). Dam of 7 foals, 5 to race, 4 winners--
-		<hip>350</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Riccio**</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>c</HorseSex>
-53
-		<DamName>**RICHETTA**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+49
+		<DamDamName>**RICHETTA**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -131,8 +102,8 @@ Dam is in line 36: + RICH LOVE, by Not For Love. Winner at 3, $28,110. Half-sist
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 58: +    **Riccio** (2020 g. by Cross Traffic). 2 wins at 2, 2022, $124,388, 3rd Rocky Run S. (DEL, $13,750), Heft S. (LRL, $10,000).
-Dam is in line 53:   **RICHETTA**, by Polish Numbers. 5 wins at 2 and 3, $296,848, 1st Selima S. [L] (LRL, $60,000), Maryland Million Lassie S.-R (LRL, $55,000), Twin Lights S. (MTH, $36,000), Heavenly Cause S.-R (LRL, $36,000), 2nd Twixt S.-R (PIM, $20,000), Nellie Morse S. (LRL, $15,000), Honey Bee S. (MED, $12,000), 3rd Susan's Girl Breeders' Cup S. [L] (DEL, $19,250), Maryland Million Oaks-R (PIM, $10,000), Humphrey S. Finney S.-R (PIM, $8,250), Conniver S.-R (LRL, $5,500). Dam of 13 foals, 11 to race, 9 winners--
+update on line 52: +    **Riccio** (2020 g. by Cross Traffic). 2 wins at 2, 2022, $124,388, 3rd Rocky Run S. (DEL, $13,750), Heft S. (LRL, $10,000).
+Dam is in line 49:   **RICHETTA**, by Polish Numbers. 5 wins at 2 and 3, $296,848, 1st Selima S. [L] (LRL, $60,000), Maryland Million Lassie S.-R (LRL, $55,000), Twin Lights S. (MTH, $36,000), Heavenly Cause S.-R (LRL, $36,000), 2nd Twixt S.-R (PIM, $20,000), Nellie Morse S. (LRL, $15,000), Honey Bee S. (MED, $12,000), 3rd Susan's Girl Breeders' Cup S. [L] (DEL, $19,250), Maryland Million Oaks-R (PIM, $10,000), Humphrey S. Finney S.-R (PIM, $8,250), Conniver S.-R (LRL, $5,500). Dam of 13 foals, 11 to race, 9 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

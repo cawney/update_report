@@ -25,8 +25,7 @@
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>c</HorseSex>
 34
-		<DamName>LETHAL HUNTER</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>LETHAL HUNTER</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -40,7 +39,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 63: +    Advection (2011 f. by Unusual Heat). Unplaced in 1 start, $250. Dam of 3 foals, 3 to race, 1 winner--
+update on line 54: +    Advection (2011 f. by Unusual Heat). Unplaced in 1 start, $250. Dam of 3 foals, 3 to race, 1 winner--
 Dam is in line 34:   LETHAL HUNTER, by Jade Hunter. Unraced. Half-sister to **LETHAL HEAT** ($655,988, 1st Hollywood Oaks **[G2]** (HOL, $94,560), etc.), **PREVALENT** ($61,760, 1st Meafara S. (HAW, $25,680)). Dam of 11 foals, 6 to race, 4 winners--
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -49,13 +48,6 @@ Dam is in line 34:   LETHAL HUNTER, by Jade Hunter. Unraced. Half-sister to **LE
 		<HorseName>Courageous Timmy</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>379</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Okey Dokey Smokey</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>f</HorseSex>
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -81,36 +73,8 @@ Dam is in line 34:   LETHAL HUNTER, by Jade Hunter. Unraced. Half-sister to **LE
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Generate Heat</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>379</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Ultima Heat</HorseName>
 		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>379</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>379</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Belle Blaze</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>379</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**LETHAL SPEAKER**</HorseName>
-		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -123,30 +87,9 @@ Dam is in line 34:   LETHAL HUNTER, by Jade Hunter. Unraced. Half-sister to **LE
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Universe Boss</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>379</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Beverly Dreaming</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>379</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Heat Seeking Leta</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
-		<hip>379</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Escape Plan</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

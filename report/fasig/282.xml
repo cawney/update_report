@@ -12,31 +12,6 @@ update on line 36: + VILLA SAVOYE, by Medaglia d'Oro. Winner at 4, $29,720, in N
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-36
-		<DamName>VILLA SAVOYE</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 41: +    Unnamed (2022 f. by Bernardini).
-Dam is in line 36: + VILLA SAVOYE, by Medaglia d'Oro. Winner at 4, $29,720, in N.A./U.S.; unplaced in 1 start, $2,000, in Canada. (Total: $31,264). Half-sister to **DANCING HOUSE** ($450,825, 1st Barbara Fritchie S. **[G2]** (LRL, $180,000), etc.), **TOO CHARMING** ($133,678, 1st Tropical Park Oaks (GP, $42,780), etc.), **Journeyman** ($248,437, 2nd Canadian Derby **[G3]** (CTM, $43,000)). Dam of 5 foals, 1 to race--
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Baladi**</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
@@ -44,19 +19,11 @@ Dam is in line 36: + VILLA SAVOYE, by Medaglia d'Oro. Winner at 4, $29,720, in N
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Journeyman**</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
-46
-		<DamName>**TOUT CHARMANT**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+40
+		<DamDamName>**TOUT CHARMANT**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -70,8 +37,8 @@ Dam is in line 36: + VILLA SAVOYE, by Medaglia d'Oro. Winner at 4, $29,720, in N
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 60: +    **Journeyman** (2016 g. by Animal Kingdom). 4 wins, 3 to 6, placed at 7, 2023, $209,579, in N.A./U.S.; placed in 2 starts at 3, $51,750, in Canada, 2nd Canadian Derby **[G3]** (CTM, $43,000). (Total: $248,437).
-Dam is in line 46:   **TOUT CHARMANT**, by Slewvescent. 9 wins, 2 to 6, $1,781,879, 1st Matriarch S. **[G1]**, Del Mar Oaks **[G1]**, San Gorgonio H. **[G2]** (SA, $90,000), Dahlia H. **[G2]** (HOL, $60,000), WinStar Galaxy S. **[G3]**, Wilshire H. **[G3]**, Sandy Blue S.-R (DMR, $36,780), 2nd Breeders' Cup Filly & Mare Turf **[G1]**, Queen Elizabeth II Challenge Cup S. **[G1]**, Ramona H. **[G1]**, Santa Anita Oaks **[G1]**, Las Virgenes S. **[G1]**, Honeymoon H. **[G2]**, Palomar H. **[G3]**, 3rd Gamely Breeders' Cup H. **[G1]**. Half-sister to **FOREST GROVE** ($281,130, 1st Los Angeles Times H. **[G3]** (HOL, $90,000), etc., sire). Dam of 13 foals, 9 to race, 8 winners--
+update on line 49: +    **Journeyman** (2016 g. by Animal Kingdom). 4 wins, 3 to 6, placed at 7, 2023, $209,579, in N.A./U.S.; placed in 2 starts at 3, $51,750, in Canada, 2nd Canadian Derby **[G3]** (CTM, $43,000). (Total: $248,437).
+Dam is in line 40:   **TOUT CHARMANT**, by Slewvescent. 9 wins, 2 to 6, $1,781,879, 1st Matriarch S. **[G1]**, Del Mar Oaks **[G1]**, San Gorgonio H. **[G2]** (SA, $90,000), Dahlia H. **[G2]** (HOL, $60,000), WinStar Galaxy S. **[G3]**, Wilshire H. **[G3]**, Sandy Blue S.-R (DMR, $36,780), 2nd Breeders' Cup Filly & Mare Turf **[G1]**, Queen Elizabeth II Challenge Cup S. **[G1]**, Ramona H. **[G1]**, Santa Anita Oaks **[G1]**, Las Virgenes S. **[G1]**, Honeymoon H. **[G2]**, Palomar H. **[G3]**, 3rd Gamely Breeders' Cup H. **[G1]**. Half-sister to **FOREST GROVE** ($281,130, 1st Los Angeles Times H. **[G3]** (HOL, $90,000), etc., sire). Dam of 13 foals, 9 to race, 8 winners--
 		<hip>282</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -79,9 +46,8 @@ Dam is in line 46:   **TOUT CHARMANT**, by Slewvescent. 9 wins, 2 to 6, $1,781,8
 		<HorseName>High Style</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>g</HorseSex>
-46
-		<DamName>**TOUT CHARMANT**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+40
+		<DamDamName>**TOUT CHARMANT**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -95,8 +61,8 @@ Dam is in line 46:   **TOUT CHARMANT**, by Slewvescent. 9 wins, 2 to 6, $1,781,8
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 63: +    High Style (2007 f. by Giant's Causeway). Winner at 3, $11,585. Died 2022. Dam of 7 foals, 6 to race, 5 winners--
-Dam is in line 46:   **TOUT CHARMANT**, by Slewvescent. 9 wins, 2 to 6, $1,781,879, 1st Matriarch S. **[G1]**, Del Mar Oaks **[G1]**, San Gorgonio H. **[G2]** (SA, $90,000), Dahlia H. **[G2]** (HOL, $60,000), WinStar Galaxy S. **[G3]**, Wilshire H. **[G3]**, Sandy Blue S.-R (DMR, $36,780), 2nd Breeders' Cup Filly & Mare Turf **[G1]**, Queen Elizabeth II Challenge Cup S. **[G1]**, Ramona H. **[G1]**, Santa Anita Oaks **[G1]**, Las Virgenes S. **[G1]**, Honeymoon H. **[G2]**, Palomar H. **[G3]**, 3rd Gamely Breeders' Cup H. **[G1]**. Half-sister to **FOREST GROVE** ($281,130, 1st Los Angeles Times H. **[G3]** (HOL, $90,000), etc., sire). Dam of 13 foals, 9 to race, 8 winners--
+update on line 52: +    High Style (2007 f. by Giant's Causeway). Winner at 3, $11,585. Died 2022. Dam of 7 foals, 6 to race, 5 winners--
+Dam is in line 40:   **TOUT CHARMANT**, by Slewvescent. 9 wins, 2 to 6, $1,781,879, 1st Matriarch S. **[G1]**, Del Mar Oaks **[G1]**, San Gorgonio H. **[G2]** (SA, $90,000), Dahlia H. **[G2]** (HOL, $60,000), WinStar Galaxy S. **[G3]**, Wilshire H. **[G3]**, Sandy Blue S.-R (DMR, $36,780), 2nd Breeders' Cup Filly & Mare Turf **[G1]**, Queen Elizabeth II Challenge Cup S. **[G1]**, Ramona H. **[G1]**, Santa Anita Oaks **[G1]**, Las Virgenes S. **[G1]**, Honeymoon H. **[G2]**, Palomar H. **[G3]**, 3rd Gamely Breeders' Cup H. **[G1]**. Half-sister to **FOREST GROVE** ($281,130, 1st Los Angeles Times H. **[G3]** (HOL, $90,000), etc., sire). Dam of 13 foals, 9 to race, 8 winners--
 		<hip>282</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -104,13 +70,6 @@ Dam is in line 46:   **TOUT CHARMANT**, by Slewvescent. 9 wins, 2 to 6, $1,781,8
 		<HorseName>**NEW AND IMPROVED**</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
 		<hip>282</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -171,27 +130,6 @@ Dam is in line 46:   **TOUT CHARMANT**, by Slewvescent. 9 wins, 2 to 6, $1,781,8
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Liddell</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Teo Mateo</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Toutsie Rules**</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -215,34 +153,6 @@ Dam is in line 46:   **TOUT CHARMANT**, by Slewvescent. 9 wins, 2 to 6, $1,781,8
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Rye Street</HorseName>
 		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kake'scharmingboy</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kake's Arrow</HorseName>
-		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>282</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -283,13 +193,6 @@ Dam is in line 46:   **TOUT CHARMANT**, by Slewvescent. 9 wins, 2 to 6, $1,781,8
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Chairmanbrew</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Diamondinthecenter</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>c</HorseSex>
@@ -304,37 +207,9 @@ Dam is in line 46:   **TOUT CHARMANT**, by Slewvescent. 9 wins, 2 to 6, $1,781,8
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Diamond Ready</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Diamonds Joy</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Taaffeite</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dream Collector</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>282</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -346,23 +221,9 @@ Dam is in line 46:   **TOUT CHARMANT**, by Slewvescent. 9 wins, 2 to 6, $1,781,8
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Real Charm</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>282</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
 		<hip>282</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

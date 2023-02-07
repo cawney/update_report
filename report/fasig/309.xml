@@ -12,37 +12,11 @@ update on line 36: + OF ONE HEART, by Perfect Soul (IRE). Placed in 2 starts at 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Steel Panther</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-36
-		<DamName>OF ONE HEART</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 45: +    Steel Panther (2018 c. by Palace). 5 wins at 2 and 3, placed at 4, 2022, 23,092 New Sol, in Peru. Sent from United States to Peru in 2020. (Total: $5,987).
-Dam is in line 36: + OF ONE HEART, by Perfect Soul (IRE). Placed in 2 starts at 2, $10,330. Half-sister to **METER MAID** ($557,698, 1st Gardenia H. **[G3]**, etc.), **BARILKO** ($205,957, 1st Colin S. [L] (WO, $75,000), etc.), **Haus of Dehere** ($174,126, 2nd Crown Royal American Turf S. **[G3]**, etc., sire). Dam of 9 foals, 8 to race, 6 winners--
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Bubba Can Dance</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>c</HorseSex>
 36
-		<DamName>OF ONE HEART</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>OF ONE HEART</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -56,7 +30,7 @@ Dam is in line 36: + OF ONE HEART, by Perfect Soul (IRE). Placed in 2 starts at 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 47: +    Bubba Can Dance (2020 c. by Jimmy Creed). Placed in 2 starts at 3, 2023, $10,163.
+update on line 43: +    Bubba Can Dance (2020 c. by Jimmy Creed). Placed in 2 starts at 3, 2023, $10,163.
 Dam is in line 36: + OF ONE HEART, by Perfect Soul (IRE). Placed in 2 starts at 2, $10,330. Half-sister to **METER MAID** ($557,698, 1st Gardenia H. **[G3]**, etc.), **BARILKO** ($205,957, 1st Colin S. [L] (WO, $75,000), etc.), **Haus of Dehere** ($174,126, 2nd Crown Royal American Turf S. **[G3]**, etc., sire). Dam of 9 foals, 8 to race, 6 winners--
 		<hip>309</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -66,8 +40,7 @@ Dam is in line 36: + OF ONE HEART, by Perfect Soul (IRE). Placed in 2 starts at 
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>c</HorseSex>
 36
-		<DamName>OF ONE HEART</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>OF ONE HEART</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -81,7 +54,7 @@ Dam is in line 36: + OF ONE HEART, by Perfect Soul (IRE). Placed in 2 starts at 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 56: +    Unnamed (2022 c. by Karakontie (JPN)). See above.
+update on line 50: +    Unnamed (2022 c. by Karakontie (JPN)). See above.
 Dam is in line 36: + OF ONE HEART, by Perfect Soul (IRE). Placed in 2 starts at 2, $10,330. Half-sister to **METER MAID** ($557,698, 1st Gardenia H. **[G3]**, etc.), **BARILKO** ($205,957, 1st Colin S. [L] (WO, $75,000), etc.), **Haus of Dehere** ($174,126, 2nd Crown Royal American Turf S. **[G3]**, etc., sire). Dam of 9 foals, 8 to race, 6 winners--
 		<hip>309</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -122,34 +95,6 @@ Dam is in line 36: + OF ONE HEART, by Perfect Soul (IRE). Placed in 2 starts at 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Rialto Kid</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Al Motayar</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>He's Magical</HorseName>
-		<HorseYOB>2013 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Private Stock</HorseName>
-		<HorseYOB>2009 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Chosen Road</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -167,27 +112,6 @@ Dam is in line 36: + OF ONE HEART, by Perfect Soul (IRE). Placed in 2 starts at 
 		<HorseName>Blaze of Joy</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dialed in to Win</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Emblem Winner</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>309</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -227,34 +151,6 @@ Dam is in line 36: + OF ONE HEART, by Perfect Soul (IRE). Placed in 2 starts at 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Atlaal</HorseName>
-		<HorseYOB>2007 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Portstewart</HorseName>
-		<HorseYOB>2005 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2015 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ministers Storm</HorseName>
-		<HorseYOB>2014 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Plan One</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -262,37 +158,9 @@ Dam is in line 36: + OF ONE HEART, by Perfect Soul (IRE). Placed in 2 starts at 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>X Mind</HorseName>
-		<HorseYOB>2007 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Unnamed</HorseName>
-		<HorseYOB>2009 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bad Rap</HorseName>
-		<HorseYOB>2008 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>No La Hace</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>c</HorseSex>
-		<hip>309</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Saarrem</HorseName>
-		<HorseYOB>2011 </HorseYOB>
-		<HorseSex>r</HorseSex>
 		<hip>309</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

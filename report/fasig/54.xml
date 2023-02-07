@@ -14,19 +14,11 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Moni Design</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>g</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Freedom Flag</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
-55
-		<DamName>**RUNUP THE COLORS**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+48
+		<DamDamName>**RUNUP THE COLORS**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -40,8 +32,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 62: +    Freedom Flag (2007 f. by Dixie Union). Winner at 3, $48,620. Died 2023. Dam of 7 foals, 5 to race, 3 winners--
-Dam is in line 55:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555,024, 1st Alabama S. **[G1]**, Delaware Oaks [L] (DEL, $90,000), 2nd Three Chimneys Spinster S. **[G1]**, Ballerina H. **[G1]**. Died 2014. Half-sister to **FLAGBIRD** (Total: $435,152, hwt. older mare at 4 on European Free Hand., 9 1/2 - 10 1/2 fur. (1995), hwt. older mare at 4 on English Free Hand., 9 1/2 - 11 fur. (1995), hwt. older mare at 4 on Irish Free Hand., 9 1/2 - 11 fur. (1995), hwt. older mare at 4 on Italian Free Hand., 9 1/2 - 11 fur. (1995), 1st Premio Presidente della Repubblica **[G1]**, etc.), **PROSPECTORS DELITE** ($432,953, broodmare of the year in U.S. (2003), 1st Acorn S. **[G1]**, etc.), **TOP ACCOUNT** ($466,819, 1st King's Bishop S. **[G2]**, etc., sire), **ALLIED FLAG** ($144,860, 1st Motor City H. (DET, $19,170), etc., sire), **FOLD THE FLAG** ($124,849, 1st Beaumont S. [L] (KEE, $43,428), etc.), **LONG VIEW** ($67,177, 1st Furl Sail H. (FG, $18,975)). Dam of 9 foals, 8 to race, 7 winners--
+update on line 55: +    Freedom Flag (2007 f. by Dixie Union). Winner at 3, $48,620. Died 2023. Dam of 7 foals, 5 to race, 3 winners--
+Dam is in line 48:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555,024, 1st Alabama S. **[G1]**, Delaware Oaks [L] (DEL, $90,000), 2nd Three Chimneys Spinster S. **[G1]**, Ballerina H. **[G1]**. Died 2014. Half-sister to **FLAGBIRD** (Total: $435,152, hwt. older mare at 4 on European Free Hand., 9 1/2 - 10 1/2 fur. (1995), hwt. older mare at 4 on English Free Hand., 9 1/2 - 11 fur. (1995), hwt. older mare at 4 on Irish Free Hand., 9 1/2 - 11 fur. (1995), hwt. older mare at 4 on Italian Free Hand., 9 1/2 - 11 fur. (1995), 1st Premio Presidente della Repubblica **[G1]**, etc.), **PROSPECTORS DELITE** ($432,953, broodmare of the year in U.S. (2003), 1st Acorn S. **[G1]**, etc.), **TOP ACCOUNT** ($466,819, 1st King's Bishop S. **[G2]**, etc., sire), **ALLIED FLAG** ($144,860, 1st Motor City H. (DET, $19,170), etc., sire), **FOLD THE FLAG** ($124,849, 1st Beaumont S. [L] (KEE, $43,428), etc.), **LONG VIEW** ($67,177, 1st Furl Sail H. (FG, $18,975)). Dam of 9 foals, 8 to race, 7 winners--
 		<hip>54</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -53,20 +45,6 @@ Dam is in line 55:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Candy Floss</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Banner Waving</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -74,44 +52,9 @@ Dam is in line 55:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>A'bouzy</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kenn</HorseName>
-		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Flag of Honor</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
 		<hip>54</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -133,13 +76,6 @@ Dam is in line 55:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555
 		<HorseName>=Whirlwind</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Ziggurat</HorseName>
-		<HorseYOB>2020 </HorseYOB>
-		<HorseSex>g</HorseSex>
 		<hip>54</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -179,27 +115,6 @@ Dam is in line 55:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>c</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Crimaldi</HorseName>
-		<HorseYOB>2019 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Bird Colors</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -214,22 +129,8 @@ Dam is in line 55:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Shakin Not Bird</HorseName>
-		<HorseYOB>2016 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Royal Feather</HorseName>
 		<HorseYOB>2018 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bird Feather</HorseName>
-		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>54</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -256,29 +157,8 @@ Dam is in line 55:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Taporical</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Luxury Box</HorseName>
-		<HorseYOB>2017 </HorseYOB>
-		<HorseSex>r</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Amazonka</HorseName>
 		<HorseYOB>2009 </HorseYOB>
-		<HorseSex>f</HorseSex>
-		<hip>54</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Alfa Star</HorseName>
-		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>

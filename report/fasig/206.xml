@@ -11,8 +11,7 @@
 		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>f</HorseSex>
 39
-		<DamName>HURRICANE SHEILA</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>HURRICANE SHEILA</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -42,9 +41,8 @@ Dam is in line 39:   HURRICANE SHEILA, by Congrats. Winner at 5, $73,610. Dam of
 		<HorseName>Blue Paynt</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>f</HorseSex>
-45
-		<DamName>**Storm City Blues**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+44
+		<DamDamName>**Storm City Blues**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -58,8 +56,8 @@ Dam is in line 39:   HURRICANE SHEILA, by Congrats. Winner at 5, $73,610. Dam of
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 58: +    Blue Paynt (2018 f. by Paynter). 5 wins at 3 and 4, 2022, $188,580.
-Dam is in line 45:   **Storm City Blues**, by Carson City. 6 wins, 3 to 5, $123,752, 3rd Ema Bovary S. (CRC, $4,400). Half-sister to **CAT ON A CLOUD** ($209,496, 1st Monmouth Park NATC Futurity-R (MTH, $120,000), etc.). Dam of 9 foals, 8 to race, 5 winners--
+update on line 54: +    Blue Paynt (2018 f. by Paynter). 5 wins at 3 and 4, 2022, $188,580.
+Dam is in line 44:   **Storm City Blues**, by Carson City. 6 wins, 3 to 5, $123,752, 3rd Ema Bovary S. (CRC, $4,400). Half-sister to **CAT ON A CLOUD** ($209,496, 1st Monmouth Park NATC Futurity-R (MTH, $120,000), etc.). Dam of 9 foals, 8 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

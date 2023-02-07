@@ -11,8 +11,7 @@
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
 39
-		<DamName>PEACE OPPORTUNITY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>PEACE OPPORTUNITY</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -27,31 +26,6 @@
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 42: +    **First Peace** (2020 c. by Funtastic). Winner at 2, 2022, $81,300, 2nd Eddie Logan S. [L] (SA, $20,000), 3rd Cecil B. DeMille S. **[G3]** (DMR, $12,000).
-Dam is in line 39:   PEACE OPPORTUNITY, by Point of Entry. Placed in 1 start at 3, $12,000. Half-sister to **Crawl From the Bar** ($132,781, 2nd Clarendon S.-R (WO, $25,000), etc.). Dam of 3 foals, 1 to race, 1 winner--
-		<hip>318</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Always Wanting</HorseName>
-		<HorseYOB>2021 </HorseYOB>
-		<HorseSex>g</HorseSex>
-39
-		<DamName>PEACE OPPORTUNITY</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 46: +    Always Wanting (2021 f. by Always Dreaming). Unraced.
 Dam is in line 39:   PEACE OPPORTUNITY, by Point of Entry. Placed in 1 start at 3, $12,000. Half-sister to **Crawl From the Bar** ($132,781, 2nd Clarendon S.-R (WO, $25,000), etc.). Dam of 3 foals, 1 to race, 1 winner--
 	</update>
 </FasigTiptonUpdates>

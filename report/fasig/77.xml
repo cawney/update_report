@@ -11,8 +11,7 @@
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
 34
-		<DamName>**CELTIC CHANT**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**CELTIC CHANT**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -26,7 +25,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 39: +    Ring Me Darling (2019 f. by Dialed In). 5 wins at 2 and 3, 2022, $219,261.
+update on line 38: +    Ring Me Darling (2019 f. by Dialed In). 5 wins at 2 and 3, 2022, $219,261.
 Dam is in line 34:   **CELTIC CHANT**, by Songandaprayer. 8 wins, 3 to 5, $241,410, 1st Cagey Exuberance S.-R (AQU, $45,000). Dam of 8 foals, 6 to race, 4 winners--
 		<hip>77</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -36,8 +35,7 @@ Dam is in line 34:   **CELTIC CHANT**, by Songandaprayer. 8 wins, 3 to 5, $241,4
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>c</HorseSex>
 34
-		<DamName>**CELTIC CHANT**</DamName>
-		<DamDamName>{get_names(lines[get_closest(i, gen1)], 2)}</DamDamName>
+		<DamDamName>**CELTIC CHANT**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
@@ -51,7 +49,7 @@ Dam is in line 34:   **CELTIC CHANT**, by Songandaprayer. 8 wins, 3 to 5, $241,4
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 50: +    Secondexwife (2020 f. by Practical Joke). See above.
+update on line 45: +    Secondexwife (2020 f. by Practical Joke). See above.
 Dam is in line 34:   **CELTIC CHANT**, by Songandaprayer. 8 wins, 3 to 5, $241,410, 1st Cagey Exuberance S.-R (AQU, $45,000). Dam of 8 foals, 6 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
