@@ -10,6 +10,7 @@
 		<HorseName>Ready At Midnight</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**MIDNIGHT WATCH**</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>Frost At Midnight</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**MIDNIGHT WATCH**</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +26,7 @@
 		<HorseName>Rolexa</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**MIDNIGHT WATCH**</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +34,7 @@
 		<HorseName>Midnight Fling</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Past Midnight</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +42,7 @@
 		<HorseName>**Momma G**</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Elusive Surprise</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,6 +50,7 @@
 		<HorseName>Surprsinglyperfect</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Elusive Surprise</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -52,6 +58,15 @@
 		<HorseName>Court Surprise</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Elusive Surprise</DamName>
+		<hip>323</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Tale of the Wind</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<DamName>Elusive Surprise</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -59,7 +74,7 @@
 		<HorseName>Emirates Lady</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>r</HorseSex>
-51
+56
 		<DamDamName>AMIRATI</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -74,8 +89,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 78: +    Emirates Lady (2005 f. by Unbridled's Song). Placed at 3, 1,721 Pounds, in England. Sent from United States to Great Britain in 2006. Returned to United States from Great Britain in 2008. Sent from United States to South Africa in 2015. (Total: $3,348). Dam of 10 foals, 8 to race, 3 winners--
-Dam is in line 51:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. Sent from United States to England in 1991. Returned to United States from Great Britain in 1993. (Total: $5,492). Sister to **Honor Grades** ($173,953, 2nd Derby Trial S. **[G3]**, etc., sire), half-sister to **A.P. INDY** ($2,979,815, horse of the year in U.S. (1992), champion 3-year-old colt in U.S. (1992), 1st Belmont S. **[G1]**, etc., leading sire in U.S. (2003), leading sire in U.S. (2006), leading broodmare sire in U.S. (2015), leading broodmare sire in U.S. (2021), among the leading sires in U.S. (2000), among the leading sires in U.S. (2001), among the leading sires in U.S. (2004), among the leading sires in U.S. (2005), among the leading sires in U.S. (2007), among the leading sires in U.S. (2009), among the leading broodmare sires in U.S. (2011), among the leading broodmare sires in U.S. (2012), among the leading broodmare sires in U.S. (2014), among the leading broodmare sires in U.S. (2016), among the leading broodmare sires in U.S. (2017), among the leading broodmare sires in U.S. (2018), among the leading broodmare sires in U.S. (2019)), **SUMMER SQUALL** ($1,844,282, 1st Preakness S. **[G1]**, etc., sire), **WELCOME SURPRISE** ($143,574, 1st Dogwood S. **[G3]**), **EAVESDROPPER** ($167,794, 1st Harvey Arneault Memorial H. [L] (MNR, $51,000), etc., sire), **Weekend in Seattle** ($147,245, 3rd Coaching Club American Oaks **[G1]**, etc.). Dam of 17 foals, 12 to race, 9 winners--
+update on line 94: +    Emirates Lady (2005 f. by Unbridled's Song). Placed at 3, 1,721 Pounds, in England. Sent from United States to Great Britain in 2006. Returned to United States from Great Britain in 2008. Sent from United States to South Africa in 2015. (Total: $3,348). Dam of 10 foals, 8 to race, 3 winners--
+Dam is in line 56:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. Sent from United States to England in 1991. Returned to United States from Great Britain in 1993. (Total: $5,492). Sister to **Honor Grades** ($173,953, 2nd Derby Trial S. **[G3]**, etc., sire), half-sister to **A.P. INDY** ($2,979,815, horse of the year in U.S. (1992), champion 3-year-old colt in U.S. (1992), 1st Belmont S. **[G1]**, etc., leading sire in U.S. (2003), leading sire in U.S. (2006), leading broodmare sire in U.S. (2015), leading broodmare sire in U.S. (2021), among the leading sires in U.S. (2000), among the leading sires in U.S. (2001), among the leading sires in U.S. (2004), among the leading sires in U.S. (2005), among the leading sires in U.S. (2007), among the leading sires in U.S. (2009), among the leading broodmare sires in U.S. (2011), among the leading broodmare sires in U.S. (2012), among the leading broodmare sires in U.S. (2014), among the leading broodmare sires in U.S. (2016), among the leading broodmare sires in U.S. (2017), among the leading broodmare sires in U.S. (2018), among the leading broodmare sires in U.S. (2019)), **SUMMER SQUALL** ($1,844,282, 1st Preakness S. **[G1]**, etc., sire), **WELCOME SURPRISE** ($143,574, 1st Dogwood S. **[G3]**), **EAVESDROPPER** ($167,794, 1st Harvey Arneault Memorial H. [L] (MNR, $51,000), etc., sire), **Weekend in Seattle** ($147,245, 3rd Coaching Club American Oaks **[G1]**, etc.). Dam of 17 foals, 12 to race, 9 winners--
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +98,7 @@ Dam is in line 51:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. 
 		<HorseName>My Gray Lady</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Emirates Lady</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -94,9 +110,18 @@ Dam is in line 51:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Vihaan's Grey</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Emirates Lady</DamName>
+		<hip>323</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sky Lady</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Emirates Lady</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -115,9 +140,23 @@ Dam is in line 51:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Zinfatuation</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>323</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Elixir</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<hip>323</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=He's The King</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -150,6 +189,20 @@ Dam is in line 51:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Grandpa Farrid</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>323</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Total Vision</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>323</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sky Palace</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>c</HorseSex>
@@ -160,6 +213,14 @@ Dam is in line 51:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. 
 		<HorseName>Jurere</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Weekendwithyou</DamName>
+		<hip>323</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Fraternity</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -167,6 +228,7 @@ Dam is in line 51:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. 
 		<HorseName>So Tempted</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Raffles Light</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -174,6 +236,7 @@ Dam is in line 51:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. 
 		<HorseName>=Carol Rose</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Amirotin</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -192,6 +255,13 @@ Dam is in line 51:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Meisho Tough Man</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>323</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Unicorn Bamboo</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>c</HorseSex>
@@ -202,6 +272,7 @@ Dam is in line 51:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. 
 		<HorseName>=Rusunai of Sakura</HorseName>
 		<HorseYOB>2002 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Amirotin</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -223,6 +294,7 @@ Dam is in line 51:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. 
 		<HorseName>=Mermaid Gold</HorseName>
 		<HorseYOB>2001 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Amirotin</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -255,9 +327,17 @@ Dam is in line 51:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Amiro Mambo</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>323</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Conzig</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Amber Myth</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -269,9 +349,17 @@ Dam is in line 51:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sing Me Sweet</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>323</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Truly a Myth</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Amber Myth</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -279,6 +367,7 @@ Dam is in line 51:   AMIRATI, by Danzig. Winner at 2, 3,002 Pounds, in England. 
 		<HorseName>Deep Blue Sea</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Amber Myth</DamName>
 		<hip>323</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

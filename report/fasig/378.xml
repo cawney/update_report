@@ -10,6 +10,7 @@
 		<HorseName>Game Warden</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Glory and Power</DamName>
 		<hip>378</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>Tap Gun</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**QUIET GIANT**</DamName>
 		<hip>378</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +26,7 @@
 		<HorseName>Quiet Flirt</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**QUIET GIANT**</DamName>
 		<hip>378</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +41,7 @@
 		<HorseName>Paulistinha</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**QUIET GIANT**</DamName>
 		<hip>378</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,6 +49,7 @@
 		<HorseName>**Gun It**</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**Miss Besilu**</DamName>
 		<hip>378</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -52,6 +57,7 @@
 		<HorseName>Lark's Mischief</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Miss Besilu**</DamName>
 		<hip>378</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -59,6 +65,7 @@
 		<HorseName>Minha Paixao</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Miss Besilu**</DamName>
 		<hip>378</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -66,6 +73,7 @@
 		<HorseName>**LULL**</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Quiet Now</DamName>
 		<hip>378</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -80,6 +88,7 @@
 		<HorseName>Island Shadows</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Quiet Broad</DamName>
 		<hip>378</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -108,6 +117,7 @@
 		<HorseName>**BUSTER'S READY**</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Beatem Buster</DamName>
 		<hip>378</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -129,6 +139,13 @@
 		<HorseName>Hallucinante</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<hip>378</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Stand Up</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>g</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

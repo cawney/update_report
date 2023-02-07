@@ -73,7 +73,7 @@ Dam is in line 38:   GUIDE, by Pulpit. Winner at 3, $50,280. Sent from United St
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 52: +    Rock Sapphire (KOR) (2014 f. by Rock Hard Ten). Winner at 3, $24,234. Sent from Republic of Korea to United States in 2014. Sent from United States to Ireland in 2015. Returned to United States from Ireland in 2017. Dam of 4 foals, 2 to race, 1 winner--
+update on line 53: +    Rock Sapphire (KOR) (2014 f. by Rock Hard Ten). Winner at 3, $24,234. Sent from Republic of Korea to United States in 2014. Sent from United States to Ireland in 2015. Returned to United States from Ireland in 2017. Dam of 4 foals, 2 to race, 1 winner--
 Dam is in line 38:   GUIDE, by Pulpit. Winner at 3, $50,280. Sent from United States to Republic of Korea in 2012. Returned to United States from Republic of Korea in 2014. Sister to **LAITY** ($223,040, 1st Miller Lite Cradle S. [L] (RD, $120,000), etc.), half-sister to **TRIP** ($888,773, 1st Turfway Breeders' Cup S. **[G3]**, etc.), **JOKE** ($121,674, 1st Vallejo S. [L] (GG, $28,100), etc.). Dam of 13 foals, 11 to race, 9 winners--
 		<hip>380</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -82,6 +82,7 @@ Dam is in line 38:   GUIDE, by Pulpit. Winner at 3, $50,280. Sent from United St
 		<HorseName>Sapphire Beauty</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Rock Sapphire</DamName>
 		<hip>380</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -89,6 +90,7 @@ Dam is in line 38:   GUIDE, by Pulpit. Winner at 3, $50,280. Sent from United St
 		<HorseName>Rocket Maker</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**TRIP**</DamName>
 		<hip>380</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -114,9 +116,17 @@ Dam is in line 38:   GUIDE, by Pulpit. Winner at 3, $50,280. Sent from United St
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Future Rocket</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>380</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Samurai's Honor</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**TRIP**</DamName>
 		<hip>380</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -131,6 +141,13 @@ Dam is in line 38:   GUIDE, by Pulpit. Winner at 3, $50,280. Sent from United St
 		<HorseName>Golden Rose</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<hip>380</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Impressive One</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>380</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -173,6 +190,7 @@ Dam is in line 38:   GUIDE, by Pulpit. Winner at 3, $50,280. Sent from United St
 		<HorseName>Cancel</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**TRIP**</DamName>
 		<hip>380</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -198,9 +216,17 @@ Dam is in line 38:   GUIDE, by Pulpit. Winner at 3, $50,280. Sent from United St
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Blame Bernie</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>380</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Kiawah Gal</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**JOKE**</DamName>
 		<hip>380</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -208,6 +234,7 @@ Dam is in line 38:   GUIDE, by Pulpit. Winner at 3, $50,280. Sent from United St
 		<HorseName>Secede</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Leave</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

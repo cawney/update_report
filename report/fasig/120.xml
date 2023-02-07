@@ -10,6 +10,7 @@
 		<HorseName>Whisk</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**FASTONGRASS**</DamName>
 		<hip>120</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -42,6 +43,13 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Atlantic Spring</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>120</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Spring Zapper</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -49,9 +57,17 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Ocotlan</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>120</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lucky Strikes Gold</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**ALICE SPRINGS**</DamName>
 		<hip>120</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -79,6 +95,14 @@
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lilla Creek</HorseName>
 		<HorseYOB>2000 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>**ALICE SPRINGS**</DamName>
+		<hip>120</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Desert Creek</HorseName>
+		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>120</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -108,6 +132,7 @@
 		<HorseName>Forest Spring</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**ALICE SPRINGS**</DamName>
 		<hip>120</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -122,6 +147,7 @@
 		<HorseName>Naughty Nina</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Annora Springs</DamName>
 		<hip>120</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -178,6 +204,7 @@
 		<HorseName>Penny D</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Glide Slope</DamName>
 		<hip>120</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

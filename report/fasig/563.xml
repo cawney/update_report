@@ -10,6 +10,7 @@
 		<HorseName>=Dream a Dream</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**JOSH'S MADELYN**</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -21,8 +22,23 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Meisho Seifu</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>563</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Premiere Dame</HorseName>
 		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Winning Punch</DamName>
+		<hip>563</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Premier Cru</HorseName>
+		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -31,6 +47,7 @@
 		<HorseName>Padrinoneverquits</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Quitters Never Win</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +55,7 @@
 		<HorseName>Fille de France</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Oaks Victoria</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -52,6 +70,7 @@
 		<HorseName>Majestic Monarch</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Party Silks</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -66,6 +85,7 @@
 		<HorseName>Silken Lily</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Party Silks</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -84,9 +104,17 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Running Valeria</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>563</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Aesculus**</HorseName>
 		<HorseYOB>2001 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**CRAFTY BUZZ**</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -133,6 +161,13 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Maryland Spirit</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>563</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=LYZBETH</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -147,6 +182,20 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Forez Eria</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>563</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Gibralwar</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>563</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Allegro Eria</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>g</HorseSex>
@@ -157,6 +206,7 @@
 		<HorseName>=Our Actress</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**CRAFTY BUZZ**</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -168,9 +218,17 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Paddington</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>563</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Frink</HorseName>
 		<HorseYOB>1999 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**CRAFTY BUZZ**</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -192,6 +250,7 @@
 		<HorseName>=Tosen Belle Femme</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Flight of Angels</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -203,9 +262,24 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Belle Femme Lady</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>563</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Tosen Henry</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>563</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Flight of Swan</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Flight of Angels</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -231,6 +305,13 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Survival Mind</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>563</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Monroe Tesoro</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -241,6 +322,7 @@
 		<HorseName>=Tetsunago</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Flight of Angels</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -276,6 +358,7 @@
 		<HorseName>=Pretty Betty</HorseName>
 		<HorseYOB>2002 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Flight of Angels</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -315,9 +398,17 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Kyoei Dublin</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>563</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Tosen Papillon</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Flight of Angels</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -350,9 +441,24 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Wonderful Blue</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>563</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Tosen Peridot</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>563</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Raging Deelites</HorseName>
 		<HorseYOB>2000 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Flight of Angels</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -367,6 +473,7 @@
 		<HorseName>=Fujiyama Angel</HorseName>
 		<HorseYOB>2001 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Flight of Angels</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -388,6 +495,7 @@
 		<HorseName>Rum Sun N Sand</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Terri's Charmer</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -416,6 +524,7 @@
 		<HorseName>=Charms Bracelet</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Terri's Charmer</DamName>
 		<hip>563</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -423,6 +532,7 @@
 		<HorseName>=Discreet Affair</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Lady Elysees</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

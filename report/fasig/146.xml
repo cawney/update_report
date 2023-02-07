@@ -12,9 +12,34 @@ update on line 36: + **Smart Seattle**, by Smart Strike. 4 wins, 2 to 4, $222,06
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Summer Nitro</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+36
+		<DamDamName>**Smart Seattle**</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 41: +    Summer Nitro (2020 f. by Summer Front). Winner at 2, 2022, $9,235.
+Dam is in line 36: + **Smart Seattle**, by Smart Strike. 4 wins, 2 to 4, $222,065, 2nd JPMorgan Chase Jessamine S. [L] (KEE, $30,000), P. G. Johnson S. (SAR, $14,750). Dam of 6 foals, 6 to race, 4 winners--
+		<hip>146</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Scat Joy</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Joyce Jenkins</DamName>
 		<hip>146</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -29,6 +54,7 @@ update on line 36: + **Smart Seattle**, by Smart Strike. 4 wins, 2 to 4, $222,06
 		<HorseName>Ella's Lute</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Joyce Jenkins</DamName>
 		<hip>146</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

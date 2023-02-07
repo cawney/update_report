@@ -15,7 +15,7 @@ update on line 36: + SPAC, by Gio Ponti. Placed at 3, $5,000. Half-sister to **A
 		<HorseName>**ARISTOCRATIC**</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>g</HorseSex>
-40
+39
 		<DamDamName>ASK ME WHEN</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -30,8 +30,8 @@ update on line 36: + SPAC, by Gio Ponti. Placed at 3, $5,000. Half-sister to **A
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    **ARISTOCRATIC** (2014 g. by Malibu Moon). 10 wins, 3 to 8, placed at 9, 2023, $544,709, 1st San Pedro S. [L] (SA, $46,500), 3rd Lazaro Barrera S. **[G3]** (SA, $12,000), Phoenix Gold Cup H. (TUP, $7,425).
-Dam is in line 40:   ASK ME WHEN, by Speightstown. Placed in 1 start at 3, $7,600. Half-sister to **DOMINUS** ($444,717, 1st Bernard Baruch H. **[G2]** (SAR, $150,000), etc., sire), **Arcturus** ($64,600, 3rd Continental Mile S. (MTH, $6,050)). Dam of 9 foals, 7 to race, 5 winners--
+update on line 42: +    **ARISTOCRATIC** (2014 g. by Malibu Moon). 10 wins, 3 to 8, placed at 9, 2023, $544,709, 1st San Pedro S. [L] (SA, $46,500), 3rd Lazaro Barrera S. **[G3]** (SA, $12,000), Phoenix Gold Cup H. (TUP, $7,425).
+Dam is in line 39:   ASK ME WHEN, by Speightstown. Placed in 1 start at 3, $7,600. Half-sister to **DOMINUS** ($444,717, 1st Bernard Baruch H. **[G2]** (SAR, $150,000), etc., sire), **Arcturus** ($64,600, 3rd Continental Mile S. (MTH, $6,050)). Dam of 9 foals, 7 to race, 5 winners--
 		<hip>394</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -39,7 +39,7 @@ Dam is in line 40:   ASK ME WHEN, by Speightstown. Placed in 1 start at 3, $7,60
 		<HorseName>Moonshine Now</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>c</HorseSex>
-40
+39
 		<DamDamName>ASK ME WHEN</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -55,7 +55,15 @@ Dam is in line 40:   ASK ME WHEN, by Speightstown. Placed in 1 start at 3, $7,60
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 51: +    Moonshine Now (2017 c. by Malibu Moon). 3 wins at 4, $63,540.
-Dam is in line 40:   ASK ME WHEN, by Speightstown. Placed in 1 start at 3, $7,600. Half-sister to **DOMINUS** ($444,717, 1st Bernard Baruch H. **[G2]** (SAR, $150,000), etc., sire), **Arcturus** ($64,600, 3rd Continental Mile S. (MTH, $6,050)). Dam of 9 foals, 7 to race, 5 winners--
+Dam is in line 39:   ASK ME WHEN, by Speightstown. Placed in 1 start at 3, $7,600. Half-sister to **DOMINUS** ($444,717, 1st Bernard Baruch H. **[G2]** (SAR, $150,000), etc., sire), **Arcturus** ($64,600, 3rd Continental Mile S. (MTH, $6,050)). Dam of 9 foals, 7 to race, 5 winners--
+		<hip>394</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Reservation</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Pick a Time</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

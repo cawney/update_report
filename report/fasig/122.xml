@@ -45,6 +45,7 @@
 		<HorseName>Chestnut Street</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Near and Dear</DamName>
 		<hip>122</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -52,6 +53,7 @@
 		<HorseName>Hurricane Jackie</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Near and Dear</DamName>
 		<hip>122</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -73,6 +75,7 @@
 		<HorseName>Dearly Declared</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Near and Dear</DamName>
 		<hip>122</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -80,6 +83,7 @@
 		<HorseName>Red Menace</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Near and Dear</DamName>
 		<hip>122</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -94,6 +98,13 @@
 		<HorseName>Connolly's Beads</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<hip>122</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Work Conquers All</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

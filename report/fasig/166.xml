@@ -31,9 +31,18 @@ Dam is in line 34:   LADY LAVERY, by Elusive Quality. Placed at 3, $40,840. Half
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Tone Setter</HorseName>
+		<HorseYOB>2023 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Orba</DamName>
+		<hip>166</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Sky Painter**</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**SKYLIGHTER**</DamName>
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -48,6 +57,7 @@ Dam is in line 34:   LADY LAVERY, by Elusive Quality. Placed at 3, $40,840. Half
 		<HorseName>Ghostlighter</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**SKYLIGHTER**</DamName>
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,6 +65,7 @@ Dam is in line 34:   LADY LAVERY, by Elusive Quality. Placed at 3, $40,840. Half
 		<HorseName>Iconic Adventure</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**SKYLIGHTER**</DamName>
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +73,7 @@ Dam is in line 34:   LADY LAVERY, by Elusive Quality. Placed at 3, $40,840. Half
 		<HorseName>Night Sky</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**SKYLIGHTER**</DamName>
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -69,6 +81,7 @@ Dam is in line 34:   LADY LAVERY, by Elusive Quality. Placed at 3, $40,840. Half
 		<HorseName>Dubai Blue</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**SPECKLED**</DamName>
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +89,7 @@ Dam is in line 34:   LADY LAVERY, by Elusive Quality. Placed at 3, $40,840. Half
 		<HorseName>=Street Kid</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Brushed Gold**</DamName>
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +97,7 @@ Dam is in line 34:   LADY LAVERY, by Elusive Quality. Placed at 3, $40,840. Half
 		<HorseName>Smooth Quality</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Brushed Gold**</DamName>
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -90,6 +105,7 @@ Dam is in line 34:   LADY LAVERY, by Elusive Quality. Placed at 3, $40,840. Half
 		<HorseName>=Kiss Me Mary</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Retrato</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

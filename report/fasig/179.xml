@@ -10,6 +10,7 @@
 		<HorseName>Stock Yard Hen</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**PERFECT SIX**</DamName>
 		<hip>179</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +25,7 @@
 		<HorseName>Awesome Six</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**PERFECT SIX**</DamName>
 		<hip>179</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -59,6 +61,7 @@
 		<HorseName>Perfect Doe</HorseName>
 		<HorseYOB>2002 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**PERFECT SIX**</DamName>
 		<hip>179</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -80,6 +83,7 @@
 		<HorseName>Bobby Chic</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Groovetta</DamName>
 		<hip>179</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -105,9 +109,17 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Bullseye Bobbie</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>179</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Racing Holiday**</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Racing Heart</DamName>
 		<hip>179</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -119,9 +131,17 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Leaving Shadows</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>179</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>We Need Art</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Racing Heart</DamName>
 		<hip>179</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -129,6 +149,7 @@
 		<HorseName>On a Mountain Top</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Onatopp</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -34,6 +34,7 @@ Dam is in line 33:   STREAKER, by Forest Wildcat. 4 wins at 3 and 4, $126,402. H
 		<HorseName>**CAT'S CLAW**</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Chili Cat**</DamName>
 		<hip>452</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,9 +46,17 @@ Dam is in line 33:   STREAKER, by Forest Wildcat. 4 wins at 3 and 4, $126,402. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Alfayaath</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>452</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Burning Arch</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Chili Cat**</DamName>
 		<hip>452</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +85,7 @@ Dam is in line 33:   STREAKER, by Forest Wildcat. 4 wins at 3 and 4, $126,402. H
 		<HorseName>Onza</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Chili Cat**</DamName>
 		<hip>452</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -108,9 +118,17 @@ Dam is in line 33:   STREAKER, by Forest Wildcat. 4 wins at 3 and 4, $126,402. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Aysoon</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>452</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Marco Island</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Caxambas Pass</DamName>
 		<hip>452</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -118,6 +136,7 @@ Dam is in line 33:   STREAKER, by Forest Wildcat. 4 wins at 3 and 4, $126,402. H
 		<HorseName>Secret Potion</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Caxambas Pass</DamName>
 		<hip>452</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -125,6 +144,7 @@ Dam is in line 33:   STREAKER, by Forest Wildcat. 4 wins at 3 and 4, $126,402. H
 		<HorseName>Cape Haze</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Caxambas Pass</DamName>
 		<hip>452</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -132,6 +152,7 @@ Dam is in line 33:   STREAKER, by Forest Wildcat. 4 wins at 3 and 4, $126,402. H
 		<HorseName>Vagabond</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Voyage</DamName>
 		<hip>452</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -143,9 +164,17 @@ Dam is in line 33:   STREAKER, by Forest Wildcat. 4 wins at 3 and 4, $126,402. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Now and Later</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>452</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>South Shore</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Voyage</DamName>
 		<hip>452</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -167,6 +196,35 @@ Dam is in line 33:   STREAKER, by Forest Wildcat. 4 wins at 3 and 4, $126,402. H
 		<HorseName>Out of Touch</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Voyage</DamName>
+		<hip>452</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=General Time</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>452</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Explosive Touch</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>452</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Oxidada</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>452</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Hip Hop</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>c</HorseSex>
 		<hip>452</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -188,6 +246,7 @@ Dam is in line 33:   STREAKER, by Forest Wildcat. 4 wins at 3 and 4, $126,402. H
 		<HorseName>Gulf</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Voyage</DamName>
 		<hip>452</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

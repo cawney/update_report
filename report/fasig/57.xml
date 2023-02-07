@@ -34,6 +34,7 @@ Dam is in line 34:   RIGHT PREVAILS, by Successful Appeal. Unraced. Sister to **
 		<HorseName>**Tupancy Links**</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Oral Argument</DamName>
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,6 +56,7 @@ Dam is in line 34:   RIGHT PREVAILS, by Successful Appeal. Unraced. Sister to **
 		<HorseName>Super Woman</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Oral Argument</DamName>
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -66,8 +68,30 @@ Dam is in line 34:   RIGHT PREVAILS, by Successful Appeal. Unraced. Sister to **
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Super Besliu</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>57</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Miss Jade</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>57</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>My Gift</HorseName>
 		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<DamName>Oral Argument</DamName>
+		<hip>57</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Shin Sawbu</HorseName>
+		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -76,6 +100,7 @@ Dam is in line 34:   RIGHT PREVAILS, by Successful Appeal. Unraced. Sister to **
 		<HorseName>Sunny Lane</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Mrs. Appeal</DamName>
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +108,7 @@ Dam is in line 34:   RIGHT PREVAILS, by Successful Appeal. Unraced. Sister to **
 		<HorseName>New Money</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>True Argument</DamName>
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -94,9 +120,25 @@ Dam is in line 34:   RIGHT PREVAILS, by Successful Appeal. Unraced. Sister to **
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>First Place Money</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>57</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Sawam</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Jeaneri</DamName>
+		<hip>57</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Ghomoodh</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<DamName>Jeaneri</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

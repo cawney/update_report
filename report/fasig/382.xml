@@ -10,6 +10,7 @@
 		<HorseName>Oh Toodles</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Gal Aloud</DamName>
 		<hip>382</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>Kitten's Man</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Shining Kitten</DamName>
 		<hip>382</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +26,7 @@
 		<HorseName>Astolat</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Sablonne</DamName>
 		<hip>382</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +34,15 @@
 		<HorseName>=Royal Hush</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Sablonne</DamName>
+		<hip>382</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Odin's Quest</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<DamName>Sablonne</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

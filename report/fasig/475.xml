@@ -10,6 +10,7 @@
 		<HorseName>=Awesome Wind</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**AWESOME FEATHER**</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>=Guillem</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**AWESOME FEATHER**</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +40,7 @@
 		<HorseName>Daily Log</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Diary</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -60,7 +63,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 54: +    First Navy Admiral (2018 c. by Fort Loudon). 4 wins at 3 and 4, 2022, $95,115.
+update on line 56: +    First Navy Admiral (2018 c. by Fort Loudon). 4 wins at 3 and 4, 2022, $95,115.
 Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257,441, 1st Born Famous H. [L] (CRC, $19,710), Noble Royalty H. [L] (CRC, $30,000), Judy's Red Shoes S. [L] (CRC, $30,000), Plum Country S. (CRC, $17,190), 2nd Azalea Breeders' Cup S. **[G3]**, Turfway Breeders' Cup S. **[G3]**, Shocker T. H. [L] (CRC, $20,000). Half-sister to **RUZNAMA** (Total: $61,600, 1st City of York S. [L], etc.), **Phar Feather** (Total: $33,447, 2nd Prix de Conde **[G3]**, etc., sire). Dam of 14 foals, 10 to race, 9 winners--
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -69,6 +72,7 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>Feather's Secret</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Tar and Feather</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +80,7 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>Citron Moon</HorseName>
 		<HorseYOB>2001 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**RUZNAMA**</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -94,9 +99,17 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>The Ssen Champ</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Elnayrah</HorseName>
 		<HorseYOB>2000 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**RUZNAMA**</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -108,9 +121,17 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Double Digger</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Contessa Queen</HorseName>
 		<HorseYOB>1999 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Contessa</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -136,6 +157,20 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Eifer Idol</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Hanadokei</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Vital Queen</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -146,6 +181,7 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>=Romance Freesia</HorseName>
 		<HorseYOB>1998 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Contessa</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -188,6 +224,7 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>=Sunny Style</HorseName>
 		<HorseYOB>1995 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Contessa</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -227,9 +264,24 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Carnegie Style</HorseName>
+		<HorseYOB>2000 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Meisun Success</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Maternal Love</HorseName>
 		<HorseYOB>1993 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Contessa</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -269,6 +321,13 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Ban Patent</HorseName>
+		<HorseYOB>2003 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Arkadia</HorseName>
 		<HorseYOB>1998 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -279,6 +338,7 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>=Last Princess</HorseName>
 		<HorseYOB>1996 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Contessa</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -297,9 +357,31 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Loverly Weed</HorseName>
+		<HorseYOB>2007 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Eifer Diosa</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Kunisaki Masao</HorseName>
+		<HorseYOB>2005 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Mutasader</HorseName>
 		<HorseYOB>1997 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Bawaeth</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -307,6 +389,7 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>**=Biwa Good Luck</HorseName>
 		<HorseYOB>1995 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Marabou</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -374,6 +457,13 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Silk Allure</HorseName>
+		<HorseYOB>2002 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Ken Bridge Swan</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -405,6 +495,7 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>=Prelate</HorseName>
 		<HorseYOB>2002 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Marabou</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -430,6 +521,20 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Dia Buder</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Pachira</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Archbishop</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -444,9 +549,38 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Hana Midori</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Raggio di Sole</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Sadamu Cook Pine</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Gold Sai</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Marabou Fleet</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Marabou</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -458,9 +592,31 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Chignon</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Suzu Goten</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Rinen Gonzalez</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=Personal Best</HorseName>
 		<HorseYOB>1994 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Penultimate</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -496,6 +652,7 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>=Verdigris</HorseName>
 		<HorseYOB>1991 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Penultimate</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -503,6 +660,20 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>=Alzabaq</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Shokraan</HorseName>
+		<HorseYOB>2005 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Barq Wa Raad</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -531,6 +702,7 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>First Amendment</HorseName>
 		<HorseYOB>1992 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Penultimate</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -545,6 +717,13 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>=Yeoman Lad</HorseName>
 		<HorseYOB>2000 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Thunders On</HorseName>
+		<HorseYOB>1997 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -573,6 +752,7 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>=Razzle Dazzle</HorseName>
 		<HorseYOB>1996 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Penultimate</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -587,6 +767,7 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>=Mariee Celebre</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Baby Bride</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -600,6 +781,34 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Cara Blanca</HorseName>
 		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Nobel Bride</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Malindi</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Werdi One</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Nobel Groom</HorseName>
+		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -633,9 +842,17 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Barnabas II</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mrs. Saigon</HorseName>
 		<HorseYOB>1999 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Baby Bride</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -643,6 +860,13 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>Ping Bay</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Duncan McFly</HorseName>
+		<HorseYOB>2007 </HorseYOB>
+		<HorseSex>c</HorseSex>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -657,6 +881,7 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>Miss Mexique</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Anakid</DamName>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -678,6 +903,20 @@ Dam is in line 34:   **PRECIOUS FEATHER**, by Gone West. 5 wins at 3 and 4, $257
 		<HorseName>=Itsaboutime</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Mesa Verde</HorseName>
+		<HorseYOB>2005 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>475</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Pericles</HorseName>
+		<HorseYOB>2007 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>475</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

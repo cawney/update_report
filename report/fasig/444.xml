@@ -34,6 +34,15 @@ Dam is in line 34:   VARUS, by Vicar. Unraced. Half-sister to **Cape Good Hope**
 		<HorseName>Majhoola</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Northern Miss</DamName>
+		<hip>444</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Hearts Fantasy</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Shanghai Fantasy</DamName>
 		<hip>444</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +50,7 @@ Dam is in line 34:   VARUS, by Vicar. Unraced. Half-sister to **Cape Good Hope**
 		<HorseName>Little Miss Chacha</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Littlemisschoochoo</DamName>
 		<hip>444</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -52,9 +62,18 @@ Dam is in line 34:   VARUS, by Vicar. Unraced. Half-sister to **Cape Good Hope**
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Cuestion de Honor</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Nevermistaquarter</DamName>
+		<hip>444</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sheba's Dream</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Shareaedit</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

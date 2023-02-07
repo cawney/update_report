@@ -17,6 +17,7 @@
 		<HorseName>Aqaareb</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**MUHAAWARA**</DamName>
 		<hip>504</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +25,7 @@
 		<HorseName>Hasnaa</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**MUHAAWARA**</DamName>
 		<hip>504</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +33,7 @@
 		<HorseName>=Phar From Over</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Rhode Island Red</DamName>
 		<hip>504</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,6 +48,7 @@
 		<HorseName>**Zusha**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Icy Tea</DamName>
 		<hip>504</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -52,6 +56,7 @@
 		<HorseName>Chai Max</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Icy Tea</DamName>
 		<hip>504</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -59,6 +64,7 @@
 		<HorseName>Lady Doris</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Icy Tea</DamName>
 		<hip>504</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -73,6 +79,7 @@
 		<HorseName>San Long Legend</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Icy Tea</DamName>
 		<hip>504</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -87,6 +94,7 @@
 		<HorseName>Super Chill</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Icy Tea</DamName>
 		<hip>504</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -101,6 +109,13 @@
 		<HorseName>Decoration Day</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<hip>504</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Shesabattleaxe</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

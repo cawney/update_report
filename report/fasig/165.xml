@@ -7,34 +7,10 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-33
-		<DamDamName>**FOXY SARA**</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 37: +    Unnamed (2022 f. by Klimt). See above.
-Dam is in line 33:   **FOXY SARA**, by Even the Score. 3 wins at 2, $119,792, 1st Blue Mountain S.-R (PEN, $45,000). Half-sister to **Mr. Good Stuff** ($93,446, 3rd Danzig S.-R (PEN, $4,477)). Dam of 5 foals, 3 to race, 1 winner--
-		<hip>165</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Aftertheballisover</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>f</HorseSex>
-40
+37
 		<DamDamName>MAGSTER</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -49,8 +25,8 @@ Dam is in line 33:   **FOXY SARA**, by Even the Score. 3 wins at 2, $119,792, 1s
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 46: +    Aftertheballisover (2003 f. by Bernstein). 8 wins, 3 to 8, $67,566. Dam of 6 foals, 5 to race, 3 winners--
-Dam is in line 40:   MAGSTER, by Houston. Unplaced in 2 starts. Dam of 12 foals, 10 to race, 8 winners--
+update on line 44: +    Aftertheballisover (2003 f. by Bernstein). 8 wins, 3 to 8, $67,566. Dam of 6 foals, 5 to race, 3 winners--
+Dam is in line 37:   MAGSTER, by Houston. Unplaced in 2 starts. Dam of 12 foals, 10 to race, 8 winners--
 		<hip>165</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -58,6 +34,7 @@ Dam is in line 40:   MAGSTER, by Houston. Unplaced in 2 starts. Dam of 12 foals,
 		<HorseName>Play Ball</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Aftertheballisover</DamName>
 		<hip>165</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -65,6 +42,15 @@ Dam is in line 40:   MAGSTER, by Houston. Unplaced in 2 starts. Dam of 12 foals,
 		<HorseName>Playing Ball</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Aftertheballisover</DamName>
+		<hip>165</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Play Ball Susie</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<DamName>Aftertheballisover</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

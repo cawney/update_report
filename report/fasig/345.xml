@@ -34,6 +34,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>**=You'resobeautiful</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**HULA ANGEL**</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +42,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>=Sarasini</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**HULA ANGEL**</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -52,9 +54,31 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Blindlove</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>345</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Zonisty</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>345</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Valegro</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>345</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Uisce Dubh</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**HULA ANGEL**</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +86,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>**Elusive Temper**</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**SCHEDULE</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -104,6 +129,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>Ready's Schedule</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**SCHEDULE</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -132,6 +158,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>Joan's Junior</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**SCHEDULE</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -139,6 +166,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>**=ALL THAT JAZZ</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>=Diamond Pisa</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -181,6 +209,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>=Pisa no Vettel</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>=Diamond Pisa</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -195,6 +224,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>=Basel Sauber</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>=Diamond Pisa</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -220,9 +250,17 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=All Is Vanity</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>345</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=These Dreams</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>=Diamond Pisa</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -244,6 +282,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>=Parmenides</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>=Silk Juliet</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -251,6 +290,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>=Nuqood</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Saajidah</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -258,6 +298,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>=Tansu Chokin</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Jaunting</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -272,6 +313,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>=Shimmei Gales</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Jaunting</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -297,9 +339,17 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Mont Saint Chara</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>345</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Yuko Vent Vert</HorseName>
 		<HorseYOB>2000 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Jaunting</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -307,6 +357,20 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>=Ocean Creek</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<hip>345</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Wide Lady</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>345</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Oiwake Bijin</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>f</HorseSex>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -328,6 +392,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>=Yes Dragon</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Jaunting</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -356,6 +421,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>=Chrome Heart</HorseName>
 		<HorseYOB>2001 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Jaunting</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -409,9 +475,17 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Sunday Success</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>345</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Osan Condor</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>=Jode Sure</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -440,6 +514,7 @@ Dam is in line 34:   **Seeking an Angel**, by Seeking the Gold. 4 wins at 4 and 
 		<HorseName>=Almond Pasa</HorseName>
 		<HorseYOB>2002 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>=Jode Sure</DamName>
 		<hip>345</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

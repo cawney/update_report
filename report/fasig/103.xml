@@ -36,9 +36,34 @@ Dam is in line 36: + COWGIRL LUCKY, by Stephen Got Even. Placed at 2, $11,370. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Looks Like Money</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+36
+		<DamDamName>COWGIRL LUCKY</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 51: +    Looks Like Money (2018 f. by Runhappy). Placed in 1 start at 5, 2023, $8,040.
+Dam is in line 36: + COWGIRL LUCKY, by Stephen Got Even. Placed at 2, $11,370. Half-sister to **Cherokee Path** ($192,612, 3rd Dixieland S. (OP, $5,000), sire). Dam of 13 foals, 10 to race, 7 winners--
+		<hip>103</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Little Ariel</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Little Storm Girl</DamName>
 		<hip>103</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -46,6 +71,13 @@ Dam is in line 36: + COWGIRL LUCKY, by Stephen Got Even. Placed at 2, $11,370. H
 		<HorseName>Ranger Rex</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<hip>103</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Doctor Do Little</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

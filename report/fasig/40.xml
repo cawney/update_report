@@ -31,9 +31,34 @@ Dam is in line 34:   BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-s
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Tactical Force</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>c</HorseSex>
+34
+		<DamDamName>BEEP BEEP BIRDIE</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 42: +    Tactical Force (2019 g. by Tapiture). Placed at 3, 2022, $5,750.
+Dam is in line 34:   BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-sister to **CHANGING WORLD** ($394,749, 1st Violet H. **[G3]** (MED, $120,000), etc.), **STAR CHANNEL** ($411,941, 1st Dayton Andrews Dodge Sophomore Turf S.-R (TAM, $45,000), etc.), **Our Exploit** ($111,930, 2nd Frances A. Genter S. [L] (CRC, $20,000), etc.). Dam of 5 foals, 3 to race, 1 winner--
+		<hip>40</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Granny Ramsey</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**CHANGING WORLD**</DamName>
 		<hip>40</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +101,7 @@ Dam is in line 34:   BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-s
 		<HorseName>Allez Allez</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**CHANGING WORLD**</DamName>
 		<hip>40</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +109,28 @@ Dam is in line 34:   BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-s
 		<HorseName>Lateen</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**CHANGING WORLD**</DamName>
+		<hip>40</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Great Winner</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>40</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Le Griffon</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>40</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Zartaj</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>40</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -90,6 +138,7 @@ Dam is in line 34:   BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-s
 		<HorseName>A Change for Anna</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**CHANGING WORLD**</DamName>
 		<hip>40</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -97,6 +146,7 @@ Dam is in line 34:   BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-s
 		<HorseName>Changing Fortunes</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**CHANGING WORLD**</DamName>
 		<hip>40</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -111,6 +161,7 @@ Dam is in line 34:   BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-s
 		<HorseName>Worldly Heiress</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**CHANGING WORLD**</DamName>
 		<hip>40</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -157,6 +208,13 @@ Dam is in line 34:   BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-s
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>High Flirt</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>40</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Laveau</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -167,6 +225,7 @@ Dam is in line 34:   BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-s
 		<HorseName>Our Kitten</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Our Exploit**</DamName>
 		<hip>40</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -181,12 +240,28 @@ Dam is in line 34:   BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-s
 		<HorseName>Harbor the Dream</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Our Exploit**</DamName>
+		<hip>40</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Enuffisenuff</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>f</HorseSex>
 		<hip>40</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Arch Criminal</HorseName>
 		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>**Our Exploit**</DamName>
+		<hip>40</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Clever Criminal</HorseName>
+		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>

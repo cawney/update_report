@@ -10,6 +10,7 @@
 		<HorseName>Big Flame</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Renegade Heat</DamName>
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>Big Hopes</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Renegade Heat</DamName>
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -48,6 +50,7 @@ Dam is in line 34:   LETHAL HUNTER, by Jade Hunter. Unraced. Half-sister to **LE
 		<HorseName>Courageous Timmy</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Advection</DamName>
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,6 +58,7 @@ Dam is in line 34:   LETHAL HUNTER, by Jade Hunter. Unraced. Half-sister to **LE
 		<HorseName>Total Heat</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**LETHAL HEAT**</DamName>
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +80,15 @@ Dam is in line 34:   LETHAL HUNTER, by Jade Hunter. Unraced. Half-sister to **LE
 		<HorseName>=Ultima Heat</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**LETHAL HEAT**</DamName>
+		<hip>379</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**LETHAL SPEAKER**</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<DamName>Serious Heat</DamName>
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +96,7 @@ Dam is in line 34:   LETHAL HUNTER, by Jade Hunter. Unraced. Half-sister to **LE
 		<HorseName>Louella Street</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Serious Heat</DamName>
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -90,6 +104,15 @@ Dam is in line 34:   LETHAL HUNTER, by Jade Hunter. Unraced. Half-sister to **LE
 		<HorseName>Heat Seeking Leta</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Heatology</DamName>
+		<hip>379</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Escape Plan</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<DamName>Heatology</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

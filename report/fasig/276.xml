@@ -39,6 +39,14 @@ Dam is in line 36: + **MISS EMPIRE**, by Empire Maker. 2 wins at 2, $228,250, 1s
 		<HorseName>Stunning Taste</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Memogram</DamName>
+		<hip>276</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Luksol</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
 		<hip>276</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -46,6 +54,7 @@ Dam is in line 36: + **MISS EMPIRE**, by Empire Maker. 2 wins at 2, $228,250, 1s
 		<HorseName>It's Your Life</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Memogram</DamName>
 		<hip>276</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -78,10 +87,17 @@ Dam is in line 36: + **MISS EMPIRE**, by Empire Maker. 2 wins at 2, $228,250, 1s
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Standforgrit</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>276</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Kulinski Rose</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>f</HorseSex>
-44
+45
 		<DamDamName>MISS EXCITEMENT</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -96,8 +112,8 @@ Dam is in line 36: + **MISS EMPIRE**, by Empire Maker. 2 wins at 2, $228,250, 1s
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 67: +    Kulinski Rose (2005 f. by Mud Route). Winner at 4, $49,580. Dam of 4 foals, 2 to race--
-Dam is in line 44:   MISS EXCITEMENT, by Rajab. 3 wins at 4 and 5, $103,825. Died 2014. Half-sister to **SEAHAWK GOLD** ($513,512, 1st Blue Eyed Davy S. [L] (SA, $29,050), etc.), **BEYOND THE WAVES** (Total: $187,752, broodmare of the year in U.S. (2019), 1st Prix des Tourelles [L], etc.). Dam of 11 foals, 8 to race, 8 winners--
+update on line 71: +    Kulinski Rose (2005 f. by Mud Route). Winner at 4, $49,580. Dam of 4 foals, 2 to race--
+Dam is in line 45:   MISS EXCITEMENT, by Rajab. 3 wins at 4 and 5, $103,825. Died 2014. Half-sister to **SEAHAWK GOLD** ($513,512, 1st Blue Eyed Davy S. [L] (SA, $29,050), etc.), **BEYOND THE WAVES** (Total: $187,752, broodmare of the year in U.S. (2019), 1st Prix des Tourelles [L], etc.). Dam of 11 foals, 8 to race, 8 winners--
 		<hip>276</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -105,6 +121,7 @@ Dam is in line 44:   MISS EXCITEMENT, by Rajab. 3 wins at 4 and 5, $103,825. Die
 		<HorseName>Malibu Diamond</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Wampum Girl</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

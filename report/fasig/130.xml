@@ -10,6 +10,7 @@
 		<HorseName>Mardi Gras</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**SPRING PARTY**</DamName>
 		<hip>130</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>Julia's Music</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**SPRING PARTY**</DamName>
 		<hip>130</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -35,9 +37,17 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=The Bishop</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>130</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sassy Sadie</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**SPRING PARTY**</DamName>
 		<hip>130</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -59,6 +69,7 @@
 		<HorseName>**JACARANDA**</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Baffled**</DamName>
 		<hip>130</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -73,6 +84,7 @@
 		<HorseName>Constitutional Law</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**Baffled**</DamName>
 		<hip>130</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -80,6 +92,7 @@
 		<HorseName>Benvenutta</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Baffled**</DamName>
 		<hip>130</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -87,6 +100,7 @@
 		<HorseName>Baffling</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Baffled**</DamName>
 		<hip>130</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -101,6 +115,7 @@
 		<HorseName>Lake Local</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>White Waves</DamName>
 		<hip>130</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -108,6 +123,7 @@
 		<HorseName>**Doc Amster**</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Gabeira</DamName>
 		<hip>130</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -115,6 +131,7 @@
 		<HorseName>**Degree of Risk**</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Wipe Out</DamName>
 		<hip>130</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -122,6 +139,7 @@
 		<HorseName>Start Over</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Wipe Out</DamName>
 		<hip>130</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -136,7 +154,7 @@
 		<HorseName>Alana B.</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
-38
+39
 		<DamDamName>SURF CLUB</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -151,8 +169,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 104: +    Alana B. (2015 f. by Animal Kingdom). Unraced. Dam of 1 foal, 1 to race, 1 winner--
-Dam is in line 38:   SURF CLUB, by Ocean Crest. 6 wins, 2 to 4, $114,397. Died 2022. Half-sister to **AWESOME HUMOR** ($848,950, 1st Spinaway S. **[G1]** (SAR, $120,000), etc.), **Dignified Donovan** ($459,483, 2nd San Juan County Commissioner's H. [L] (SRP, $16,500)). Dam of 13 foals, 10 to race, 9 winners--
+update on line 106: +    Alana B. (2015 f. by Animal Kingdom). Unraced. Dam of 1 foal, 1 to race, 1 winner--
+Dam is in line 39:   SURF CLUB, by Ocean Crest. 6 wins, 2 to 4, $114,397. Died 2022. Half-sister to **AWESOME HUMOR** ($848,950, 1st Spinaway S. **[G1]** (SAR, $120,000), etc.), **Dignified Donovan** ($459,483, 2nd San Juan County Commissioner's H. [L] (SRP, $16,500)). Dam of 13 foals, 10 to race, 9 winners--
 		<hip>130</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -160,6 +178,7 @@ Dam is in line 38:   SURF CLUB, by Ocean Crest. 6 wins, 2 to 4, $114,397. Died 2
 		<HorseName>**Ironsides**</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Alana B.</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -88,6 +88,7 @@ Dam is in line 36: + SWEET BUT SASSY, by Skip to the Stone. Winner at 3, $8,940.
 		<HorseName>Happy Sunday</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Dolphin Band</DamName>
 		<hip>415</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -102,6 +103,7 @@ Dam is in line 36: + SWEET BUT SASSY, by Skip to the Stone. Winner at 3, $8,940.
 		<HorseName>Quiet Time</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Dolphin Band</DamName>
 		<hip>415</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -123,6 +125,7 @@ Dam is in line 36: + SWEET BUT SASSY, by Skip to the Stone. Winner at 3, $8,940.
 		<HorseName>=Dixy Danger</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Dolphin Band</DamName>
 		<hip>415</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -130,6 +133,14 @@ Dam is in line 36: + SWEET BUT SASSY, by Skip to the Stone. Winner at 3, $8,940.
 		<HorseName>Russian Cat</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Shesforgiven</DamName>
+		<hip>415</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Scarlet's Song</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

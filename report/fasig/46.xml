@@ -10,6 +10,15 @@
 		<HorseName>White Swift</HorseName>
 		<HorseYOB>2021 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Purple Martin</DamName>
+		<hip>46</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Rainy Day Money</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<DamName>Rainbow Belle</DamName>
 		<hip>46</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +26,7 @@
 		<HorseName>Surely Sensible</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>A. P. Elegance</DamName>
 		<hip>46</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +34,15 @@
 		<HorseName>Elegant Curl</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>A. P. Elegance</DamName>
+		<hip>46</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Specialagent Jubal</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<DamName>Sunset Colours</DamName>
 		<hip>46</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +50,7 @@
 		<HorseName>**RED FLAG**</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Surrender</DamName>
 		<hip>46</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +58,7 @@
 		<HorseName>**SURRENDER NOW**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Surrender</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

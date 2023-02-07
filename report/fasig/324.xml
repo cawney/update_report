@@ -28,9 +28,17 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Hello Hoppertunity</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Liberty Road</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**HELLO LIBERTY**</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -70,6 +78,27 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Something Expect</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sojunghan Somang</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Tappin'time</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Buneya</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -88,7 +117,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 71: +    Buneya (2011 f. by Indian Charlie). Winner in 2 starts at 4, $26,270. Dam of 7 foals, 5 to race, 1 winner--
+update on line 78: +    Buneya (2011 f. by Indian Charlie). Winner in 2 starts at 4, $26,270. Dam of 7 foals, 5 to race, 1 winner--
 Dam is in line 38:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 foals, 8 to race, 6 winners--
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -97,6 +126,7 @@ Dam is in line 38:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 f
 		<HorseName>Aseelah</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Buneya</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -104,6 +134,7 @@ Dam is in line 38:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 f
 		<HorseName>El Gemar</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Buneya</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -111,6 +142,7 @@ Dam is in line 38:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 f
 		<HorseName>Daleelaty</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Buneya</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -118,6 +150,7 @@ Dam is in line 38:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 f
 		<HorseName>**SIGNIFICANT FORM**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Church by the Sea</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -125,6 +158,7 @@ Dam is in line 38:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 f
 		<HorseName>Hay Flo</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Church by the Sea</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -132,6 +166,7 @@ Dam is in line 38:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 f
 		<HorseName>Piney Point</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Church by the Sea</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -139,11 +174,19 @@ Dam is in line 38:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 f
 		<HorseName>**CARIBA**</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Incarnate Memories</DamName>
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**SOL PRINCIPE GRIS**</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>c</HorseSex>
 <hip>324</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
-update on line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
+update on line 115: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -151,7 +194,7 @@ update on line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Likely Minister</HorseName>
 		<HorseYOB>1994 </HorseYOB>
 		<HorseSex>r</HorseSex>
-104
+115
 		<DamDamName>**Most Likely**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -166,8 +209,8 @@ update on line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 105: +    Likely Minister (1994 f. by Deputy Minister). Winner at 4, $27,335. Dam of 7 foals, 5 to race, 3 winners--
-Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
+update on line 116: +    Likely Minister (1994 f. by Deputy Minister). Winner at 4, $27,335. Dam of 7 foals, 5 to race, 3 winners--
+Dam is in line 115: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -175,6 +218,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Gold Minx</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Likely Minister</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -221,9 +265,17 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Wildcatter's Gold</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Vaid</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Likely Minister</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -231,6 +283,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Top Cappelletti</HorseName>
 		<HorseYOB>2000 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Likely Minister</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -242,9 +295,17 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Susan's Vision</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Pe Ell Rev</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Likely Minister</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -252,6 +313,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Nenn</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Likely Minister</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -259,7 +321,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Rainbow Trail</HorseName>
 		<HorseYOB>1999 </HorseYOB>
 		<HorseSex>r</HorseSex>
-104
+115
 		<DamDamName>**Most Likely**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -274,8 +336,16 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 120: +    Rainbow Trail (1999 f. by With Approval). 5 wins at 2 and 4, $26,322.
-Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
+update on line 133: +    Rainbow Trail (1999 f. by With Approval). 5 wins at 2 and 4, $26,322.
+Dam is in line 115: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Lions's Angel</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<DamName>Rainbow Trail</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -283,7 +353,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Acapella Chick</HorseName>
 		<HorseYOB>1995 </HorseYOB>
 		<HorseSex>c</HorseSex>
-104
+115
 		<DamDamName>**Most Likely**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -298,8 +368,8 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 121: +    Acapella Chick (1995 f. by Capote). Winner at 3, $15,400. Dam of 8 foals, 6 to race, 1 winner--
-Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
+update on line 135: +    Acapella Chick (1995 f. by Capote). Winner at 3, $15,400. Dam of 8 foals, 6 to race, 1 winner--
+Dam is in line 115: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -307,6 +377,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Rhythm and Hues</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Acapella Chick</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -314,6 +385,15 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Serious Romance</HorseName>
 		<HorseYOB>2002 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Acapella Chick</DamName>
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Acapella Champion</HorseName>
+		<HorseYOB>2007 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<DamName>Acapella Chick</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -321,6 +401,79 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Quiet Authority</HorseName>
 		<HorseYOB>2001 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Acapella Chick</DamName>
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Lord Gandolph</HorseName>
+		<HorseYOB>2000 </HorseYOB>
+		<HorseSex>r</HorseSex>
+115
+		<DamDamName>**Most Likely**</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 140: +    Lord Gandolph (2000 c. by Wild Rush). Winner at 3, $7,371.
+Dam is in line 115: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Evento</HorseName>
+		<HorseYOB>2004 </HorseYOB>
+		<HorseSex>c</HorseSex>
+115
+		<DamDamName>**Most Likely**</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 141: +    Evento (2004 c. by Aljabr). 3 wins at 3 and 4 in Mexico. Sent from USA and Canada to Mexico in 2008.
+Dam is in line 115: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Flowers Treasure</HorseName>
+		<HorseYOB>1991 </HorseYOB>
+		<HorseSex>r</HorseSex>
+115
+		<DamDamName>**Most Likely**</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 142: +    Flowers Treasure (1991 g. by Cox's Ridge). 6 wins, 3 to 7 in Hong Kong. Sent from United States to Hong Kong in 1993. Racing in Hong Kong as Flowers Treasure. Returned to United States from Hong Kong in 2000.
+Dam is in line 115: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -328,7 +481,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Base Bleed</HorseName>
 		<HorseYOB>1992 </HorseYOB>
 		<HorseSex>c</HorseSex>
-104
+115
 		<DamDamName>**Most Likely**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -343,8 +496,8 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 125: +    Base Bleed (1992 c. by Lyphard). Placed at 3, 10,594 Euro, in France. Sent from United States to France in 1993. (Total: $13,565).
-Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
+update on line 143: +    Base Bleed (1992 c. by Lyphard). Placed at 3, 10,594 Euro, in France. Sent from United States to France in 1993. (Total: $13,565).
+Dam is in line 115: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -352,7 +505,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Witness Post</HorseName>
 		<HorseYOB>1998 </HorseYOB>
 		<HorseSex>f</HorseSex>
-104
+115
 		<DamDamName>**Most Likely**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -367,8 +520,8 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 126: +    Witness Post (1998 f. by Gone West). See above.
-Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
+update on line 144: +    Witness Post (1998 f. by Gone West). See above.
+Dam is in line 115: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -376,7 +529,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>More Likely</HorseName>
 		<HorseYOB>1996 </HorseYOB>
 		<HorseSex>r</HorseSex>
-104
+115
 		<DamDamName>**Most Likely**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -391,8 +544,8 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 127: +    More Likely (1996 f. by Housebuster). Unraced. Dam of 5 foals, 3 to race, 3 winners--
-Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
+update on line 145: +    More Likely (1996 f. by Housebuster). Unraced. Dam of 5 foals, 3 to race, 3 winners--
+Dam is in line 115: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -400,6 +553,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>More Salt</HorseName>
 		<HorseYOB>2002 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>More Likely</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -425,6 +579,13 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Vidarr</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Saaiqa</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -435,6 +596,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Likely a Star</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>More Likely</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -442,6 +604,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Ugotta Like Me</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>More Likely</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -449,6 +612,14 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Itchin to Win</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>More Likely</DamName>
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Lg Itchin for Gold</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>g</HorseSex>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -456,7 +627,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Holly Golikely</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>f</HorseSex>
-104
+115
 		<DamDamName>**Most Likely**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -471,8 +642,8 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 136: +    Holly Golikely (2003 f. by Aljabr). Unraced. Dam of 1 foal, 1 to race, 1 winner--
-Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
+update on line 156: +    Holly Golikely (2003 f. by Aljabr). Unraced. Dam of 1 foal, 1 to race, 1 winner--
+Dam is in line 115: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -480,6 +651,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Lexiacomo</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Holly Golikely</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -487,7 +659,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Likely Ruckus</HorseName>
 		<HorseYOB>1997 </HorseYOB>
 		<HorseSex>c</HorseSex>
-104
+115
 		<DamDamName>**Most Likely**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -502,8 +674,8 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 138: +    Likely Ruckus (1997 f. by Bold Ruckus). Unraced. Dam of 4 foals, 3 to race, 3 winners--
-Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
+update on line 158: +    Likely Ruckus (1997 f. by Bold Ruckus). Unraced. Dam of 4 foals, 3 to race, 3 winners--
+Dam is in line 115: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 3rd Forward Gal S. **[G3]**, Golden Rod S. [L] (CD, $12,895), Dogwood S. [L] (CD, $5,515). Sister to **WITH A TWIST** ($291,671, 1st Rare Treat H. **[G3]**, etc.), half-sister to **Seaside Dancer** ($92,959, 2nd Miller High Life Cradle S. **[G3]**, sire). Dam of 14 foals, 7 to race, 6 winners--
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -511,6 +683,7 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Likely Statesman</HorseName>
 		<HorseYOB>2001 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Likely Ruckus</DamName>
 		<hip>324</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -518,6 +691,15 @@ Dam is in line 104: + **Most Likely**, by Fappiano. 3 wins at 2 and 3, $67,865, 
 		<HorseName>Mount Brevetor</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Likely Ruckus</DamName>
+		<hip>324</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Raise a Ruckus</HorseName>
+		<HorseYOB>2007 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<DamName>Likely Ruckus</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

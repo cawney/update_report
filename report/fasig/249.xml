@@ -34,6 +34,7 @@ Dam is in line 34:   LIBERTY GIRL, by A. P. Warrior. Winner at 2 and 3, $106,890
 		<HorseName>Michelle d'Oro</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**CHAMPAGNE D'ORO**</DamName>
 		<hip>249</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,9 +46,17 @@ Dam is in line 34:   LIBERTY GIRL, by A. P. Warrior. Winner at 2 and 3, $106,890
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>She's Mo Bubbly</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>249</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Dora's Champagne</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Lost On Champagne**</DamName>
 		<hip>249</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -59,9 +68,24 @@ Dam is in line 34:   LIBERTY GIRL, by A. P. Warrior. Winner at 2 and 3, $106,890
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Taekwondo</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>249</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Tahili</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>249</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Can't Sleep</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Night Talk</DamName>
 		<hip>249</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +107,7 @@ Dam is in line 34:   LIBERTY GIRL, by A. P. Warrior. Winner at 2 and 3, $106,890
 		<HorseName>Miss Bette M</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Night Talk</DamName>
 		<hip>249</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -104,6 +129,7 @@ Dam is in line 34:   LIBERTY GIRL, by A. P. Warrior. Winner at 2 and 3, $106,890
 		<HorseName>**Champagne Humor**</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Champagne Ice</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -55,30 +55,6 @@ Dam is in line 33:   **PIOUS ASHLEY**, by Include. 4 wins at 3 and 4, $251,563, 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-33
-		<DamDamName>**PIOUS ASHLEY**</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 50: +    Unnamed (2022 f. by The Factor). See above.
-Dam is in line 33:   **PIOUS ASHLEY**, by Include. 4 wins at 3 and 4, $251,563, 1st Valid Expectations S. [L] (LS, $60,000), 2nd Endine S. **[G3]** (DEL, $30,000). Half-sister to **HELLO LIBERTY** ($284,239, 1st Nassau County Breeders' Cup S. **[G2]** (BEL, $124,560), etc.). Dam of 9 foals, 8 to race, 7 winners--
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**HELLO HOT ROD**</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
@@ -100,9 +76,17 @@ Dam is in line 33:   **PIOUS ASHLEY**, by Include. 4 wins at 3 and 4, $251,563, 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Hello Hoppertunity</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>325</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Liberty Road</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**HELLO LIBERTY**</DamName>
 		<hip>325</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -142,10 +126,31 @@ Dam is in line 33:   **PIOUS ASHLEY**, by Include. 4 wins at 3 and 4, $251,563, 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Something Expect</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>325</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sojunghan Somang</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>325</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Tappin'time</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>325</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Buneya</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
-52
+49
 		<DamDamName>WITNESS POST</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -160,8 +165,8 @@ Dam is in line 33:   **PIOUS ASHLEY**, by Include. 4 wins at 3 and 4, $251,563, 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 85: +    Buneya (2011 f. by Indian Charlie). Winner in 2 starts at 4, $26,270. Dam of 7 foals, 5 to race, 1 winner--
-Dam is in line 52:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 foals, 8 to race, 6 winners--
+update on line 89: +    Buneya (2011 f. by Indian Charlie). Winner in 2 starts at 4, $26,270. Dam of 7 foals, 5 to race, 1 winner--
+Dam is in line 49:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 foals, 8 to race, 6 winners--
 		<hip>325</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -169,6 +174,7 @@ Dam is in line 52:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 f
 		<HorseName>Aseelah</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Buneya</DamName>
 		<hip>325</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -176,6 +182,7 @@ Dam is in line 52:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 f
 		<HorseName>El Gemar</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Buneya</DamName>
 		<hip>325</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -183,6 +190,7 @@ Dam is in line 52:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 f
 		<HorseName>Daleelaty</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Buneya</DamName>
 		<hip>325</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -190,6 +198,7 @@ Dam is in line 52:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 f
 		<HorseName>**SIGNIFICANT FORM**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Church by the Sea</DamName>
 		<hip>325</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -197,6 +206,7 @@ Dam is in line 52:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 f
 		<HorseName>Hay Flo</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Church by the Sea</DamName>
 		<hip>325</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -204,6 +214,7 @@ Dam is in line 52:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 f
 		<HorseName>Piney Point</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Church by the Sea</DamName>
 		<hip>325</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -211,6 +222,14 @@ Dam is in line 52:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 f
 		<HorseName>**CARIBA**</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Incarnate Memories</DamName>
+		<hip>325</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>**SOL PRINCIPE GRIS**</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

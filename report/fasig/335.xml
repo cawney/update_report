@@ -10,7 +10,7 @@
 		<HorseName>Cruelmore</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
-38
+39
 		<DamDamName>INTENSIFY</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -25,8 +25,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 45: +    Cruelmore (2010 f. by Forestry). Placed at 3, $8,244. Dam of 7 foals, 6 to race, 5 winners--
-Dam is in line 38:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sister to **CRAFTY SHAW** ($1,046,440, 1st Rebel S. **[G3]**, etc., sire), **HER SHE KISSES** ($270,595, 1st Lady's Secret H. (RP, $21,000), etc.). Dam of 10 foals, 7 to race, 4 winners--
+update on line 46: +    Cruelmore (2010 f. by Forestry). Placed at 3, $8,244. Dam of 7 foals, 6 to race, 5 winners--
+Dam is in line 39:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sister to **CRAFTY SHAW** ($1,046,440, 1st Rebel S. **[G3]**, etc., sire), **HER SHE KISSES** ($270,595, 1st Lady's Secret H. (RP, $21,000), etc.). Dam of 10 foals, 7 to race, 4 winners--
 		<hip>335</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -34,6 +34,7 @@ Dam is in line 38:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sist
 		<HorseName>**THREES OVER DEUCES**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Cruelmore</DamName>
 		<hip>335</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +42,7 @@ Dam is in line 38:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sist
 		<HorseName>Inside Risk</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Cruelmore</DamName>
 		<hip>335</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -48,6 +50,7 @@ Dam is in line 38:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sist
 		<HorseName>Grace and Charm</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Cruelmore</DamName>
 		<hip>335</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,7 +58,7 @@ Dam is in line 38:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sist
 		<HorseName>Backroom</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>c</HorseSex>
-38
+39
 		<DamDamName>INTENSIFY</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -70,8 +73,16 @@ Dam is in line 38:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sist
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 61: +    Backroom (2017 f. by Fed Biz). Unplaced in 1 start, $310. Dam of 1 foal--
-Dam is in line 38:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sister to **CRAFTY SHAW** ($1,046,440, 1st Rebel S. **[G3]**, etc., sire), **HER SHE KISSES** ($270,595, 1st Lady's Secret H. (RP, $21,000), etc.). Dam of 10 foals, 7 to race, 4 winners--
+update on line 63: +    Backroom (2017 f. by Fed Biz). Unplaced in 1 start, $310. Dam of 1 foal--
+Dam is in line 39:   INTENSIFY, by Unbridled's Song. Unplaced, $6,480. Half-sister to **CRAFTY SHAW** ($1,046,440, 1st Rebel S. **[G3]**, etc., sire), **HER SHE KISSES** ($270,595, 1st Lady's Secret H. (RP, $21,000), etc.). Dam of 10 foals, 7 to race, 4 winners--
+		<hip>335</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Il Divo</HorseName>
+		<HorseYOB>2023 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<DamName>Backroom</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

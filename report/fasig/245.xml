@@ -10,6 +10,14 @@
 		<HorseName>Tiz Da Biz</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**STORM MESA**</DamName>
+		<hip>245</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Ritaj</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
 		<hip>245</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +25,7 @@
 		<HorseName>Pippas Poppy</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**STORM MESA**</DamName>
 		<hip>245</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +40,14 @@
 		<HorseName>Pointe Du Hoc</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**STORM MESA**</DamName>
+		<hip>245</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Instapointe</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>c</HorseSex>
 		<hip>245</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +55,7 @@
 		<HorseName>Gale Warning</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**STORM MESA**</DamName>
 		<hip>245</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -59,7 +77,7 @@
 		<HorseName>**SHE BE CLASSY**</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>f</HorseSex>
-37
+42
 		<DamDamName>NARJIS FLOWER</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -74,8 +92,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 57: +    **SHE BE CLASSY** (2007 f. by Toccet). 7 wins, 2 to 4, $211,108, 1st John W. Rooney Memorial S. [L] (DEL, $45,000). Dam of 6 foals, 4 to race, 3 winners--
-Dam is in line 37:   NARJIS FLOWER, by Pleasant Colony. Unplaced in 2 starts in England. Sent from United States to Great Britain in 1999. Returned to United States from Great Britain in 2000. Died 2016. Half-sister to **Garmoucheh** (Total: $67,043, 2nd Reading Evening Post Radley S. [L]), **Lady Shannon** (Total: $37,991, 3rd Emirates Airline E.B.F. Rockingham H. [L]). Dam of 9 foals, 7 to race, 6 winners--
+update on line 65: +    **SHE BE CLASSY** (2007 f. by Toccet). 7 wins, 2 to 4, $211,108, 1st John W. Rooney Memorial S. [L] (DEL, $45,000). Dam of 6 foals, 4 to race, 3 winners--
+Dam is in line 42:   NARJIS FLOWER, by Pleasant Colony. Unplaced in 2 starts in England. Sent from United States to Great Britain in 1999. Returned to United States from Great Britain in 2000. Died 2016. Half-sister to **Garmoucheh** (Total: $67,043, 2nd Reading Evening Post Radley S. [L]), **Lady Shannon** (Total: $37,991, 3rd Emirates Airline E.B.F. Rockingham H. [L]). Dam of 9 foals, 7 to race, 6 winners--
 		<hip>245</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +101,7 @@ Dam is in line 37:   NARJIS FLOWER, by Pleasant Colony. Unplaced in 2 starts in 
 		<HorseName>Shell Shock</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**SHE BE CLASSY**</DamName>
 		<hip>245</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -90,6 +109,7 @@ Dam is in line 37:   NARJIS FLOWER, by Pleasant Colony. Unplaced in 2 starts in 
 		<HorseName>She Be Sweet</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**SHE BE CLASSY**</DamName>
 		<hip>245</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -97,6 +117,7 @@ Dam is in line 37:   NARJIS FLOWER, by Pleasant Colony. Unplaced in 2 starts in 
 		<HorseName>Lord Mio</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Causin Commotion</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

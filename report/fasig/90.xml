@@ -7,9 +7,18 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Azelio</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<DamName>Diamond Girl</DamName>
+		<hip>90</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Raesunbridledfaith**</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**UNBRIDLED HOPE**</DamName>
 		<hip>90</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -56,6 +65,13 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Koei Mirror</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>90</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Melody of Love</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -72,6 +88,13 @@
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**SUGAR SHOCK**</HorseName>
 		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>90</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=San Iseul</HorseName>
+		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
 		<hip>90</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -101,6 +124,7 @@
 		<HorseName>Tallulah Falls</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**UNBRIDLED HOPE**</DamName>
 		<hip>90</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -122,6 +146,7 @@
 		<HorseName>**Don't Blame Me**</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**FORESTIER**</DamName>
 		<hip>90</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -143,6 +168,7 @@
 		<HorseName>Ascertain</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**FORESTIER**</DamName>
 		<hip>90</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -150,6 +176,7 @@
 		<HorseName>Ask for Bode</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**FORESTIER**</DamName>
 		<hip>90</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -157,6 +184,14 @@
 		<HorseName>Ete</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**FORESTIER**</DamName>
+		<hip>90</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Seiun Fever</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>90</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -164,6 +199,7 @@
 		<HorseName>Coralina</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**FORESTIER**</DamName>
 		<hip>90</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -185,6 +221,7 @@
 		<HorseName>Gabby's Miracle</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Elusive Melody</DamName>
 		<hip>90</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -199,6 +236,7 @@
 		<HorseName>Gachasmigas</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Elusive Melody</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

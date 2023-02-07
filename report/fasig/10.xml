@@ -82,6 +82,7 @@ Dam is in line 33:   AGUADILLA, by Stormy Atlantic. Placed at 2, $7,334. Sister 
 		<HorseName>**Karakatsie**</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Alexandrite</DamName>
 		<hip>10</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -89,6 +90,7 @@ Dam is in line 33:   AGUADILLA, by Stormy Atlantic. Placed at 2, $7,334. Sister 
 		<HorseName>**Duff One**</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Acadiana</DamName>
 		<hip>10</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -117,6 +119,7 @@ Dam is in line 33:   AGUADILLA, by Stormy Atlantic. Placed at 2, $7,334. Sister 
 		<HorseName>Giulio's Jewel</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Acadiana</DamName>
 		<hip>10</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -138,6 +141,7 @@ Dam is in line 33:   AGUADILLA, by Stormy Atlantic. Placed at 2, $7,334. Sister 
 		<HorseName>Abbeville</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Acadiana</DamName>
 		<hip>10</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -152,6 +156,13 @@ Dam is in line 33:   AGUADILLA, by Stormy Atlantic. Placed at 2, $7,334. Sister 
 		<HorseName>Karenville</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<hip>10</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Celebutant</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

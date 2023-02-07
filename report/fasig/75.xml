@@ -7,9 +7,18 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sir Goosa</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>**Cayman Croc**</DamName>
+		<hip>75</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Awesome Sunset</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Sunset Sail</DamName>
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -32,7 +41,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 56: +    Sunandsea (2010 f. by Henny Hughes). 3 wins at 4, $45,153. Dam of 7 foals, 3 to race, 2 winners--
+update on line 60: +    Sunandsea (2010 f. by Henny Hughes). 3 wins at 4, $45,153. Dam of 7 foals, 3 to race, 2 winners--
 Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, $106,951, 1st Go for Wand S. (DEL, $26,520), 2nd Peach Blossom S. (DEL, $10,000), 3rd Miss Preakness S. [L] (PIM, $9,119), Our Mims S. (DEL, $4,950). Half-sister to **Oh Summer** ($160,570, 2nd Skipat S. [L] (LRL, $15,780), etc.). Dam of 11 foals, 9 to race, 7 winners--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -41,6 +50,7 @@ Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, 
 		<HorseName>Agnus Dei</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Sunandsea</DamName>
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -48,6 +58,7 @@ Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, 
 		<HorseName>Oh</HorseName>
 		<HorseYOB>1998 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Oh Summer**</DamName>
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -87,9 +98,17 @@ Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Git Back Jo Jo</HorseName>
+		<HorseYOB>2005 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>75</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Justaboutperfect</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Oh Summer**</DamName>
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -101,9 +120,17 @@ Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Pro Long</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>75</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Chaturunga</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Oh Summer**</DamName>
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -206,9 +233,18 @@ Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Wise Memories</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Wickedly Wise</DamName>
+		<hip>75</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Wicked Ride</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Wickedly Wise</DamName>
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -251,6 +287,7 @@ Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, 
 		<HorseName>Legends Our Angel</HorseName>
 		<HorseYOB>2002 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Winter Cat</DamName>
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -258,6 +295,7 @@ Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, 
 		<HorseName>**KITTY BOOM BOOM**</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Kathwen</DamName>
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -265,6 +303,7 @@ Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, 
 		<HorseName>Tiz a Bud Girl</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Kathwen</DamName>
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -279,6 +318,7 @@ Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, 
 		<HorseName>Tiz Mi Haina</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Kathwen</DamName>
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -286,6 +326,21 @@ Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, 
 		<HorseName>Anita Margarita</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Kathwen</DamName>
+		<hip>75</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Miss Tizzy Fit</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>75</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Mission Relaunch</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>c</HorseSex>
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -293,6 +348,7 @@ Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, 
 		<HorseName>Brew Baroness</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Kathwen</DamName>
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -300,6 +356,7 @@ Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, 
 		<HorseName>Lamontagne</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Orion's Daughter</DamName>
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -307,6 +364,7 @@ Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, 
 		<HorseName>Spiritual Ghost</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Orion's Daughter</DamName>
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -314,6 +372,7 @@ Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, 
 		<HorseName>Steady Eddie</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Orion's Daughter</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

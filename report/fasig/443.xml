@@ -7,33 +7,10 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-34
-		<DamDamName>VANTER</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 37: +    Unnamed (2022 c. by Thousand Words). See above.
-Dam is in line 34:   VANTER, by Flatter. Winner at 2 and 3, $42,488. Half-sister to **KALAMBAKA QUEEN** ($240,871, 1st Sonoma H. (NP, $30,000), etc.), **Glacken Too** ($294,990, 3rd Santa Anita Sprint Championship S. **[G1]** (SA, $36,000), etc.). Dam of 1 foal--
-		<hip>443</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**ROOKIE SALSA**</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**KALAMBAKA QUEEN**</DamName>
 		<hip>443</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +18,15 @@ Dam is in line 34:   VANTER, by Flatter. Winner at 2 and 3, $42,488. Half-sister
 		<HorseName>Olive Kat</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**KALAMBAKA QUEEN**</DamName>
+		<hip>443</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>My Two Aunt Joans</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<DamName>**KALAMBAKA QUEEN**</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

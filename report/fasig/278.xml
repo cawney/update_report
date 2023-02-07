@@ -34,6 +34,7 @@ Dam is in line 33:   MISS HISSY FIT, by Aldebaran. Unraced. Half-sister to **RHU
 		<HorseName>Berkshire Hills</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**RHUBARB RED**</DamName>
 		<hip>278</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +42,7 @@ Dam is in line 33:   MISS HISSY FIT, by Aldebaran. Unraced. Half-sister to **RHU
 		<HorseName>Watertown</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**RHUBARB RED**</DamName>
 		<hip>278</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +64,7 @@ Dam is in line 33:   MISS HISSY FIT, by Aldebaran. Unraced. Half-sister to **RHU
 		<HorseName>**=Scotch and Soda</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>She's My Lady</DamName>
 		<hip>278</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +79,7 @@ Dam is in line 33:   MISS HISSY FIT, by Aldebaran. Unraced. Half-sister to **RHU
 		<HorseName>=She Is Love</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>She's My Lady</DamName>
 		<hip>278</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -89,6 +93,21 @@ Dam is in line 33:   MISS HISSY FIT, by Aldebaran. Unraced. Half-sister to **RHU
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=She Is Cute</HorseName>
 		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<DamName>She's My Lady</DamName>
+		<hip>278</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Esos Contornos</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>278</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Cute Smile</HorseName>
+		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
 		<hip>278</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -104,6 +123,15 @@ Dam is in line 33:   MISS HISSY FIT, by Aldebaran. Unraced. Half-sister to **RHU
 		<HorseName>=Maxima Reserva</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Purpura</DamName>
+		<hip>278</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>He's a Fine Man</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<DamName>She's a Fine Lady</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

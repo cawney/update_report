@@ -10,7 +10,7 @@
 		<HorseName>Divine Praises</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
-43
+44
 		<DamDamName>**GRAND PRAYER**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -25,8 +25,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 48: +    Divine Praises (2012 f. by Medaglia d'Oro). 2 wins at 3, $91,887. Dam of 6 foals, 2 to race, 1 winner--
-Dam is in line 43:   **GRAND PRAYER**, by Grand Slam. 3 wins at 3, $145,170, 1st Without Feathers S. (MTH, $36,000), 2nd Victory Ride S. [L] (SAR, $15,360). Half-sister to **SWAGGER JACK** ($460,519, 1st Carter H. **[G1]** (AQU, $240,000), etc., sire), **TAP DANCE** ($378,176, 1st Bonnie Miss S. **[G2]**, etc.), **Lyrical Ghost** ($128,752, 2nd Serena's Song S. (MTH, $8,000)), **Pleasant Lyrics** ($78,840, 2nd Boiling Springs S. [L] (MTH, $30,000)), **Point Missed** ($56,680, 3rd Brookmeade S.-R (CNL, $6,600)). Dam of 11 foals, 8 to race, 6 winners--
+update on line 50: +    Divine Praises (2012 f. by Medaglia d'Oro). 2 wins at 3, $91,887. Dam of 6 foals, 2 to race, 1 winner--
+Dam is in line 44:   **GRAND PRAYER**, by Grand Slam. 3 wins at 3, $145,170, 1st Without Feathers S. (MTH, $36,000), 2nd Victory Ride S. [L] (SAR, $15,360). Half-sister to **SWAGGER JACK** ($460,519, 1st Carter H. **[G1]** (AQU, $240,000), etc., sire), **TAP DANCE** ($378,176, 1st Bonnie Miss S. **[G2]**, etc.), **Lyrical Ghost** ($128,752, 2nd Serena's Song S. (MTH, $8,000)), **Pleasant Lyrics** ($78,840, 2nd Boiling Springs S. [L] (MTH, $30,000)), **Point Missed** ($56,680, 3rd Brookmeade S.-R (CNL, $6,600)). Dam of 11 foals, 8 to race, 6 winners--
 		<hip>208</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -34,6 +34,7 @@ Dam is in line 43:   **GRAND PRAYER**, by Grand Slam. 3 wins at 3, $145,170, 1st
 		<HorseName>La La Chandon</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Divine Praises</DamName>
 		<hip>208</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +42,7 @@ Dam is in line 43:   **GRAND PRAYER**, by Grand Slam. 3 wins at 3, $145,170, 1st
 		<HorseName>Rosy Scenario</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Divine Praises</DamName>
 		<hip>208</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -48,6 +50,7 @@ Dam is in line 43:   **GRAND PRAYER**, by Grand Slam. 3 wins at 3, $145,170, 1st
 		<HorseName>Evyllynn Moon</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Grand Moon</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

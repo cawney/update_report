@@ -7,34 +7,10 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-34
-		<DamDamName>TIZ MY LOVE</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 37: +    Unnamed (2022 f. by The Factor). See above.
-Dam is in line 34:   TIZ MY LOVE, by Tiz Wonderful. 3 wins at 3 and 4, $39,005. Half-sister to **Afleet Destiny** ($249,230, 2nd Demoiselle S. **[G2]** (AQU, $50,000), etc.). Dam of 3 foals--
-		<hip>427</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Angkor</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
-39
+36
 		<DamDamName>**Afleet Lover**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -49,8 +25,8 @@ Dam is in line 34:   TIZ MY LOVE, by Tiz Wonderful. 3 wins at 3 and 4, $39,005. 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    Angkor (2018 g. by Anchor Down). Winner at 2, placed at 4, 2022, $156,683.
-Dam is in line 39:   **Afleet Lover**, by Northern Afleet. 5 wins at 3 and 4, $104,471, 3rd Hawkeyes H.-R (PRM, $7,500). Dam of 7 foals, 6 to race, 5 winners--
+update on line 40: +    Angkor (2018 g. by Anchor Down). Winner at 2, placed at 4, 2022, $156,683.
+Dam is in line 36:   **Afleet Lover**, by Northern Afleet. 5 wins at 3 and 4, $104,471, 3rd Hawkeyes H.-R (PRM, $7,500). Dam of 7 foals, 6 to race, 5 winners--
 		<hip>427</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -58,7 +34,7 @@ Dam is in line 39:   **Afleet Lover**, by Northern Afleet. 5 wins at 3 and 4, $1
 		<HorseName>Graydawn Day</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
-39
+36
 		<DamDamName>**Afleet Lover**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -73,8 +49,8 @@ Dam is in line 39:   **Afleet Lover**, by Northern Afleet. 5 wins at 3 and 4, $1
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 49: +    Graydawn Day (2017 f. by Graydar). Winner at 4, placed at 5, 2022, $27,211.
-Dam is in line 39:   **Afleet Lover**, by Northern Afleet. 5 wins at 3 and 4, $104,471, 3rd Hawkeyes H.-R (PRM, $7,500). Dam of 7 foals, 6 to race, 5 winners--
+update on line 46: +    Graydawn Day (2017 f. by Graydar). Winner at 4, placed at 5, 2022, $27,211.
+Dam is in line 36:   **Afleet Lover**, by Northern Afleet. 5 wins at 3 and 4, $104,471, 3rd Hawkeyes H.-R (PRM, $7,500). Dam of 7 foals, 6 to race, 5 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

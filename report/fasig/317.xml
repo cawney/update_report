@@ -17,6 +17,7 @@
 		<HorseName>Heavenly Vision</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**HOLY BUBBETTE**</DamName>
 		<hip>317</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -59,7 +60,7 @@
 		<HorseName>**Ms Louisett**</HorseName>
 		<HorseYOB>1999 </HorseYOB>
 		<HorseSex>f</HorseSex>
-36
+37
 		<DamDamName>JULIAC</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -74,8 +75,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 59: +    **Ms Louisett** (1999 f. by Siphon (BRZ)). 2 wins at 3, $132,163, 3rd Oak Leaf S. **[G1]**. Dam of 12 foals, 12 to race, 10 winners--
-Dam is in line 36:   JULIAC, by Accipiter. Unplaced in 1 start. Half-sister to **MARAUDING** ($119,315, 1st Oil Capitol H.**-G3**, etc., sire), **Miss Megan** ($56,067, 2nd Miss East St. Louis S., etc.). Dam of 17 foals, 15 to race, 9 winners--
+update on line 61: +    **Ms Louisett** (1999 f. by Siphon (BRZ)). 2 wins at 3, $132,163, 3rd Oak Leaf S. **[G1]**. Dam of 12 foals, 12 to race, 10 winners--
+Dam is in line 37:   JULIAC, by Accipiter. Unplaced in 1 start. Half-sister to **MARAUDING** ($119,315, 1st Oil Capitol H.**-G3**, etc., sire), **Miss Megan** ($56,067, 2nd Miss East St. Louis S., etc.). Dam of 17 foals, 15 to race, 9 winners--
 		<hip>317</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +84,7 @@ Dam is in line 36:   JULIAC, by Accipiter. Unplaced in 1 start. Half-sister to *
 		<HorseName>**Surmount**</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Ms Louisett**</DamName>
 		<hip>317</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -104,6 +106,7 @@ Dam is in line 36:   JULIAC, by Accipiter. Unplaced in 1 start. Half-sister to *
 		<HorseName>Chickasaw Gal</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**Ms Louisett**</DamName>
 		<hip>317</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -132,6 +135,7 @@ Dam is in line 36:   JULIAC, by Accipiter. Unplaced in 1 start. Half-sister to *
 		<HorseName>Pineapple</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Ms Louisett**</DamName>
 		<hip>317</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -139,6 +143,7 @@ Dam is in line 36:   JULIAC, by Accipiter. Unplaced in 1 start. Half-sister to *
 		<HorseName>Bear's True Gal</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Ms Louisett**</DamName>
 		<hip>317</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -150,9 +155,17 @@ Dam is in line 36:   JULIAC, by Accipiter. Unplaced in 1 start. Half-sister to *
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Bearslittlewhisper</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>317</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mr. Commish</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Ms Louisett**</DamName>
 		<hip>317</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -164,9 +177,17 @@ Dam is in line 36:   JULIAC, by Accipiter. Unplaced in 1 start. Half-sister to *
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Ho O Navigator</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>317</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tanya Darling</HorseName>
 		<HorseYOB>1998 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Temper Tantrum</DamName>
 		<hip>317</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -188,6 +209,27 @@ Dam is in line 36:   JULIAC, by Accipiter. Unplaced in 1 start. Half-sister to *
 		<HorseName>She's Only a Dream</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<hip>317</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Betting On Dr Bow</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>317</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Tuff Toad</HorseName>
+		<HorseYOB>2006 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>317</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Toadally Toad</HorseName>
+		<HorseYOB>2002 </HorseYOB>
+		<HorseSex>g</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

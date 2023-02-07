@@ -34,6 +34,7 @@ Dam is in line 36:   **Miss Scout**, by Pleasant Tap. Winner at 3, $74,067, 2nd 
 		<HorseName>**Garnet Crystals**</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**It's Spooky**</DamName>
 		<hip>544</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,6 +56,7 @@ Dam is in line 36:   **Miss Scout**, by Pleasant Tap. Winner at 3, $74,067, 2nd 
 		<HorseName>It's Not Over</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**It's Spooky**</DamName>
 		<hip>544</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +78,7 @@ Dam is in line 36:   **Miss Scout**, by Pleasant Tap. Winner at 3, $74,067, 2nd 
 		<HorseName>**DON'TTALKTOME**</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Withdrawn</DamName>
 		<hip>544</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +86,13 @@ Dam is in line 36:   **Miss Scout**, by Pleasant Tap. Winner at 3, $74,067, 2nd 
 		<HorseName>All for Me</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<hip>544</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>El Tracio</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>544</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -115,9 +125,17 @@ Dam is in line 36:   **Miss Scout**, by Pleasant Tap. Winner at 3, $74,067, 2nd 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Z Z's Prince</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>544</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Gimme Sugar</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Withdrawn</DamName>
 		<hip>544</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -129,9 +147,25 @@ Dam is in line 36:   **Miss Scout**, by Pleasant Tap. Winner at 3, $74,067, 2nd 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Inspire Me</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>544</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Theloveofmunnings</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Lover</DamName>
+		<hip>544</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>All in Good Time</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<DamName>Pleasantly Music</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

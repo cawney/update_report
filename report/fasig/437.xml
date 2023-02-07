@@ -49,7 +49,7 @@ Dam is in line 33:   **ULLAPOOL**, by Langfuhr. 7 wins in 14 starts, 2 to 5, $36
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 48: +    Freedom Rider (2018 c. by Carpe Diem). 5 wins, 3 to 5, 2023, $163,525.
+update on line 49: +    Freedom Rider (2018 c. by Carpe Diem). 5 wins, 3 to 5, 2023, $163,525.
 Dam is in line 43:   **Grey Traffic**, by Numerous. 3 wins in 6 starts at 3 and 4, $134,300, 2nd Nassau County Breeders' Cup S. **[G2]** (BEL, $40,000). Half-sister to **Lord Beshara** ($17,101, 2nd Inaugural S. (ARP, $5,440)). Dam of 11 foals, 9 to race, 9 winners--
 		<hip>437</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -73,8 +73,16 @@ Dam is in line 43:   **Grey Traffic**, by Numerous. 3 wins in 6 starts at 3 and 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 55: +    Sable (2010 f. by Invisible Ink). Winner at 4, $12,045. Dam of 4 foals, 3 to race, 1 winner--
+update on line 56: +    Sable (2010 f. by Invisible Ink). Winner at 4, $12,045. Dam of 4 foals, 3 to race, 1 winner--
 Dam is in line 43:   **Grey Traffic**, by Numerous. 3 wins in 6 starts at 3 and 4, $134,300, 2nd Nassau County Breeders' Cup S. **[G2]** (BEL, $40,000). Half-sister to **Lord Beshara** ($17,101, 2nd Inaugural S. (ARP, $5,440)). Dam of 11 foals, 9 to race, 9 winners--
+		<hip>437</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Prince Graygray</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Sable</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

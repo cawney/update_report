@@ -10,6 +10,7 @@
 		<HorseName>**WONDER GADOT**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Loving Vindication</DamName>
 		<hip>473</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>Bezzera</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Loving Vindication</DamName>
 		<hip>473</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +33,7 @@
 		<HorseName>**SECRET SPICE**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Chimayo</DamName>
 		<hip>473</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +41,7 @@
 		<HorseName>**Mexican Hat**</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Chimayo</DamName>
 		<hip>473</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,6 +49,7 @@
 		<HorseName>**Tan and Tight**</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Claire's Song</DamName>
 		<hip>473</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -52,6 +57,7 @@
 		<HorseName>Mitigate</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Claire's Song</DamName>
 		<hip>473</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -59,6 +65,7 @@
 		<HorseName>Miss Anubis</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Miss Horoscope</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

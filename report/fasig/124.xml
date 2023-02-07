@@ -10,6 +10,7 @@
 		<HorseName>Kris's Rocker</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**TUZIA**</DamName>
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +32,7 @@
 		<HorseName>Tuz Company</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**TUZIA**</DamName>
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -56,9 +58,17 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Nautico</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>124</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Karen's Angel</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**TUZIA**</DamName>
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -87,6 +97,7 @@
 		<HorseName>Little Boss Chick</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**TANJA**</DamName>
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -108,6 +119,7 @@
 		<HorseName>Miss Awesome</HorseName>
 		<HorseYOB>2000 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**TANJA**</DamName>
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -129,6 +141,7 @@
 		<HorseName>Arch de Lee</HorseName>
 		<HorseYOB>2002 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**TANJA**</DamName>
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -157,6 +170,7 @@
 		<HorseName>Saddlesong</HorseName>
 		<HorseYOB>2001 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**TANJA**</DamName>
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -171,6 +185,7 @@
 		<HorseName>Mary's Missile</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**TANJA**</DamName>
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -178,6 +193,13 @@
 		<HorseName>Mis Guided Missile</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<hip>124</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Diddley Daddy</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>g</HorseSex>
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -220,6 +242,7 @@
 		<HorseName>Wahl of Fame</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Allen Parkway</DamName>
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -234,6 +257,14 @@
 		<HorseName>Blushing Prospect</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Allen Parkway</DamName>
+		<hip>124</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Draper</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -241,6 +272,7 @@
 		<HorseName>Yes Please Mary</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Rikta</DamName>
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -255,6 +287,7 @@
 		<HorseName>Lycius Darlin</HorseName>
 		<HorseYOB>2001 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Odaka</DamName>
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

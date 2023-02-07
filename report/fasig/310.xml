@@ -10,6 +10,7 @@
 		<HorseName>Sweetie Darling</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**NICOLE H**</DamName>
 		<hip>310</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +25,7 @@
 		<HorseName>Ready to Roll</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>One for London</DamName>
 		<hip>310</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +33,7 @@
 		<HorseName>Riolama</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Miss Norman**</DamName>
 		<hip>310</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -59,6 +62,7 @@
 		<HorseName>**CIURI**</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Our Mariah**</DamName>
 		<hip>310</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -80,6 +84,7 @@
 		<HorseName>Seductionist</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**Our Mariah**</DamName>
 		<hip>310</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -87,6 +92,7 @@
 		<HorseName>Forgotten Liaison</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Our Mariah**</DamName>
 		<hip>310</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -94,7 +100,7 @@
 		<HorseName>Tiz Josselyn</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
-53
+61
 		<DamDamName>CAJUN CAT</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -109,8 +115,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 86: +    Tiz Josselyn (2012 f. by Tiznow). Winner at 5, $29,518. Dam of 4 foals, 2 to race, 1 winner--
-Dam is in line 53:   CAJUN CAT, by Storm Cat. Unplaced, $440. Died 2017. Half-sister to **Desiderosa** ($90,237, 2nd Colleen S. [L] (MTH, $10,000)). Dam of 13 foals, 11 to race, 7 winners--
+update on line 95: +    Tiz Josselyn (2012 f. by Tiznow). Winner at 5, $29,518. Dam of 4 foals, 2 to race, 1 winner--
+Dam is in line 61:   CAJUN CAT, by Storm Cat. Unplaced, $440. Died 2017. Half-sister to **Desiderosa** ($90,237, 2nd Colleen S. [L] (MTH, $10,000)). Dam of 13 foals, 11 to race, 7 winners--
 		<hip>310</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -118,6 +124,7 @@ Dam is in line 53:   CAJUN CAT, by Storm Cat. Unplaced, $440. Died 2017. Half-si
 		<HorseName>Prince of Fenton</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Tiz Josselyn</DamName>
 		<hip>310</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -125,6 +132,7 @@ Dam is in line 53:   CAJUN CAT, by Storm Cat. Unplaced, $440. Died 2017. Half-si
 		<HorseName>Czech Included</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Trench Cat</DamName>
 		<hip>310</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -132,6 +140,7 @@ Dam is in line 53:   CAJUN CAT, by Storm Cat. Unplaced, $440. Died 2017. Half-si
 		<HorseName>Spirit's Victory</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Trench Cat</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

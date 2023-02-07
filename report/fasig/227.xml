@@ -10,6 +10,7 @@
 		<HorseName>I Am Superior Too</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**SUPERIOR STORM**</DamName>
 		<hip>227</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,12 +18,21 @@
 		<HorseName>Iron Heroine</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**SUPERIOR STORM**</DamName>
 		<hip>227</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Devlishly Superior</HorseName>
 		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>**SUPERIOR STORM**</DamName>
+		<hip>227</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Devlish Hour</HorseName>
+		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>227</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -31,6 +41,7 @@
 		<HorseName>**STORM THE HILL**</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Thornhill</DamName>
 		<hip>227</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +49,7 @@
 		<HorseName>**DRAGON DREW**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Thornhill</DamName>
 		<hip>227</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,6 +57,7 @@
 		<HorseName>**Fleur de Lilly**</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Thornhill</DamName>
 		<hip>227</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -56,9 +69,17 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Bj'sworstnightmare</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>227</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>She's Messi</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Thornhill</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,35 +3,11 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>228</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-39
-		<DamDamName>JINX JOHNSON</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    Unnamed (2022 f. by Hard Spun). See above.
-Dam is in line 39:   JINX JOHNSON, by Morning Line. Winner at 2, $20,510. Dam of 2 foals, 1 to race--
 <hip>228</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
-update on line 46: + WARM EMBRACE, by Street Cry (IRE). Unraced. Died 2019. Half-sister to **CODE OF HONOR** ($2,981,320, 1st Runhappy Travers S. **[G1]** (SAR, $670,000), etc.), **Big League** ($323,200, 2nd Best Pal S. **[G2]** (DMR, $40,000), etc.). Dam of 4 foals, 4 to race, 4 winners--
+update on line 43: + WARM EMBRACE, by Street Cry (IRE). Unraced. Died 2019. Half-sister to **CODE OF HONOR** ($2,981,320, 1st Runhappy Travers S. **[G1]** (SAR, $670,000), etc.), **Big League** ($323,200, 2nd Best Pal S. **[G2]** (DMR, $40,000), etc.). Dam of 4 foals, 4 to race, 4 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

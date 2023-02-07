@@ -10,6 +10,14 @@
 		<HorseName>Takethedoeandrun</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Winning Doe</DamName>
+		<hip>488</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Oodles and Boodles</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
 		<hip>488</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +25,7 @@
 		<HorseName>Latin Lashes</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Magnificentaproval</DamName>
 		<hip>488</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -28,9 +37,17 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Suzie Grey</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>488</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Haute Couture</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Highest Approval</DamName>
 		<hip>488</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +55,7 @@
 		<HorseName>=Midnight High</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Highest Approval</DamName>
 		<hip>488</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,6 +63,7 @@
 		<HorseName>**Anything for You**</HorseName>
 		<HorseYOB>1997 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Pleasure Point</DamName>
 		<hip>488</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -122,6 +141,7 @@
 		<HorseName>Sun and Moon</HorseName>
 		<HorseYOB>1991 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Pleasure Point</DamName>
 		<hip>488</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -129,6 +149,13 @@
 		<HorseName>Ramadan Moon</HorseName>
 		<HorseYOB>1999 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<hip>488</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Beyond the Sea</HorseName>
+		<HorseYOB>2000 </HorseYOB>
+		<HorseSex>g</HorseSex>
 		<hip>488</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -143,6 +170,7 @@
 		<HorseName>Doublethepleasure</HorseName>
 		<HorseYOB>2002 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Pleasure Point</DamName>
 		<hip>488</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

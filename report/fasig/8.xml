@@ -10,6 +10,7 @@
 		<HorseName>=Sea Youmzain</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Chantilly Pearl</DamName>
 		<hip>8</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,7 +18,7 @@
 		<HorseName>Bob's All In</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
-36
+38
 		<DamDamName>CATABALLERINA</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -32,8 +33,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 51: +    Bob's All In (2015 g. by Tapizar). 11 wins, 2 to 7, 2022, $177,855.
-Dam is in line 36:   CATABALLERINA, by Tabasco Cat. Placed at 2, $24,600. Half-sister to **Royal Fandango** (Total: $63,151, 2nd Prix Charles Laffitte [L]), **West Memphis** (2nd Prix Yacowlef [L]). Dam of 14 foals, 13 to race, 11 winners--
+update on line 56: +    Bob's All In (2015 g. by Tapizar). 11 wins, 2 to 7, 2022, $177,855.
+Dam is in line 38:   CATABALLERINA, by Tabasco Cat. Placed at 2, $24,600. Half-sister to **Royal Fandango** (Total: $63,151, 2nd Prix Charles Laffitte [L]), **West Memphis** (2nd Prix Yacowlef [L]). Dam of 14 foals, 13 to race, 11 winners--
 		<hip>8</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,7 +42,7 @@ Dam is in line 36:   CATABALLERINA, by Tabasco Cat. Placed at 2, $24,600. Half-s
 		<HorseName>Sumitup</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>f</HorseSex>
-36
+38
 		<DamDamName>CATABALLERINA</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -56,8 +57,8 @@ Dam is in line 36:   CATABALLERINA, by Tabasco Cat. Placed at 2, $24,600. Half-s
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 56: +    Sumitup (2018 f. by Sum of the Parts). Winner at 3 and 4, placed at 5, 2023, $92,305.
-Dam is in line 36:   CATABALLERINA, by Tabasco Cat. Placed at 2, $24,600. Half-sister to **Royal Fandango** (Total: $63,151, 2nd Prix Charles Laffitte [L]), **West Memphis** (2nd Prix Yacowlef [L]). Dam of 14 foals, 13 to race, 11 winners--
+update on line 61: +    Sumitup (2018 f. by Sum of the Parts). Winner at 3 and 4, placed at 5, 2023, $92,305.
+Dam is in line 38:   CATABALLERINA, by Tabasco Cat. Placed at 2, $24,600. Half-sister to **Royal Fandango** (Total: $63,151, 2nd Prix Charles Laffitte [L]), **West Memphis** (2nd Prix Yacowlef [L]). Dam of 14 foals, 13 to race, 11 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

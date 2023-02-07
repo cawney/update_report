@@ -10,6 +10,7 @@
 		<HorseName>Feline</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**FELINE STORY**</DamName>
 		<hip>405</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>Feline Delite</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**FELINE STORY**</DamName>
 		<hip>405</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -35,9 +37,24 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Kitty Creed</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>405</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Deliteyul Candy</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>405</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Karula Factor</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Ys Dream</DamName>
 		<hip>405</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,6 +62,7 @@
 		<HorseName>=Irie Day</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Ys Dream</DamName>
 		<hip>405</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -74,7 +92,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 71: +    Graceontour (2008 f. by Henny Hughes). Placed at 3, $17,398. Dam of 8 foals, 6 to race, 4 winners--
+update on line 74: +    Graceontour (2008 f. by Henny Hughes). Placed at 3, $17,398. Dam of 8 foals, 6 to race, 4 winners--
 Dam is in line 39:   SHAPPY, by Really Secret. Winner at 3, $24,509. Died 2017. Sister to **Salty Secret** ($31,142, 2nd Somethingroyal H.-R (CNL, $6,000)), half-sister to **PATOOIE** ($74,767, 1st Foxy J. G. S.-R (PHA, $23,370), etc.), **My Necessity** ($106,376, 3rd Lovely Claire S. [L] (AQU, $6,552)). Dam of 10 foals, 6 to race, 3 winners--
 		<hip>405</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -83,6 +101,7 @@ Dam is in line 39:   SHAPPY, by Really Secret. Winner at 3, $24,509. Died 2017. 
 		<HorseName>Offutt Cole</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Graceontour</DamName>
 		<hip>405</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -90,6 +109,7 @@ Dam is in line 39:   SHAPPY, by Really Secret. Winner at 3, $24,509. Died 2017. 
 		<HorseName>Mochima</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Starship Squaw</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

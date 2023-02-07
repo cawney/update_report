@@ -10,6 +10,14 @@
 		<HorseName>**EVERYTHING LOVELY**</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Desiderata</DamName>
+		<hip>198</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Two Sides of Love</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,12 +25,20 @@
 		<HorseName>Giddy</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Desiderata</DamName>
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mad Genius</HorseName>
 		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>198</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Glad to Be Gidget</HorseName>
+		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -35,9 +51,18 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Whereabouts</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Desiderata</DamName>
+		<hip>198</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Many Blessings</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Desiderata</DamName>
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,7 +70,7 @@
 		<HorseName>Laugh Often</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>g</HorseSex>
-38
+39
 		<DamDamName>ALMOST PARADISE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -60,8 +85,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 57: +    Laugh Often (2012 f. by Langfuhr). Unraced. Died 2022. Dam of 5 foals, 2 to race, 2 winners--
-Dam is in line 38:   ALMOST PARADISE, by Allen's Prospect. Winner at 3, $31,760. Half-sister to **WICAPI** ($671,616, 1st W. L. McKnight H. **[G2]**, etc.), **ALL THE MARBLES** ($256,377, 1st El Chico S.-R (DEL, $45,000), etc.), **COL. RALPH** ($143,600, 1st Pennsylvania-New Jersey Kindergarten S.-R (PHA, $23,160), etc.), **CRANBERRY MUFFIN** ($132,005, 1st Thoroughbred Retirement Foundation S.-R (DEL, $22,380), etc.), **Lady of Summer** ($141,638, 2nd Rehoboth S. (DEL, $11,300), etc.). Dam of 7 foals, 5 to race, 5 winners--
+update on line 64: +    Laugh Often (2012 f. by Langfuhr). Unraced. Died 2022. Dam of 5 foals, 2 to race, 2 winners--
+Dam is in line 39:   ALMOST PARADISE, by Allen's Prospect. Winner at 3, $31,760. Half-sister to **WICAPI** ($671,616, 1st W. L. McKnight H. **[G2]**, etc.), **ALL THE MARBLES** ($256,377, 1st El Chico S.-R (DEL, $45,000), etc.), **COL. RALPH** ($143,600, 1st Pennsylvania-New Jersey Kindergarten S.-R (PHA, $23,160), etc.), **CRANBERRY MUFFIN** ($132,005, 1st Thoroughbred Retirement Foundation S.-R (DEL, $22,380), etc.), **Lady of Summer** ($141,638, 2nd Rehoboth S. (DEL, $11,300), etc.). Dam of 7 foals, 5 to race, 5 winners--
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -69,6 +94,7 @@ Dam is in line 38:   ALMOST PARADISE, by Allen's Prospect. Winner at 3, $31,760.
 		<HorseName>Laughter</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Laugh Often</DamName>
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +102,7 @@ Dam is in line 38:   ALMOST PARADISE, by Allen's Prospect. Winner at 3, $31,760.
 		<HorseName>Reiner</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Laugh Often</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

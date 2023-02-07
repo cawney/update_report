@@ -34,6 +34,7 @@ Dam is in line 38:   FRIENDLY LIVI, by Friendly Island. Unraced. Half-sister to 
 		<HorseName>My Glitter Girl</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>My Wanita</DamName>
 		<hip>450</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -52,9 +53,17 @@ Dam is in line 38:   FRIENDLY LIVI, by Friendly Island. Unraced. Half-sister to 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Wilson A.</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>450</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>My Winchester Lady</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>My Wanita</DamName>
 		<hip>450</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +71,7 @@ Dam is in line 38:   FRIENDLY LIVI, by Friendly Island. Unraced. Half-sister to 
 		<HorseName>My Advocate</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>My Wanita</DamName>
 		<hip>450</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +86,7 @@ Dam is in line 38:   FRIENDLY LIVI, by Friendly Island. Unraced. Half-sister to 
 		<HorseName>Gerivello</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Quiet Miss</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

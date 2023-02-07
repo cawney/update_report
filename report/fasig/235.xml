@@ -10,6 +10,7 @@
 		<HorseName>Taptana</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**KEERTANA**</DamName>
 		<hip>235</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +25,7 @@
 		<HorseName>George's Peach</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Whitefish</DamName>
 		<hip>235</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +40,7 @@
 		<HorseName>Lox</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Whitefish</DamName>
 		<hip>235</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,6 +48,7 @@
 		<HorseName>Swan Quarter</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Whitefish</DamName>
 		<hip>235</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -52,6 +56,7 @@
 		<HorseName>Cobia</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Whitefish</DamName>
 		<hip>235</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -66,6 +71,7 @@
 		<HorseName>Pekani Unbridled</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Pekani</DamName>
 		<hip>235</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -73,6 +79,7 @@
 		<HorseName>Lexi's Spirit</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Educating</DamName>
 		<hip>235</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -80,6 +87,7 @@
 		<HorseName>Family Rate</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Educating</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -10,6 +10,7 @@
 		<HorseName>The X Factor</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Twenty Six Acts</DamName>
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -32,7 +33,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 49: +    Pinata Cat (2012 f. by Tiznow). Placed, 3 to 5, $23,696. Dam of 5 foals, 3 to race, 1 winner--
+update on line 55: +    Pinata Cat (2012 f. by Tiznow). Placed, 3 to 5, $23,696. Dam of 5 foals, 3 to race, 1 winner--
 Dam is in line 38:   CAT DANCER, by Storm Cat. Winner at 3, $53,465. Sister to **MAGIC STORM** ($249,135, 1st Monmouth Breeders' Cup Oaks **[G2]** (MTH, $150,000), etc.). Dam of 14 foals, 8 to race, 7 winners--
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -41,6 +42,7 @@ Dam is in line 38:   CAT DANCER, by Storm Cat. Winner at 3, $53,465. Sister to *
 		<HorseName>Silent Declaration</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Pinata Cat</DamName>
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -48,6 +50,7 @@ Dam is in line 38:   CAT DANCER, by Storm Cat. Winner at 3, $53,465. Sister to *
 		<HorseName>Masabeeh</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Thorayya</DamName>
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,6 +58,7 @@ Dam is in line 38:   CAT DANCER, by Storm Cat. Winner at 3, $53,465. Sister to *
 		<HorseName>**=LACHESIS</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**MAGIC STORM**</DamName>
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +87,7 @@ Dam is in line 38:   CAT DANCER, by Storm Cat. Winner at 3, $53,465. Sister to *
 		<HorseName>Sosua Summer</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Honey Badger</DamName>
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -90,6 +95,14 @@ Dam is in line 38:   CAT DANCER, by Storm Cat. Winner at 3, $53,465. Sister to *
 		<HorseName>=Grace Valentina</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Dancing Dryad</DamName>
+		<hip>223</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Fauda</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

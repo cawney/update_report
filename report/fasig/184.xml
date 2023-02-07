@@ -34,6 +34,14 @@ Dam is in line 33:   DOUBLE GUNS GIRL, by Langfuhr. Winner at 3, $43,873, in Can
 		<HorseName>**MITCHELL ROAD**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Quake Lake</DamName>
+		<hip>184</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Wheeler</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,7 +49,7 @@ Dam is in line 33:   DOUBLE GUNS GIRL, by Langfuhr. Winner at 3, $43,873, in Can
 		<HorseName>Blasted</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>f</HorseSex>
-43
+44
 		<DamDamName>**Shooting Party**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -56,8 +64,8 @@ Dam is in line 33:   DOUBLE GUNS GIRL, by Langfuhr. Winner at 3, $43,873, in Can
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 54: +    Blasted (2007 f. by Dynaformer). Winner at 2, $35,480. Sent from United States to Saudi Arabia in 2014. Dam of 8 foals, 7 to race, 5 winners--
-Dam is in line 43:   **Shooting Party**, by Sky Classic. 4 wins at 3 and 4, $322,917, 2nd Garden City Breeders' Cup H. **[G1]**, Boiling Springs Breeders' Cup H. [L] (MED, $40,000), Ballston Spa Breeders' Cup H. [L] (SAR, $42,181), Memories of Silver S.-R (AQU, $13,220), 3rd Nassau County S. **[G2]**, Pebbles H. **[G3]**. Died 2019. Dam of 8 foals, 7 to race, 4 winners--
+update on line 56: +    Blasted (2007 f. by Dynaformer). Winner at 2, $35,480. Sent from United States to Saudi Arabia in 2014. Dam of 8 foals, 7 to race, 5 winners--
+Dam is in line 44:   **Shooting Party**, by Sky Classic. 4 wins at 3 and 4, $322,917, 2nd Garden City Breeders' Cup H. **[G1]**, Boiling Springs Breeders' Cup H. [L] (MED, $40,000), Ballston Spa Breeders' Cup H. [L] (SAR, $42,181), Memories of Silver S.-R (AQU, $13,220), 3rd Nassau County S. **[G2]**, Pebbles H. **[G3]**. Died 2019. Dam of 8 foals, 7 to race, 4 winners--
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -65,6 +73,7 @@ Dam is in line 43:   **Shooting Party**, by Sky Classic. 4 wins at 3 and 4, $322
 		<HorseName>Blasted Boss</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Blasted</DamName>
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -72,6 +81,7 @@ Dam is in line 43:   **Shooting Party**, by Sky Classic. 4 wins at 3 and 4, $322
 		<HorseName>Having a Blast</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Blasted</DamName>
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -97,9 +107,24 @@ Dam is in line 43:   **Shooting Party**, by Sky Classic. 4 wins at 3 and 4, $322
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Have To Have</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>184</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Shockwaves</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>184</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Choegang Plus</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Blasted</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -10,6 +10,7 @@
 		<HorseName>**NAVAL COMMAND**</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Lucky Flyer</DamName>
 		<hip>344</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +25,14 @@
 		<HorseName>Mine Golden Goddes</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Election Star</DamName>
+		<hip>344</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=El Compi</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>c</HorseSex>
 		<hip>344</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -73,6 +82,7 @@
 		<HorseName>=Karara Lad</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Special Shadow</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -10,6 +10,7 @@
 		<HorseName>Elusive Candy</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**ELUSIVE HORIZON**</DamName>
 		<hip>97</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +25,7 @@
 		<HorseName>Smart Samurai</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Smarty Kota</DamName>
 		<hip>97</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +33,15 @@
 		<HorseName>Vegas Weekend</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Hope Chest</DamName>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Propellant</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Quality Way</DamName>
 		<hip>97</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,7 +49,7 @@
 		<HorseName>Less Traveled</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
-65
+72
 		<DamDamName>TANGLED UP IN BLUE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -53,8 +64,16 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 79: +    Less Traveled (2010 f. by Gottcha Gold). Unraced. Dam of 5 foals, 3 to race, 2 winners--
-Dam is in line 65:   TANGLED UP IN BLUE, by Phone Trick. 3 wins at 4, $34,640. Half-sister to **COUNT ON A CHANGE** ($233,699, 1st Etobicoke H. [L] (WO, $39,204(CAN)), etc.), **T. V. COUNTESS** ($117,237, 1st Politely S. [LR] (PIM, $32,500), etc.). Dam of 11 foals, 5 to race, 4 winners--
+update on line 88: +    Less Traveled (2010 f. by Gottcha Gold). Unraced. Dam of 5 foals, 3 to race, 2 winners--
+Dam is in line 72:   TANGLED UP IN BLUE, by Phone Trick. 3 wins at 4, $34,640. Half-sister to **COUNT ON A CHANGE** ($233,699, 1st Etobicoke H. [L] (WO, $39,204(CAN)), etc.), **T. V. COUNTESS** ($117,237, 1st Politely S. [LR] (PIM, $32,500), etc.). Dam of 11 foals, 5 to race, 4 winners--
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sky Traveler</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Less Traveled</DamName>
 		<hip>97</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +81,7 @@ Dam is in line 65:   TANGLED UP IN BLUE, by Phone Trick. 3 wins at 4, $34,640. H
 		<HorseName>I Love Jaxson</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Procellous</DamName>
 		<hip>97</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -69,7 +89,7 @@ Dam is in line 65:   TANGLED UP IN BLUE, by Phone Trick. 3 wins at 4, $34,640. H
 		<HorseName>Pahlmuhree</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>r</HorseSex>
-65
+72
 		<DamDamName>TANGLED UP IN BLUE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -84,14 +104,29 @@ Dam is in line 65:   TANGLED UP IN BLUE, by Phone Trick. 3 wins at 4, $34,640. H
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 90: +    Pahlmuhree (2004 f. by Gone West). Unraced. Dam of 8 foals, 7 to race, 5 winners--
-Dam is in line 65:   TANGLED UP IN BLUE, by Phone Trick. 3 wins at 4, $34,640. Half-sister to **COUNT ON A CHANGE** ($233,699, 1st Etobicoke H. [L] (WO, $39,204(CAN)), etc.), **T. V. COUNTESS** ($117,237, 1st Politely S. [LR] (PIM, $32,500), etc.). Dam of 11 foals, 5 to race, 4 winners--
+update on line 102: +    Pahlmuhree (2004 f. by Gone West). Unraced. Dam of 8 foals, 7 to race, 5 winners--
+Dam is in line 72:   TANGLED UP IN BLUE, by Phone Trick. 3 wins at 4, $34,640. Half-sister to **COUNT ON A CHANGE** ($233,699, 1st Etobicoke H. [L] (WO, $39,204(CAN)), etc.), **T. V. COUNTESS** ($117,237, 1st Politely S. [LR] (PIM, $32,500), etc.). Dam of 11 foals, 5 to race, 4 winners--
 		<hip>97</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Passionville</HorseName>
 		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<DamName>Dynablue</DamName>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Cat Lady Blues</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Ryano Rose</HorseName>
+		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
 		<hip>97</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -100,6 +135,7 @@ Dam is in line 65:   TANGLED UP IN BLUE, by Phone Trick. 3 wins at 4, $34,640. H
 		<HorseName>Abbreviated Career</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Dynablue</DamName>
 		<hip>97</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -107,6 +143,13 @@ Dam is in line 65:   TANGLED UP IN BLUE, by Phone Trick. 3 wins at 4, $34,640. H
 		<HorseName>Froggyville</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<hip>97</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Seekingacareer</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>g</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

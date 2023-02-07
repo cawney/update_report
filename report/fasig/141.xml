@@ -7,9 +7,34 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Benevolent Austin</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+34
+		<DamDamName>ERZULIE DANTOR</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 37: +    Benevolent Austin (2019 g. by Lemon Drop Kid). Placed at 2, $2,455.
+Dam is in line 34:   ERZULIE DANTOR, by Yonaguska. 2 wins at 5, $36,642. Half-sister to **INHISGLORY** ($221,734, 1st Turfway Prevue S. (TP, $29,140), etc.), **Hat of Jacks** ($152,551, 3rd Ack Ack H. **[G3]** (CD, $9,800)). Dam of 6 foals, 3 to race--
+		<hip>141</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**CHAMPAGNE ROOM**</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Lucky to Be Me</DamName>
 		<hip>141</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +49,7 @@
 		<HorseName>=Lucky Mo</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Lucky to Be Me</DamName>
 		<hip>141</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +57,7 @@
 		<HorseName>One Card too Many</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Lucky to Be Me</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

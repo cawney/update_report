@@ -10,30 +10,7 @@
 		<HorseName>Queen Mad</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
-		<hip>332</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-33
-		<DamDamName>PRAIRIE PIE</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 51: +    Unnamed (2022 c. by Tapwrit). See above.
-Dam is in line 33:   PRAIRIE PIE, by Belong to Me. Unraced. Half-sister to **PRIVATE TREASURE** ($603,189, 1st Alcibiades S. **[G2]**, etc.). Dam of 13 foals, 11 to race, 9 winners--
+		<DamName>Runaway Wagon</DamName>
 		<hip>332</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -66,6 +43,13 @@ Dam is in line 33:   PRAIRIE PIE, by Belong to Me. Unraced. Half-sister to **PRI
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Golden Heights</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>332</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Canopy Road</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -76,6 +60,7 @@ Dam is in line 33:   PRAIRIE PIE, by Belong to Me. Unraced. Half-sister to **PRI
 		<HorseName>**Rosiano**</HorseName>
 		<HorseYOB>1994 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**PRIVATE TREASURE**</DamName>
 		<hip>332</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -115,6 +100,13 @@ Dam is in line 33:   PRAIRIE PIE, by Belong to Me. Unraced. Half-sister to **PRI
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Menace</HorseName>
+		<HorseYOB>1999 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>332</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Trail of Roses</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -150,9 +142,17 @@ Dam is in line 33:   PRAIRIE PIE, by Belong to Me. Unraced. Half-sister to **PRI
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Cash It</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>332</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Five Corners</HorseName>
 		<HorseYOB>1993 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**PRIVATE TREASURE**</DamName>
 		<hip>332</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -178,6 +178,13 @@ Dam is in line 33:   PRAIRIE PIE, by Belong to Me. Unraced. Half-sister to **PRI
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Lasting Friend</HorseName>
+		<HorseYOB>2004 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>332</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tressie</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -188,6 +195,7 @@ Dam is in line 33:   PRAIRIE PIE, by Belong to Me. Unraced. Half-sister to **PRI
 		<HorseName>**Sweet Fantasy**</HorseName>
 		<HorseYOB>1994 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Medieval Fantasy</DamName>
 		<hip>332</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -216,6 +224,7 @@ Dam is in line 33:   PRAIRIE PIE, by Belong to Me. Unraced. Half-sister to **PRI
 		<HorseName>Colorful Character</HorseName>
 		<HorseYOB>1993 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Medieval Fantasy</DamName>
 		<hip>332</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -234,9 +243,17 @@ Dam is in line 33:   PRAIRIE PIE, by Belong to Me. Unraced. Half-sister to **PRI
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Colorful Sport</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>332</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Petite Fantasy</HorseName>
 		<HorseYOB>1995 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Medieval Fantasy</DamName>
 		<hip>332</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -251,6 +268,7 @@ Dam is in line 33:   PRAIRIE PIE, by Belong to Me. Unraced. Half-sister to **PRI
 		<HorseName>Fantasy Time</HorseName>
 		<HorseYOB>1992 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Medieval Fantasy</DamName>
 		<hip>332</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -283,9 +301,17 @@ Dam is in line 33:   PRAIRIE PIE, by Belong to Me. Unraced. Half-sister to **PRI
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Paloma's Fantasy</HorseName>
+		<HorseYOB>2006 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>332</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Friday in Vegas</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>A Wild Night</DamName>
 		<hip>332</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -293,6 +319,7 @@ Dam is in line 33:   PRAIRIE PIE, by Belong to Me. Unraced. Half-sister to **PRI
 		<HorseName>**MARABLUE BEAUTY**</HorseName>
 		<HorseYOB>1994 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Almost Sinful</DamName>
 		<hip>332</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -412,6 +439,7 @@ Dam is in line 33:   PRAIRIE PIE, by Belong to Me. Unraced. Half-sister to **PRI
 		<HorseName>Surrey Down</HorseName>
 		<HorseYOB>2001 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Pete's Heiress</DamName>
 		<hip>332</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -423,9 +451,24 @@ Dam is in line 33:   PRAIRIE PIE, by Belong to Me. Unraced. Half-sister to **PRI
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Call of The Kings</HorseName>
+		<HorseYOB>2007 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>332</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Repeat Again</HorseName>
 		<HorseYOB>2002 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Pete's Heiress</DamName>
+		<hip>332</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Noise Boy</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

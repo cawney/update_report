@@ -10,6 +10,7 @@
 		<HorseName>**DANCE GAL DANCE**</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**DR MARGARET**</DamName>
 		<hip>268</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +25,7 @@
 		<HorseName>**Judge Margaret**</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**DR MARGARET**</DamName>
 		<hip>268</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -80,6 +82,7 @@
 		<HorseName>Lady Jennifer</HorseName>
 		<HorseYOB>1999 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Jennifer's Charge</DamName>
 		<hip>268</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -94,6 +97,7 @@
 		<HorseName>**AUNTIE MILLIE**</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Disco Millie</DamName>
 		<hip>268</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -119,6 +123,13 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Tia Vicky</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>268</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Millies Dance</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>c</HorseSex>
@@ -129,6 +140,7 @@
 		<HorseName>Seeyouatthedisco</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Disco Millie</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

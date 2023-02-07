@@ -56,6 +56,30 @@ Dam is in line 34:   WHAT A SASSY GAL, by Mineshaft. Unraced. Dam of 5 foals, 2 
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
 update on line 47: + **Sassy City**, by Macho Uno. 6 wins, 3 to 5, $154,756, 2nd Endine S. **[G3]** (DEL, $30,000), American Beauty S. (OP, $10,000). Half-sister to **Precisely That** ($221,028, 3rd Barb's Dancer S.-R (CRC, $5,500)), **Capetown Royal** ($95,285, 2nd Charles Taylor Derby (ALB, $11,000), etc.). Dam of 8 foals, 4 to race, 2 winners--
+		<hip>451</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Super Coach Fred</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+47
+		<DamDamName>**Sassy City**</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 53: +    Super Coach Fred (2020 g. by Competitive Edge). Placed in 1 start at 3, 2023, $9,000.
+Dam is in line 47: + **Sassy City**, by Macho Uno. 6 wins, 3 to 5, $154,756, 2nd Endine S. **[G3]** (DEL, $30,000), American Beauty S. (OP, $10,000). Half-sister to **Precisely That** ($221,028, 3rd Barb's Dancer S.-R (CRC, $5,500)), **Capetown Royal** ($95,285, 2nd Charles Taylor Derby (ALB, $11,000), etc.). Dam of 8 foals, 4 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

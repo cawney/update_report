@@ -257,7 +257,6 @@ def main():
         f = open(f"{file_name}", 'r')
         f2 = open(f"{new_file}", 'w')
         lines = f.readlines()
-        # Regex for junk spaces:
         re_unnamed = re.compile(r'Unnamed')
         re_unnamed_exception = re.compile(r'Racing in ')
         re_unraced = re.compile(r'Unraced.+\n')
@@ -268,44 +267,9 @@ def main():
         for line in lines:
             if producer_exception.search(line) or re_dam.search(line):
                 f2.writelines(line)
-            elif 'See above' in line:
+            elif re_money.search(line) and int(re_money.search(line).group('money').replace(',', '')) >= 10000:
                 f2.writelines(line)
-            elif re_unnamed.search(line):
-                pass
-            elif re_unraced.search(line):
-                pass
-            elif re_unplaced.search(line):
-                pass
-            elif re_money.search(line) == None:
-                pass
-            elif re_money.search(line):
-                money = re_money.search(line)
-                if int(money.group('money').replace(',', '')) >= 10000:
-                    f2.writelines(line)
-
-            # if re_unnamed.search(line) and not re_unnamed_exception.search(line):
-            #     # Gets rid of the unnamed lines
-            #     pass
-            # if re_dam.search(line):
-            #     f2.writelines(line)
-            # elif re_unraced.search(line) and not producer_exception.search(line): # Gets rid of unraced w/o producer
-            #     pass
-            # elif re_unplaced.search(line) and not producer_exception.search(line) and not re_placed.search(line):
-            #     pass
-            # elif 'See above' in line:
-            #     f2.writelines(line)
-            # elif re_money.search(line) == None:
-            #     pass
-            # elif re_money.search(line):
-            #     money = re_money.search(line)
-            #     # print(money.group('money'))
-            #     if int(money.group('money').replace(',', '')) < 10000 and not producer_exception.search(line):
-            #         # f2.write(line+'poooop')
-            #         print("Less than 5k")
-            #         pass
-            #     else:
-            #         f2.writelines(line)
-            else:
+            elif not re_unnamed.search(line) and not re_unraced.search(line) and not re_unplaced.search(line):
                 f2.writelines(line)
 
 
@@ -321,6 +285,10 @@ def main():
         f4.writelines(lines)
         f4.writelines(lines2)
         f4.writelines(lines3)
+        f.close()
+        f2.close()
+        f3.close()
+        f4.close()
         return f4
 
 
@@ -333,24 +301,45 @@ def main():
         line_number = []
         global string_update
         for i, line in enumerate(list):
-            if line.startswith("+"):
-                # print("Line: ", i)
-                # print("Lines: ", line)
-                if i < len(list) - 1 and list[i+1].startswith("?"):
-                    # print("Line: ", i+1)
-                    # print("Lines: ", lines[i+1])
-                    re_string = re.finditer(r'[+^]', list[i+1])
+            this_line = line
+            next_line = list[i+1 % len(list)]
+            # last_line = list[i-1]
+            if this_line.startswith("+"):
+                if next_line.startswith("?"):
+                    re_string = re.finditer(r'[+^]', next_line)
                     index = [m.start() for m in re_string]
                     line_number.append(i)
-                    # print(index)
+                    string_update = {}
+                    string_update[i] = line[min(index):max(index)]
+                elif last_line.startswith("?"):
+                    re_string = re.finditer(r'[+^]', last_line)
+                    index = [m.start() for m in re_string]
+                    line_number.append(i)
                     string_update = {}
                     string_update[i] = line[min(index):max(index)]
                 else:
-                    # print("Just a + line")
                     pass
-            else:
-                # print("Not a + line", i)
-                pass
+            
+            
+            
+            # if line.startswith("+"):
+            #     # print("Line: ", i)
+            #     # print("Lines: ", line)
+            #     if i < len(list) - 1 and list[i+1].startswith("?"):
+            #         # print("Line: ", i+1)
+            #         # print("Lines: ", lines[i+1])
+            #         re_string = re.finditer(r'[+^]', list[i+1])
+            #         index = [m.start() for m in re_string]
+            #         line_number.append(i)
+            #         # print(index)
+            #         string_update = {}
+            #         string_update[i] = line[min(index):max(index)]
+            #     else:
+            #         # print("Just a + line")
+            #         pass
+            # else:
+            #     # print("Not a + line", i)
+            #     pass
         return string_update
 
 
@@ -415,6 +404,7 @@ def main():
                     f2.write(f"\t\t<HorseName>{get_names(line, 2)}</HorseName>\n")
                     f2.write(f"\t\t<HorseYOB>{get_substring(line, re_yob)}</HorseYOB>\n")
                     f2.write(f"\t\t<HorseSex>{get_substring(line, re_sex)}</HorseSex>\n")
+                    f2.write(f"\t\t<DamName>{get_names(lines[get_closest(i, gen2)], 2)}</DamName>\n")
                 elif i in gen4:
                     f2.write(f"\t\t<hip>{horse}</hip>\n")
                     f2.write("\t\t<SaleEntryCode>PH23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")

@@ -10,6 +10,7 @@
 		<HorseName>=Sozzini</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**BONIFACIO**</DamName>
 		<hip>424</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +32,7 @@
 		<HorseName>Shahala</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**BONIFACIO**</DamName>
 		<hip>424</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -59,6 +61,7 @@
 		<HorseName>**FORTUNE GOT EVEN**</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Fortune in Gold**</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

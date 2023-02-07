@@ -10,6 +10,7 @@
 		<HorseName>Cape Trios</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**TROIS AUREOLE**</DamName>
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>Red Mule</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**TROIS AUREOLE**</DamName>
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +26,7 @@
 		<HorseName>Backwoods Boogie</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**TROIS AUREOLE**</DamName>
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +34,7 @@
 		<HorseName>Je Suis Rapide</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**TROIS AUREOLE**</DamName>
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +42,7 @@
 		<HorseName>**SHH SHE'S OURS**</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Our Secret</DamName>
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -52,12 +57,21 @@
 		<HorseName>Coach Kenny</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Mind Blowing</DamName>
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Blowin Your Mind</HorseName>
 		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Mind Blowing</DamName>
+		<hip>14</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Freeway</HorseName>
+		<HorseYOB>2022 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -66,6 +80,7 @@
 		<HorseName>Indy Cate</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>U. S. Indy</DamName>
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -87,6 +102,7 @@
 		<HorseName>Too Bad Fu</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>U. S. Indy</DamName>
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -115,6 +131,7 @@
 		<HorseName>McIndy</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>U. S. Indy</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

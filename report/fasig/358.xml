@@ -17,6 +17,7 @@
 		<HorseName>**Diamond Spirit**</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Ransom Dance</DamName>
 		<hip>358</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -87,6 +88,7 @@
 		<HorseName>Holy Ransom</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Ransom Dance</DamName>
 		<hip>358</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -101,6 +103,7 @@
 		<HorseName>Dance Instructor</HorseName>
 		<HorseYOB>2001 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Ransom Dance</DamName>
 		<hip>358</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -133,6 +136,13 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Huaso Sonador</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>358</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Dance Prentice</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>c</HorseSex>
@@ -143,6 +153,7 @@
 		<HorseName>Lemon Dancer</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Ransom Dance</DamName>
 		<hip>358</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -213,6 +224,7 @@
 		<HorseName>**DANCE HALL DAYS**</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Dance Move</DamName>
 		<hip>358</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -280,6 +292,13 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Secret Forever</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>358</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Longwood Lane</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>g</HorseSex>
@@ -315,6 +334,20 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sweet Friends</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>358</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Wild Kim</HorseName>
+		<HorseYOB>2005 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>358</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Karamojo</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -325,6 +358,7 @@
 		<HorseName>Dancin Queen</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Dance Move</DamName>
 		<hip>358</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

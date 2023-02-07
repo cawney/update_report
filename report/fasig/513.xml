@@ -10,6 +10,7 @@
 		<HorseName>Doctor Nash</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Popstar</DamName>
 		<hip>513</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,7 +18,7 @@
 		<HorseName>Catlanta</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
-39
+41
 		<DamDamName>**Catstar**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -32,8 +33,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 53: +    Catlanta (2011 f. by Medaglia d'Oro). Unraced. Dam of 6 foals, 4 to race, 4 winners--
-Dam is in line 39:   **Catstar**, by Storm Cat. Winner at 2, 20,584 Pounds, in England, 2nd Queen Mary S. **[G3]**; winner in 1 start at 3, 596,987 Dirhams, in United Arab Emirates. Sent from United States to United Arab Emirates in 2002. Returned to United States from Great Britain in 2004. (Total: $197,105). Dam of 8 foals, 6 to race, 5 winners--
+update on line 56: +    Catlanta (2011 f. by Medaglia d'Oro). Unraced. Dam of 6 foals, 4 to race, 4 winners--
+Dam is in line 41:   **Catstar**, by Storm Cat. Winner at 2, 20,584 Pounds, in England, 2nd Queen Mary S. **[G3]**; winner in 1 start at 3, 596,987 Dirhams, in United Arab Emirates. Sent from United States to United Arab Emirates in 2002. Returned to United States from Great Britain in 2004. (Total: $197,105). Dam of 8 foals, 6 to race, 5 winners--
 		<hip>513</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +42,7 @@ Dam is in line 39:   **Catstar**, by Storm Cat. Winner at 2, 20,584 Pounds, in E
 		<HorseName>Convidada</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Catlanta</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -10,7 +10,7 @@
 		<HorseName>Bingo John</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
-37
+36
 		<DamDamName>A. P. PETAL</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -26,7 +26,7 @@
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 43: +    Bingo John (2018 g. by Oxbow). 2 wins at 3, placed at 4, 2022, $134,780.
-Dam is in line 37:   A. P. PETAL, by A.P. Indy. Unraced. Half-sister to **LOTUS POOL** (Total: $694,543, 1st Keeneland Breeders' Cup S. **[G3]**, etc., sire), **Golden Larch** ($604,633, 2nd Saratoga Breeders' Cup H. **[G3]**, etc.), **Golden Glen** ($423,367, 2nd Oklahoma Derby **[G3]** (RP, $33,450), etc.), **Honour a Bull** ($92,390, 3rd Tempted S. **[G3]**), **Tru Story** ($131,605, 3rd Tiller S.-R (SA, $6,723)). Dam of 14 foals, 12 to race, 9 winners--
+Dam is in line 36:   A. P. PETAL, by A.P. Indy. Unraced. Half-sister to **LOTUS POOL** (Total: $694,543, 1st Keeneland Breeders' Cup S. **[G3]**, etc., sire), **Golden Larch** ($604,633, 2nd Saratoga Breeders' Cup H. **[G3]**, etc.), **Golden Glen** ($423,367, 2nd Oklahoma Derby **[G3]** (RP, $33,450), etc.), **Honour a Bull** ($92,390, 3rd Tempted S. **[G3]**), **Tru Story** ($131,605, 3rd Tiller S.-R (SA, $6,723)). Dam of 14 foals, 12 to race, 9 winners--
 		<hip>98</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -34,6 +34,7 @@ Dam is in line 37:   A. P. PETAL, by A.P. Indy. Unraced. Half-sister to **LOTUS 
 		<HorseName>World of Wonder</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Wonderfuladventure</DamName>
 		<hip>98</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +42,7 @@ Dam is in line 37:   A. P. PETAL, by A.P. Indy. Unraced. Half-sister to **LOTUS 
 		<HorseName>Freedom's Way</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Wonderfuladventure</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

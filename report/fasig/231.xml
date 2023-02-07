@@ -10,6 +10,7 @@
 		<HorseName>=Cicely</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**Wingspan**</DamName>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,12 +18,35 @@
 		<HorseName>=Mrs Hoo</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Wingspan**</DamName>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Aerie</HorseName>
 		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>**Wingspan**</DamName>
+		<hip>231</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Footsteps In Qatar</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>231</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Mr Dib Dab</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>231</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Namran</HorseName>
+		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -31,6 +55,7 @@
 		<HorseName>=Parure</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Wingspan**</DamName>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +63,7 @@
 		<HorseName>**Orageuse**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Aurore</DamName>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,6 +71,7 @@
 		<HorseName>**Boreale**</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Aurore</DamName>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -52,6 +79,7 @@
 		<HorseName>Carmel Bay</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Aurore</DamName>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -59,6 +87,7 @@
 		<HorseName>Fey</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Aurore</DamName>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -73,6 +102,21 @@
 		<HorseName>**Lismore**</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Fastbridled</DamName>
+		<hip>231</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Federal Street</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>231</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Ballysax</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>f</HorseSex>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -80,6 +124,7 @@
 		<HorseName>Themanbehindtheman</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Fastbridled</DamName>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -87,6 +132,7 @@
 		<HorseName>Good With Numbers</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Fastbridled</DamName>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -94,6 +140,14 @@
 		<HorseName>Bridal Affair</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Fastbridled</DamName>
+		<hip>231</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Recit Affair</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>c</HorseSex>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -101,6 +155,7 @@
 		<HorseName>Ariette Du Rue</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Fastbridled</DamName>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -108,7 +163,7 @@
 		<HorseName>Monarchia</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
-39
+40
 		<DamDamName>BROAD PENNANT</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -123,8 +178,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 98: +    Monarchia (2013 f. by Arch). Unraced. Dam of 5 foals, 4 to race, 3 winners--
-Dam is in line 39:   BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **ANIMAL SPIRITS** ($152,628, 1st Bourbon S. **[G3]** (KEE, $90,000)). Dam of 13 foals, 9 to race, 7 winners--
+update on line 109: +    Monarchia (2013 f. by Arch). Unraced. Dam of 5 foals, 4 to race, 3 winners--
+Dam is in line 40:   BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **ANIMAL SPIRITS** ($152,628, 1st Bourbon S. **[G3]** (KEE, $90,000)). Dam of 13 foals, 9 to race, 7 winners--
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -132,6 +187,7 @@ Dam is in line 39:   BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **AN
 		<HorseName>**Unifying**</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Monarchia</DamName>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -139,6 +195,7 @@ Dam is in line 39:   BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **AN
 		<HorseName>Wonka</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Monarchia</DamName>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -146,6 +203,7 @@ Dam is in line 39:   BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **AN
 		<HorseName>Pretendant</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Monarchia</DamName>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -153,6 +211,7 @@ Dam is in line 39:   BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **AN
 		<HorseName>Broken Tail</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Monarchia</DamName>
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -160,7 +219,7 @@ Dam is in line 39:   BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **AN
 		<HorseName>Unicity</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>c</HorseSex>
-39
+40
 		<DamDamName>BROAD PENNANT</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -175,8 +234,8 @@ Dam is in line 39:   BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **AN
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 111: +    Unicity (2009 f. by Dynaformer). Unraced. Dam of 6 foals, 3 to race, 3 winners--
-Dam is in line 39:   BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **ANIMAL SPIRITS** ($152,628, 1st Bourbon S. **[G3]** (KEE, $90,000)). Dam of 13 foals, 9 to race, 7 winners--
+update on line 124: +    Unicity (2009 f. by Dynaformer). Unraced. Dam of 6 foals, 3 to race, 3 winners--
+Dam is in line 40:   BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **ANIMAL SPIRITS** ($152,628, 1st Bourbon S. **[G3]** (KEE, $90,000)). Dam of 13 foals, 9 to race, 7 winners--
 		<hip>231</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -184,6 +243,7 @@ Dam is in line 39:   BROAD PENNANT, by Broad Brush. Unraced. Half-sister to **AN
 		<HorseName>Lucid</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Unicity</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

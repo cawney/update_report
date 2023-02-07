@@ -12,33 +12,10 @@ update on line 35: + RUNNINWITHTHEWIND, by Medaglia d'Oro. Winner at 4, $76,398.
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-35
-		<DamDamName>RUNNINWITHTHEWIND</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 39: +    Unnamed (2022 c. by Practical Joke). See above.
-Dam is in line 35: + RUNNINWITHTHEWIND, by Medaglia d'Oro. Winner at 4, $76,398. Half-sister to **One for Jim** ($131,555, 2nd Sunland Park Oaks [L] (SUN, $44,000), etc.). Dam of 3 foals, 1 to race--
-		<hip>361</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Youvesaiditall</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**One for Jim**</DamName>
 		<hip>361</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -46,6 +23,7 @@ Dam is in line 35: + RUNNINWITHTHEWIND, by Medaglia d'Oro. Winner at 4, $76,398.
 		<HorseName>Dash to the Flash</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**One for Jim**</DamName>
 		<hip>361</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -53,6 +31,7 @@ Dam is in line 35: + RUNNINWITHTHEWIND, by Medaglia d'Oro. Winner at 4, $76,398.
 		<HorseName>Emma Kate</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**One for Jim**</DamName>
 		<hip>361</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -60,6 +39,7 @@ Dam is in line 35: + RUNNINWITHTHEWIND, by Medaglia d'Oro. Winner at 4, $76,398.
 		<HorseName>Hong Kong Helen</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**One for Jim**</DamName>
 		<hip>361</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -67,6 +47,15 @@ Dam is in line 35: + RUNNINWITHTHEWIND, by Medaglia d'Oro. Winner at 4, $76,398.
 		<HorseName>The Biggest One</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Pillow Case</DamName>
+		<hip>361</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Margarita Twosday</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Wallofsound</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

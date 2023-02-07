@@ -7,7 +7,7 @@
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
-update on line 43: + RENDEZVOUS POINT, by Kingmambo. Winner in 4 starts at 2 and 3, 12,142 Pounds, in England; unplaced in 1 start, $728, in N.A./U.S. Sent from United States to Great Britain in 2002. Returned to United States from Great Britain in 2004. (Total: $22,655). Half-sister to **FIVE STAR DAY** ($575,365, 1st A. G. Vanderbilt H. **[G2]**, etc., sire). Dam of 11 foals, 8 to race, 6 winners--
+update on line 44: + RENDEZVOUS POINT, by Kingmambo. Winner in 4 starts at 2 and 3, 12,142 Pounds, in England; unplaced in 1 start, $728, in N.A./U.S. Sent from United States to Great Britain in 2002. Returned to United States from Great Britain in 2004. (Total: $22,655). Half-sister to **FIVE STAR DAY** ($575,365, 1st A. G. Vanderbilt H. **[G2]**, etc., sire). Dam of 11 foals, 8 to race, 6 winners--
 		<hip>155</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -15,6 +15,7 @@ update on line 43: + RENDEZVOUS POINT, by Kingmambo. Winner in 4 starts at 2 and
 		<HorseName>Kitten Mischief</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**KITTEN'S POINT**</DamName>
 		<hip>155</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -22,6 +23,7 @@ update on line 43: + RENDEZVOUS POINT, by Kingmambo. Winner in 4 starts at 2 and
 		<HorseName>Doutzen</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**KITTEN'S POINT**</DamName>
 		<hip>155</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -29,6 +31,7 @@ update on line 43: + RENDEZVOUS POINT, by Kingmambo. Winner in 4 starts at 2 and
 		<HorseName>Crystal Moon</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**KITTEN'S POINT**</DamName>
 		<hip>155</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -36,7 +39,7 @@ update on line 43: + RENDEZVOUS POINT, by Kingmambo. Winner in 4 starts at 2 and
 		<HorseName>Kafuji Taurus</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
-43
+44
 		<DamDamName>RENDEZVOUS POINT</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -51,8 +54,8 @@ update on line 43: + RENDEZVOUS POINT, by Kingmambo. Winner in 4 starts at 2 and
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 57: +    Kafuji Taurus (2017 c. by Declaration of War). 8 wins in 9 starts, 3 to 5, 2022, 8,000,000 Yen, in Japan. Sent from United States to Japan in 2018. (Total: $68,499).
-Dam is in line 43: + RENDEZVOUS POINT, by Kingmambo. Winner in 4 starts at 2 and 3, 12,142 Pounds, in England; unplaced in 1 start, $728, in N.A./U.S. Sent from United States to Great Britain in 2002. Returned to United States from Great Britain in 2004. (Total: $22,655). Half-sister to **FIVE STAR DAY** ($575,365, 1st A. G. Vanderbilt H. **[G2]**, etc., sire). Dam of 11 foals, 8 to race, 6 winners--
+update on line 58: +    Kafuji Taurus (2017 c. by Declaration of War). 8 wins in 9 starts, 3 to 5, 2022, 8,000,000 Yen, in Japan. Sent from United States to Japan in 2018. (Total: $68,499).
+Dam is in line 44: + RENDEZVOUS POINT, by Kingmambo. Winner in 4 starts at 2 and 3, 12,142 Pounds, in England; unplaced in 1 start, $728, in N.A./U.S. Sent from United States to Great Britain in 2002. Returned to United States from Great Britain in 2004. (Total: $22,655). Half-sister to **FIVE STAR DAY** ($575,365, 1st A. G. Vanderbilt H. **[G2]**, etc., sire). Dam of 11 foals, 8 to race, 6 winners--
 		<hip>155</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -60,7 +63,7 @@ Dam is in line 43: + RENDEZVOUS POINT, by Kingmambo. Winner in 4 starts at 2 and
 		<HorseName>Mid Atlantic</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
-43
+44
 		<DamDamName>RENDEZVOUS POINT</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -75,14 +78,22 @@ Dam is in line 43: + RENDEZVOUS POINT, by Kingmambo. Winner in 4 starts at 2 and
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 61: +    Mid Atlantic (2019 g. by Air Force Blue). Winner at 4, 2023, $37,147.
-Dam is in line 43: + RENDEZVOUS POINT, by Kingmambo. Winner in 4 starts at 2 and 3, 12,142 Pounds, in England; unplaced in 1 start, $728, in N.A./U.S. Sent from United States to Great Britain in 2002. Returned to United States from Great Britain in 2004. (Total: $22,655). Half-sister to **FIVE STAR DAY** ($575,365, 1st A. G. Vanderbilt H. **[G2]**, etc., sire). Dam of 11 foals, 8 to race, 6 winners--
+update on line 62: +    Mid Atlantic (2019 g. by Air Force Blue). Winner at 4, 2023, $37,147.
+Dam is in line 44: + RENDEZVOUS POINT, by Kingmambo. Winner in 4 starts at 2 and 3, 12,142 Pounds, in England; unplaced in 1 start, $728, in N.A./U.S. Sent from United States to Great Britain in 2002. Returned to United States from Great Britain in 2004. (Total: $22,655). Half-sister to **FIVE STAR DAY** ($575,365, 1st A. G. Vanderbilt H. **[G2]**, etc., sire). Dam of 11 foals, 8 to race, 6 winners--
 		<hip>155</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Con Artist</HorseName>
 		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Bettina J.</DamName>
+		<hip>155</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Borte</HorseName>
+		<HorseYOB>2021 </HorseYOB>
 		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>

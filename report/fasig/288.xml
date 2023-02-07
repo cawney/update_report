@@ -10,6 +10,7 @@
 		<HorseName>Madaket Sunset</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**RED HOT BUDDHA**</DamName>
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>Moon Hunter</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**RED HOT BUDDHA**</DamName>
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +26,7 @@
 		<HorseName>Knockout Bert</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**Knockout Bertie**</DamName>
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +34,7 @@
 		<HorseName>Left Right Center</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Knockout Bertie**</DamName>
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +42,7 @@
 		<HorseName>Fracing Hot</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Red Hot Maria</DamName>
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -81,8 +86,16 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 80: +    Moon Warrior (2019 g. by Malibu Moon). Winner at 3 and 4, 2023, $35,350.
+update on line 85: +    Moon Warrior (2019 g. by Malibu Moon). Winner at 3 and 4, 2023, $35,350.
 Dam is in line 38:   RED HOT BERTIE, by Tabasco Cat. Winner at 3, $26,520. Half-sister to **ALLAMERICAN BERTIE** ($799,235, 1st Falls City H. **[G2]** (CD, $167,400), etc.), **HURRICANE BERTIE** ($940,041, 1st Prioress S. **[G2]**, etc.), **My Poppy Bert** ($228,228, 2nd Great Falls S. (MED, $8,550)). Dam of 13 foals, 9 to race, 7 winners--
+		<hip>288</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Princess Arantza</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Red Hot Heels</DamName>
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -90,6 +103,7 @@ Dam is in line 38:   RED HOT BERTIE, by Tabasco Cat. Winner at 3, $26,520. Half-
 		<HorseName>=Riyadee</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**ALLAMERICAN BERTIE**</DamName>
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -97,6 +111,7 @@ Dam is in line 38:   RED HOT BERTIE, by Tabasco Cat. Winner at 3, $26,520. Half-
 		<HorseName>=Momenah</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**ALLAMERICAN BERTIE**</DamName>
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -104,6 +119,7 @@ Dam is in line 38:   RED HOT BERTIE, by Tabasco Cat. Winner at 3, $26,520. Half-
 		<HorseName>Sky High Bertie</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**ALLAMERICAN BERTIE**</DamName>
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -118,6 +134,7 @@ Dam is in line 38:   RED HOT BERTIE, by Tabasco Cat. Winner at 3, $26,520. Half-
 		<HorseName>Flashy Bertie</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**ALLAMERICAN BERTIE**</DamName>
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -125,6 +142,20 @@ Dam is in line 38:   RED HOT BERTIE, by Tabasco Cat. Winner at 3, $26,520. Half-
 		<HorseName>Mr. Halftime</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<hip>288</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Collectthemoney</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>288</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Paynted Flash</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>c</HorseSex>
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -153,6 +184,21 @@ Dam is in line 38:   RED HOT BERTIE, by Tabasco Cat. Winner at 3, $26,520. Half-
 		<HorseName>**LET HER DANCE**</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Puttin for Bertie</DamName>
+		<hip>288</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>De Two Step</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>288</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Awsome Charlie</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -160,6 +206,7 @@ Dam is in line 38:   RED HOT BERTIE, by Tabasco Cat. Winner at 3, $26,520. Half-
 		<HorseName>Carolina Bertie</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Bashful Bertie</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

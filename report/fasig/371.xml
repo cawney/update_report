@@ -10,6 +10,7 @@
 		<HorseName>**GRECIAN MAIDEN**</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**WILLA ON THE MOVE**</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +39,7 @@
 		<HorseName>Closer Look</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**WILLA ON THE MOVE**</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,6 +47,7 @@
 		<HorseName>Grecian Star</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**WILLA ON THE MOVE**</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -59,6 +62,7 @@
 		<HorseName>Irish Gal</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**WILLA ON THE MOVE**</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -66,6 +70,7 @@
 		<HorseName>Smart Moves</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**WILLA ON THE MOVE**</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -80,6 +85,7 @@
 		<HorseName>Five by Five</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Erin Moor**</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -105,6 +111,20 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Man of Letters</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>371</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Debate King</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>371</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Raptor</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -115,12 +135,20 @@
 		<HorseName>Lil' Moor Dixie</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Erin Moor**</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Cinque</HorseName>
 		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>371</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sheswhistlingdixie</HorseName>
+		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>g</HorseSex>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -136,6 +164,7 @@
 		<HorseName>High Spice</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**Erin Moor**</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -175,9 +204,24 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Spice Mill</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>371</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Altrolato</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>371</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Dame Fortune</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Teruko</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -185,6 +229,7 @@
 		<HorseName>Dontlosethatnumber</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Teruko</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -192,6 +237,7 @@
 		<HorseName>Mo Gee</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Cataract Canyon</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -199,6 +245,7 @@
 		<HorseName>Chaysenbryn</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Cataract Canyon</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -206,6 +253,7 @@
 		<HorseName>**ROARING FORTIES**</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Sweet Tart</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -213,6 +261,15 @@
 		<HorseName>Millennium Brew</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Sweet Tart</DamName>
+		<hip>371</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>La Mentirosa</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Sweet Tart</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -220,6 +277,7 @@
 		<HorseName>**LOCH JIPP**</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Miss Keyonna</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -255,6 +313,7 @@
 		<HorseName>I'm Sailing Bye</HorseName>
 		<HorseYOB>2000 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Miss Keyonna</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -283,6 +342,7 @@
 		<HorseName>At Once</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Fabled Flyer</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -290,6 +350,7 @@
 		<HorseName>Settle On Somethin</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Fabled Flyer</DamName>
 		<hip>371</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -297,6 +358,7 @@
 		<HorseName>Flying Now</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Fabled Flyer</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

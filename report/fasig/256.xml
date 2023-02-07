@@ -10,6 +10,7 @@
 		<HorseName>=Lifes Magic</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>=Princess Madaen</DamName>
 		<hip>256</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>=Husnalim</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>=Princess Madaen</DamName>
 		<hip>256</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +26,7 @@
 		<HorseName>=Amadena</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>=Princess Madaen</DamName>
 		<hip>256</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +34,7 @@
 		<HorseName>=Montella</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>=Princess Madaen</DamName>
 		<hip>256</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +42,7 @@
 		<HorseName>Delta Magic</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Magic Life</DamName>
 		<hip>256</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,6 +50,7 @@
 		<HorseName>Proud Magic</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Magic Life</DamName>
 		<hip>256</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -52,12 +58,20 @@
 		<HorseName>Arkah</HorseName>
 		<HorseYOB>1998 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Alsharta</DamName>
 		<hip>256</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Dumaani Came Home</HorseName>
 		<HorseYOB>2005 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>256</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sin City Baby</HorseName>
+		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>

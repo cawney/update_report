@@ -15,6 +15,7 @@ update on line 36: + MA PETITE, by Distorted Humor. Unraced. Sent from United St
 		<HorseName>Muchmorethanready</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**Astarte**</DamName>
 		<hip>262</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -22,6 +23,7 @@ update on line 36: + MA PETITE, by Distorted Humor. Unraced. Sent from United St
 		<HorseName>**=War Subjective</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Subjective</DamName>
 		<hip>262</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -29,7 +31,7 @@ update on line 36: + MA PETITE, by Distorted Humor. Unraced. Sent from United St
 		<HorseName>Kiss the Bride</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
-41
+40
 		<DamDamName>**Caressive**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -44,8 +46,16 @@ update on line 36: + MA PETITE, by Distorted Humor. Unraced. Sent from United St
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 55: +    Kiss the Bride (2011 f. by Elusive Quality). Unraced. Sent from United States to Saudi Arabia in 2018. Dam of 5 foals, 5 to race, 2 winners--
-Dam is in line 41:   **Caressive**, by A.P. Indy. Winner at 3, $59,010, 3rd La Canada S. **[G2]** (SA, $24,000). Set ntr at Hollywood Park, 1 1/16 miles in 1:41.37 (11/22/07). Half-sister to **SKY MESA** ($633,076, 1st Hopeful S. **[G1]** (SAR, $120,000), etc., sire), **GOLDEN VELVET** (Total: $341,309, 1st Sixty Sails H. **[G3]** (HAW, $116,400), etc.), **Monthir** ($185,160, 2nd Hutcheson S. **[G2]** (GP, $30,000), etc., sire). Dam of 10 foals, 5 to race, 1 winner--
+update on line 62: +    Kiss the Bride (2011 f. by Elusive Quality). Unraced. Sent from United States to Saudi Arabia in 2018. Dam of 5 foals, 5 to race, 2 winners--
+Dam is in line 40:   **Caressive**, by A.P. Indy. Winner at 3, $59,010, 3rd La Canada S. **[G2]** (SA, $24,000). Set ntr at Hollywood Park, 1 1/16 miles in 1:41.37 (11/22/07). Half-sister to **SKY MESA** ($633,076, 1st Hopeful S. **[G1]** (SAR, $120,000), etc., sire), **GOLDEN VELVET** (Total: $341,309, 1st Sixty Sails H. **[G3]** (HAW, $116,400), etc.), **Monthir** ($185,160, 2nd Hutcheson S. **[G2]** (GP, $30,000), etc., sire). Dam of 10 foals, 5 to race, 1 winner--
+		<hip>262</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Meadaal</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<DamName>Kiss the Bride</DamName>
 		<hip>262</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -53,7 +63,7 @@ Dam is in line 41:   **Caressive**, by A.P. Indy. Winner at 3, $59,010, 3rd La C
 		<HorseName>Carelaine</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
-41
+40
 		<DamDamName>**Caressive**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -68,8 +78,8 @@ Dam is in line 41:   **Caressive**, by A.P. Indy. Winner at 3, $59,010, 3rd La C
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 58: +    Carelaine (2010 f. by Street Cry (IRE)). Unraced. Dam of 4 foals, 2 to race, 1 winner--
-Dam is in line 41:   **Caressive**, by A.P. Indy. Winner at 3, $59,010, 3rd La Canada S. **[G2]** (SA, $24,000). Set ntr at Hollywood Park, 1 1/16 miles in 1:41.37 (11/22/07). Half-sister to **SKY MESA** ($633,076, 1st Hopeful S. **[G1]** (SAR, $120,000), etc., sire), **GOLDEN VELVET** (Total: $341,309, 1st Sixty Sails H. **[G3]** (HAW, $116,400), etc.), **Monthir** ($185,160, 2nd Hutcheson S. **[G2]** (GP, $30,000), etc., sire). Dam of 10 foals, 5 to race, 1 winner--
+update on line 67: +    Carelaine (2010 f. by Street Cry (IRE)). Unraced. Dam of 4 foals, 2 to race, 1 winner--
+Dam is in line 40:   **Caressive**, by A.P. Indy. Winner at 3, $59,010, 3rd La Canada S. **[G2]** (SA, $24,000). Set ntr at Hollywood Park, 1 1/16 miles in 1:41.37 (11/22/07). Half-sister to **SKY MESA** ($633,076, 1st Hopeful S. **[G1]** (SAR, $120,000), etc., sire), **GOLDEN VELVET** (Total: $341,309, 1st Sixty Sails H. **[G3]** (HAW, $116,400), etc.), **Monthir** ($185,160, 2nd Hutcheson S. **[G2]** (GP, $30,000), etc., sire). Dam of 10 foals, 5 to race, 1 winner--
 		<hip>262</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -77,6 +87,7 @@ Dam is in line 41:   **Caressive**, by A.P. Indy. Winner at 3, $59,010, 3rd La C
 		<HorseName>Bourbon On the Bay</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Carelaine</DamName>
 		<hip>262</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -84,6 +95,14 @@ Dam is in line 41:   **Caressive**, by A.P. Indy. Winner at 3, $59,010, 3rd La C
 		<HorseName>Doubleclickdamouse</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Carelaine</DamName>
+		<hip>262</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Fierce and Strong</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

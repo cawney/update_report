@@ -7,33 +7,10 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-34
-		<DamDamName>HEDONISM</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 37: +    Unnamed (2022 c. by Dialed In). See above.
-Dam is in line 34:   HEDONISM, by Curlin. Placed at 2, $9,860. Half-sister to **Indulgence** ($239,116, 2nd U Can Do It H. (CRC, $15,000), etc.), **Can't Happen Here** ($74,800, 3rd Dixiana Bourbon S. **[G3]** (KEE, $25,000)). Dam of 2 foals--
-		<hip>196</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Macho Orb</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**Indulgence**</DamName>
 		<hip>196</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +18,7 @@ Dam is in line 34:   HEDONISM, by Curlin. Placed at 2, $9,860. Half-sister to **
 		<HorseName>Mozu Kin Medalist</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Indulgence**</DamName>
 		<hip>196</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,6 +33,7 @@ Dam is in line 34:   HEDONISM, by Curlin. Placed at 2, $9,860. Half-sister to **
 		<HorseName>Crystal Orb</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Forbidden Brew</DamName>
 		<hip>196</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +41,7 @@ Dam is in line 34:   HEDONISM, by Curlin. Placed at 2, $9,860. Half-sister to **
 		<HorseName>Appraisal</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>I Have a Price</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

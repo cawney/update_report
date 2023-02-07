@@ -7,9 +7,34 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Cinderella</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+38
+		<DamDamName>ALL IN FAVOR</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 41: +    =Cinderella (KOR) (2017 f. by Plan). Placed at 4 and 5, 2022 in Republic of Korea.
+Dam is in line 38:   ALL IN FAVOR, by Tiznow. Unplaced, $3,360. Sent from United States to Republic of Korea in 2015. Died 2022. Dam of 4 foals, 2 to race, 1 winner--
+		<hip>29</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**FIGHTING FORCE**</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>No Splits</DamName>
 		<hip>29</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,7 +42,7 @@
 		<HorseName>Could Be</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>g</HorseSex>
-41
+44
 		<DamDamName>**GREAT INTENTIONS**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -32,8 +57,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 54: +    Could Be (2014 g. by Candy Ride (ARG)). 15 wins, 3 to 8, placed at 9, 2023, $159,300.
-Dam is in line 41:   **GREAT INTENTIONS**, by Cat Thief. 7 wins, 2 to 5, $417,158, in N.A./U.S., 1st First Flight H. **[G2]** (BEL, $90,000), Gallant Bloom H. **[G2]** (BEL, $90,000), Affectionately H. (AQU, $42,354), Flip's Pleasure S. (AQU, $38,070), Oh What a Windfall S.-R (BEL, $26,580), 2nd Floral Park H. **[G3]** (BEL, $22,180), Storm Flag Flying S. [L] (BEL, $15,450), 3rd Correction H. (AQU, $6,975); unplaced in 1 start, $9,000, in Canada. (Total: $425,272). Died 2021. Half-sister to **SEA ROAD** ($198,725, 1st Hattie Moseley S. (SAR, $42,000), etc.), **Shop Hill** ($241,910, 2nd Singspiel S. [L] (WO, $22,200)). Dam of 11 foals, 9 to race, 6 winners--
+update on line 57: +    Could Be (2014 g. by Candy Ride (ARG)). 15 wins, 3 to 8, placed at 9, 2023, $159,300.
+Dam is in line 44:   **GREAT INTENTIONS**, by Cat Thief. 7 wins, 2 to 5, $417,158, in N.A./U.S., 1st First Flight H. **[G2]** (BEL, $90,000), Gallant Bloom H. **[G2]** (BEL, $90,000), Affectionately H. (AQU, $42,354), Flip's Pleasure S. (AQU, $38,070), Oh What a Windfall S.-R (BEL, $26,580), 2nd Floral Park H. **[G3]** (BEL, $22,180), Storm Flag Flying S. [L] (BEL, $15,450), 3rd Correction H. (AQU, $6,975); unplaced in 1 start, $9,000, in Canada. (Total: $425,272). Died 2021. Half-sister to **SEA ROAD** ($198,725, 1st Hattie Moseley S. (SAR, $42,000), etc.), **Shop Hill** ($241,910, 2nd Singspiel S. [L] (WO, $22,200)). Dam of 11 foals, 9 to race, 6 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

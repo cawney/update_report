@@ -10,6 +10,7 @@
 		<HorseName>White Bullet</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Audacious One</DamName>
 		<hip>355</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +25,7 @@
 		<HorseName>**Handsome Playboy**</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Rita</DamName>
 		<hip>355</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +33,7 @@
 		<HorseName>Tio Blas</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Something Casual</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

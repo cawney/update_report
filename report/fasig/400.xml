@@ -10,7 +10,7 @@
 		<HorseName>She's Justa Friend</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>r</HorseSex>
-40
+41
 		<DamDamName>SAGE CAT</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -25,8 +25,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 45: +    She's Justa Friend (2005 f. by Hussonet). Winner at 4, $47,086. Dam of 7 foals, 5 to race, 5 winners--
-Dam is in line 40:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380. Dam of 11 foals, 7 to race, 5 winners--
+update on line 46: +    She's Justa Friend (2005 f. by Hussonet). Winner at 4, $47,086. Dam of 7 foals, 5 to race, 5 winners--
+Dam is in line 41:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380. Dam of 11 foals, 7 to race, 5 winners--
 		<hip>400</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +41,7 @@ Dam is in line 40:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380.
 		<HorseName>She's Just Quality</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>She's Justa Friend</DamName>
 		<hip>400</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -48,6 +49,7 @@ Dam is in line 40:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380.
 		<HorseName>Princess Addy</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>She's Justa Friend</DamName>
 		<hip>400</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,6 +57,14 @@ Dam is in line 40:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380.
 		<HorseName>=Alquimia</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Cleide Da Silva</DamName>
+		<hip>400</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Aalee Alzowq</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>c</HorseSex>
 		<hip>400</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +72,7 @@ Dam is in line 40:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380.
 		<HorseName>=La Contessa</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Cleide Da Silva</DamName>
 		<hip>400</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +87,7 @@ Dam is in line 40:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380.
 		<HorseName>=Reciprocity</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Cleide Da Silva</DamName>
 		<hip>400</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,7 +95,7 @@ Dam is in line 40:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380.
 		<HorseName>Verdad</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
-40
+41
 		<DamDamName>SAGE CAT</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -98,8 +110,16 @@ Dam is in line 40:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380.
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 71: +    Verdad (2010 f. by Street Cry (IRE)). Unraced. Dam of 5 foals, 4 to race, 1 winner--
-Dam is in line 40:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380. Dam of 11 foals, 7 to race, 5 winners--
+update on line 75: +    Verdad (2010 f. by Street Cry (IRE)). Unraced. Dam of 5 foals, 4 to race, 1 winner--
+Dam is in line 41:   SAGE CAT, by Tabasco Cat. Winner in 2 starts at 3, $15,380. Dam of 11 foals, 7 to race, 5 winners--
+		<hip>400</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>True Comfort</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Verdad</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -10,6 +10,7 @@
 		<HorseName>=City of Star</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**TELL A KELLY**</DamName>
 		<hip>396</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>Cable Flash</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**TELL A KELLY**</DamName>
 		<hip>396</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -48,6 +50,7 @@ Dam is in line 38:   EVROBI, by Tabasco Cat. Winner at 2, $34,765. Died 2022. Ha
 		<HorseName>Admaa</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Ayaady</DamName>
 		<hip>396</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,6 +58,7 @@ Dam is in line 38:   EVROBI, by Tabasco Cat. Winner at 2, $34,765. Died 2022. Ha
 		<HorseName>Prance</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Don't Tell Lou</DamName>
 		<hip>396</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +66,7 @@ Dam is in line 38:   EVROBI, by Tabasco Cat. Winner at 2, $34,765. Died 2022. Ha
 		<HorseName>=Bint Sublime</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Sublime Beauty**</DamName>
 		<hip>396</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -69,6 +74,7 @@ Dam is in line 38:   EVROBI, by Tabasco Cat. Winner at 2, $34,765. Died 2022. Ha
 		<HorseName>Nolana</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Sweet Lexy May</DamName>
 		<hip>396</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,12 +89,20 @@ Dam is in line 38:   EVROBI, by Tabasco Cat. Winner at 2, $34,765. Died 2022. Ha
 		<HorseName>Sugar May</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Sweet Lexy May</DamName>
 		<hip>396</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Cape Nero</HorseName>
 		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>396</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Don't Cry Sugar</HorseName>
+		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>396</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -104,6 +118,7 @@ Dam is in line 38:   EVROBI, by Tabasco Cat. Winner at 2, $34,765. Died 2022. Ha
 		<HorseName>Graceful Witch</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Sorus</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

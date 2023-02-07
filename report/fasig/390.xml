@@ -10,6 +10,7 @@
 		<HorseName>**Diva Treva**</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Truffles</DamName>
 		<hip>390</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>Summertime Gal</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Truffles</DamName>
 		<hip>390</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,12 +26,21 @@
 		<HorseName>Command Sgt Major</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Truffles</DamName>
 		<hip>390</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Rum Brandy</HorseName>
 		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Truffles</DamName>
+		<hip>390</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>True Beast</HorseName>
+		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>390</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -38,7 +49,7 @@
 		<HorseName>Cort'n Asong</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
-39
+40
 		<DamDamName>MISS CORT'N</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -53,8 +64,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 65: +    Cort'n Asong (2012 g. by Unbridled's Song). Winner in 1 start at 3, $33,540, in Canada; 20 wins, 4 to 10, 2022, $332,090, in N.A./U.S. (Total: $359,023).
-Dam is in line 39:   MISS CORT'N, by A.P. Indy. Winner at 3, $19,600. Died 2016. Dam of 13 foals, 12 to race, 10 winners--
+update on line 70: +    Cort'n Asong (2012 g. by Unbridled's Song). Winner in 1 start at 3, $33,540, in Canada; 20 wins, 4 to 10, 2022, $332,090, in N.A./U.S. (Total: $359,023).
+Dam is in line 40:   MISS CORT'N, by A.P. Indy. Winner at 3, $19,600. Died 2016. Dam of 13 foals, 12 to race, 10 winners--
 		<hip>390</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +73,7 @@ Dam is in line 39:   MISS CORT'N, by A.P. Indy. Winner at 3, $19,600. Died 2016.
 		<HorseName>John Dutton</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Reconsider</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -10,6 +10,7 @@
 		<HorseName>Sky Dweller</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**BEL AIR BEAUTY**</DamName>
 		<hip>211</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>**TRUE ROYALTY**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>High Wire</DamName>
 		<hip>211</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +26,7 @@
 		<HorseName>It's Mandatory</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>High Wire</DamName>
 		<hip>211</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +34,7 @@
 		<HorseName>**Texas Red Bel**</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Bel Air Kid</DamName>
 		<hip>211</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +42,7 @@
 		<HorseName>Posse Up</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Bel Air Kid</DamName>
 		<hip>211</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -56,8 +61,23 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Marvins' Posse</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>211</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>War Lass</HorseName>
 		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Bel Air Kid</DamName>
+		<hip>211</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Always Silver</HorseName>
+		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>211</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -66,6 +86,7 @@
 		<HorseName>Onemorsaturdaynite</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Elleway</DamName>
 		<hip>211</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -73,6 +94,7 @@
 		<HorseName>Elegant Elle</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Elleway</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

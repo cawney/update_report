@@ -10,6 +10,7 @@
 		<HorseName>**Mystere C**</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Strange Design</DamName>
 		<hip>54</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +42,7 @@ Dam is in line 48:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555
 		<HorseName>Memorial Drive</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Freedom Flag</DamName>
 		<hip>54</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -48,6 +50,14 @@ Dam is in line 48:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555
 		<HorseName>Banner Waving</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Freedom Flag</DamName>
+		<hip>54</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>A'bouzy</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
 		<hip>54</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,6 +65,7 @@ Dam is in line 48:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555
 		<HorseName>Flag of Honor</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Freedom Flag</DamName>
 		<hip>54</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +73,7 @@ Dam is in line 48:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555
 		<HorseName>Nagid</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Freedom Flag</DamName>
 		<hip>54</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +95,7 @@ Dam is in line 48:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555
 		<HorseName>Big Blue</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Beautiful Light</DamName>
 		<hip>54</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -118,12 +131,20 @@ Dam is in line 48:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555
 		<HorseName>Bird Colors</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Fly the Colors</DamName>
 		<hip>54</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>City Bird Flying</HorseName>
 		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>54</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Shakin Not Bird</HorseName>
+		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>54</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -139,6 +160,7 @@ Dam is in line 48:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555
 		<HorseName>Rhetorical Colors</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Fly the Colors</DamName>
 		<hip>54</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -160,6 +182,7 @@ Dam is in line 48:   **RUNUP THE COLORS**, by A.P. Indy. 6 wins at 2 and 3, $555
 		<HorseName>Amazonka</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Fly the Colors</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

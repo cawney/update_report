@@ -10,7 +10,7 @@
 		<HorseName>=Island Magic</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>g</HorseSex>
-37
+36
 		<DamDamName>**CASUAL LOOK**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -25,8 +25,16 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 48: +    =Island Magic (GB) (2014 f. by Oasis Dream (GB)). Unraced in Great Britain. Dam of 4 foals, 1 to race--
-Dam is in line 37:   **CASUAL LOOK**, by Red Ransom. Winner at 2 and 3, 308,182 Pounds, in England, 1st Vodafone Epsom Oaks **[G1]**, 2nd Meon Valley Stud Fillies' Mile **[G1]**, Owen Brown Rockfel S. **[G2]**; placed in 1 start at 3, 37,200 Euro, in Ireland, 3rd Darley Irish Oaks **[G1]**; placed in 2 starts at 3, $55,269, in N.A./U.S., 3rd Queen Elizabeth II Challenge Cup S. **[G1]** (KEE, $50,000); unplaced in 1 start in France. Sent from United States to Great Britain in 2002. Returned to United States from Great Britain in 2003. Sent from United States to Ireland in 2009. Returned to United States from Great Britain in 2016. (Total: $602,657). Sister to **SHABBY CHIC** (Total: $113,150, 1st Prix de Liancourt [L], etc.), half-sister to **American Style** ($282,233, 2nd Ben Ali S. **[G3]** (KEE, $22,060), etc.), **Saville Row** (Total: $44,777, 3rd Prix du Haras de la Huderie [L]). Dam of 13 foals, 10 to race, 7 winners--
+update on line 52: +    =Island Magic (GB) (2014 f. by Oasis Dream (GB)). Unraced in Great Britain. Dam of 4 foals, 1 to race--
+Dam is in line 36:   **CASUAL LOOK**, by Red Ransom. Winner at 2 and 3, 308,182 Pounds, in England, 1st Vodafone Epsom Oaks **[G1]**, 2nd Meon Valley Stud Fillies' Mile **[G1]**, Owen Brown Rockfel S. **[G2]**; placed in 1 start at 3, 37,200 Euro, in Ireland, 3rd Darley Irish Oaks **[G1]**; placed in 2 starts at 3, $55,269, in N.A./U.S., 3rd Queen Elizabeth II Challenge Cup S. **[G1]** (KEE, $50,000); unplaced in 1 start in France. Sent from United States to Great Britain in 2002. Returned to United States from Great Britain in 2003. Sent from United States to Ireland in 2009. Returned to United States from Great Britain in 2016. (Total: $602,657). Sister to **SHABBY CHIC** (Total: $113,150, 1st Prix de Liancourt [L], etc.), half-sister to **American Style** ($282,233, 2nd Ben Ali S. **[G3]** (KEE, $22,060), etc.), **Saville Row** (Total: $44,777, 3rd Prix du Haras de la Huderie [L]). Dam of 13 foals, 10 to race, 7 winners--
+		<hip>163</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Parana Delta</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>=Island Magic</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

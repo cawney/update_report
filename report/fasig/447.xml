@@ -58,12 +58,28 @@ Dam is in line 34:   WABANAKI, by Indian Charlie. Unraced. Half-sister to **HELD
 		<HorseName>Fika</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Strike Accord**</DamName>
 		<hip>447</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Gordaya Dzheyn</HorseName>
 		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Harmony Jane</DamName>
+		<hip>447</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Gurha</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>447</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Gorets Perviy</HorseName>
+		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>447</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -72,6 +88,7 @@ Dam is in line 34:   WABANAKI, by Indian Charlie. Unraced. Half-sister to **HELD
 		<HorseName>**TOP CATS</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Bubble Pop</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

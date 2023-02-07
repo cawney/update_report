@@ -49,7 +49,7 @@ Dam is in line 38:   LA BELLE MARQUET, by Marquetry. Winner in 2 starts at 3, $8
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 51: +    Hy Belle Champ (2011 f. by Tale of the Cat). Unraced. Dam of 3 foals, 2 to race, 1 winner--
+update on line 52: +    Hy Belle Champ (2011 f. by Tale of the Cat). Unraced. Dam of 3 foals, 2 to race, 1 winner--
 Dam is in line 38:   LA BELLE MARQUET, by Marquetry. Winner in 2 starts at 3, $8,700. Sister to **CHRIS'S BAD BOY** ($903,285, 1st Kennedy Road S. [L] (WO, $82,425(CAN)), etc.). Dam of 13 foals, 8 to race, 7 winners--
 		<hip>445</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -99,6 +99,14 @@ Dam is in line 38:   LA BELLE MARQUET, by Marquetry. Winner in 2 starts at 3, $8
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Brandon's Princess</HorseName>
 		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Juneau</DamName>
+		<hip>445</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Miss Peppermint</HorseName>
+		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>

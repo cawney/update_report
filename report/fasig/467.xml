@@ -12,9 +12,34 @@ update on line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Juan Simon</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>c</HorseSex>
+35
+		<DamDamName>DOC'S LEADING LADY</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 47: +    Juan Simon (2015 c. by Run Away and Hide). Winner at 2 in Panama. Sent from United States to Panama in 2016.
+Dam is in line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sister to **PHI BETA DOC** ($442,815, 1st Saranac H. **[G3]**, etc.), half-sister to **QUEEN MARY'S BOY** ($85,899, 1st San Mateo Mile S. [L] (BM, $33,700)), **Queen Ginni** ($43,083, 3rd Little Lady S. (SUF, $2,578)). Dam of 11 foals, 10 to race, 6 winners--
+		<hip>467</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lady Temple</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Lady Cali</DamName>
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -22,6 +47,7 @@ update on line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<HorseName>Lady Molly</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Lady Cali</DamName>
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -64,6 +90,7 @@ update on line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<HorseName>Queen's Riches</HorseName>
 		<HorseYOB>1997 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**Queen Ginni**</DamName>
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -71,6 +98,7 @@ update on line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<HorseName>Tentadora</HorseName>
 		<HorseYOB>2000 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Queen Ginni**</DamName>
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -92,6 +120,7 @@ update on line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<HorseName>The Boss's Dance</HorseName>
 		<HorseYOB>1998 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Smart Cat</DamName>
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -99,6 +128,13 @@ update on line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<HorseName>=Go Quick</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<hip>467</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Dalstontosiloth</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>g</HorseSex>
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -131,6 +167,27 @@ update on line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Everglades Drifter</HorseName>
+		<HorseYOB>2002 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>467</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Mr. Friendly Man</HorseName>
+		<HorseYOB>2006 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>467</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Burlman</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>467</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Contessachardonnay</HorseName>
 		<HorseYOB>1999 </HorseYOB>
 		<HorseSex>c</HorseSex>
@@ -155,6 +212,7 @@ update on line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<HorseName>Queenhanna</HorseName>
 		<HorseYOB>1994 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Strong Queen</DamName>
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -211,6 +269,7 @@ update on line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<HorseName>**DAYATTHESPA**</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>M'Lady Doc</DamName>
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

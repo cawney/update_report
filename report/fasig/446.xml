@@ -7,10 +7,34 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Baby Sox</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>f</HorseSex>
+34
+		<DamDamName>VERCRUYSSE</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 37: +    Baby Sox (2020 f. by Collected). Placed in 2 starts at 2, 2022, $7,260.
+Dam is in line 34:   VERCRUYSSE, by Mark Valeski. Unplaced, $5,280. Half-sister to **AMIABLE GRACE** ($290,498, 1st Sweet Briar Too S. [L] (WO, $72,000)), **MISS TIZZY** ($157,583, 1st Dream Supreme S. [L] (BEL, $45,900), etc.). Dam of 3 foals, 1 to race--
+		<hip>446</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**AMIABLE GRACE**</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>f</HorseSex>
-37
+40
 		<DamDamName>**Marquise Miss**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -25,8 +49,16 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 40: +    **AMIABLE GRACE** (2007 f. by Alphabet Soup). 4 wins at 3 and 4, $288,759, in Canada, 1st Sweet Briar Too S. [L] (WO, $72,000). (Total: $290,498). Dam of 6 foals, 4 to race, 3 winners--
-Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 2nd Lazer Show S. [L] (AP, $10,690). Died 2019. Half-sister to **TENPOINTFIVE** ($201,721, 1st High Alexander H.-R (HAW, $54,765), etc.). Dam of 15 foals, 14 to race, 9 winners--
+update on line 43: +    **AMIABLE GRACE** (2007 f. by Alphabet Soup). 4 wins at 3 and 4, $288,759, in Canada, 1st Sweet Briar Too S. [L] (WO, $72,000). (Total: $290,498). Dam of 6 foals, 4 to race, 3 winners--
+Dam is in line 40:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 2nd Lazer Show S. [L] (AP, $10,690). Died 2019. Half-sister to **TENPOINTFIVE** ($201,721, 1st High Alexander H.-R (HAW, $54,765), etc.). Dam of 15 foals, 14 to race, 9 winners--
+		<hip>446</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Quattro Max</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>**AMIABLE GRACE**</DamName>
 		<hip>446</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -34,6 +66,7 @@ Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 
 		<HorseName>=Tiz My View</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**MISS TIZZY**</DamName>
 		<hip>446</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,6 +88,7 @@ Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 
 		<HorseName>=Fantizzy Girl</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**MISS TIZZY**</DamName>
 		<hip>446</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +96,7 @@ Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 
 		<HorseName>=Rest My Case</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**MISS TIZZY**</DamName>
 		<hip>446</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,7 +111,7 @@ Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 
 		<HorseName>Miss Attractive</HorseName>
 		<HorseYOB>2002 </HorseYOB>
 		<HorseSex>r</HorseSex>
-37
+40
 		<DamDamName>**Marquise Miss**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -91,8 +126,8 @@ Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 63: +    Miss Attractive (2002 f. by Running Stag). 2 wins in 2 starts at 3, $56,100, in Canada; placed in 1 start at 4, $8,000, in N.A./U.S. (Total: $56,085). Dam of 13 foals, 10 to race, 6 winners--
-Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 2nd Lazer Show S. [L] (AP, $10,690). Died 2019. Half-sister to **TENPOINTFIVE** ($201,721, 1st High Alexander H.-R (HAW, $54,765), etc.). Dam of 15 foals, 14 to race, 9 winners--
+update on line 67: +    Miss Attractive (2002 f. by Running Stag). 2 wins in 2 starts at 3, $56,100, in Canada; placed in 1 start at 4, $8,000, in N.A./U.S. (Total: $56,085). Dam of 13 foals, 10 to race, 6 winners--
+Dam is in line 40:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 2nd Lazer Show S. [L] (AP, $10,690). Died 2019. Half-sister to **TENPOINTFIVE** ($201,721, 1st High Alexander H.-R (HAW, $54,765), etc.). Dam of 15 foals, 14 to race, 9 winners--
 		<hip>446</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -100,6 +135,7 @@ Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 
 		<HorseName>**AWESOME BABY**</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Miss Attractive</DamName>
 		<hip>446</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -128,6 +164,7 @@ Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 
 		<HorseName>Awesome Zip</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Miss Attractive</DamName>
 		<hip>446</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -135,6 +172,7 @@ Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 
 		<HorseName>Ravionetta</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Miss Attractive</DamName>
 		<hip>446</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -153,9 +191,17 @@ Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Awesome King Iji</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>446</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Gran Nighthawk</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Miss Attractive</DamName>
 		<hip>446</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -170,6 +216,7 @@ Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 
 		<HorseName>Miss Chanel</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Miss Attractive</DamName>
 		<hip>446</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -177,7 +224,7 @@ Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 
 		<HorseName>Kadri</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
-37
+40
 		<DamDamName>**Marquise Miss**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -192,8 +239,8 @@ Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 92: +    Kadri (2017 g. by Mark Valeski). 8 wins, 3 to 5, placed at 6, 2023, $341,595.
-Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 2nd Lazer Show S. [L] (AP, $10,690). Died 2019. Half-sister to **TENPOINTFIVE** ($201,721, 1st High Alexander H.-R (HAW, $54,765), etc.). Dam of 15 foals, 14 to race, 9 winners--
+update on line 98: +    Kadri (2017 g. by Mark Valeski). 8 wins, 3 to 5, placed at 6, 2023, $341,595.
+Dam is in line 40:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 2nd Lazer Show S. [L] (AP, $10,690). Died 2019. Half-sister to **TENPOINTFIVE** ($201,721, 1st High Alexander H.-R (HAW, $54,765), etc.). Dam of 15 foals, 14 to race, 9 winners--
 		<hip>446</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -201,6 +248,7 @@ Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 
 		<HorseName>Mr. Cunningham</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>She'll Do It</DamName>
 		<hip>446</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -208,6 +256,15 @@ Dam is in line 37:   **Marquise Miss**, by Marquetry. 5 wins, 3 to 5, $144,446, 
 		<HorseName>Tropic Storm</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Su Say Socks</DamName>
+		<hip>446</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Tahaady</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<DamName>Let's Park</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -7,8 +7,8 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseName>Packin</HorseName>
+		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
 34
 		<DamDamName>FULLY EQUIPPED</DamDamName>
@@ -25,7 +25,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 38: +    Unnamed (2022 c. by Volatile). See above.
+update on line 38: +    Packin (2018 f. by Wicked Strong). Placed at 4, 2022, $3,247.
 Dam is in line 34:   FULLY EQUIPPED, by More Than Ready. Winner at 3, $11,590. Half-sister to **CITY ATTRACTION** ($258,900, 1st Gravesend H. **[G3]** (AQU, $64,260), etc.), **Vicarian** ($326,140, 2nd Harvey Arneault Memorial S. [L] (MNR, $22,000), etc.). Dam of 5 foals, 2 to race, 1 winner--
 		<hip>170</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -34,6 +34,7 @@ Dam is in line 34:   FULLY EQUIPPED, by More Than Ready. Winner at 3, $11,590. H
 		<HorseName>**GRACE'S TREASURE**</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Sher Win Forest</DamName>
 		<hip>170</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +42,7 @@ Dam is in line 34:   FULLY EQUIPPED, by More Than Ready. Winner at 3, $11,590. H
 		<HorseName>Lady Danger</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Sher Win Forest</DamName>
 		<hip>170</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +64,7 @@ Dam is in line 34:   FULLY EQUIPPED, by More Than Ready. Winner at 3, $11,590. H
 		<HorseName>**Minnesota Miracle**</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Streaming Fire</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

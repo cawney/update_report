@@ -34,6 +34,7 @@ Dam is in line 37:   ENTH, by Seeking the Gold. Winner at 2, $30,135. Half-siste
 		<HorseName>**SIZE**</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Extent</DamName>
 		<hip>68</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,9 +46,17 @@ Dam is in line 37:   ENTH, by Seeking the Gold. Winner at 2, $30,135. Half-siste
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Bulk</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>68</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**MUCHO**</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Extent</DamName>
 		<hip>68</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,6 +64,7 @@ Dam is in line 37:   ENTH, by Seeking the Gold. Winner at 2, $30,135. Half-siste
 		<HorseName>Width</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Extent</DamName>
 		<hip>68</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +86,7 @@ Dam is in line 37:   ENTH, by Seeking the Gold. Winner at 2, $30,135. Half-siste
 		<HorseName>Amount</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Extent</DamName>
 		<hip>68</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +94,7 @@ Dam is in line 37:   ENTH, by Seeking the Gold. Winner at 2, $30,135. Half-siste
 		<HorseName>Length</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Extent</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -34,6 +34,7 @@ Dam is in line 38:   KASEEMA, by Storm Cat. Winner at 2, 8,048 Pounds, in Englan
 		<HorseName>=Ghumama</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Bishara</DamName>
 		<hip>448</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +42,7 @@ Dam is in line 38:   KASEEMA, by Storm Cat. Winner at 2, 8,048 Pounds, in Englan
 		<HorseName>Green Pond</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Yarico's Pond</DamName>
 		<hip>448</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +78,14 @@ Dam is in line 38:   KASEEMA, by Storm Cat. Winner at 2, 8,048 Pounds, in Englan
 		<HorseName>Yasuda</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Sashimi</DamName>
+		<hip>448</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Starboy</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>448</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +93,7 @@ Dam is in line 38:   KASEEMA, by Storm Cat. Winner at 2, 8,048 Pounds, in Englan
 		<HorseName>Akita</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Sashimi</DamName>
 		<hip>448</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -94,9 +105,24 @@ Dam is in line 38:   KASEEMA, by Storm Cat. Winner at 2, 8,048 Pounds, in Englan
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Aikido Game</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>448</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Jarakita Game</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>448</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Shalaa</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Sashimi</DamName>
 		<hip>448</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -104,6 +130,7 @@ Dam is in line 38:   KASEEMA, by Storm Cat. Winner at 2, 8,048 Pounds, in Englan
 		<HorseName>**=Rosie Cotton</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>=Luce</DamName>
 		<hip>448</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -122,9 +149,17 @@ Dam is in line 38:   KASEEMA, by Storm Cat. Winner at 2, 8,048 Pounds, in Englan
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Seasony</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>448</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Lady Olenna</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>=Luce</DamName>
 		<hip>448</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -132,6 +167,7 @@ Dam is in line 38:   KASEEMA, by Storm Cat. Winner at 2, 8,048 Pounds, in Englan
 		<HorseName>=Lady of Rohan</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>=Luce</DamName>
 		<hip>448</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -143,8 +179,23 @@ Dam is in line 38:   KASEEMA, by Storm Cat. Winner at 2, 8,048 Pounds, in Englan
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Beryl The Peril</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>448</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Tauriel</HorseName>
 		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>=Luce</DamName>
+		<hip>448</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Brando's Sword</HorseName>
+		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>448</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -153,6 +204,7 @@ Dam is in line 38:   KASEEMA, by Storm Cat. Winner at 2, 8,048 Pounds, in Englan
 		<HorseName>Carnival Dax</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Catigo</DamName>
 		<hip>448</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -164,9 +216,17 @@ Dam is in line 38:   KASEEMA, by Storm Cat. Winner at 2, 8,048 Pounds, in Englan
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Nishino Komei</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>448</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Show Cat</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Catigo</DamName>
 		<hip>448</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -174,6 +234,21 @@ Dam is in line 38:   KASEEMA, by Storm Cat. Winner at 2, 8,048 Pounds, in Englan
 		<HorseName>Funny Kitty</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Catigo</DamName>
+		<hip>448</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Roberto's Dream</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>448</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sabra's Song</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

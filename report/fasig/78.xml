@@ -31,26 +31,10 @@ Dam is in line 34:   CHAINSMOKNSUPRMODL, by Super Saver. Winner at 3, $36,410. H
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-34
-		<DamDamName>CHAINSMOKNSUPRMODL</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    Unnamed (2022 f. by Collected). See above.
-Dam is in line 34:   CHAINSMOKNSUPRMODL, by Super Saver. Winner at 3, $36,410. Half-sister to **GREELEY'S GALAXY** ($446,222, 1st Illinois Derby **[G2]** (HAW, $300,000), etc., sire). Dam of 4 foals, 3 to race, 3 winners--
+		<HorseName>=Unstoppable</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<DamName>Street Indy</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

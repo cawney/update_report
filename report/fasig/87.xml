@@ -34,6 +34,14 @@ Dam is in line 44:   **HOT LEAR**, by Lear Fan. 4 wins in 7 starts at 2 and 4, $
 		<HorseName>**Intrepid Heart**</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**FLAMING HEART**</DamName>
+		<hip>87</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Song of Peace</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
 		<hip>87</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -48,6 +56,7 @@ Dam is in line 44:   **HOT LEAR**, by Lear Fan. 4 wins in 7 starts at 2 and 4, $
 		<HorseName>Covenant</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**FLAMING HEART**</DamName>
 		<hip>87</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,6 +64,7 @@ Dam is in line 44:   **HOT LEAR**, by Lear Fan. 4 wins in 7 starts at 2 and 4, $
 		<HorseName>Hawker</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**FLAMING HEART**</DamName>
 		<hip>87</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -69,6 +79,7 @@ Dam is in line 44:   **HOT LEAR**, by Lear Fan. 4 wins in 7 starts at 2 and 4, $
 		<HorseName>Lovin Spoon Phil</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Love Torch</DamName>
 		<hip>87</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +87,7 @@ Dam is in line 44:   **HOT LEAR**, by Lear Fan. 4 wins in 7 starts at 2 and 4, $
 		<HorseName>Lady Shaman</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Love Torch</DamName>
 		<hip>87</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +95,7 @@ Dam is in line 44:   **HOT LEAR**, by Lear Fan. 4 wins in 7 starts at 2 and 4, $
 		<HorseName>I'm Good With It</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Love Torch</DamName>
 		<hip>87</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -90,6 +103,13 @@ Dam is in line 44:   **HOT LEAR**, by Lear Fan. 4 wins in 7 starts at 2 and 4, $
 		<HorseName>Grand Gizmo</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<hip>87</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Well You Know</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

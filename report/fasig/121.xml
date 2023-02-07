@@ -10,6 +10,7 @@
 		<HorseName>=Puerta Ravenna</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Quietly Bold</DamName>
 		<hip>121</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -21,9 +22,17 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Sdarovia</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>121</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Cocomama</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Inca Goddess</DamName>
 		<hip>121</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +47,7 @@
 		<HorseName>=The Panter</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Inca Goddess</DamName>
 		<hip>121</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,6 +55,7 @@
 		<HorseName>=Diosa Inca</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Inca Goddess</DamName>
 		<hip>121</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

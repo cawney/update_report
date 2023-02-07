@@ -10,6 +10,7 @@
 		<HorseName>=Zultanite</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Cindys Vindication</DamName>
 		<hip>329</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>Heroic Invasion</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Deputy's Hero</DamName>
 		<hip>329</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -35,9 +37,18 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Huachicol</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<DamName>Oursaturdayspecial</DamName>
+		<hip>329</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Elusive Getaway</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Oursaturdayspecial</DamName>
 		<hip>329</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,7 +56,7 @@
 		<HorseName>Awesome Bella</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>f</HorseSex>
-64
+65
 		<DamDamName>CINDAZANNO</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -60,8 +71,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 75: +    Awesome Bella (2009 f. by Awesome Again). Unraced. Dam of 8 foals, 5 to race, 3 winners--
-Dam is in line 64:   CINDAZANNO, by Alleged. Winner at 4, $48,451. Died 2010. Half-sister to **ALL GLORY** (Champion older mare in Chile (2004), 1st Carlos Allende Navarro **[G2]**, etc.). Dam of 13 foals, 8 to race, 4 winners--
+update on line 91: +    Awesome Bella (2009 f. by Awesome Again). Unraced. Dam of 8 foals, 5 to race, 3 winners--
+Dam is in line 65:   CINDAZANNO, by Alleged. Winner at 4, $48,451. Died 2010. Half-sister to **ALL GLORY** (Champion older mare in Chile (2004), 1st Carlos Allende Navarro **[G2]**, etc.). Dam of 13 foals, 8 to race, 4 winners--
 		<hip>329</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -69,6 +80,7 @@ Dam is in line 64:   CINDAZANNO, by Alleged. Winner at 4, $48,451. Died 2010. Ha
 		<HorseName>Midnight Bella</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Awesome Bella</DamName>
 		<hip>329</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +88,7 @@ Dam is in line 64:   CINDAZANNO, by Alleged. Winner at 4, $48,451. Died 2010. Ha
 		<HorseName>Scat's Empire</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Unbridled Empire</DamName>
 		<hip>329</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +96,7 @@ Dam is in line 64:   CINDAZANNO, by Alleged. Winner at 4, $48,451. Died 2010. Ha
 		<HorseName>Eve Harrington</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Unbridled Empire</DamName>
 		<hip>329</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -90,6 +104,7 @@ Dam is in line 64:   CINDAZANNO, by Alleged. Winner at 4, $48,451. Died 2010. Ha
 		<HorseName>Rrace Day Warrior</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Causin a Storm</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -10,6 +10,7 @@
 		<HorseName>Tango Charlie</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Gem</DamName>
 		<hip>391</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>La Samana Laura</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Gem</DamName>
 		<hip>391</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,7 +26,7 @@
 		<HorseName>Moon Sign</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>g</HorseSex>
-36
+37
 		<DamDamName>SKIPSTONE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -39,8 +41,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 52: +    Moon Sign (2020 g. by Malibu Moon). Placed at 2, 2022, $14,470.
-Dam is in line 36:   SKIPSTONE, by Montbrook. Winner at 2, $24,300. Half-sister to **TIZAHIT** ($195,307, 1st Demoiselle S. **[G2]** (AQU, $120,000), etc.). Dam of 10 foals, 9 to race, 4 winners--
+update on line 54: +    Moon Sign (2020 g. by Malibu Moon). Placed at 2, 2022, $14,470.
+Dam is in line 37:   SKIPSTONE, by Montbrook. Winner at 2, $24,300. Half-sister to **TIZAHIT** ($195,307, 1st Demoiselle S. **[G2]** (AQU, $120,000), etc.). Dam of 10 foals, 9 to race, 4 winners--
 		<hip>391</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -48,6 +50,7 @@ Dam is in line 36:   SKIPSTONE, by Montbrook. Winner at 2, $24,300. Half-sister 
 		<HorseName>She Makes Me Tizzy</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Make Waves</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

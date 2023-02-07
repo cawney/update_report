@@ -10,6 +10,7 @@
 		<HorseName>=Satono Deed</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**GOZZIP GIRL**</DamName>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>=Chuck Nate</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**GOZZIP GIRL**</DamName>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -48,6 +50,31 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<HorseName>Kingsbarns</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**Lady Tapit**</DamName>
+		<hip>152</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Self Rule</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+38
+		<DamDamName>TEMPERENCE GIFT</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 64: +    Self Rule (2019 g. by Animal Kingdom). Placed at 3, 2022, $7,751.
+Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United States to Ireland in 2002. Returned to United States from Ireland in 2002. Half-sister to **KODEMA** ($275,955, 1st Gulf Coast Classic S. [L] (DED, $60,000), etc.), **MISTRESS S.** ($147,578, 1st Sweetest Chant S. [L] (GP, $30,000), etc.), **Viz** ($72,090, 3rd Hollywood Starlet S. **[G1]**). Dam of 14 foals, 9 to race, 5 winners--
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,6 +82,7 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<HorseName>Top Hat Boss</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Express Chick</DamName>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +90,7 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<HorseName>Majestic Chick</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Express Chick</DamName>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +105,7 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<HorseName>Veruschka</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Express Chick</DamName>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -87,9 +117,17 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Gran Alazana</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>152</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Dibaba</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Kenzo</DamName>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -115,9 +153,17 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Go Leah Go</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>152</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Z to K Fever</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**MISTRESS S.**</DamName>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -181,6 +227,13 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<HorseName>=Confils</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<hip>152</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Silver Turn</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -283,9 +336,23 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Gold Prince</HorseName>
+		<HorseYOB>2007 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>152</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Realistic</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<hip>152</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Needless to Say</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>f</HorseSex>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -370,6 +437,7 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<HorseName>=Lake Ladoga</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**Viz**</DamName>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -377,6 +445,13 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<HorseName>=Thee And Me</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<hip>152</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Hawkmeister</HorseName>
+		<HorseYOB>2012 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -398,6 +473,7 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<HorseName>=Quip</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Viz**</DamName>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -409,9 +485,31 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Indian King</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>152</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Ike</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>152</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=One Liner</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>152</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Primetime Jet</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Grand Finesse</DamName>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -419,6 +517,7 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<HorseName>**Emma Darling**</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Jenna S.</DamName>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -475,6 +574,7 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<HorseName>**Play With Me**</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Sehra</DamName>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -503,12 +603,28 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<HorseName>Freuda</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Sehra</DamName>
+		<hip>152</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Pajama Jam</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Fromage</HorseName>
 		<HorseYOB>2005 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Sehra</DamName>
+		<hip>152</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Fromagentleman</HorseName>
+		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -524,6 +640,14 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<HorseName>Silver Purse</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Sehra</DamName>
+		<hip>152</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Silquest</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>g</HorseSex>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -531,6 +655,7 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<HorseName>=Glory Bridge</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Sugino Christie</DamName>
 		<hip>152</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -538,6 +663,13 @@ Dam is in line 38:   TEMPERENCE GIFT, by Kingmambo. Unraced. Sent from United St
 		<HorseName>=Heavens Gate</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<hip>152</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Glow Ability</HorseName>
+		<HorseYOB>2013 </HorseYOB>
+		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

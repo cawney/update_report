@@ -34,6 +34,14 @@ Dam is in line 40:   **November Slew**, by Seattle Slew. 3 wins at 2 and 3, $134
 		<HorseName>=Hyades</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>=November Sky</DamName>
+		<hip>158</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Bajigakumanamusume</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
 		<hip>158</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +49,7 @@ Dam is in line 40:   **November Slew**, by Seattle Slew. 3 wins at 2 and 3, $134
 		<HorseName>=Lily Jasper</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>=Champagne Topaz</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

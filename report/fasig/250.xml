@@ -15,6 +15,7 @@ update on line 35: + LIL MO GOLD, by Uncle Mo. Placed at 3, $14,050. Sent from U
 		<HorseName>=Oxalis</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**LADY OF SHAMROCK**</DamName>
 		<hip>250</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -22,6 +23,14 @@ update on line 35: + LIL MO GOLD, by Uncle Mo. Placed at 3, $14,050. Sent from U
 		<HorseName>=Celtic</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**LADY OF SHAMROCK**</DamName>
+		<hip>250</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Clovera</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>250</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -29,6 +38,7 @@ update on line 35: + LIL MO GOLD, by Uncle Mo. Placed at 3, $14,050. Sent from U
 		<HorseName>Anniebear</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**SHE'S SENSATIONAL**</DamName>
 		<hip>250</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -57,12 +67,21 @@ update on line 35: + LIL MO GOLD, by Uncle Mo. Placed at 3, $14,050. Sent from U
 		<HorseName>She's Mischief</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**SHE'S SENSATIONAL**</DamName>
 		<hip>250</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sensational Charge</HorseName>
 		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>**SHE'S SENSATIONAL**</DamName>
+		<hip>250</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Great Revelation</HorseName>
+		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>250</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -71,6 +90,7 @@ update on line 35: + LIL MO GOLD, by Uncle Mo. Placed at 3, $14,050. Sent from U
 		<HorseName>=Salfah</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Louise Bonne</DamName>
 		<hip>250</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -78,6 +98,7 @@ update on line 35: + LIL MO GOLD, by Uncle Mo. Placed at 3, $14,050. Sent from U
 		<HorseName>=Istibaqiyah</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Louise Bonne</DamName>
 		<hip>250</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -85,6 +106,7 @@ update on line 35: + LIL MO GOLD, by Uncle Mo. Placed at 3, $14,050. Sent from U
 		<HorseName>Saucy Jade</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Nureyev's Encore</DamName>
 		<hip>250</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -106,6 +128,7 @@ update on line 35: + LIL MO GOLD, by Uncle Mo. Placed at 3, $14,050. Sent from U
 		<HorseName>Lady Jade</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Nureyev's Encore</DamName>
 		<hip>250</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -113,6 +136,7 @@ update on line 35: + LIL MO GOLD, by Uncle Mo. Placed at 3, $14,050. Sent from U
 		<HorseName>=Rivaldo</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Slippery Rose</DamName>
 		<hip>250</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -120,6 +144,15 @@ update on line 35: + LIL MO GOLD, by Uncle Mo. Placed at 3, $14,050. Sent from U
 		<HorseName>=Urjuwaan</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Slippery Rose</DamName>
+		<hip>250</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Temple Garden</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Slippery Rose</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

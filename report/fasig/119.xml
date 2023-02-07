@@ -7,9 +7,34 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Azelio</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>c</HorseSex>
+34
+		<DamDamName>DIAMOND GIRL</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 36: +    Azelio (2020 c. by Candy Ride (ARG)). Placed at 3, 2023, 28,500 Riyals, in Saudi Arabia. Sent from United States to Ireland in 2021. (Total: $7,600).
+Dam is in line 34:   DIAMOND GIRL, by Giant's Causeway. Placed at 3, $15,320, in Canada. (Total: $11,822). Half-sister to **Loose On the Town** ($303,306, 2nd Tale of the Cat S.-R (SAR, $20,000), etc.), **Conquest Lemonraid** ($232,141, 2nd Toronto Cup S. [L] (WO, $24,000), etc.). Dam of 4 foals, 3 to race, 1 winner--
+		<hip>119</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Colors of the Wind</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Wellington Beauty</DamName>
 		<hip>119</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,7 +42,7 @@
 		<HorseName>Classic Queen</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
-38
+39
 		<DamDamName>GAUZE</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -32,8 +57,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 49: +    Classic Queen (2019 f. by Classic Empire). 2 wins at 3, 2022, $54,766, in Canada. (Total: $41,928).
-Dam is in line 38:   GAUZE, by Saint Ballado. Placed at 3 and 4, $6,720. Half-sister to **UNBRIDLED HOPE** ($272,370, 1st Ladies H. **[G3]**, etc.), **FORESTIER** ($195,710, 1st Classy Mirage S.-R (AQU, $36,360), etc.), **Silent Fred** ($215,402, 3rd Remsen S. **[G2]**). Dam of 10 foals, 8 to race, 6 winners--
+update on line 50: +    Classic Queen (2019 f. by Classic Empire). 2 wins at 3, 2022, $54,766, in Canada. (Total: $41,928).
+Dam is in line 39:   GAUZE, by Saint Ballado. Placed at 3 and 4, $6,720. Half-sister to **UNBRIDLED HOPE** ($272,370, 1st Ladies H. **[G3]**, etc.), **FORESTIER** ($195,710, 1st Classy Mirage S.-R (AQU, $36,360), etc.), **Silent Fred** ($215,402, 3rd Remsen S. **[G2]**). Dam of 10 foals, 8 to race, 6 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

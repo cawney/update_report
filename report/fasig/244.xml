@@ -34,7 +34,7 @@ Dam is in line 34:   L. A. MAGIC, by Tizdejavu. 3 wins at 3 and 4, $59,945. Half
 		<HorseName>**MARKET MAGIC**</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
-41
+40
 		<DamDamName>**BRIGHT MAGIC**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -49,8 +49,8 @@ Dam is in line 34:   L. A. MAGIC, by Tizdejavu. 3 wins at 3 and 4, $59,945. Half
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 44: +    **MARKET MAGIC** (2011 f. by After Market). 4 wins at 2 and 4, $164,070, 1st West Virginia Senate President's Cup S. (MNR, $61,600). Sent from United States to Republic of Korea in 2022. Dam of 5 foals, 3 to race, 3 winners--
-Dam is in line 41:   **BRIGHT MAGIC**, by Prized. 4 wins at 3, $212,393, 1st Fleet Treat S.-R (DMR, $66,300), CTBA Marian S.-R (FPX, $27,500), 3rd Harold C. Ramser Sr. H. [L] (SA, $13,416), Cat's Cradle H.-R (HOL, $12,000), Torrey Pines S.-R (DMR, $11,736). Sister to **Oysters** ($224,050, 2nd Real Good Deal S.-R (DMR, $22,480)), half-sister to **TAKE THE RIBBON** ($372,102, 1st Churchill Distaff Turf Mile S. **[G3]** (CD, $103,138), etc.), **FLASH FORWARD** ($259,790, 1st My Flag S.-R (SAR, $60,000), etc.), **FLASH MASH** (Total: $231,856, 1st Giant's Causeway S. [L] (KEE, $60,000), etc.), **GLINDA THE GOOD** ($226,758, 1st Instant Racing S. [L] (OP, $60,000), etc.), **HOT WAR** ($165,130, 1st Real Good Deal S.-R (DMR, $60,000), etc., sire), **Inside Passage** ($129,303, 3rd Proud Delta S. [L] (BEL, $7,735)), **House of Magic** ($99,526, 3rd With Approval S.-R (WO, $8,250)). Dam of 15 foals, 13 to race, 12 winners--
+update on line 43: +    **MARKET MAGIC** (2011 f. by After Market). 4 wins at 2 and 4, $164,070, 1st West Virginia Senate President's Cup S. (MNR, $61,600). Sent from United States to Republic of Korea in 2022. Dam of 5 foals, 3 to race, 3 winners--
+Dam is in line 40:   **BRIGHT MAGIC**, by Prized. 4 wins at 3, $212,393, 1st Fleet Treat S.-R (DMR, $66,300), CTBA Marian S.-R (FPX, $27,500), 3rd Harold C. Ramser Sr. H. [L] (SA, $13,416), Cat's Cradle H.-R (HOL, $12,000), Torrey Pines S.-R (DMR, $11,736). Sister to **Oysters** ($224,050, 2nd Real Good Deal S.-R (DMR, $22,480)), half-sister to **TAKE THE RIBBON** ($372,102, 1st Churchill Distaff Turf Mile S. **[G3]** (CD, $103,138), etc.), **FLASH FORWARD** ($259,790, 1st My Flag S.-R (SAR, $60,000), etc.), **FLASH MASH** (Total: $231,856, 1st Giant's Causeway S. [L] (KEE, $60,000), etc.), **GLINDA THE GOOD** ($226,758, 1st Instant Racing S. [L] (OP, $60,000), etc.), **HOT WAR** ($165,130, 1st Real Good Deal S.-R (DMR, $60,000), etc., sire), **Inside Passage** ($129,303, 3rd Proud Delta S. [L] (BEL, $7,735)), **House of Magic** ($99,526, 3rd With Approval S.-R (WO, $8,250)). Dam of 15 foals, 13 to race, 12 winners--
 		<hip>244</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -58,6 +58,7 @@ Dam is in line 41:   **BRIGHT MAGIC**, by Prized. 4 wins at 3, $212,393, 1st Fle
 		<HorseName>Soothsaying</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**MARKET MAGIC**</DamName>
 		<hip>244</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -65,6 +66,7 @@ Dam is in line 41:   **BRIGHT MAGIC**, by Prized. 4 wins at 3, $212,393, 1st Fle
 		<HorseName>Honey Jar</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Sweet Spell</DamName>
 		<hip>244</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -72,6 +74,14 @@ Dam is in line 41:   **BRIGHT MAGIC**, by Prized. 4 wins at 3, $212,393, 1st Fle
 		<HorseName>Akor</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Tizza Trick</DamName>
+		<hip>244</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Fog My Heart</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>g</HorseSex>
 		<hip>244</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -79,6 +89,7 @@ Dam is in line 41:   **BRIGHT MAGIC**, by Prized. 4 wins at 3, $212,393, 1st Fle
 		<HorseName>Zefzaf</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Tizza Trick</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

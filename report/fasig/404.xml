@@ -7,34 +7,10 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-33
-		<DamDamName>STORM THE CHURCH</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 40: +    Unnamed (2022 c. by Street Boss). See above.
-Dam is in line 33:   STORM THE CHURCH, by Pulpit. Placed at 3, $41,880. Half-sister to **CAJUN CONQUEST** ($173,190, 1st Seeking the Gold S. (LAD, $30,000)). Dam of 5 foals, 4 to race, 3 winners--
-		<hip>404</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Probably Thursday</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
-42
+40
 		<DamDamName>PROBABLE STORM</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -50,7 +26,7 @@ Dam is in line 33:   STORM THE CHURCH, by Pulpit. Placed at 3, $41,880. Half-sis
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 53: +    Probably Thursday (2013 f. by Gio Ponti). Unplaced, $2,622. Dam of 5 foals, 3 to race, 1 winner--
-Dam is in line 42:   PROBABLE STORM, by Tabasco Cat. Unraced. Half-sister to **SUMMER COLONY** ($1,448,930, 1st Personal Ensign H. **[G1]** (SAR, $240,000), etc.), **Colonial Causeway** ($130,200, 3rd Primal S. (CRC, $5,500)). Dam of 11 foals, 9 to race, 5 winners--
+Dam is in line 40:   PROBABLE STORM, by Tabasco Cat. Unraced. Half-sister to **SUMMER COLONY** ($1,448,930, 1st Personal Ensign H. **[G1]** (SAR, $240,000), etc.), **Colonial Causeway** ($130,200, 3rd Primal S. (CRC, $5,500)). Dam of 11 foals, 9 to race, 5 winners--
 		<hip>404</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -58,6 +34,7 @@ Dam is in line 42:   PROBABLE STORM, by Tabasco Cat. Unraced. Half-sister to **S
 		<HorseName>Caxambas Candy</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Probably Thursday</DamName>
 		<hip>404</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -65,6 +42,7 @@ Dam is in line 42:   PROBABLE STORM, by Tabasco Cat. Unraced. Half-sister to **S
 		<HorseName>Next Thursday</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Probably Thursday</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

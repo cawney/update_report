@@ -34,6 +34,7 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>Dwelling Place</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**RANDY CAT</DamName>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +63,15 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>=Flaming</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**RANDY CAT</DamName>
+		<hip>303</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Moose Bay</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<DamName>**RANDY CAT</DamName>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -69,6 +79,7 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>Thundershook</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Song Cat**</DamName>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +87,14 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>Can't Be Dazzled</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Song Cat**</DamName>
+		<hip>303</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Forest Dazzle</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +102,7 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>Ten Seventy</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Song Cat**</DamName>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -97,6 +117,7 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>Malibu Mist</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Song Cat**</DamName>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -111,6 +132,13 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>Calaveras</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<hip>303</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>No No Nina</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>f</HorseSex>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -143,9 +171,32 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Ragner</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>303</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Rodesiana</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>303</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Rockera Cat</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Razzi Storm</DamName>
+		<hip>303</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Edipo Rey</HorseName>
+		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<DamName>Escuincla</DamName>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -153,6 +204,7 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>=Romancina</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>=Railway Cat</DamName>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -160,6 +212,14 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>=Rosa Romana</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>=Railway Cat</DamName>
+		<hip>303</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Romano Kiin Ha</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>c</HorseSex>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -167,6 +227,14 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>=When I Need You</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Wry Razzi</DamName>
+		<hip>303</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Need You Perfect</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -174,6 +242,7 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>=Coraya</HorseName>
 		<HorseYOB>1996 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Grey Valley</DamName>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -202,6 +271,7 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>=Galana Sagan</HorseName>
 		<HorseYOB>1986 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Grey Valley</DamName>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -216,6 +286,7 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>=Llanelly</HorseName>
 		<HorseYOB>1987 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Grey Valley</DamName>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -223,6 +294,7 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>=Tranquility</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Aerialist</DamName>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -230,6 +302,7 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>=La Gentille</HorseName>
 		<HorseYOB>1995 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>La Abierta</DamName>
 		<hip>303</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -258,6 +331,7 @@ Dam is in line 38:   RAZZI CAT, by Storm Cat. Winner at 3, $29,380. Sent from Un
 		<HorseName>Ochi Chornya</HorseName>
 		<HorseYOB>1984 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Chant Du Bois</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -100,6 +100,7 @@ Dam is in line 34:   AMBLING, by Chester House. Placed at 2 and 3, $34,370. Sist
 		<HorseName>Chika</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**SOLVIG**</DamName>
 		<hip>409</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -142,6 +143,7 @@ Dam is in line 34:   AMBLING, by Chester House. Placed at 2 and 3, $34,370. Sist
 		<HorseName>Ramble</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Mila</DamName>
 		<hip>409</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -149,6 +151,7 @@ Dam is in line 34:   AMBLING, by Chester House. Placed at 2 and 3, $34,370. Sist
 		<HorseName>Grin</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Mila</DamName>
 		<hip>409</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -163,6 +166,7 @@ Dam is in line 34:   AMBLING, by Chester House. Placed at 2 and 3, $34,370. Sist
 		<HorseName>Belle</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Mila</DamName>
 		<hip>409</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -184,6 +188,7 @@ Dam is in line 34:   AMBLING, by Chester House. Placed at 2 and 3, $34,370. Sist
 		<HorseName>Linny Kate</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Quintile</DamName>
 		<hip>409</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -191,6 +196,7 @@ Dam is in line 34:   AMBLING, by Chester House. Placed at 2 and 3, $34,370. Sist
 		<HorseName>Melodrama</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Quintile</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

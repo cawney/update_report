@@ -10,6 +10,7 @@
 		<HorseName>=Justaucorps</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**=JEMAYEL</DamName>
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +18,7 @@
 		<HorseName>Vexatious Litigant</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**Sagitta Ra**</DamName>
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,12 +33,27 @@
 		<HorseName>Yankee Ra</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Sagitta Ra**</DamName>
+		<hip>18</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Papo Waika</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>c</HorseSex>
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tu Sabe</HorseName>
 		<HorseYOB>2016 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>18</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Waika</HorseName>
+		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>f</HorseSex>
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -60,7 +77,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 59: +    Vegas Trip (2008 f. by Aldebaran). Winner at 4, $29,474. Dam of 8 foals, 5 to race, 4 winners--
+update on line 63: +    Vegas Trip (2008 f. by Aldebaran). Winner at 4, $29,474. Dam of 8 foals, 5 to race, 4 winners--
 Dam is in line 37:   **Nawal (FR)**, by =Homme de Loi (IRE). 2 wins at 2, 24,849 Euro, in France, 3rd Prix d'Aumale **[G3]**; placed at 4, $14,720, in N.A./U.S. Sent from France to United States in 1997. Sent from United States to Ireland in 2010. (Total: $46,310). Dam of 13 foals, 11 to race, 9 winners--
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -69,6 +86,7 @@ Dam is in line 37:   **Nawal (FR)**, by =Homme de Loi (IRE). 2 wins at 2, 24,849
 		<HorseName>**Sound Money**</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Vegas Trip</DamName>
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -76,6 +94,7 @@ Dam is in line 37:   **Nawal (FR)**, by =Homme de Loi (IRE). 2 wins at 2, 24,849
 		<HorseName>Cousin Andrew</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Vegas Trip</DamName>
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +102,7 @@ Dam is in line 37:   **Nawal (FR)**, by =Homme de Loi (IRE). 2 wins at 2, 24,849
 		<HorseName>Conquest Bebop</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Vegas Trip</DamName>
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -104,6 +124,7 @@ Dam is in line 37:   **Nawal (FR)**, by =Homme de Loi (IRE). 2 wins at 2, 24,849
 		<HorseName>Happening</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Vegas Trip</DamName>
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -118,6 +139,7 @@ Dam is in line 37:   **Nawal (FR)**, by =Homme de Loi (IRE). 2 wins at 2, 24,849
 		<HorseName>=Scarlette</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>=Dear Mother</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

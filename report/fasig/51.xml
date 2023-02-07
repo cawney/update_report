@@ -10,6 +10,7 @@
 		<HorseName>Distorted Justice</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Fast Included</DamName>
 		<hip>51</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -32,7 +33,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 50: +    Entranced (2007 f. by Ghostzapper). Winner at 3, $32,590, in N.A./U.S.; placed at 2, $7,400, in Canada. Sent from United States to Argentina in 2011. (Total: $39,369). Dam of 10 foals, 4 to race, 4 winners--
+update on line 51: +    Entranced (2007 f. by Ghostzapper). Winner at 3, $32,590, in N.A./U.S.; placed at 2, $7,400, in Canada. Sent from United States to Argentina in 2011. (Total: $39,369). Dam of 10 foals, 4 to race, 4 winners--
 Dam is in line 38:   FAST AND EARLY, by Carson City. Winner at 2, $36,870. Half-sister to **NATURAL SELECTION** ($477,310, 1st Illinois Derby **[G2]**, etc., sire). Dam of 13 foals, 9 to race, 6 winners--
 		<hip>51</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -41,6 +42,22 @@ Dam is in line 38:   FAST AND EARLY, by Carson City. Winner at 2, $36,870. Half-
 		<HorseName>=Entretiempo</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Entranced</DamName>
+		<hip>51</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=El Jadida</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>51</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=ES Mercat</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Entranced</DamName>
 		<hip>51</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -48,6 +65,7 @@ Dam is in line 38:   FAST AND EARLY, by Carson City. Winner at 2, $36,870. Half-
 		<HorseName>**Swiss Army Wife**</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Se Bella</DamName>
 		<hip>51</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -69,6 +87,7 @@ Dam is in line 38:   FAST AND EARLY, by Carson City. Winner at 2, $36,870. Half-
 		<HorseName>Regal Joanne</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Se Bella</DamName>
 		<hip>51</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -97,6 +116,14 @@ Dam is in line 38:   FAST AND EARLY, by Carson City. Winner at 2, $36,870. Half-
 		<HorseName>Why Wonder</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Beside You</DamName>
+		<hip>51</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Ippolito's Wonder</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>51</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -104,6 +131,7 @@ Dam is in line 38:   FAST AND EARLY, by Carson City. Winner at 2, $36,870. Half-
 		<HorseName>Indy Lightning</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Beside You</DamName>
 		<hip>51</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -111,6 +139,7 @@ Dam is in line 38:   FAST AND EARLY, by Carson City. Winner at 2, $36,870. Half-
 		<HorseName>Spring Bolt</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Miss Rosemary</DamName>
 		<hip>51</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -118,6 +147,7 @@ Dam is in line 38:   FAST AND EARLY, by Carson City. Winner at 2, $36,870. Half-
 		<HorseName>Bella Bliss</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Lady Bellaghy</DamName>
 		<hip>51</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -143,8 +173,23 @@ Dam is in line 38:   FAST AND EARLY, by Carson City. Winner at 2, $36,870. Half-
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Bliss Hero</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>51</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>More Than a Lady</HorseName>
 		<HorseYOB>2004 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Lady Bellaghy</DamName>
+		<hip>51</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sunny Creek</HorseName>
+		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>51</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -157,9 +202,24 @@ Dam is in line 38:   FAST AND EARLY, by Carson City. Winner at 2, $36,870. Half-
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Danthemanlevitan</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>51</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Stormy Reality</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>51</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Candy Fast</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Lady Bellaghy</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

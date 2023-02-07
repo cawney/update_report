@@ -8,6 +8,30 @@
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
 update on line 36: + **ENGAGINGLEE**, by Fusaichi Pegasus. 4 wins, 3 to 5, $340,620, 1st Locust Grove S. **[G3]** (CD, $61,380), 2nd La Troienne S. **[G1]** (CD, $59,400), 3rd Inside Information S. **[G2]** (GP, $19,000), Fleur de Lis H. **[G2]** (CD, $19,800). Dam of 4 foals, 2 to race, 2 winners--
+		<hip>496</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Sage Hill</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+36
+		<DamDamName>**ENGAGINGLEE**</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 38: +    Sage Hill (2019 f. by Arrogate). See above.
+Dam is in line 36: + **ENGAGINGLEE**, by Fusaichi Pegasus. 4 wins, 3 to 5, $340,620, 1st Locust Grove S. **[G3]** (CD, $61,380), 2nd La Troienne S. **[G1]** (CD, $59,400), 3rd Inside Information S. **[G2]** (GP, $19,000), Fleur de Lis H. **[G2]** (CD, $19,800). Dam of 4 foals, 2 to race, 2 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

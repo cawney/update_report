@@ -31,33 +31,10 @@ Dam is in line 34:   EVENING PRINCESS, by Monarchos. Unraced. Half-sister to **G
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-34
-		<DamDamName>EVENING PRINCESS</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 48: +    Unnamed (2022 f. by Lord Nelson). See above.
-Dam is in line 34:   EVENING PRINCESS, by Monarchos. Unraced. Half-sister to **GREAT NOTION** ($194,608, 1st Southwest S. [L] (OP, $45,000), etc., sire), **Chester Le Street** (Total: $24,401, 2nd Weatherbys Superlative S. **[G3]**). Dam of 10 foals, 8 to race, 7 winners--
-		<hip>145</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Six Feet Apart</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Star's Woman</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

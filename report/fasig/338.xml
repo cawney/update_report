@@ -10,12 +10,20 @@
 		<HorseName>Tiz Possible</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**PROUD SPELL**</DamName>
 		<hip>338</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Francisca Spell</HorseName>
 		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>338</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>November Rose</HorseName>
+		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
 		<hip>338</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -31,6 +39,7 @@
 		<HorseName>Homefieldadvantage</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Proud Pearl**</DamName>
 		<hip>338</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +47,7 @@
 		<HorseName>She'll Do</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**Proud Pearl**</DamName>
 		<hip>338</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,6 +55,7 @@
 		<HorseName>Cianchetta</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>**Proud Pearl**</DamName>
 		<hip>338</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -59,7 +70,7 @@
 		<HorseName>Cousin Larry</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
-37
+36
 		<DamDamName>PACIFIC SPELL</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -75,7 +86,7 @@
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 69: +    Cousin Larry (2018 g. by Cairo Prince). 4 wins, 2 to 5, 2023, $200,442.
-Dam is in line 37:   PACIFIC SPELL, by Langfuhr. Winner at 3 and 4, $20,771. Died 2021. Half-sister to **CALL HER MAGIC** ($195,013, 1st Walking in Da Sun S. [L] (DEL, $35,340), etc.). Dam of 14 foals, 9 to race, 6 winners--
+Dam is in line 36:   PACIFIC SPELL, by Langfuhr. Winner at 3 and 4, $20,771. Died 2021. Half-sister to **CALL HER MAGIC** ($195,013, 1st Walking in Da Sun S. [L] (DEL, $35,340), etc.). Dam of 14 foals, 9 to race, 6 winners--
 		<hip>338</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,7 +94,7 @@ Dam is in line 37:   PACIFIC SPELL, by Langfuhr. Winner at 3 and 4, $20,771. Die
 		<HorseName>I'll Show Me</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
-37
+36
 		<DamDamName>PACIFIC SPELL</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -99,7 +110,7 @@ Dam is in line 37:   PACIFIC SPELL, by Langfuhr. Winner at 3 and 4, $20,771. Die
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 75: +    I'll Show Me (2012 f. by Bernardini). Unplaced, $832. Dam of 4 foals, 1 to race--
-Dam is in line 37:   PACIFIC SPELL, by Langfuhr. Winner at 3 and 4, $20,771. Died 2021. Half-sister to **CALL HER MAGIC** ($195,013, 1st Walking in Da Sun S. [L] (DEL, $35,340), etc.). Dam of 14 foals, 9 to race, 6 winners--
+Dam is in line 36:   PACIFIC SPELL, by Langfuhr. Winner at 3 and 4, $20,771. Died 2021. Half-sister to **CALL HER MAGIC** ($195,013, 1st Walking in Da Sun S. [L] (DEL, $35,340), etc.). Dam of 14 foals, 9 to race, 6 winners--
 		<hip>338</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -107,6 +118,7 @@ Dam is in line 37:   PACIFIC SPELL, by Langfuhr. Winner at 3 and 4, $20,771. Die
 		<HorseName>Skill</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>I'll Show Me</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

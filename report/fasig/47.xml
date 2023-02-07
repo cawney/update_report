@@ -7,6 +7,13 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Dark Moonlight</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>47</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Campeao</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
@@ -17,6 +24,7 @@
 		<HorseName>Her Latest Film</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**FILM MAKER**</DamName>
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -24,6 +32,7 @@
 		<HorseName>Miss Maker</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**FILM MAKER**</DamName>
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +47,7 @@
 		<HorseName>Parasol</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Six Queens</DamName>
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -45,6 +55,7 @@
 		<HorseName>Rock Song Five</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Sazerac Song</DamName>
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -52,6 +63,7 @@
 		<HorseName>Cactus Cocktail</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Sazerac Song</DamName>
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -73,6 +85,7 @@
 		<HorseName>I'm the Truth</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Sazerac Song</DamName>
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -94,6 +107,7 @@
 		<HorseName>Dyna Star</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Cocktail Hour</DamName>
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -101,6 +115,7 @@
 		<HorseName>Broadway Bella</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>South Ocean Blvd</DamName>
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -147,9 +162,17 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Speed Chess</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>47</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>English Tea</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>South Ocean Blvd</DamName>
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -164,7 +187,7 @@
 		<HorseName>Weekend Prospect</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>r</HorseSex>
-39
+40
 		<DamDamName>MISS DU BOIS</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -179,8 +202,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 111: +    Weekend Prospect (2006 f. by A.P. Indy). Placed at 2, $9,830, in N.A./U.S.; unplaced, $5,160, in Canada. (Total: $14,601). Dam of 10 foals, 6 to race, 4 winners--
-Dam is in line 39:   MISS DU BOIS, by Mr. Prospector. Placed, 3 to 5, $25,535. Dam of 12 foals, 9 to race, 6 winners--
+update on line 118: +    Weekend Prospect (2006 f. by A.P. Indy). Placed at 2, $9,830, in N.A./U.S.; unplaced, $5,160, in Canada. (Total: $14,601). Dam of 10 foals, 6 to race, 4 winners--
+Dam is in line 40:   MISS DU BOIS, by Mr. Prospector. Placed, 3 to 5, $25,535. Dam of 12 foals, 9 to race, 6 winners--
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -188,6 +211,7 @@ Dam is in line 39:   MISS DU BOIS, by Mr. Prospector. Placed, 3 to 5, $25,535. D
 		<HorseName>Ox's Prospect</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Weekend Prospect</DamName>
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -195,6 +219,7 @@ Dam is in line 39:   MISS DU BOIS, by Mr. Prospector. Placed, 3 to 5, $25,535. D
 		<HorseName>Mairsil</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Weekend Prospect</DamName>
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -216,6 +241,7 @@ Dam is in line 39:   MISS DU BOIS, by Mr. Prospector. Placed, 3 to 5, $25,535. D
 		<HorseName>Summer Cat</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Fast and Loose</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

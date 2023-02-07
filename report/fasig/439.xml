@@ -10,6 +10,7 @@
 		<HorseName>Sweet Pistol</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**POMEROYS PISTOL**</DamName>
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +32,7 @@
 		<HorseName>American Bastet</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**D'cats Meow**</DamName>
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,6 +40,7 @@
 		<HorseName>Qualkris</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**D'cats Meow**</DamName>
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -83,6 +86,7 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 		<HorseName>Loftyshipslowsails</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Pretty U</DamName>
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -90,6 +94,7 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 		<HorseName>Lovely Girl</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Pretty U</DamName>
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -112,7 +117,7 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 75: +    Moon Over Matter (2014 f. by Malibu Moon). Unraced. Dam of 4 foals, 2 to race, 2 winners--
+update on line 77: +    Moon Over Matter (2014 f. by Malibu Moon). Unraced. Dam of 4 foals, 2 to race, 2 winners--
 Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-sister to **Triple Cream** ($98,560, 2nd Desert Vixen S. [L] (MTH, $20,000), etc.), **Venado** ($90,215, 3rd Ohio Valley H. [L] (MNR, $7,500)). Dam of 9 foals, 8 to race, 5 winners--
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -121,6 +126,7 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 		<HorseName>Fight Fiercely</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Moon Over Matter</DamName>
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -128,6 +134,7 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 		<HorseName>Gateau St Honore</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Triple Cream**</DamName>
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -135,6 +142,7 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 		<HorseName>Bonbourbon</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Triple Cream**</DamName>
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -142,6 +150,7 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 		<HorseName>Scarlett O'Mara</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Im Classic Quality</DamName>
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -149,6 +158,7 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 		<HorseName>Daniel's Magic</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Love and War</DamName>
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -156,12 +166,20 @@ Dam is in line 38:   PRETTYATTHETABLE, by Point Given. Unraced. Died 2018. Half-
 		<HorseName>Passionate Love</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Love and War</DamName>
 		<hip>439</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Big Papa Steve</HorseName>
 		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>439</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Big Sis Little Sis</HorseName>
+		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>g</HorseSex>
 	</update>
 </FasigTiptonUpdates>

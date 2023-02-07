@@ -12,9 +12,41 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Time to Move</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>g</HorseSex>
+35
+		<DamDamName>PLAYERS CLUB</DamDamName>
+		<SireName>Sire Name</SireName>
+		<OfficalPosition>3</OfficalPosition>
+		<RaceNumber>2</RaceNumber>
+		<RaceType>MCL</RaceType>
+		<Grade></Grade>
+		<RaceDate>20200606</RaceDate>
+		<TrackName>CHURCHILL DOWNS</TrackName>
+		<UpdPosition>2</UpdPosition>
+<Generation>2</Generation>
+<Earnings>$2,200</Earnings>
+<BlackType>N</BlackType>
+<WhiteType>Y</WhiteType>
+<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+update on line 37: +    Time to Move (2019 g. by Not This Time). Winner at 4, 2023, $9,840.
+Dam is in line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, in Canada. (Total: $222,635). Dam of 6 foals, 2 to race, 1 winner--
+		<hip>328</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Spring Pond</HorseName>
 		<HorseYOB>2006 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Pelican Island</DamName>
+		<hip>328</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Chamal Lef</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>f</HorseSex>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -22,6 +54,7 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<HorseName>Paradise Beach</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Pelican Island</DamName>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -36,6 +69,21 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<HorseName>Ealing Grove</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Pelican Island</DamName>
+		<hip>328</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Easy Check</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>328</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=El Moreno Baila</HorseName>
+		<HorseYOB>2015 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -50,6 +98,7 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<HorseName>=Gloria Star Line</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Lady Star Line</DamName>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -57,6 +106,7 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<HorseName>**Portfolio Company**</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Iteration</DamName>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -64,6 +114,7 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<HorseName>Pat's Kitten</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Iteration</DamName>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -71,6 +122,7 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<HorseName>Joyful Cat</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Iteration</DamName>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -78,6 +130,7 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<HorseName>Pick Pocket</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Iteration</DamName>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -92,6 +145,14 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<HorseName>Duplicate Kitten</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Iteration</DamName>
+		<hip>328</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Our House</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -99,6 +160,7 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<HorseName>Kittenkittenkitten</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Iteration</DamName>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -113,6 +175,14 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<HorseName>Beautiful Cat</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Iteration</DamName>
+		<hip>328</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Black Star Dancing</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>c</HorseSex>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -141,6 +211,7 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<HorseName>=Suscito</HorseName>
 		<HorseYOB>2002 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Daring Madonna</DamName>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -155,6 +226,14 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<HorseName>**Divine Dutchess**</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Mia Donna</DamName>
+		<hip>328</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Queen Laura</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>r</HorseSex>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -187,9 +266,17 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Boundforabruisin</HorseName>
+		<HorseYOB>2022 </HorseYOB>
+		<HorseSex>f</HorseSex>
+		<hip>328</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Rodas</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Mia Donna</DamName>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -197,6 +284,7 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<HorseName>Como Mi Hermana</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Mia Donna</DamName>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -218,6 +306,7 @@ update on line 35: + PLAYERS CLUB, by Thunder Gulch. 4 wins, 2 to 5, $234,557, i
 		<HorseName>Glitter</HorseName>
 		<HorseYOB>2004 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Mia Donna</DamName>
 		<hip>328</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

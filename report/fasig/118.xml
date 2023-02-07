@@ -25,7 +25,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 46: +    **PIONEER SPIRIT** (2013 c. by Malibu Moon). 14 wins, 4 to 9, 2022, $1,016,049, in N.A./U.S., 1st Michael G. Schaefer Memorial S. [L] (IND, $60,000), Michael G. Schaefer Memorial S. [L] (IND, $58,200), Fifth Season S. [L] (OP, $60,000), Tenacious S. (FG, $46,500), 3rd Oaklawn H. **[G2]** (OP, $75,000), Essex H. [L] (OP, $35,000), Delta Mile S. [L] (DED, $10,000), Oaklawn Mile S. (OP, $25,000), Evangeline Mile S. (EVD, $10,000), Tenacious S. (FG, $7,500); placed in 2 starts at 8, $4,070, in Canada. (Total: $1,019,276).
+update on line 47: +    **PIONEER SPIRIT** (2013 c. by Malibu Moon). 14 wins, 4 to 9, 2022, $1,016,049, in N.A./U.S., 1st Michael G. Schaefer Memorial S. [L] (IND, $60,000), Michael G. Schaefer Memorial S. [L] (IND, $58,200), Fifth Season S. [L] (OP, $60,000), Tenacious S. (FG, $46,500), 3rd Oaklawn H. **[G2]** (OP, $75,000), Essex H. [L] (OP, $35,000), Delta Mile S. [L] (DED, $10,000), Oaklawn Mile S. (OP, $25,000), Evangeline Mile S. (EVD, $10,000), Tenacious S. (FG, $7,500); placed in 2 starts at 8, $4,070, in Canada. (Total: $1,019,276).
 Dam is in line 38:   HAFIFAH, by Machiavellian. Unraced. Sent from United States to United Arab Emirates in 2004. Returned to United States from Great Britain in 2005. Half-sister to **RUNSPASTUM** ($562,725, 1st Oceanport H. **[G3]** (MTH, $60,000), etc., sire). Dam of 9 foals, 8 to race, 6 winners--
 		<hip>118</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -34,6 +34,7 @@ Dam is in line 38:   HAFIFAH, by Machiavellian. Unraced. Sent from United States
 		<HorseName>Eilatan</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Stilled</DamName>
 		<hip>118</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +42,7 @@ Dam is in line 38:   HAFIFAH, by Machiavellian. Unraced. Sent from United States
 		<HorseName>Holiday Peace</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Stilled</DamName>
 		<hip>118</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -90,6 +92,7 @@ Dam is in line 38:   HAFIFAH, by Machiavellian. Unraced. Sent from United States
 		<HorseName>Swinkey</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Hidden Temper</DamName>
 		<hip>118</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -111,6 +114,7 @@ Dam is in line 38:   HAFIFAH, by Machiavellian. Unraced. Sent from United States
 		<HorseName>**Acceleration**</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Epithet</DamName>
 		<hip>118</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -143,9 +147,17 @@ Dam is in line 38:   HAFIFAH, by Machiavellian. Unraced. Sent from United States
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Waaref</HorseName>
+		<HorseYOB>2008 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<hip>118</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Autumn Train</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Epithet</DamName>
 		<hip>118</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

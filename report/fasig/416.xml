@@ -66,6 +66,13 @@ Dam is in line 38:   STREET CREW, by Street Cry (IRE). Winner at 3, $55,150. Sen
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Eight and Sand</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>416</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Headline Report**</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -83,6 +90,7 @@ Dam is in line 38:   STREET CREW, by Street Cry (IRE). Winner at 3, $55,150. Sen
 		<HorseName>**Hayworth**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Glamorista**</DamName>
 		<hip>416</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -90,7 +98,7 @@ Dam is in line 38:   STREET CREW, by Street Cry (IRE). Winner at 3, $55,150. Sen
 		<HorseName>Vanquished</HorseName>
 		<HorseYOB>2005 </HorseYOB>
 		<HorseSex>f</HorseSex>
-46
+47
 		<DamDamName>CRITICAL CREW</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -105,8 +113,8 @@ Dam is in line 38:   STREET CREW, by Street Cry (IRE). Winner at 3, $55,150. Sen
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 72: +    Vanquished (2005 f. by Empire Maker). Winner at 3, $57,300. Dam of 11 foals, 10 to race, 5 winners--
-Dam is in line 46:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013. Half-sister to **TIME OFF** ($128,350, 1st Hill Prince S. **[G3]**). Dam of 13 foals, 11 to race, 9 winners--
+update on line 77: +    Vanquished (2005 f. by Empire Maker). Winner at 3, $57,300. Dam of 11 foals, 10 to race, 5 winners--
+Dam is in line 47:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013. Half-sister to **TIME OFF** ($128,350, 1st Hill Prince S. **[G3]**). Dam of 13 foals, 11 to race, 9 winners--
 		<hip>416</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -114,6 +122,7 @@ Dam is in line 46:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013
 		<HorseName>**LADIES' PRIVILEGE**</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Vanquished</DamName>
 		<hip>416</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -121,6 +130,7 @@ Dam is in line 46:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013
 		<HorseName>Bustle</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Vanquished</DamName>
 		<hip>416</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -149,6 +159,14 @@ Dam is in line 46:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013
 		<HorseName>Lynda's Rage</HorseName>
 		<HorseYOB>2011 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Vanquished</DamName>
+		<hip>416</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Happy Rage</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
 		<hip>416</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -156,6 +174,7 @@ Dam is in line 46:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013
 		<HorseName>Twiga</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Vanquished</DamName>
 		<hip>416</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -212,6 +231,7 @@ Dam is in line 46:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013
 		<HorseName>Too Critical</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Critical Chant</DamName>
 		<hip>416</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -230,6 +250,13 @@ Dam is in line 46:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Cat's Lemon</HorseName>
+		<HorseYOB>2014 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>416</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Come to Utopia</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
@@ -240,6 +267,14 @@ Dam is in line 46:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013
 		<HorseName>Mongolian Song</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Villa</DamName>
+		<hip>416</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Mongolian Apple</HorseName>
+		<HorseYOB>2020 </HorseYOB>
+		<HorseSex>g</HorseSex>
 		<hip>416</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -247,6 +282,7 @@ Dam is in line 46:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013
 		<HorseName>Critical Alert</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Critical Code</DamName>
 		<hip>416</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -261,7 +297,7 @@ Dam is in line 46:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013
 		<HorseName>Wind Gust</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
-46
+47
 		<DamDamName>CRITICAL CREW</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -276,8 +312,8 @@ Dam is in line 46:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 136: +    Wind Gust (2010 f. by Dynaformer). Unplaced in 1 start, $250. Sent from United States to Saudi Arabia in 2022. Dam of 7 foals, 3 to race, 3 winners--
-Dam is in line 46:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013. Half-sister to **TIME OFF** ($128,350, 1st Hill Prince S. **[G3]**). Dam of 13 foals, 11 to race, 9 winners--
+update on line 145: +    Wind Gust (2010 f. by Dynaformer). Unplaced in 1 start, $250. Sent from United States to Saudi Arabia in 2022. Dam of 7 foals, 3 to race, 3 winners--
+Dam is in line 47:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013. Half-sister to **TIME OFF** ($128,350, 1st Hill Prince S. **[G3]**). Dam of 13 foals, 11 to race, 9 winners--
 		<hip>416</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -285,6 +321,7 @@ Dam is in line 46:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013
 		<HorseName>Polar Wind</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Wind Gust</DamName>
 		<hip>416</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -292,6 +329,7 @@ Dam is in line 46:   CRITICAL CREW, by Dr. Blum. 2 wins at 3, $73,520. Died 2013
 		<HorseName>Evening Wind</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Wind Gust</DamName>
 		<hip>416</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>

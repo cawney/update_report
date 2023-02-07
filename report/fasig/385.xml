@@ -34,6 +34,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>**TIN TYPE GAL**</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**MISS SHOP**</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +63,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>Jasper Great</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**SHOP AGAIN**</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -69,6 +71,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>Fast Retailing</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>**SHOP AGAIN**</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -90,6 +93,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>Celebrity Glitter</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**SHOP AGAIN**</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -97,6 +101,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>Capria</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**SHOP AGAIN**</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -104,6 +109,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>Meiann</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**SHOP AGAIN**</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -118,6 +124,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>**FIFTH AVENUE**</HorseName>
 		<HorseYOB>2003 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Shop Here</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -143,6 +150,13 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Ionized</HorseName>
+		<HorseYOB>2007 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>385</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Warranty**</HorseName>
 		<HorseYOB>2013 </HorseYOB>
 		<HorseSex>r</HorseSex>
@@ -160,6 +174,13 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>Summer Returns</HorseName>
 		<HorseYOB>2017 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<hip>385</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Looting</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>g</HorseSex>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -202,6 +223,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>Tippany</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Shop Here</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -209,6 +231,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>Hummingbird Hill</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Shop Here</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -258,6 +281,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>Shop for Gold</HorseName>
 		<HorseYOB>2008 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Shop Here</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -328,6 +352,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>**Mohaafeth**</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Zaroof</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -335,6 +360,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>Ajwibah</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Zaroof</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -342,6 +368,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>Mohallela</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Zaroof</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -360,9 +387,17 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Baksuchyeo</HorseName>
+		<HorseYOB>2011 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>385</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Shecanshop</HorseName>
 		<HorseYOB>2002 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Shop Around</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -405,6 +440,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>Bluegrassislegal</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Shop Glack</DamName>
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -426,6 +462,7 @@ Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to
 		<HorseName>Tiz Shopping</HorseName>
 		<HorseYOB>2012 </HorseYOB>
 		<HorseSex>g</HorseSex>
+		<DamName>Shop Glack</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

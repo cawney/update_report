@@ -25,7 +25,7 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    Chic (2016 f. by Orb). Unraced. Dam of 3 foals, 1 to race, 1 winner--
+update on line 44: +    Chic (2016 f. by Orb). Unraced. Dam of 3 foals, 1 to race, 1 winner--
 Dam is in line 38:   FASHION CAT, by Forest Wildcat. Winner at 3, $29,240. Died 2018. Half-sister to **PEACE RULES** ($3,084,278, 1st Haskell Invitational H. **[G1]** (MTH, $600,000), etc., sire), **WILD FASHION** ($365,605, 1st William Jefferson Clinton S. (CT, $25,110), etc.). Dam of 10 foals, 8 to race, 4 winners--
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
@@ -34,6 +34,7 @@ Dam is in line 38:   FASHION CAT, by Forest Wildcat. Winner at 3, $29,240. Died 
 		<HorseName>Forever Lights</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Chic</DamName>
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +42,7 @@ Dam is in line 38:   FASHION CAT, by Forest Wildcat. Winner at 3, $29,240. Died 
 		<HorseName>Directional</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Greek Sister</DamName>
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -48,6 +50,7 @@ Dam is in line 38:   FASHION CAT, by Forest Wildcat. Winner at 3, $29,240. Died 
 		<HorseName>**Arm Candy**</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Chilly Fashion</DamName>
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -55,6 +58,7 @@ Dam is in line 38:   FASHION CAT, by Forest Wildcat. Winner at 3, $29,240. Died 
 		<HorseName>Schmooze</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Chilly Fashion</DamName>
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +66,7 @@ Dam is in line 38:   FASHION CAT, by Forest Wildcat. Winner at 3, $29,240. Died 
 		<HorseName>Solitaria</HorseName>
 		<HorseYOB>2009 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**WILD FASHION**</DamName>
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -80,9 +85,38 @@ Dam is in line 38:   FASHION CAT, by Forest Wildcat. Winner at 3, $29,240. Died 
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Fancidear</HorseName>
+		<HorseYOB>2010 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>362</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Rocket Francie</HorseName>
+		<HorseYOB>2009 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>362</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>I'd Imagine So</HorseName>
+		<HorseYOB>2017 </HorseYOB>
+		<HorseSex>g</HorseSex>
+		<hip>362</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>Testimony Time</HorseName>
+		<HorseYOB>2018 </HorseYOB>
+		<HorseSex>c</HorseSex>
+		<hip>362</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Assemble**</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Changing Plans</DamName>
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -90,6 +124,7 @@ Dam is in line 38:   FASHION CAT, by Forest Wildcat. Winner at 3, $29,240. Died 
 		<HorseName>Backstreet Gal</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Changing Plans</DamName>
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -97,7 +132,7 @@ Dam is in line 38:   FASHION CAT, by Forest Wildcat. Winner at 3, $29,240. Died 
 		<HorseName>Summer Rules</HorseName>
 		<HorseYOB>2007 </HorseYOB>
 		<HorseSex>r</HorseSex>
-61
+66
 		<DamDamName>HOLD TO FASHION</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -112,8 +147,8 @@ Dam is in line 38:   FASHION CAT, by Forest Wildcat. Winner at 3, $29,240. Died 
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 100: +    Summer Rules (2007 f. by Perfect Soul (IRE)). Unplaced in 1 start. Dam of 9 foals, 6 to race, 3 winners--
-Dam is in line 61:   HOLD TO FASHION, by Hold Your Peace. 2 wins at 3, $27,940. Half-sister to **Regal Togs** ($209,003, 2nd Florida Stallion/In Reality S. [LR] (CRC, $40,000), etc.). Dam of 14 foals, 8 to race, 6 winners--
+update on line 117: +    Summer Rules (2007 f. by Perfect Soul (IRE)). Unplaced in 1 start. Dam of 9 foals, 6 to race, 3 winners--
+Dam is in line 66:   HOLD TO FASHION, by Hold Your Peace. 2 wins at 3, $27,940. Half-sister to **Regal Togs** ($209,003, 2nd Florida Stallion/In Reality S. [LR] (CRC, $40,000), etc.). Dam of 14 foals, 8 to race, 6 winners--
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -121,6 +156,7 @@ Dam is in line 61:   HOLD TO FASHION, by Hold Your Peace. 2 wins at 3, $27,940. 
 		<HorseName>Sheriff Bianco</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Summer Rules</DamName>
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -128,6 +164,7 @@ Dam is in line 61:   HOLD TO FASHION, by Hold Your Peace. 2 wins at 3, $27,940. 
 		<HorseName>Sister's Duty</HorseName>
 		<HorseYOB>2020 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Summer Rules</DamName>
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -135,6 +172,14 @@ Dam is in line 61:   HOLD TO FASHION, by Hold Your Peace. 2 wins at 3, $27,940. 
 		<HorseName>Celtic Summer</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Summer Rules</DamName>
+		<hip>362</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>I'm So Extra</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

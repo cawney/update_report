@@ -15,7 +15,7 @@ update on line 35: + **Gran Brandy**, by First Samurai. Winner at 2, $28,073, 3r
 		<HorseName>**KAVOD**</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>c</HorseSex>
-38
+37
 		<DamDamName>WEEKEND CONNECTION</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -30,8 +30,8 @@ update on line 35: + **Gran Brandy**, by First Samurai. Winner at 2, $28,073, 3r
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 41: +    **KAVOD** (2019 c. by Lea). 4 wins at 2 and 3, placed at 4, 2023, $540,240, 1st Advent S. (OP, $90,000), 2nd Tremont S. [L] (BEL, $30,000), Ring The Bell S. (OP, $28,650).
-Dam is in line 38:   WEEKEND CONNECTION, by Pulpit. Winner at 3, $20,335. Dam of 9 foals, 7 to race, 5 winners--
+update on line 40: +    **KAVOD** (2019 c. by Lea). 4 wins at 2 and 3, placed at 4, 2023, $540,240, 1st Advent S. (OP, $90,000), 2nd Tremont S. [L] (BEL, $30,000), Ring The Bell S. (OP, $28,650).
+Dam is in line 37:   WEEKEND CONNECTION, by Pulpit. Winner at 3, $20,335. Dam of 9 foals, 7 to race, 5 winners--
 		<hip>182</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -39,6 +39,7 @@ Dam is in line 38:   WEEKEND CONNECTION, by Pulpit. Winner at 3, $20,335. Dam of
 		<HorseName>Another Hot Mess</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>**Shrilanka**</DamName>
 		<hip>182</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -46,6 +47,7 @@ Dam is in line 38:   WEEKEND CONNECTION, by Pulpit. Winner at 3, $20,335. Dam of
 		<HorseName>=I'm Your Lemon</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>Acide</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

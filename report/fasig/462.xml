@@ -10,6 +10,15 @@
 		<HorseName>=Vice Versa</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>c</HorseSex>
+		<DamName>Mascarene</DamName>
+		<hip>462</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>=Drill To Dream</HorseName>
+		<HorseYOB>2019 </HorseYOB>
+		<HorseSex>r</HorseSex>
+		<DamName>Mascarene</DamName>
 		<hip>462</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -17,6 +26,7 @@
 		<HorseName>=Nelum</HorseName>
 		<HorseYOB>2016 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Mascarene</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

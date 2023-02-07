@@ -3,30 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>226</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>c</HorseSex>
-33
-		<DamDamName>JETBIRD</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 36: +    Unnamed (2022 c. by Practical Joke). See above.
-Dam is in line 33:   JETBIRD, by Wildcat Heir. 2 wins at 4, $46,170. Half-sister to **X Y JET** (Total: $3,096,513, 1st Gulf News Dubai Golden Shaheen **[G1]**, etc.), **Woman Soldier** ($70,201, 3rd Prima Donna S. (OP, $6,000)). Dam of 5 foals, 1 to race--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

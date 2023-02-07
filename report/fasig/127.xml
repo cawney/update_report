@@ -3,30 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-		<hip>127</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-40
-		<DamDamName>DOUBLE DOSE</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    Unnamed (2022 f. by Caravaggio). See above.
-Dam is in line 40:   DOUBLE DOSE, by Flatter. 4 wins at 3 and 4, $176,570. Half-sister to **WALKER STALKER** ($123,720, 1st Duke City Sprint S. (ALB, $30,000), etc.), **Chary Ride** ($105,539, 3rd New Mexico Classic Cup Lassie Championship S.-R (ZIA, $14,500)). Dam of 3 foals, 1 to race--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

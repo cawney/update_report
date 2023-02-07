@@ -10,6 +10,7 @@
 		<HorseName>**BLUEBERRY SMOOTHIE**</HorseName>
 		<HorseYOB>2010 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**SHAMPOO**</DamName>
 		<hip>148</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -31,6 +32,7 @@
 		<HorseName>**STARSHIP NTERPRISE**</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>**SMARTY DEB**</DamName>
 		<hip>148</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -38,7 +40,7 @@
 		<HorseName>Hot Blooded Girl</HorseName>
 		<HorseYOB>2014 </HorseYOB>
 		<HorseSex>r</HorseSex>
-43
+44
 		<DamDamName>**TASTE THE PASSION**</DamDamName>
 		<SireName>Sire Name</SireName>
 		<OfficalPosition>3</OfficalPosition>
@@ -53,8 +55,8 @@
 <BlackType>N</BlackType>
 <WhiteType>Y</WhiteType>
 <UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 67: +    Hot Blooded Girl (2014 f. by Tapit). Winner at 3, $44,400. Dam of 4 foals, 1 to race, 1 winner--
-Dam is in line 43:   **TASTE THE PASSION**, by Wild Again. 3 wins at 2, $142,210, 1st Washington Thoroughbred Breeders' Association Lassie S. [L] (EMD, $29,700), Mona Lisa S. (EMD, $23,760), 2nd Washington Breeders' Cup Oaks [L] (EMD, $20,000), Federal Way H. (EMD, $9,600), King County H. (EMD, $8,000), Washington State Legislators H. (EMD, $7,000), 3rd Gottstein Futurity [L] (EMD, $15,000), Boeing H. (EMD, $6,000). Half-sister to **BISBEE'S PROSPECT** ($58,790, 1st U. S. Bank S. (EMD, $19,250), etc.). Dam of 14 foals, 9 to race, 6 winners--
+update on line 69: +    Hot Blooded Girl (2014 f. by Tapit). Winner at 3, $44,400. Dam of 4 foals, 1 to race, 1 winner--
+Dam is in line 44:   **TASTE THE PASSION**, by Wild Again. 3 wins at 2, $142,210, 1st Washington Thoroughbred Breeders' Association Lassie S. [L] (EMD, $29,700), Mona Lisa S. (EMD, $23,760), 2nd Washington Breeders' Cup Oaks [L] (EMD, $20,000), Federal Way H. (EMD, $9,600), King County H. (EMD, $8,000), Washington State Legislators H. (EMD, $7,000), 3rd Gottstein Futurity [L] (EMD, $15,000), Boeing H. (EMD, $6,000). Half-sister to **BISBEE'S PROSPECT** ($58,790, 1st U. S. Bank S. (EMD, $19,250), etc.). Dam of 14 foals, 9 to race, 6 winners--
 		<hip>148</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -62,6 +64,7 @@ Dam is in line 43:   **TASTE THE PASSION**, by Wild Again. 3 wins at 2, $142,210
 		<HorseName>Don't Talk</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Hot Blooded Girl</DamName>
 		<hip>148</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -69,6 +72,7 @@ Dam is in line 43:   **TASTE THE PASSION**, by Wild Again. 3 wins at 2, $142,210
 		<HorseName>Iknowyourface</HorseName>
 		<HorseYOB>2015 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>For the Girls</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -7,33 +7,10 @@
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unnamed</HorseName>
-		<HorseYOB>2022 </HorseYOB>
-		<HorseSex>f</HorseSex>
-37
-		<DamDamName>EXTRA IMPACT</DamDamName>
-		<SireName>Sire Name</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 45: +    Unnamed (2022 f. by Vino Rosso). See above.
-Dam is in line 37:   EXTRA IMPACT, by Honour and Glory. 4 wins at 3 and 4, $97,660. Half-sister to **RED KING** ($586,555, 1st Del Mar H. **[G2]** (DMR, $120,000), etc.). Dam of 9 foals, 6 to race, 5 winners--
-		<hip>150</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mr. Einstein</HorseName>
 		<HorseYOB>2018 </HorseYOB>
 		<HorseSex>r</HorseSex>
+		<DamName>I'm Your Luv</DamName>
 		<hip>150</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -41,6 +18,7 @@ Dam is in line 37:   EXTRA IMPACT, by Honour and Glory. 4 wins at 3 and 4, $97,6
 		<HorseName>Refuah</HorseName>
 		<HorseYOB>2019 </HorseYOB>
 		<HorseSex>f</HorseSex>
+		<DamName>Smitten Cat</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>
