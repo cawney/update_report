@@ -3,32 +3,34 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Sir Goosa (2020 c. by Will Take Charge). Placed at 3, 2023, $2,730.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sir Goosa</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**Cayman Croc**</DamName>
++    .  Awesome Sunset (2016 f. by Expect a Lot). 5 wins, 3 to 6, placed at 7, 2023, $84,114.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Awesome Sunset</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Sunset Sail</DamName>
++    Sunandsea (2010 f. by Henny Hughes). 3 wins at 4, $45,153. Dam of 7 foals, 3 to race, 2 winners--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sunandsea</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>f</HorseSex>
-38
 		<DamDamName>**CAYMAN SUNSET**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>s</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -36,341 +38,386 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 60: +    Sunandsea (2010 f. by Henny Hughes). 3 wins at 4, $45,153. Dam of 7 foals, 3 to race, 2 winners--
 Dam is in line 38:   **CAYMAN SUNSET**, by Wolf Power (SAF). 4 wins at 2 and 3, $106,951, 1st Go for Wand S. (DEL, $26,520), 2nd Peach Blossom S. (DEL, $10,000), 3rd Miss Preakness S. [L] (PIM, $9,119), Our Mims S. (DEL, $4,950). Half-sister to **Oh Summer** ($160,570, 2nd Skipat S. [L] (LRL, $15,780), etc.). Dam of 11 foals, 9 to race, 7 winners--
++    .  Agnus Dei (2016 f. by Sidney's Candy). Unraced. Dam of 1 foal--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Agnus Dei</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Sunandsea</DamName>
++    .  Oh (1998 f. by Afternoon Deelites). 3 wins at 3, $71,675. Dam of 6 foals, 6 to race, 6 winners--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Oh</HorseName>
-		<HorseYOB>1998 </HorseYOB>
+		<HorseYOB>1998</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**Oh Summer**</DamName>
++    .  .  Brand New Moves (2008 g. by Domestic Dispute). 3 wins at 4 and 5, $80,261.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Brand New Moves</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Culpepper Colonel (2009 g. by Medallist). 4 wins, 2 to 4, $72,491.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Culpepper Colonel</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Home Skillet (2006 g. by Polish Miner). 2 wins at 2, $45,234.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Home Skillet</HorseName>
-		<HorseYOB>2006 </HorseYOB>
+		<HorseYOB>2006</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Racingwiththewind (2007 g. by Lion Hearted). Winner at 3, $40,073.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Racingwiththewind</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Morgan's Bailey (2004 f. by Lion Hearted). 2 wins in 4 starts at 2, $38,100. Dam of 1 foal, 1 to race, 1 winner--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Morgan's Bailey</HorseName>
-		<HorseYOB>2004 </HorseYOB>
+		<HorseYOB>2004</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Git Back Jo Jo (2005 f. by Polish Miner). Winner at 2, $9,630.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Git Back Jo Jo</HorseName>
-		<HorseYOB>2005 </HorseYOB>
+		<HorseYOB>2005</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Justaboutperfect (2004 f. by Jump Start). 5 wins at 3 and 5, $53,361. Dam of 4 foals, 2 to race, 1 winner--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Justaboutperfect</HorseName>
-		<HorseYOB>2004 </HorseYOB>
+		<HorseYOB>2004</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**Oh Summer**</DamName>
++    .  .  Perfect Pro (2011 g. by Pro Prado). Winner at 5 and 6, $32,241.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Perfect Pro</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Pro Long (2014 g. by Pro Prado). Placed at 5 and 6, $4,630.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Pro Long</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Chaturunga (2008 f. by Suave). Placed at 2 and 6, $25,385. Dam of 2 foals--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Chaturunga</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**Oh Summer**</DamName>
++    .  .  =King Lio (JPN) (2012 c. by =King Kamehameha (JPN)). 3 wins at 3 and 6, 22,900,000 Yen, in Japan. (Total: $200,873).
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=King Lio</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  =For Good (JPN) (2019 c. by =Deep Impact (JPN)). Winner at 3, 2022, 19,180,000 Yen, in Japan. (Total: $150,949).
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=For Good</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Backdoor Route (JPN) (2014 c. by =Stay Gold (JPN)). 3 wins in 6 starts at 3 and 4, 2,800,000 Yen, in Japan. (Total: $25,208).
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Backdoor Route</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =Ondurdis (JPN) (2018 f. by =Heart's Cry (JPN)). Placed at 2, 3,470,000 Yen, in Japan. (Total: $32,975).
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Ondurdis</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Wicked Eyes (JPN) (2015 f. by =Orfevre (JPN)). Unplaced, 1,125,000 Yen, in Japan. (Total: $10,252). Dam of 2 foals--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Wicked Eyes</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Summerduck (2016 g. by Flatter). 6 wins, 2 to 5, placed at 6, 2022, $103,056.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Summerduck</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Antillia (2018 f. by Bernardini). Unraced. Dam of 1 foal--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Antillia</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Mayhem Mizz (2014 f. by Exchange Rate). Unraced. Dam of 2 foals, 2 to race--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mayhem Mizz</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  **THE REDS** (2018 c. by Tonalist). 3 wins at 3 and 4, 2022, $326,050, 1st Federico Tesio S. (PIM, $75,000), 2nd Pennine Ridge S. **[G3]** (BEL, $40,000).
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**THE REDS**</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  **Zee Drop** (2016 f. by Lemon Drop Kid). 3 wins at 3, $151,180, 2nd Goldikova S. **[G2]** (SA, $40,000). Dam of 1 foal--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Zee Drop**</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Sunset Louise (2019 f. by Tonalist). 2 wins at 3, 2022, $116,350.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sunset Louise</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Deedeezee (2013 f. by Congrats). 2 wins at 3, $85,072. Dam of 4 foals, 1 to race--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Deedeezee</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  High Tone (2017 c. by Tonalist). 3 wins, 4 to 6, 2023, $73,239.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>High Tone</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Zee Ro Drop (2015 f. by Lemon Drop Kid). Winner at 4, $40,006. Dam of 1 foal--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Zee Ro Drop</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Wise Memories (2018 f. by Tapit). Placed at 5, 2023, $8,364.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Wise Memories</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Wickedly Wise</DamName>
++    .  Wicked Ride (2010 f. by Candy Ride (ARG)). Unraced. Dam of 6 foals, 5 to race, 3 winners--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Wicked Ride</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Wickedly Wise</DamName>
++    .  .  Excess Capacity (2016 f. by Malibu Moon). 5 wins, 3 to 5, $212,247.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Excess Capacity</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Lofthouse (2018 f. by Frosted). 3 wins at 3 and 4, 2022, $115,622.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lofthouse</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Wicked Wonder (2019 f. by Tiznow). Winner at 3, 2022, $21,074.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Wicked Wonder</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Silverbella (2017 f. by Tapizar). Placed at 3, $46,400.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Silverbella</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Mo Wicked (2015 f. by Uncle Mo). Unraced. Dam of 2 foals--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mo Wicked</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Legends Our Angel (2002 f. by Successful Appeal). Placed at 3, $3,800. Dam of 2 foals, 1 to race--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Legends Our Angel</HorseName>
-		<HorseYOB>2002 </HorseYOB>
+		<HorseYOB>2002</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Winter Cat</DamName>
++    .  **KITTY BOOM BOOM** (2016 f. by Tizbud). 2 wins at 3, $140,063, 1st Campanile S.-R (GG, $60,000). Dam of 1 foal--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**KITTY BOOM BOOM**</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Kathwen</DamName>
++    .  Tiz a Bud Girl (2007 f. by Tizbud). 2 wins at 3, $68,920. Dam of 1 foal, 1 to race, 1 winner--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tiz a Bud Girl</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Kathwen</DamName>
++    .  .  J Dreamer (2014 f. by Stellar Rain). Winner at 3, $25,460. Dam of 3 foals, 1 to race, 1 winner--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>J Dreamer</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Tiz Mi Haina (2014 f. by Tizdejavu). Winner at 3, $28,731. Dam of 1 foal, 1 to race--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tiz Mi Haina</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Kathwen</DamName>
++    .  Anita Margarita (2009 f. by Strategic Mission). Placed in 2 starts at 3, $6,550. Dam of 2 foals, 2 to race, 1 winner--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Anita Margarita</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Kathwen</DamName>
++    .  .  Miss Tizzy Fit (2014 f. by Tizbud). Winner at 5, $6,976, in N.A./U.S.; winner at 6, $12,706, in Canada. (Total: $16,621).
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Miss Tizzy Fit</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Mission Relaunch (2016 g. by Tizbud). Placed at 3, $3,299.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mission Relaunch</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Brew Baroness (2015 f. by Tizbud). Unraced. Dam of 2 foals--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Brew Baroness</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Kathwen</DamName>
++    .  Lamontagne (2012 f. by Congrats). 5 wins, 2 to 5, $291,650, in N.A./U.S.; placed in 2 starts at 2, $14,696, in Canada. (Total: $304,712). Dam of 2 foals--
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lamontagne</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Orion's Daughter</DamName>
++    .  Spiritual Ghost (2019 r. by Congrats). Winner at 3, 2022, $27,230.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Spiritual Ghost</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Orion's Daughter</DamName>
++    .  Steady Eddie (2018 g. by Mosler). Placed, 2 to 5, 2023, $22,535.
 		<hip>75</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Steady Eddie</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Orion's Daughter</DamName>
 	</update>

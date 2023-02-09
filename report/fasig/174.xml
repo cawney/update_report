@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Wild River Wolf (2019 g. by Storm Wolf). Winner at 2 and 3, 2022, $42,101, in Canada; winner at 3, 2022, $6,607, in N.A./U.S. (Total: $39,758).
 		<hip>174</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Wild River Wolf</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
-34
 		<DamDamName>WILD RIVER CAT</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>f</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,11 +20,11 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 37: +    Wild River Wolf (2019 g. by Storm Wolf). Winner at 2 and 3, 2022, $42,101, in Canada; winner at 3, 2022, $6,607, in N.A./U.S. (Total: $39,758).
 Dam is in line 34:   WILD RIVER CAT, by Pioneerof the Nile. Unraced. Dam of 3 foals, 1 to race, 1 winner--
 	</update>

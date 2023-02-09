@@ -3,72 +3,81 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Sassy Chub (2014 f. by Hey Chub). 3 wins at 4 and 5, $93,951. Dam of 1 foal--
 		<hip>266</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sassy Chub</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Sassy Broad</DamName>
++    .  .  Sassy Maxine (2022 f. by Maximus Mischief).
 		<hip>266</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sassy Maxine</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseYOB>2022</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Zipstress (2007 f. by City Zip). Winner at 2 and 5, $36,835. Dam of 1 foal, 1 to race--
 		<hip>266</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Zipstress</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Sassy Broad</DamName>
++    .  .  Haylee Mae (2015 f. by Daaher). Placed at 3, $3,844.
 		<hip>266</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Haylee Mae</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  **Chubofftheoldblock** (2014 f. by Hey Chub). 5 wins, 3 to 6, $177,388, 3rd Eleven North H.-R (MTH, $10,000). Dam of 1 foal--
 		<hip>266</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Chubofftheoldblock**</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Helosthismarbles (2018 g. by Uncle Lino). 3 wins at 4, 2022, $86,544.
 		<hip>266</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Helosthismarbles</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Chub N Ikki (2018 f. by Hey Chub). Unraced. Dam of 1 foal--
 		<hip>266</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Chub N Ikki</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Sassy Broad</DamName>
++    .  Nick's Girl (2004 f. by Ecton Park). 5 wins at 4 and 5, $80,552. Dam of 1 foal, 1 to race, 1 winner--
 		<hip>266</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Nick's Girl</HorseName>
-		<HorseYOB>2004 </HorseYOB>
+		<HorseYOB>2004</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Parlange</DamName>
++    .  .  Ashleys Angel Eyes (2011 f. by Alluvial). Winner in 2 starts at 2, $8,581. Dam of 1 foal, 1 to race, 1 winner--
 		<hip>266</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Ashleys Angel Eyes</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>g</HorseSex>
 	</update>
 </FasigTiptonUpdates>

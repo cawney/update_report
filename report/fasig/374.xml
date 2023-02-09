@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Iguazu Falls (2020 f. by Cairo Prince). Placed at 2, 2022, $5,295.
 		<hip>374</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Iguazu Falls</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>g</HorseSex>
-34
 		<DamDamName>**SECRET GARDEN (PER)**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>e</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,11 +20,11 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 36: +    Iguazu Falls (2020 f. by Cairo Prince). Placed at 2, 2022, $5,295.
 Dam is in line 34:   **SECRET GARDEN (PER)**, by Flanders Fields. 2 wins at 3, 76,680 New Sol, in Peru, 1st Polla de Potrancas **[G1]**. Sent from Peru to United States in 2017. (Total: $22,885). Dam of 3 foals, 2 to race, 1 winner--
 	</update>

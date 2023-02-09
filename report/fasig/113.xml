@@ -3,28 +3,31 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  A Little Grace (2020 f. by American Pharoah). Placed at 2, 2022, $4,650.
 		<hip>113</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>A Little Grace</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>The Crane</DamName>
++    .  De la Soul (2018 f. by More Than Ready). Unraced. Dam of 1 foal--
 		<hip>113</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>De la Soul</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>The Crane</DamName>
++    .  Al Murqab (2018 c. by Exaggerator). Winner at 3, placed at 4, 2022, 105,882 Dirhams, in United Arab Emirates; winner at 4, placed at 5, 2023, 234,700 Riyals, in Saudi Arabia. Sent from United States to United Arab Emirates in 2020. (Total: $91,419).
 		<hip>113</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Al Murqab</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Senses of Emirates</DamName>
 	</update>

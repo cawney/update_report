@@ -3,28 +3,31 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Pray Baby Pray (2016 f. by Violence). Unraced. Dam of 2 foals--
 		<hip>237</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Pray Baby Pray</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**Pick and Pray**</DamName>
++    .  Miss Slick (2012 f. by Zanjero). Placed at 3 and 4, $4,445. Dam of 2 foals--
 		<hip>237</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Miss Slick</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Idoitmyway</DamName>
++    .  Herwayisthebestway (2013 f. by Student Council). Unraced. Dam of 2 foals--
 		<hip>237</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Herwayisthebestway</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Idoitmyway</DamName>
 	</update>

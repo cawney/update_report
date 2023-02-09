@@ -3,58 +3,65 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Jaya Ho (2013 f. by Storm Wolf). 5 wins, 4 to 6, $53,031, in Canada; 5 wins in 9 starts, 4 to 6, $27,831, in N.A./U.S. (Total: $68,325). Dam of 1 foal--
 		<hip>285</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Jaya Ho</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**Meredith Bee**</DamName>
++    .  Flashy Pass (2017 f. by U S Ranger). 4 wins at 4 and 6, 2023, $38,255.
 		<hip>285</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Flashy Pass</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**Meredith Bee**</DamName>
++    .  My Prized Lady (2011 f. by Pioneerof the Nile). Unraced. Dam of 6 foals, 6 to race, 2 winners--
 		<hip>285</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>My Prized Lady</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**Meredith Bee**</DamName>
++    .  .  Prized Warrior (2017 g. by Poseidon's Warrior). 3 wins at 3 and 4, $41,935. Sent from United States to Dominican Republic in 2021.
 		<hip>285</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Prized Warrior</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Try Me (2018 c. by Personal Interest). Winner at 3, $34,230.
 		<hip>285</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Try Me</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  =Wonder Smile (JPN) (2011 f. by =Daiwa Major (JPN)). Unplaced, 1,100,000 Yen, in Japan. (Total: $11,154). Dam of 2 foals, 2 to race, 1 winner--
 		<hip>285</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Wonder Smile</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Ansonica</DamName>
++    .  .  =Plausible (JPN) (2015 c. by =King Kamehameha (JPN)). Winner at 3, 7,000,000 Yen, in Japan. (Total: $64,380).
 		<hip>285</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Plausible</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>

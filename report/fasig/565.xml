@@ -3,12 +3,13 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Roaring Thunder (2017 c. by Palace Malice). 4 wins, 3 to 5, 2022, $32,596.
 		<hip>565</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Roaring Thunder</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Happy Flight</DamName>
 	</update>

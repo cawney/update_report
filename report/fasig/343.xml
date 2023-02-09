@@ -3,20 +3,22 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  French Madness (2006 f. by Johar). Placed at 4, 18,450 Krona, in Sweden. Sent from United States to France in 2007. (Total: $2,514). Dam of 3 foals, 2 to race, 1 winner--
 		<hip>343</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>French Madness</HorseName>
-		<HorseYOB>2006 </HorseYOB>
+		<HorseYOB>2006</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Shadow Play</DamName>
++    .  .  =Double East (SWE) (2015 g. by Philomatheia). 3 wins at 2 and 3, 196,992 Krona, in Sweden. (Total: $22,620).
 		<hip>343</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Double East</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>g</HorseSex>
 	</update>
 </FasigTiptonUpdates>

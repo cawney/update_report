@@ -3,12 +3,13 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Smokey White (2019 g. by Liam's Map). 3 wins at 3 and 4, 2023, $76,440.
 		<hip>104</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Smokey White</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>**TILDE**</DamName>
 	</update>

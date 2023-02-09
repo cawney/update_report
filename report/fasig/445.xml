@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Chasing the Crown (2019 c. by Skipshot). Winner at 3, placed at 4, 2023, $87,310.
 		<hip>445</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Chasing the Crown</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
-38
 		<DamDamName>LA BELLE MARQUET</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>t</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,23 +20,23 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 44: +    Chasing the Crown (2019 c. by Skipshot). Winner at 3, placed at 4, 2023, $87,310.
 Dam is in line 38:   LA BELLE MARQUET, by Marquetry. Winner in 2 starts at 3, $8,700. Sister to **CHRIS'S BAD BOY** ($903,285, 1st Kennedy Road S. [L] (WO, $82,425(CAN)), etc.). Dam of 13 foals, 8 to race, 7 winners--
++    Hy Belle Champ (2011 f. by Tale of the Cat). Unraced. Dam of 3 foals, 2 to race, 1 winner--
 		<hip>445</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Hy Belle Champ</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>f</HorseSex>
-38
 		<DamDamName>LA BELLE MARQUET</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>t</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -44,69 +44,77 @@ Dam is in line 38:   LA BELLE MARQUET, by Marquetry. Winner in 2 starts at 3, $8
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 52: +    Hy Belle Champ (2011 f. by Tale of the Cat). Unraced. Dam of 3 foals, 2 to race, 1 winner--
 Dam is in line 38:   LA BELLE MARQUET, by Marquetry. Winner in 2 starts at 3, $8,700. Sister to **CHRIS'S BAD BOY** ($903,285, 1st Kennedy Road S. [L] (WO, $82,425(CAN)), etc.). Dam of 13 foals, 8 to race, 7 winners--
++    .  .  **Super Kojak** (2018 c. by Liaison). 8 wins, 2 to 4, 2022, $103,107, 2nd Clasico Agustin Mercado Revron S. [L], Clasico George Washington S. [L], Clasico 4 De Julio S. [L].
 		<hip>445</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Super Kojak**</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  El Gran Enemigo (2013 c. by Malibu Moon). 7 wins, 3 to 6, 1,506,337 Pesos, in Argentina. Sent from United States to Argentina in 2015. (Total: $58,249).
 		<hip>445</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>El Gran Enemigo</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Have a Heart (2017 g. by Normandy Invasion). Winner at 4, $51,943.
 		<hip>445</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Have a Heart</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Crossing Alaska (2016 f. by Cross Traffic). 3 wins at 2 and 5, $43,653.
 		<hip>445</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Crossing Alaska</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  S S Alaskan Cruz (2019 g. by Shakin It Up). Winner at 3, placed at 4, 2023, $21,245.
 		<hip>445</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>S S Alaskan Cruz</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Alaska Moon (2014 f. by Malibu Moon). Winner at 2 and 3, 9,127,500 Pesos, in Chile. Sent from United States to Chile in 2015. (Total: $14,105).
 		<hip>445</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Alaska Moon</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Brandon's Princess (2010 f. by Exchange Rate). Winner at 3, $49,105. Dam of 2 foals--
 		<hip>445</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Brandon's Princess</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Juneau</DamName>
++    .  .  Miss Peppermint (2018 f. by Misremembered). (application pending)
 		<hip>445</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Miss Peppermint</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>

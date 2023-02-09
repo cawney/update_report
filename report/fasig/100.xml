@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    F Five (2019 c. by Not This Time). Winner in 2 starts at 3, 2022, $69,610.
 		<hip>100</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>F Five</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
-34
 		<DamDamName>CHELAN ECHO</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>e</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,81 +20,90 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 37: +    F Five (2019 c. by Not This Time). Winner in 2 starts at 3, 2022, $69,610.
 Dam is in line 34:   CHELAN ECHO, by Lion Heart. Winner at 4, $45,141. Half-sister to **NOTORIOUSLY** ($241,915, 1st City of Edmonton Distaff H. [L] (NP, $45,000), etc.), **CHEROKEE ECHO** ($68,830, 1st Barbara Shinpoch S. [L] (EMD, $37,125), etc.), **Smarty's Echo** ($127,363, 2nd Dixiana Breeders' Futurity **[G1]** (KEE, $80,000)). Dam of 7 foals, 4 to race, 2 winners--
++    .  With It's Feet (2015 f. by Cape Canaveral). Unplaced in 1 start, $120, in Canada. (Total: $92). Dam of 1 foal--
 		<hip>100</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>With It's Feet</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**NOTORIOUSLY**</DamName>
++    .  .  Little Foot (2021 f. by Mank). (application pending)
 		<hip>100</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Little Foot</HorseName>
-		<HorseYOB>2021 </HorseYOB>
+		<HorseYOB>2021</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  =Sea Echo (AUS) (2015 g. by =Sepoy (AUS)). 4 wins, 4 to 6, placed at 7, 2022, $109,040(AUS), in Australia. (Total: $78,040).
 		<hip>100</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Sea Echo</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>**CHEROKEE ECHO**</DamName>
++    .  =Chorus (AUS) (2014 f. by =Snitzel (AUS)). 4 wins at 4 and 5, $76,025(AUS), in Australia. (Total: $53,850). Dam of 1 foal--
 		<hip>100</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Chorus</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**CHEROKEE ECHO**</DamName>
++    .  =Deep Echo (AUS) (2016 f. by =Deep Field (AUS)). Winner at 3, $20,375(AUS), in Australia. (Total: $14,039). Dam of 2 foals--
 		<hip>100</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Deep Echo</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>**CHEROKEE ECHO**</DamName>
++    .  =Not A Cherry (AUS) (2012 f. by =Not A Single Doubt (AUS)). Placed at 3, $26,145(AUS), in Australia. (Total: $19,792). Dam of 4 foals, 1 to race--
 		<hip>100</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Not A Cherry</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**CHEROKEE ECHO**</DamName>
++    .  .  =Cherokee Cherry (NZ) (2018 f. by =Preferment (NZ)). Placed at 3 and 4, 2022, $26,185(AUS), in Australia. (Total: $17,779).
 		<hip>100</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Cherokee Cherry</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  =Native American (AUS) (2013 f. by =Snitzel (AUS)). Placed at 3 and 4, $15,820(AUS), in Australia. (Total: $12,021). Dam of 3 foals, 1 to race, 1 winner--
 		<hip>100</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Native American</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**CHEROKEE ECHO**</DamName>
++    .  .  =Diddley Squat (AUS) (2019 g. by =Mikki Isle (JPN)). Winner in 1 start at 3, 2022, $20,625(AUS), in Australia. (Total: $14,180).
 		<hip>100</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Diddley Squat</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
 	</update>
 </FasigTiptonUpdates>

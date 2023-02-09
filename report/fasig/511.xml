@@ -3,21 +3,22 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++ **REMARKABLE REMY**, by Hennessy. 5 wins at 2 and 3, $282,788, in N.A./U.S., 1st Pebbles S. [L] (BEL, $72,600), Caveat Competor S. [L] (SAR, $51,360), Swinging Mood S. [L] (BEL, $47,970), 2nd Rare Blend S. (AQU, $13,830), 3rd Miss Grillo S. [L] (BEL, $8,190), Jack Betta Be Rite S.-R (BEL, $7,850); unplaced, $7,937, in Canada. (Total: $290,191). Half-sister to **=KEIAI LEONE (JPN)** (Total: $2,123,985, 1st Sirius S. **[G3]**, etc.), **Roayh** (Total: $84,327, 3rd Coventry S. **[G2]**, etc.). Dam of 10 foals, 4 to race, 3 winners--
 <hip>511</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
 update on line 36: + **REMARKABLE REMY**, by Hennessy. 5 wins at 2 and 3, $282,788, in N.A./U.S., 1st Pebbles S. [L] (BEL, $72,600), Caveat Competor S. [L] (SAR, $51,360), Swinging Mood S. [L] (BEL, $47,970), 2nd Rare Blend S. (AQU, $13,830), 3rd Miss Grillo S. [L] (BEL, $8,190), Jack Betta Be Rite S.-R (BEL, $7,850); unplaced, $7,937, in Canada. (Total: $290,191). Half-sister to **=KEIAI LEONE (JPN)** (Total: $2,123,985, 1st Sirius S. **[G3]**, etc.), **Roayh** (Total: $84,327, 3rd Coventry S. **[G2]**, etc.). Dam of 10 foals, 4 to race, 3 winners--
++    =Queen's Aries (JPN) (2015 f. by Henny Hughes). Placed at 3, 238,000 Yen, in Japan. (Total: $2,114). Dam of 1 foal, 1 to race--
 		<hip>511</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Queen's Aries</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
-45
 		<DamDamName>MOST REMARKABLE</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>s</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -25,11 +26,11 @@ update on line 36: + **REMARKABLE REMY**, by Hennessy. 5 wins at 2 and 3, $282,7
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 58: +    =Queen's Aries (JPN) (2015 f. by Henny Hughes). Placed at 3, 238,000 Yen, in Japan. (Total: $2,114). Dam of 1 foal, 1 to race--
 Dam is in line 45:   MOST REMARKABLE, by Marquetry. Unplaced. Sent from United States to Japan in 2010. Died 2021. Half-sister to **SNOW DANCE** ($938,597, 1st New York H. **[G2]** (BEL, $150,000), etc.), **Corkboy** ($95,613, 2nd Juvenile S.-R (WO, $10,700(CAN))), **Orangeman** ($64,810, 2nd Sunny Slope S. [L] (SA, $15,670)). Dam of 11 foals, 9 to race, 8 winners--
 	</update>

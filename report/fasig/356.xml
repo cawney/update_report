@@ -3,12 +3,13 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Drifaros (2019 f. by Kantharos). 3 wins in 4 starts at 3 and 4, 2023, $118,100.
 		<hip>356</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Drifaros</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Style Drift</DamName>
 	</update>

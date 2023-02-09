@@ -3,21 +3,22 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++ **Centring**, by A.P. Indy. 2 wins at 4, $509,102, 2nd Go for Wand H. **[G2]** (AQU, $60,000), Top Flight H. **[G2]** (AQU, $40,000), Turnback the Alarm H. **[G3]** (BEL, $40,000), Affectionately S. (AQU, $20,000), 3rd Personal Ensign H. **[G1]** (SAR, $60,000), Ogden Phipps H. **[G1]** (BEL, $40,000), Beldame Invitational S. **[G1]** (BEL, $40,000), Ladies H. [L] (AQU, $10,000). Sister to **Tranquil Manner** ($239,610, 3rd Woodward S. **[G1]** (SAR, $75,000), sire), half-sister to **PENWITH** ($600,135, 1st Royal Delta S. **[G2]** (GP, $124,000), etc.). Dam of 7 foals, 4 to race, 2 winners--
 <hip>5</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
 update on line 39: + **Centring**, by A.P. Indy. 2 wins at 4, $509,102, 2nd Go for Wand H. **[G2]** (AQU, $60,000), Top Flight H. **[G2]** (AQU, $40,000), Turnback the Alarm H. **[G3]** (BEL, $40,000), Affectionately S. (AQU, $20,000), 3rd Personal Ensign H. **[G1]** (SAR, $60,000), Ogden Phipps H. **[G1]** (BEL, $40,000), Beldame Invitational S. **[G1]** (BEL, $40,000), Ladies H. [L] (AQU, $10,000). Sister to **Tranquil Manner** ($239,610, 3rd Woodward S. **[G1]** (SAR, $75,000), sire), half-sister to **PENWITH** ($600,135, 1st Royal Delta S. **[G2]** (GP, $124,000), etc.). Dam of 7 foals, 4 to race, 2 winners--
++    Exacting (2019 g. by Ghostzapper). 3 wins at 3, 2022, $35,937.
 		<hip>5</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Exacting</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
-39
 		<DamDamName>**Centring**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>r</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -25,23 +26,23 @@ update on line 39: + **Centring**, by A.P. Indy. 2 wins at 4, $509,102, 2nd Go f
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 43: +    Exacting (2019 g. by Ghostzapper). 3 wins at 3, 2022, $35,937.
 Dam is in line 39: + **Centring**, by A.P. Indy. 2 wins at 4, $509,102, 2nd Go for Wand H. **[G2]** (AQU, $60,000), Top Flight H. **[G2]** (AQU, $40,000), Turnback the Alarm H. **[G3]** (BEL, $40,000), Affectionately S. (AQU, $20,000), 3rd Personal Ensign H. **[G1]** (SAR, $60,000), Ogden Phipps H. **[G1]** (BEL, $40,000), Beldame Invitational S. **[G1]** (BEL, $40,000), Ladies H. [L] (AQU, $10,000). Sister to **Tranquil Manner** ($239,610, 3rd Woodward S. **[G1]** (SAR, $75,000), sire), half-sister to **PENWITH** ($600,135, 1st Royal Delta S. **[G2]** (GP, $124,000), etc.). Dam of 7 foals, 4 to race, 2 winners--
++    Cox Canyon (2020 g. by Ghostzapper). Winner at 2, 2022, $8,840.
 		<hip>5</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Cox Canyon</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>g</HorseSex>
-39
 		<DamDamName>**Centring**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>r</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -49,11 +50,11 @@ Dam is in line 39: + **Centring**, by A.P. Indy. 2 wins at 4, $509,102, 2nd Go f
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 45: +    Cox Canyon (2020 g. by Ghostzapper). Winner at 2, 2022, $8,840.
 Dam is in line 39: + **Centring**, by A.P. Indy. 2 wins at 4, $509,102, 2nd Go for Wand H. **[G2]** (AQU, $60,000), Top Flight H. **[G2]** (AQU, $40,000), Turnback the Alarm H. **[G3]** (BEL, $40,000), Affectionately S. (AQU, $20,000), 3rd Personal Ensign H. **[G1]** (SAR, $60,000), Ogden Phipps H. **[G1]** (BEL, $40,000), Beldame Invitational S. **[G1]** (BEL, $40,000), Ladies H. [L] (AQU, $10,000). Sister to **Tranquil Manner** ($239,610, 3rd Woodward S. **[G1]** (SAR, $75,000), sire), half-sister to **PENWITH** ($600,135, 1st Royal Delta S. **[G2]** (GP, $124,000), etc.). Dam of 7 foals, 4 to race, 2 winners--
 	</update>

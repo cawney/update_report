@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Will Be Famous (2020 f. by Will Take Charge). Placed at 3, 2023, $22,906.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Will Be Famous</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>f</HorseSex>
-34
 		<DamDamName>FAMOUS</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>e</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,268 +20,303 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 37: +    Will Be Famous (2020 f. by Will Take Charge). Placed at 3, 2023, $22,906.
 Dam is in line 34:   FAMOUS, by Vindication. 2 wins at 4, $66,424. Half-sister to **TOMAHAWK** (Total: $245,963, hwt. colt at 2 on Irish Free Hand. (2002), 1st Oak Lodge Sires Loughbrown S. [L], etc., sire). Dam of 7 foals, 6 to race, 2 winners--
++    .  Falk (2020 g. by Constitution). Placed at 2, 2022, $7,150.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Falk</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Invitation</DamName>
++    .  Lalique (2007 f. by Vindication). 7 wins at 3 and 4, $96,363. Sent from United States to Philippines in 2013. Dam of 2 foals--
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lalique</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Sculpture</DamName>
++    .  Ana's Moon (2010 f. by Malibu Moon). 2 wins at 2 in Mexico. Sent from United States to Mexico in 2012. Dam of 5 foals, 1 to race--
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Ana's Moon</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Sculpture</DamName>
++    .  Replica (2011 f. by Dunkirk). Unraced. Dam of 3 foals, 2 to race, 2 winners--
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Replica</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Sculpture</DamName>
++    .  .  Sheriff Femenino (2017 f. by Sherriff Cogburn). Winner at 3 and 4, $59,047.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sheriff Femenino</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Forgery (2015 g. by American Lion). Winner at 6, $15,115.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Forgery</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  **Eagle Hall** (2007 f. by Speightstown). 6 wins, 3 to 6, $291,153, in Canada, 2nd Ontario Matron S. **[G3]** (WO, $30,000); placed, 3 to 6, $35,063, in N.A./U.S. (Total: $320,554). Died 2017. Dam of 3 foals, 3 to race, 3 winners--
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Eagle Hall**</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Diamond Corner</DamName>
++    .  .  Congruity (2015 g. by Graydar). 9 wins, 3 to 6, placed at 7, 2022, $150,578.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Congruity</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Impishness (2016 f. by Into Mischief). Winner at 3, $32,630. Dam of 2 foals--
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Impishness</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Yukon Eric (2017 g. by Will Take Charge). Winner at 2, $28,320. Died 2020.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Yukon Eric</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  **Born to D' Wild** (2015 f. by D'wildcat). 8 wins, 2 to 5, $115,090, 3rd D. S. Shine Young Futurity-R (EVD, $7,500). Dam of 1 foal--
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Born to D' Wild**</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Competitive Fire (2017 f. by Competitive Edge). Winner at 2 and 4, placed at 5, 2022, $69,740.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Competitive Fire</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Just Nod and Smile (2018 g. by Verrazano). 4 wins at 2 and 4, 2022, $54,629.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Just Nod and Smile</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Market of Stocks (2019 f. by Exaggerator). 2 wins at 3, 2022, $44,489.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Market of Stocks</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Warrior Dash (2012 g. by Unbridled's Song). 2 wins at 3, $35,100.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Warrior Dash</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Florencio (2014 g. by Flower Alley). Winner at 3, $30,110.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Florencio</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Thirst for Diamond (2014 f. by Stay Thirsty). Winner at 3, $12,790. Dam of 3 foals, 2 to race, 1 winner--
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Thirst for Diamond</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Diamond Corner</DamName>
++    .  .  A. P. Hopper (2020 g. by Hoppertunity). Winner in 2 starts at 2, 2022, $19,320.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>A. P. Hopper</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  A Week With Grammy (2022 f. by Hoppertunity).
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>A Week With Grammy</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseYOB>2022</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Diamond Valley (2010 f. by Speightstown). Unraced. Sent from United States to Chile in 2014. Dam of 6 foals, 6 to race, 3 winners--
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Diamond Valley</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Diamond Corner</DamName>
++    .  .  **=NO PAIN NO GAIN (CHI)** (2016 c. by Gstaad). 9 wins, 2 to 6, 2022, 73,688,000 Pesos, in Chile, 1st Ignacio Urrutia de la Sotta e Ignacio Urrutia Del Rio **[G3]**, 3rd Gran Criterium Mauricio Serrano Palma **[G1]**, Domingo S. Herrera Martinez **[G2]**, Carlos Bello Silva [L], Guillermo del Pedregal H. [L], Luis Vera Calderon y Luis Vera Giannini [L], Raul Spoerer Carmona y Raul Spoerer Urrutia [L]. (Total: $94,292).
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=NO PAIN NO GAIN</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =Elquilimay (CHI) (2019 c. by Van Nistelrooy). Winner at 2 and 3, 2022, 7,682,000 Pesos, in Chile. (Total: $9,255).
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Elquilimay</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =Anjum (CHI) (2015 f. by Paddy O'Prado). Winner in 2 starts at 3, 1,338,750 Pesos, in Chile. (Total: $1,958).
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Anjum</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =Wahida (CHI) (2018 f. by Van Nistelrooy). Placed at 3, 562,500 Pesos, in Chile. (Total: $743).
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Wahida</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Endeavour Corner (2009 f. by Strong Hope). Unraced. Dam of 5 foals, 4 to race, 3 winners--
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Endeavour Corner</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Diamond Corner</DamName>
++    .  .  Petit Verdot (2018 g. by Vancouver (AUS)). 7 wins, 2 to 4, 2022, $304,606.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Petit Verdot</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Baysider (2015 g. by More Than Ready). 4 wins at 4 and 5, $123,593.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Baysider</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Colombard (2016 g. by Sky Mesa). 7 wins, 2 to 6, placed at 7, 2023, $100,504.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Colombard</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Carignan (2017 g. by Girolamo). Placed at 3, $2,823.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Carignan</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Siccar (2012 f. by Graeme Hall). 21 wins, 2 to 8, $221,024.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Siccar</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Mighty Mini (2014 f. by First Dude). 3 wins, 2 to 5, $47,526. Dam of 1 foal--
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mighty Mini</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  Fevola (2017 g. by Midnight Lute). 5 wins, 3 to 5, 2022, $85,780.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Fevola</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Solid Gold</DamName>
++    .  Mastermind (2018 g. by Will Take Charge). Placed at 4, 2022, $9,590.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mastermind</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Solid Gold</DamName>
++    .  Skyline (2019 g. by Street Sense). Winner at 3, 2022, $31,236.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Skyline</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>On Cloud Nine</DamName>
++    .  Runnin' Block (2020 c. by Lemon Drop Kid). Placed at 2, 2022, $24,990.
 		<hip>372</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Runnin' Block</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>On Cloud Nine</DamName>
 	</update>

@@ -3,21 +3,22 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++ BEAUTIFUL GIRL, by Malibu Moon. Unraced. Dam of 6 foals, 3 to race, 2 winners--
 <hip>322</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
 update on line 38: + BEAUTIFUL GIRL, by Malibu Moon. Unraced. Dam of 6 foals, 3 to race, 2 winners--
++    Tekila (2018 f. by Liam's Map). Winner at 5, 2023, $105,020.
 		<hip>322</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tekila</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
-38
 		<DamDamName>BEAUTIFUL GIRL</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>p</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -25,11 +26,11 @@ update on line 38: + BEAUTIFUL GIRL, by Malibu Moon. Unraced. Dam of 6 foals, 3 
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 43: +    Tekila (2018 f. by Liam's Map). Winner at 5, 2023, $105,020.
 Dam is in line 38: + BEAUTIFUL GIRL, by Malibu Moon. Unraced. Dam of 6 foals, 3 to race, 2 winners--
 	</update>

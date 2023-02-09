@@ -3,12 +3,13 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  =Middle Class (NZ) (2009 f. by =Gold Centre (AUS)). Unraced in New Zealand. Dam of 3 foals, 1 to race--
 		<hip>188</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Middle Class</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>=Classianda</DamName>
 	</update>

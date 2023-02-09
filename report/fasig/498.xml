@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Lafitte's Fleet (2017 g. by More Than Ready). 5 wins, 3 to 5, placed at 6, 2023, $211,517.
 		<hip>498</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lafitte's Fleet</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>f</HorseSex>
-34
 		<DamDamName>**Onna Bugeisha**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>y</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,23 +20,23 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 37: +    Lafitte's Fleet (2017 g. by More Than Ready). 5 wins, 3 to 5, placed at 6, 2023, $211,517.
 Dam is in line 34:   **Onna Bugeisha**, by First Samurai. 3 wins at 4 and 5, $155,285, 2nd Cypress S. (LRC, $15,660). Half-sister to **TAZEEZ** (Total: $583,413, 1st Weatherbys Earl of Sefton S. **[G3]**, etc.). Dam of 6 foals, 4 to race, 4 winners--
++    On the Engine (2018 g. by More Than Ready). 2 wins at 4, 2022, $60,835.
 		<hip>498</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>On the Engine</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
-34
 		<DamDamName>**Onna Bugeisha**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>y</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -44,23 +44,23 @@ Dam is in line 34:   **Onna Bugeisha**, by First Samurai. 3 wins at 4 and 5, $15
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 41: +    On the Engine (2018 g. by More Than Ready). 2 wins at 4, 2022, $60,835.
 Dam is in line 34:   **Onna Bugeisha**, by First Samurai. 3 wins at 4 and 5, $155,285, 2nd Cypress S. (LRC, $15,660). Half-sister to **TAZEEZ** (Total: $583,413, 1st Weatherbys Earl of Sefton S. **[G3]**, etc.). Dam of 6 foals, 4 to race, 4 winners--
++    Gunton Roe (2019 c. by Gun Runner). 2 wins at 3, 2022, $59,752.
 		<hip>498</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Gunton Roe</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
-34
 		<DamDamName>**Onna Bugeisha**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>r</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -68,11 +68,11 @@ Dam is in line 34:   **Onna Bugeisha**, by First Samurai. 3 wins at 4 and 5, $15
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 45: +    Gunton Roe (2019 c. by Gun Runner). 2 wins at 3, 2022, $59,752.
 Dam is in line 34:   **Onna Bugeisha**, by First Samurai. 3 wins at 4 and 5, $155,285, 2nd Cypress S. (LRC, $15,660). Half-sister to **TAZEEZ** (Total: $583,413, 1st Weatherbys Earl of Sefton S. **[G3]**, etc.). Dam of 6 foals, 4 to race, 4 winners--
 	</update>

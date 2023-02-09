@@ -3,133 +3,150 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Cape Trios (2015 f. by Cape Blanco (IRE)). 5 wins, 2 to 4, $129,789, in N.A./U.S.; unplaced in 1 start, $400, in Canada. (Total: $130,090). Dam of 1 foal--
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Cape Trios</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**TROIS AUREOLE**</DamName>
++    .  Red Mule (2016 g. by Red Rocks (IRE)). Winner at 4 and 6, 2022, $119,674.
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Red Mule</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>**TROIS AUREOLE**</DamName>
++    .  Backwoods Boogie (2017 g. by Red Rocks (IRE)). 4 wins, 3 to 5, 2022, $99,062.
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Backwoods Boogie</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>**TROIS AUREOLE**</DamName>
++    .  Je Suis Rapide (2019 f. by Mr. Z). Winner at 3, 2022, $37,636.
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Je Suis Rapide</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**TROIS AUREOLE**</DamName>
++    .  **SHH SHE'S OURS** (2012 f. by Tiz Wonderful). 5 wins in 10 starts at 2 and 4, $186,102, 1st Desert Stormer II S. [L] (SA, $47,580), 3rd C.E.R.F. S.-R (DMR, $9,312). Set ntr at Los Alamitos Race Course, 5 furlongs in 0:57.73 (07/04/14). Sent from United States to Saudi Arabia in 2019. Dam of 3 foals, 3 to race, 1 winner--
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**SHH SHE'S OURS**</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Our Secret</DamName>
++    .  .  Surrogate (2019 g. by Arrogate). Winner at 3, 2022, $72,010.
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Surrogate</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Coach Kenny (2018 g. by Interactif). 4 wins at 3 and 4, placed at 5, 2023, $75,555.
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Coach Kenny</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Mind Blowing</DamName>
++    .  Blowin Your Mind (2015 f. by Saint Afleet). Winner at 4, $63,565. Dam of 1 foal--
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Blowin Your Mind</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Mind Blowing</DamName>
++    .  .  Freeway (2022 c. by Highway to Fame).
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Freeway</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseYOB>2022</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Indy Cate (2005 f. by Cat Thief). 3 wins at 3 and 4, $32,246. Dam of 4 foals, 3 to race, 2 winners--
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Indy Cate</HorseName>
-		<HorseYOB>2005 </HorseYOB>
+		<HorseYOB>2005</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>U. S. Indy</DamName>
++    .  .  Stealin' Summer (2013 g. by Summer Bird). 10 wins, 2 to 8, $94,847.
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Stealin' Summer</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Y Ya Gottabedatway (2012 g. by Fusaichi Pegasus). 6 wins, 3 to 5, $90,559. Died 2017.
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Y Ya Gottabedatway</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  Too Bad Fu (2008 f. by Fusaichi Pegasus). Placed in 1 start at 3, $8,000. Died 2019. Dam of 4 foals, 4 to race, 3 winners--
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Too Bad Fu</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>U. S. Indy</DamName>
++    .  .  Too Bad Chu (2013 f. by Leroidesanimaux (BRZ)). 5 wins at 4 and 5, $57,980.
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Too Bad Chu</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  I Like Dreaming (2019 g. by Race Day). 3 wins at 3, 2022, $31,220.
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>I Like Dreaming</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Woof River Rose (2014 f. by Tiz the One). Winner at 2, $17,835.
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Woof River Rose</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  McIndy (2015 f. by McKenna's Justice). Unplaced, $260. Dam of 1 foal--
 		<hip>14</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>McIndy</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>U. S. Indy</DamName>
 	</update>

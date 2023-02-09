@@ -3,35 +3,39 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  **=DARK MAGIC (TUR)** (2009 f. by Action This Day). 15 wins, 3 to 7 in Turkey, 1st Yunus Emre [L], 3rd Tali Calbatur [L]. Dam of 3 foals, 2 to race--
 		<hip>537</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=DARK MAGIC</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Stellar Valentine</DamName>
++    .  .  =Who Keeps You (TUR) (2019 c. by =Torok (IRE)). Placed at 3, 2022 in Turkey.
 		<hip>537</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Who Keeps You</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  =Shy She (TUR) (2010 f. by Okawango). Winner at 3 in Turkey. Dam of 4 foals--
 		<hip>537</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Shy She</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Stellar Valentine</DamName>
++    .  =She Is Mine (TUR) (2012 f. by Cuvee). Placed at 2 and 3 in Turkey. Dam of 2 foals, 1 to race--
 		<hip>537</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=She Is Mine</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Stellar Valentine</DamName>
 	</update>

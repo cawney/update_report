@@ -3,37 +3,40 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++ **AVERY HALL**, by A. P Jet. 3 wins at 2 and 3, $182,500, 1st Open Mind H.-R (MTH, $36,000), 2nd New York Stallion S.-R (SAR, $50,000), New York Stallion Fifth Avenue S.-R (AQU, $25,000), Spruce Fir H.-R (MTH, $12,000), 3rd Girl Powder H.-R (MTH, $7,200). Dam of 9 foals, 8 to race, 6 winners--
 <hip>387</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
 update on line 36: + **AVERY HALL**, by A. P Jet. 3 wins at 2 and 3, $182,500, 1st Open Mind H.-R (MTH, $36,000), 2nd New York Stallion S.-R (SAR, $50,000), New York Stallion Fifth Avenue S.-R (AQU, $25,000), Spruce Fir H.-R (MTH, $12,000), 3rd Girl Powder H.-R (MTH, $7,200). Dam of 9 foals, 8 to race, 6 winners--
++    .  **PRINCESS NOOR** (2018 f. by Not This Time). 3 wins in 5 starts at 2, $363,500, 1st Del Mar Debutante S. **[G1]** (DMR, $150,000), Chandelier S. **[G2]** (SA, $120,000). Sent from United States to Japan in 2021. Dam of 1 foal--
 		<hip>387</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**PRINCESS NOOR**</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**SHEZA SMOKE SHOW**</DamName>
++    .  Protonic Power (2019 c. by Protonico). 3 wins at 3, placed at 4, 2023, $79,640.
 		<hip>387</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Protonic Power</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**SHEZA SMOKE SHOW**</DamName>
++    Silver Currency (2019 f. by American Pharoah). See above.
 		<hip>387</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Silver Currency</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
-36
 		<DamDamName>**AVERY HALL**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>h</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -41,23 +44,23 @@ update on line 36: + **AVERY HALL**, by A. P Jet. 3 wins at 2 and 3, $182,500, 1
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 52: +    Silver Currency (2019 f. by American Pharoah). See above.
 Dam is in line 36: + **AVERY HALL**, by A. P Jet. 3 wins at 2 and 3, $182,500, 1st Open Mind H.-R (MTH, $36,000), 2nd New York Stallion S.-R (SAR, $50,000), New York Stallion Fifth Avenue S.-R (AQU, $25,000), Spruce Fir H.-R (MTH, $12,000), 3rd Girl Powder H.-R (MTH, $7,200). Dam of 9 foals, 8 to race, 6 winners--
++    She's a Truckin (2016 f. by Lemon Drop Kid). Unplaced, $4,943. Sent from United States to Saudi Arabia in 2022. Dam of 1 foal--
 		<hip>387</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>She's a Truckin</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
-36
 		<DamDamName>**AVERY HALL**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>d</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -65,11 +68,11 @@ Dam is in line 36: + **AVERY HALL**, by A. P Jet. 3 wins at 2 and 3, $182,500, 1
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 56: +    She's a Truckin (2016 f. by Lemon Drop Kid). Unplaced, $4,943. Sent from United States to Saudi Arabia in 2022. Dam of 1 foal--
 Dam is in line 36: + **AVERY HALL**, by A. P Jet. 3 wins at 2 and 3, $182,500, 1st Open Mind H.-R (MTH, $36,000), 2nd New York Stallion S.-R (SAR, $50,000), New York Stallion Fifth Avenue S.-R (AQU, $25,000), Spruce Fir H.-R (MTH, $12,000), 3rd Girl Powder H.-R (MTH, $7,200). Dam of 9 foals, 8 to race, 6 winners--
 	</update>

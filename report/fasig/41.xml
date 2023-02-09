@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Bella Bluegrass (2022 f. by Street Boss). See above.
 		<hip>41</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Bella Bluegrass</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseYOB>2022</HorseYOB>
 		<HorseSex>g</HorseSex>
-40
 		<DamDamName>BECKY'S BLUEGRASS</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>s</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,27 +20,29 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 43: +    Bella Bluegrass (2022 f. by Street Boss). See above.
 Dam is in line 40:   BECKY'S BLUEGRASS, by Macho Uno. Unplaced, $1,415. Dam of 2 foals--
++    .  Awesome Princess (2017 f. by Awesome Again). Unraced. Dam of 2 foals--
 		<hip>41</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Awesome Princess</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Gypsy Princess</DamName>
++    .  .  Belle's Red Hot (2022 f. by Pass Rush).
 		<hip>41</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Belle's Red Hot</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseYOB>2022</HorseYOB>
 		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>

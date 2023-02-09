@@ -3,20 +3,22 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Mia Baby (2019 f. by Carpe Diem). 3 wins at 3 and 4, 2023, $70,810.
 		<hip>523</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mia Baby</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Arabic Style</DamName>
++    .  Updip (2020 f. by Speightstown). Placed in 2 starts at 2, 2022, $2,216.
 		<hip>523</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Updip</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Arabic Style</DamName>
 	</update>

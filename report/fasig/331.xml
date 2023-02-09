@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Bennington (2021 c. by Producer (GB)). Unraced.
 		<hip>331</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Bennington</HorseName>
-		<HorseYOB>2021 </HorseYOB>
+		<HorseYOB>2021</HorseYOB>
 		<HorseSex>g</HorseSex>
-33
 		<DamDamName>PLEIN AIR</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>B</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,28 +20,29 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 36: +    Bennington (2021 c. by Producer (GB)). Unraced.
 Dam is in line 33:   PLEIN AIR, by Lonhro (AUS). 3 wins at 3 and 4, $72,690. Half-sister to **STANDARD DEVIATION** ($320,280, 1st Tale of the Cat S. (MTH, $45,000), etc.), **Dr Schultz** (Total: $65,392, 3rd Lanwades Stud Jagersro Sprint [L]). Dam of 3 foals--
++ FALSE IMPRESSION, by A.P. Indy. Winner at 2, $47,572. Half-sister to **Divine Elegance** ($238,577, 3rd Matron S. **[G3]** (CD, $9,400)), **Unbridled Endeavor** ($73,600, 2nd Livermore Valley Wines S. (PLN, $10,100)). Dam of 11 foals, 8 to race, 7 winners--
 <hip>331</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
 update on line 42: + FALSE IMPRESSION, by A.P. Indy. Winner at 2, $47,572. Half-sister to **Divine Elegance** ($238,577, 3rd Matron S. **[G3]** (CD, $9,400)), **Unbridled Endeavor** ($73,600, 2nd Livermore Valley Wines S. (PLN, $10,100)). Dam of 11 foals, 8 to race, 7 winners--
++    Thales (2018 g. by Quality Road). Winner at 4, 2022, $38,360.
 		<hip>331</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Thales</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
-42
 		<DamDamName>FALSE IMPRESSION</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>d</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -49,11 +50,11 @@ update on line 42: + FALSE IMPRESSION, by A.P. Indy. Winner at 2, $47,572. Half-
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 49: +    Thales (2018 g. by Quality Road). Winner at 4, 2022, $38,360.
 Dam is in line 42: + FALSE IMPRESSION, by A.P. Indy. Winner at 2, $47,572. Half-sister to **Divine Elegance** ($238,577, 3rd Matron S. **[G3]** (CD, $9,400)), **Unbridled Endeavor** ($73,600, 2nd Livermore Valley Wines S. (PLN, $10,100)). Dam of 11 foals, 8 to race, 7 winners--
 	</update>

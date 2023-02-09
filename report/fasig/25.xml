@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Be Here (2018 g. by Ghostzapper). 4 wins at 3 and 4, 2022, $120,396.
 		<hip>25</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Be Here</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
-38
 		<DamDamName>**INFORMED DECISION**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>r</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,11 +20,11 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 41: +    Be Here (2018 g. by Ghostzapper). 4 wins at 3 and 4, 2022, $120,396.
 Dam is in line 38:   **INFORMED DECISION**, by Monarchos. 14 wins in 22 starts, 3 to 5, $2,214,426, champion female sprinter in U.S. (2009), 1st Breeders' Cup Filly and Mare Sprint **[G1]** (OSA, $540,000), Humana Distaff S. **[G1]** (CD, $199,630), Vinery Madison S. **[G1]** (KEE, $186,000), Lexus Raven Run S. **[G2]**-ntr, 7 furlongs in 1:20.86 (KEE, $186,000), Thoroughbred Club of America S. **[G2]** (KEE, $150,000), Presque Isle Downs Masters S. **[G3]** (PID, $240,000) twice, Chicago H. **[G3]** (AP, $89,400), Chicago H. **[G3]** (AP, $58,800), Windward S. [L] (PID, $60,000), Missile Belle S. [L] (BEL, $46,620), 3rd Humana Distaff S. **[G1]** (CD, $32,342), Vinery Madison S. **[G1]** (KEE, $30,000), Ballerina S. **[G1]** (SAR, $30,000), Thoroughbred Club of America S. **[G2]** (KEE, $20,000), Victory Ride S. **[G3]** (SAR, $11,010). Dam of 9 foals, 3 to race, 2 winners--
 	</update>

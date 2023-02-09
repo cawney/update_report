@@ -3,57 +3,64 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Bella Izabella (2012 f. by Line of David). 2 wins at 4, $28,595. Dam of 2 foals, 1 to race, 1 winner--
 		<hip>417</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Bella Izabella</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Shandilyn</DamName>
++    .  .  Caycee's Mark (2018 f. by Marking). 4 wins, 3 to 5, 2023, $115,132.
 		<hip>417</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Caycee's Mark</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Hy Sweet Candy (2013 f. by Line of David). Winner at 3, $16,290. Dam of 1 foal--
 		<hip>417</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Hy Sweet Candy</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Shandilyn</DamName>
++    .  Modiste (2013 f. by Uncle Mo). Winner at 4, $14,129. Dam of 4 foals, 2 to race, 1 winner--
 		<hip>417</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Modiste</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Alys</DamName>
++    .  .  Written Dance (2020 c. by Tapwrit). Winner at 2, 2022, $21,931.
 		<hip>417</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Written Dance</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Be Cool (2018 f. by Firing Line). Placed in 2 starts at 3, $3,900, in Canada. (Total: $3,073).
 		<hip>417</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Be Cool</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Lover Boy Mo (2022 c. by Good Samaritan). (application pending)
 		<hip>417</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lover Boy Mo</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseYOB>2022</HorseYOB>
 		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>

@@ -3,67 +3,75 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Summer's Ready (2015 f. by More Than Ready). Unraced. Dam of 3 foals--
 		<hip>137</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Summer's Ready</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Summer Frolic</DamName>
++    .  Carats and Cake (2019 f. by Bernardini). Placed at 3, 2022, $17,900.
 		<hip>137</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Carats and Cake</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Wild Summer</DamName>
++    .  Wild Year (2018 f. by Tiznow). Unraced. Dam of 1 foal--
 		<hip>137</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Wild Year</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Wild Summer</DamName>
++    .  Algowild (2015 f. by Algorithms). Unraced. Dam of 4 foals, 2 to race--
 		<hip>137</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Algowild</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Wild Summer</DamName>
++    .  .  Boudin (2020 c. by Brody's Cause). Placed at 2, 2022, $22,727.
 		<hip>137</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Boudin</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Celebration Day (2015 f. by New Year's Day). Unplaced in 1 start, $351. Dam of 1 foal--
 		<hip>137</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Celebration Day</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Daylatedollarshort</DamName>
++    .  Rich Knows Rich (2015 f. by Medaglia d'Oro). Placed at 3, $3,224. Dam of 2 foals--
 		<hip>137</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Rich Knows Rich</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Frosted Snow</DamName>
++    .  Will Take Roses (2018 f. by Will Take Charge). 6 wins at 3 and 4, 2022, $103,049.
 		<hip>137</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Will Take Roses</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Pink Vendetta</DamName>
 	</update>

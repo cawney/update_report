@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    I Feel the Need (2019 f. by Keen Ice). Winner at 3, 2022, $63,890.
 		<hip>336</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>I Feel the Need</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
-33
 		<DamDamName>PRIMP</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>e</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,23 +20,23 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 36: +    I Feel the Need (2019 f. by Keen Ice). Winner at 3, 2022, $63,890.
 Dam is in line 33:   PRIMP, by Bernardini. Unplaced, $410. Half-sister to **MCKINZIE** ($3,473,360, 1st Pennsylvania Derby **[G1]** (PRX, $556,000), etc.), **Rompin Reid** ($172,945, 3rd The Vid S. (GP, $7,425)). Dam of 11 foals, 7 to race, 5 winners--
++    Rocket Hotshot (2018 c. by Red Rocks (IRE)). Winner at 3 and 4, 2022, $48,852.
 		<hip>336</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Rocket Hotshot</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
-33
 		<DamDamName>PRIMP</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>E</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -44,95 +44,106 @@ Dam is in line 33:   PRIMP, by Bernardini. Unplaced, $410. Half-sister to **MCKI
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 40: +    Rocket Hotshot (2018 c. by Red Rocks (IRE)). Winner at 3 and 4, 2022, $48,852.
 Dam is in line 33:   PRIMP, by Bernardini. Unplaced, $410. Half-sister to **MCKINZIE** ($3,473,360, 1st Pennsylvania Derby **[G1]** (PRX, $556,000), etc.), **Rompin Reid** ($172,945, 3rd The Vid S. (GP, $7,425)). Dam of 11 foals, 7 to race, 5 winners--
++    .  **High Fashion Diva** (2014 f. by Girolamo). 6 wins at 2 and 3, $120,770, 3rd M2 Technology La Senorita S. [L] (RET, $8,250). Dam of 2 foals, 1 to race, 1 winner--
 		<hip>336</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**High Fashion Diva**</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Couture Cat</DamName>
++    .  .  Shake Rattle Nroll (2020 f. by Violence). Winner in 1 start at 3, 2023, $19,800.
 		<hip>336</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Shake Rattle Nroll</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Wonderful Heaven (2019 f. by Hard Spun). Winner at 3, 2022, 12,670,000 Yen, in Japan. Sent from United States to Japan in 2020. (Total: $93,382).
 		<hip>336</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Wonderful Heaven</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Couture Cat</DamName>
++    .  Ribbon Cutter (2011 f. by Elusive Quality). Winner at 3, $48,290. Dam of 4 foals, 1 to race, 1 winner--
 		<hip>336</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Ribbon Cutter</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Couture Cat</DamName>
++    .  .  Leeloo (2019 f. by Practical Joke). 4 wins at 2 and 3, placed at 4, 2023, $230,230.
 		<hip>336</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Leeloo</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Fashion Street (2013 f. by Street Sense). Winner at 3, $45,070. Sent from United States to Japan in 2019. Dam of 4 foals, 3 to race, 2 winners--
 		<hip>336</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Fashion Street</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Couture Cat</DamName>
++    .  .  Emunah (2018 f. by Midshipman). Winner at 3, $39,300.
 		<hip>336</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Emunah</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =Ken Kiitos (JPN) (2020 c. by Bernardini). Winner in 1 start at 3, 2023, 1,600,000 Yen, in Japan. (Total: $12,372).
 		<hip>336</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Ken Kiitos</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Gucci Kitten (2015 f. by Kitten's Joy). Unraced. Dam of 1 foal--
 		<hip>336</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Gucci Kitten</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Couture Cat</DamName>
++    .  Label (2012 f. by Bernardini). Unplaced in 2 starts, $800. Sent from United States to Republic of Korea in 2015. Dam of 3 foals--
 		<hip>336</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Label</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Couture Cat</DamName>
++    .  Sense You Asked (2020 c. by Street Sense). Placed at 2, 2022, $10,555.
 		<hip>336</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sense You Asked</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Malibu Model</DamName>
 	</update>

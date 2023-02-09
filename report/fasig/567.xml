@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    =Wake Gold (GER) (2015 f. by =Sepoy (AUS)). 13 wins, 2 to 7, placed at 8, 2023, 71,550 Euro, in Italy. (Total: $80,839).
 		<hip>567</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Wake Gold</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
-36
 		<DamDamName>=WALAYTA (GER)</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>S</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,11 +20,11 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 41: +    =Wake Gold (GER) (2015 f. by =Sepoy (AUS)). 13 wins, 2 to 7, placed at 8, 2023, 71,550 Euro, in Italy. (Total: $80,839).
 Dam is in line 36:   =WALAYTA (GER), by Oasis Dream (GB). Unraced in Germany. Half-sister to **=WIESENBACH (GB)** (Total: $110,157, 1st Premio Guido Berardelli **[G3]**, etc.), **=WIESENTAU (GB)** (Total: $59,196, 1st Grand Prix de la Region Grand Est - 12eme Etape du Defi du Galop [L], etc.). Dam of 7 foals, 5 to race, 5 winners--
 	</update>

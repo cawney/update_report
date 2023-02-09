@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    **TALK TO YA LATER** (2019 f. by Perfect Timber). Winner at 2 and 3, 2022, $111,380, in Canada, 1st Algoma S.-R (WO, $60,000). (Total: $85,643).
 		<hip>367</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**TALK TO YA LATER**</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
-34
 		<DamDamName>SEA THE AWESOME (IRE)</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>r</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,35 +20,38 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 37: +    **TALK TO YA LATER** (2019 f. by Perfect Timber). Winner at 2 and 3, 2022, $111,380, in Canada, 1st Algoma S.-R (WO, $60,000). (Total: $85,643).
 Dam is in line 34:   SEA THE AWESOME (IRE), by =Sea The Stars (IRE). Placed at 3, 1,965 Euro, in Ireland. Sent from France to United States in 2017. (Total: $2,198). Half-sister to **STREET SECRET** (Total: $190,145, 1st Open Mind S.-R (BEL, $54,000), etc.). Dam of 5 foals, 3 to race, 2 winners--
++    .  **=FRANKELY AWESOME (AUS)** (2015 f. by =Frankel (GB)). 3 wins at 3 and 4, $334,750(AUS), in Australia, 1st Iron Jack W J McKell Cup [L], 2nd Vinery Stud Storm Queen S. **[G1]**, Carlton Draught Kembla Grange Classic **[G3]**, 3rd Heineken 3 Australian Oaks **[G1]**. (Total: $237,074). Dam of 1 foal--
 		<hip>367</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=FRANKELY AWESOME</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**STREET SECRET**</DamName>
++    .  =Maternal Gift (AUS) (2017 f. by =Snitzel (AUS)). Winner at 3, $28,585(AUS), in Australia. (Total: $21,402). Dam of 1 foal--
 		<hip>367</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Maternal Gift</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**STREET SECRET**</DamName>
++    .  Blahnik (2016 f. by Bernardini). Placed at 3, $36,397. Dam of 2 foals--
 		<hip>367</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Blahnik</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Awesome d'Oro</DamName>
 	</update>

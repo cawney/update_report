@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Orba (2016 f. by Hard Spun). Placed in 2 starts at 3, 3,300 Euro, in France. Sent from United States to Great Britain in 2017. Returned to United States from Great Britain in 2019. (Total: $3,738). Dam of 2 foals--
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Orba</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
-34
 		<DamDamName>LADY LAVERY</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>n</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,90 +20,100 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 38: +    Orba (2016 f. by Hard Spun). Placed in 2 starts at 3, 3,300 Euro, in France. Sent from United States to Great Britain in 2017. Returned to United States from Great Britain in 2019. (Total: $3,738). Dam of 2 foals--
 Dam is in line 34:   LADY LAVERY, by Elusive Quality. Placed at 3, $40,840. Half-sister to **SKYLIGHTER** ($489,892, 1st Indiana Oaks **[G2]** (HOO, $231,840), etc.), **CAVE HILL** ($134,925, 1st Rushaway S. (TP, $60,760), etc.), **SPECKLED** (Total: $42,764, 1st 32red.com/Choose E.B.F. Nominated River Eden Fillies S. [L]), **Brushed Gold** ($115,616, 2nd Hermosa Beach H. (HOL, $13,000), etc.). Dam of 7 foals, 3 to race, 1 winner--
++    .  Tone Setter (2023 c. by Tonalist). (application pending)
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tone Setter</HorseName>
-		<HorseYOB>2023 </HorseYOB>
+		<HorseYOB>2023</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Orba</DamName>
++    .  **Sky Painter** (2011 f. by Street Cry (IRE)). Winner at 2 and 5, $169,755, 2nd Miss Grillo S. **[G3]** (BEL, $40,000). Dam of 3 foals, 1 to race, 1 winner--
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Sky Painter**</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**SKYLIGHTER**</DamName>
++    .  .  **WET PAINT** (2020 f. by Blame). Winner in 4 starts at 2 and 3, 2023, $162,500, 1st Martha Washington S. [L] (OP, $126,100).
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**WET PAINT**</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Ghostlighter (2018 g. by Ghostzapper). 4 wins, 2 to 5, 2023, $130,179 Set ncr at Charleston, 2 1/16 miles in 4:02.60 (11/14/21).
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Ghostlighter</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>**SKYLIGHTER**</DamName>
++    .  Iconic Adventure (2019 c. by Ghostzapper). Winner at 3, 2022, $60,463.
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Iconic Adventure</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>**SKYLIGHTER**</DamName>
++    .  Night Sky (2012 f. by Medaglia d'Oro). Placed at 3, $24,925. Sent from United States to Republic of Korea in 2016. Dam of 3 foals--
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Night Sky</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>**SKYLIGHTER**</DamName>
++    .  Dubai Blue (2016 f. by More Than Ready). Winner at 2 and 3, 17,399 Pounds, in England; unplaced in United Arab Emirates. Sent from United States to Great Britain in 2017. (Total: $21,607). Dam of 1 foal--
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Dubai Blue</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**SPECKLED**</DamName>
++    .  =Street Kid (IRE) (2018 g. by Street Boss). Winner at 2, 38,010 Euro, in Ireland; 2 wins at 3, placed at 4, 2022, 41,165 Pounds, in England. (Total: $97,166).
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Street Kid</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**Brushed Gold**</DamName>
++    .  Smooth Quality (2015 f. by Elusive Quality). Winner in 1 start at 4, $37,400. Dam of 2 foals--
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Smooth Quality</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**Brushed Gold**</DamName>
++    .  =Kiss Me Mary (IRE) (2014 f. by =Big Bad Bob (IRE)). Unraced in Ireland. Dam of 2 foals--
 		<hip>166</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Kiss Me Mary</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Retrato</DamName>
 	</update>

@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Step Forward (2019 g. by Speightstown). Winner in 2 starts at 3, 2022, $42,400, in Canada; placed in 1 start at 3, 2022, $6,840, in N.A./U.S. (Total: $37,667).
 		<hip>401</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Step Forward</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
-39
 		<DamDamName>STAND BACK</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>n</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,19 +20,20 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 42: +    Step Forward (2019 g. by Speightstown). Winner in 2 starts at 3, 2022, $42,400, in Canada; placed in 1 start at 3, 2022, $6,840, in N.A./U.S. (Total: $37,667).
 Dam is in line 39:   STAND BACK, by Giant's Causeway. Unraced. Half-sister to **FILA PRIMERA** ($138,455, 1st Pago Hop S. (FG, $45,750), etc.). Dam of 4 foals, 1 to race, 1 winner--
++    .  Bodie's Storm (2019 f. by Bodemeister). Placed at 3, 2022, $5,306.
 		<hip>401</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Bodie's Storm</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Storm Coming</DamName>
 	</update>

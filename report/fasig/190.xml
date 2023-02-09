@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Oooh Barracuda (2017 f. by Taste of Paradise). Winner at 3, $38,376.
 		<hip>190</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Oooh Barracuda</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
-36
 		<DamDamName>SOUTH APPLE (ARG)</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>e</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,23 +20,23 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 44: +    Oooh Barracuda (2017 f. by Taste of Paradise). Winner at 3, $38,376.
 Dam is in line 36:   SOUTH APPLE (ARG), by Southern Halo. 3 wins in 6 starts at 3 and 4, 15,568 Pesos, in Argentina; placed at 5, $26,040, in N.A./U.S. Sent from Argentina to United States in 2002. (Total: $30,345). Sister to **=APPLE HALO (ARG)** (Total: $51,141, 1st Austria [L], etc., sire), **Apple Juice (ARG)** (Total: $60,364, 2nd Carrera de las Estrellas Potrancas **[G1]**, etc.). Dam of 12 foals, 10 to race, 9 winners--
++    Impeccable Taste (2018 f. by Taste of Paradise). Placed at 4, 2022, $3,557.
 		<hip>190</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Impeccable Taste</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
-36
 		<DamDamName>SOUTH APPLE (ARG)</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>e</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -44,11 +44,11 @@ Dam is in line 36:   SOUTH APPLE (ARG), by Southern Halo. 3 wins in 6 starts at 
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 51: +    Impeccable Taste (2018 f. by Taste of Paradise). Placed at 4, 2022, $3,557.
 Dam is in line 36:   SOUTH APPLE (ARG), by Southern Halo. 3 wins in 6 starts at 3 and 4, 15,568 Pesos, in Argentina; placed at 5, $26,040, in N.A./U.S. Sent from Argentina to United States in 2002. (Total: $30,345). Sister to **=APPLE HALO (ARG)** (Total: $51,141, 1st Austria [L], etc., sire), **Apple Juice (ARG)** (Total: $60,364, 2nd Carrera de las Estrellas Potrancas **[G1]**, etc.). Dam of 12 foals, 10 to race, 9 winners--
 	</update>

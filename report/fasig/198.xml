@@ -3,76 +3,84 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  **EVERYTHING LOVELY** (2012 f. by Pollard's Vision). 7 wins, 2 to 5, $359,651, 1st The Very One S. [L] (PIM, $60,000), 2nd Turf Amazon S. [L] (PRX, $40,000), Ladies' Turf Sprint S. (GP, $24,000), Jameela S.-R (LRL, $15,000), Jameela S.-R (LRL, $12,000), 3rd Lightning City S. [L] (TAM, $7,500), Honey Bee S. (MTH, $6,000), Maryland Juvenile Filly Championship S.-R (LRL, $10,000), Jameela S.-R (LRL, $7,500). Dam of 1 foal, 1 to race--
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**EVERYTHING LOVELY**</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Desiderata</DamName>
++    .  .  Two Sides of Love (2019 f. by Bernardini). Placed in 2 starts at 2, $6,590.
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Two Sides of Love</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Giddy (2011 f. by Northern Afleet). 2 wins at 4, $24,902. Dam of 4 foals, 3 to race, 2 winners--
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Giddy</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Desiderata</DamName>
++    .  .  Mad Genius (2019 g. by Uncle Lino). 3 wins at 3 and 4, 2023, $60,508.
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mad Genius</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Glad to Be Gidget (2017 f. by Redeemed). Winner at 3, $8,820.
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Glad to Be Gidget</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Gosh (2018 g. by Orientate). Placed at 3, $17,243.
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Gosh</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  Whereabouts (2022 c. by Irish War Cry). (application pending)
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Whereabouts</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseYOB>2022</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Desiderata</DamName>
++    .  Many Blessings (2014 f. by Caleb's Posse). Unplaced in 1 start. Dam of 1 foal--
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Many Blessings</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Desiderata</DamName>
++    Laugh Often (2012 f. by Langfuhr). Unraced. Died 2022. Dam of 5 foals, 2 to race, 2 winners--
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Laugh Often</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>g</HorseSex>
-39
 		<DamDamName>ALMOST PARADISE</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>r</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -80,27 +88,29 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 64: +    Laugh Often (2012 f. by Langfuhr). Unraced. Died 2022. Dam of 5 foals, 2 to race, 2 winners--
 Dam is in line 39:   ALMOST PARADISE, by Allen's Prospect. Winner at 3, $31,760. Half-sister to **WICAPI** ($671,616, 1st W. L. McKnight H. **[G2]**, etc.), **ALL THE MARBLES** ($256,377, 1st El Chico S.-R (DEL, $45,000), etc.), **COL. RALPH** ($143,600, 1st Pennsylvania-New Jersey Kindergarten S.-R (PHA, $23,160), etc.), **CRANBERRY MUFFIN** ($132,005, 1st Thoroughbred Retirement Foundation S.-R (DEL, $22,380), etc.), **Lady of Summer** ($141,638, 2nd Rehoboth S. (DEL, $11,300), etc.). Dam of 7 foals, 5 to race, 5 winners--
++    .  Laughter (2019 f. by Lookin At Lucky). 2 wins at 3, 2022, $84,683.
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Laughter</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Laugh Often</DamName>
++    .  Reiner (2018 g. by Vancouver (AUS)). Winner at 3, placed at 4, 2022, $30,389.
 		<hip>198</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Reiner</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Laugh Often</DamName>
 	</update>

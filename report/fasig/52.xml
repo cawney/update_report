@@ -3,12 +3,13 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Diametric (2017 f. by Munnings). Placed at 3 and 4, $26,060. Dam of 1 foal--
 		<hip>52</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Diametric</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Incompatible</DamName>
 	</update>

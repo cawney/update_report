@@ -3,68 +3,75 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  =Justaucorps (GB) (2018 c. by =Shalaa (IRE)). Winner at 2 and 4, 2022, 35,302,000 Yen, in Japan. (Total: $301,020).
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Justaucorps</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>**=JEMAYEL</DamName>
++    .  Vexatious Litigant (2008 f. by Giant's Causeway). Placed at 3, $2,114. Dam of 2 foals--
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Vexatious Litigant</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>**Sagitta Ra**</DamName>
++    .  .  Da Candy Cane (2019 f. by Da Stoops). 2 wins in 3 starts at 3, 2022, $56,328.
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Da Candy Cane</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Yankee Ra (2011 f. by Yankee Gentleman). Unraced. Dam of 7 foals, 4 to race, 2 winners--
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Yankee Ra</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**Sagitta Ra**</DamName>
++    .  .  Papo Waika (2019 c. by Brave). Winner in 4 starts at 3 and 4, 2023, $9,694.
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Papo Waika</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Tu Sabe (2016 f. by Myfavorite Place). Winner at 2, $5,730. Dam of 1 foal--
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tu Sabe</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Waika (2018 f. by Nite Light). Placed at 3 and 4, 2022, $4,184.
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Waika</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
++    Vegas Trip (2008 f. by Aldebaran). Winner at 4, $29,474. Dam of 8 foals, 5 to race, 4 winners--
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Vegas Trip</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>g</HorseSex>
-37
 		<DamDamName>**Nawal (FR)**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>n</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -72,72 +79,80 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 63: +    Vegas Trip (2008 f. by Aldebaran). Winner at 4, $29,474. Dam of 8 foals, 5 to race, 4 winners--
 Dam is in line 37:   **Nawal (FR)**, by =Homme de Loi (IRE). 2 wins at 2, 24,849 Euro, in France, 3rd Prix d'Aumale **[G3]**; placed at 4, $14,720, in N.A./U.S. Sent from France to United States in 1997. Sent from United States to Ireland in 2010. (Total: $46,310). Dam of 13 foals, 11 to race, 9 winners--
++    .  **Sound Money** (2018 c. by Flatter). 3 wins at 3 and 4, 2022, $279,054, 2nd True North S. **[G2]** (BEL, $60,000), Westchester S. **[G3]** (BEL, $40,000). Sent from United States to United Arab Emirates in 2022.
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Sound Money**</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Vegas Trip</DamName>
++    .  Cousin Andrew (2017 g. by Into Mischief). Winner at 4 and 5, placed at 6, 2023, $153,620.
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Cousin Andrew</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Vegas Trip</DamName>
++    .  Conquest Bebop (2013 f. by Scat Daddy). Winner at 2, $43,502, in Canada; placed at 3, $8,910, in N.A./U.S. (Total: $41,754). Dam of 4 foals, 2 to race, 2 winners--
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Conquest Bebop</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Vegas Trip</DamName>
++    .  .  Bebop Baby (2018 f. by Too Much Bling). 6 wins, 2 to 4, 2022, $130,872.
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Bebop Baby</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Ima Big Bopper (2019 g. by My Golden Song). 2 wins at 3, 2022, $50,416.
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Ima Big Bopper</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  Happening (2015 f. by Animal Kingdom). 2 wins at 3, $14,106, in Canada. Sent from United States to France in 2017. Returned to United States from France in 2017. (Total: $10,751). Dam of 2 foals--
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Happening</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Vegas Trip</DamName>
++    .  .  Swill (2018 g. by Munnings). Winner at 2 and 3, $118,054.
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Swill</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  =Scarlette (MOR) (2011 f. by =Skoubidou (MOR)). Unraced in Morocco. Dam of 1 foal--
 		<hip>18</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Scarlette</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>=Dear Mother</DamName>
 	</update>

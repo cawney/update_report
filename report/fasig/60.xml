@@ -3,21 +3,22 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++ **HARD NOT TO LIKE**, by Hard Spun. 3 wins in 5 starts at 2, $251,300, in Canada, 1st Cup and Saucer S.-R (WO, $150,000); 5 wins, 4 to 6, $1,009,867, in N.A./U.S., 1st Diana S. **[G1]**-ncr, 1 1/8 miles in 1:45.22 (SAR, $300,000), Gamely S. **[G1]** (SA, $180,000), Jenny Wiley S. **[G1]** (KEE, $180,000), Marshua's River S. **[G3]** (GP, $60,000), 2nd Central Bank Ashland S. **[G1]** (KEE, $100,000), Gallorette H. **[G3]** (PIM, $30,000), Lambholm South Endeavour S. **[G3]** (TAM, $30,000), 3rd Jenny Wiley S. **[G1]** (KEE, $30,000), Ketel One Ballston Spa S. **[G2]** (SAR, $25,000). (Total: $1,262,171). Sister to **Time to Travel** ($67,934, 2nd LARC Sir Barton S.-R (PIM, $20,000)), half-sister to **CREDIT RIVER** ($98,801, 1st Ontario Racing S. (WO, $97,200)). Dam of 6 foals, 3 to race, 2 winners--
 <hip>60</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
 update on line 40: + **HARD NOT TO LIKE**, by Hard Spun. 3 wins in 5 starts at 2, $251,300, in Canada, 1st Cup and Saucer S.-R (WO, $150,000); 5 wins, 4 to 6, $1,009,867, in N.A./U.S., 1st Diana S. **[G1]**-ncr, 1 1/8 miles in 1:45.22 (SAR, $300,000), Gamely S. **[G1]** (SA, $180,000), Jenny Wiley S. **[G1]** (KEE, $180,000), Marshua's River S. **[G3]** (GP, $60,000), 2nd Central Bank Ashland S. **[G1]** (KEE, $100,000), Gallorette H. **[G3]** (PIM, $30,000), Lambholm South Endeavour S. **[G3]** (TAM, $30,000), 3rd Jenny Wiley S. **[G1]** (KEE, $30,000), Ketel One Ballston Spa S. **[G2]** (SAR, $25,000). (Total: $1,262,171). Sister to **Time to Travel** ($67,934, 2nd LARC Sir Barton S.-R (PIM, $20,000)), half-sister to **CREDIT RIVER** ($98,801, 1st Ontario Racing S. (WO, $97,200)). Dam of 6 foals, 3 to race, 2 winners--
++    **Faustin** (2020 c. by Curlin). Winner in 2 starts at 2, placed at 3, 2023, $80,200, 2nd San Vicente S. **[G2]** (SA, $40,000).
 		<hip>60</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Faustin**</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>c</HorseSex>
-40
 		<DamDamName>**HARD NOT TO LIKE**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>n</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -25,23 +26,23 @@ update on line 40: + **HARD NOT TO LIKE**, by Hard Spun. 3 wins in 5 starts at 2
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 42: +    **Faustin** (2020 c. by Curlin). Winner in 2 starts at 2, placed at 3, 2023, $80,200, 2nd San Vicente S. **[G2]** (SA, $40,000).
 Dam is in line 40: + **HARD NOT TO LIKE**, by Hard Spun. 3 wins in 5 starts at 2, $251,300, in Canada, 1st Cup and Saucer S.-R (WO, $150,000); 5 wins, 4 to 6, $1,009,867, in N.A./U.S., 1st Diana S. **[G1]**-ncr, 1 1/8 miles in 1:45.22 (SAR, $300,000), Gamely S. **[G1]** (SA, $180,000), Jenny Wiley S. **[G1]** (KEE, $180,000), Marshua's River S. **[G3]** (GP, $60,000), 2nd Central Bank Ashland S. **[G1]** (KEE, $100,000), Gallorette H. **[G3]** (PIM, $30,000), Lambholm South Endeavour S. **[G3]** (TAM, $30,000), 3rd Jenny Wiley S. **[G1]** (KEE, $30,000), Ketel One Ballston Spa S. **[G2]** (SAR, $25,000). (Total: $1,262,171). Sister to **Time to Travel** ($67,934, 2nd LARC Sir Barton S.-R (PIM, $20,000)), half-sister to **CREDIT RIVER** ($98,801, 1st Ontario Racing S. (WO, $97,200)). Dam of 6 foals, 3 to race, 2 winners--
++    Rhetoric (2019 c. by Quality Road). Winner at 3, 2022, $58,491. Died 2023.
 		<hip>60</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Rhetoric</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
-40
 		<DamDamName>**HARD NOT TO LIKE**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>d</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -49,23 +50,23 @@ Dam is in line 40: + **HARD NOT TO LIKE**, by Hard Spun. 3 wins in 5 starts at 2
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 44: +    Rhetoric (2019 c. by Quality Road). Winner at 3, 2022, $58,491. Died 2023.
 Dam is in line 40: + **HARD NOT TO LIKE**, by Hard Spun. 3 wins in 5 starts at 2, $251,300, in Canada, 1st Cup and Saucer S.-R (WO, $150,000); 5 wins, 4 to 6, $1,009,867, in N.A./U.S., 1st Diana S. **[G1]**-ncr, 1 1/8 miles in 1:45.22 (SAR, $300,000), Gamely S. **[G1]** (SA, $180,000), Jenny Wiley S. **[G1]** (KEE, $180,000), Marshua's River S. **[G3]** (GP, $60,000), 2nd Central Bank Ashland S. **[G1]** (KEE, $100,000), Gallorette H. **[G3]** (PIM, $30,000), Lambholm South Endeavour S. **[G3]** (TAM, $30,000), 3rd Jenny Wiley S. **[G1]** (KEE, $30,000), Ketel One Ballston Spa S. **[G2]** (SAR, $25,000). (Total: $1,262,171). Sister to **Time to Travel** ($67,934, 2nd LARC Sir Barton S.-R (PIM, $20,000)), half-sister to **CREDIT RIVER** ($98,801, 1st Ontario Racing S. (WO, $97,200)). Dam of 6 foals, 3 to race, 2 winners--
++    **CREDIT RIVER** (2018 g. by More Than Ready). Winner at 2, $101,883, in Canada, 1st Ontario Racing S. (WO, $97,200); winner at 4, placed at 5, 2023, $21,695, in N.A./U.S. (Total: $98,801).
 		<hip>60</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**CREDIT RIVER**</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
-48
 		<DamDamName>**LIKE A GEM**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>y</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -73,19 +74,20 @@ Dam is in line 40: + **HARD NOT TO LIKE**, by Hard Spun. 3 wins in 5 starts at 2
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 52: +    **CREDIT RIVER** (2018 g. by More Than Ready). Winner at 2, $101,883, in Canada, 1st Ontario Racing S. (WO, $97,200); winner at 4, placed at 5, 2023, $21,695, in N.A./U.S. (Total: $98,801).
 Dam is in line 48:   **LIKE A GEM**, by Tactical Cat. 6 wins, 2 to 4, $582,708, in Canada, 1st Wonder Where S.-R (WO, $150,000), Maple Leaf S. [L]-ntr, 1 1/4 miles in 2:03.51 (WO, $135,000), River Memories S. [L] (WO, $60,000), 2nd Hill 'n' Dale S. [L] (WO, $20,000), Ontario Lassie S.-R (WO, $32,430), Fury S.-R (WO, $30,000), 3rd Ontario Colleen S. [L] (WO, $19,250). (Total: $554,216). Half-sister to **WIN AND REIGN** ($212,651, 1st Vandal S.-R (WO, $90,000), etc.), **Cool Gator** ($299,262, 2nd Grey Breeders' Cup S. **[G3]** (WO, $50,000), etc.), **Ruby Lips** ($83,020, 3rd Tempted S. **[G3]** (AQU, $15,000), etc.). Dam of 10 foals, 7 to race, 3 winners--
++    .  **Miss Marie** (2018 f. by Carpe Diem). Winner at 3 and 4, 2022, $193,810, in Canada, 2nd Wonder Where S.-R (WO, $50,000); unplaced in 1 start, $730, in N.A./U.S. (Total: $151,507).
 		<hip>60</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Miss Marie**</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>More to Like</DamName>
 	</update>

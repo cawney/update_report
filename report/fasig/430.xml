@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Tricolour (2019 g. by Hard Spun). Placed, 2 to 4, 2023, $39,588.
 		<hip>430</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tricolour</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
-39
 		<DamDamName>**Wave the Flag**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>n</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,11 +20,11 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 43: +    Tricolour (2019 g. by Hard Spun). Placed, 2 to 4, 2023, $39,588.
 Dam is in line 39:   **Wave the Flag**, by Empire Maker. Winner in 2 starts at 3, $41,600, 2nd Wild Applause S. (BEL, $20,000). Half-sister to **BLINGISMYTHING** ($294,830, 1st Wilshire S. **[G3]** (SA, $60,000), etc.). Dam of 6 foals, 4 to race, 1 winner--
 	</update>

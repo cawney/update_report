@@ -3,32 +3,34 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Big Flame (2018 g. by Mr. Big). 3 wins at 2 and 4, 2022, $102,196 Set ntr at Golden Gate Fields, 1 1/4 miles in 2:02.70 (11/04/22).
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Big Flame</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Renegade Heat</DamName>
++    .  Big Hopes (2020 f. by Mr. Big). Winner at 2, 2022, $51,000.
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Big Hopes</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Renegade Heat</DamName>
++    Advection (2011 f. by Unusual Heat). Unplaced in 1 start, $250. Dam of 3 foals, 3 to race, 1 winner--
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Advection</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>c</HorseSex>
-34
 		<DamDamName>LETHAL HUNTER</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>t</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -36,81 +38,90 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 54: +    Advection (2011 f. by Unusual Heat). Unplaced in 1 start, $250. Dam of 3 foals, 3 to race, 1 winner--
 Dam is in line 34:   LETHAL HUNTER, by Jade Hunter. Unraced. Half-sister to **LETHAL HEAT** ($655,988, 1st Hollywood Oaks **[G2]** (HOL, $94,560), etc.), **PREVALENT** ($61,760, 1st Meafara S. (HAW, $25,680)). Dam of 11 foals, 6 to race, 4 winners--
++    .  Courageous Timmy (2019 g. by Klimt). 2 wins at 3, 2022, $29,779.
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Courageous Timmy</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Advection</DamName>
++    .  Total Heat (2011 f. by Street Cry (IRE)). 5 wins, 2 to 5, 92,352,000 Yen, in Japan. Sent from United States to Japan in 2011. (Total: $804,616). Dam of 3 foals, 3 to race, 2 winners--
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Total Heat</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**LETHAL HEAT**</DamName>
++    .  .  =Thermal Soaring (JPN) (2020 f. by =Duramente (JPN)). Winner at 3, 2023, 9,080,000 Yen, in Japan. (Total: $66,881).
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Thermal Soaring</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Candescent (JPN) (2019 c. by =Deep Impact (JPN)). Winner in 2 starts at 2, 7,000,000 Yen, in Japan. (Total: $63,812).
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Candescent</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  =Ultima Heat (JPN) (2013 f. by =Stay Gold (JPN)). Winner at 3, 5,000,000 Yen, in Japan. (Total: $46,000). Dam of 1 foal--
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Ultima Heat</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**LETHAL HEAT**</DamName>
++    .  **LETHAL SPEAKER** (2017 f. by Mr Speaker). 6 wins, 3 to 5, 2022 in Panama, 1st Clasico Jorge Ameglio [L], 2nd Clasico Isaac Sam Jimenez [L], 3rd Clasico Dia de la Madre [L]. Sent from United States to Panama in 2018.
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**LETHAL SPEAKER**</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Serious Heat</DamName>
++    .  Louella Street (2019 f. by Street Sense). Winner at 2, placed at 3, 2022, $45,528.
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Louella Street</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Serious Heat</DamName>
++    .  Heat Seeking Leta (2017 f. by Clubhouse Ride). 5 wins, 3 to 5, 2022, $60,366.
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Heat Seeking Leta</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Heatology</DamName>
++    .  Escape Plan (2022 c. by Om).
 		<hip>379</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Escape Plan</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseYOB>2022</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Heatology</DamName>
 	</update>

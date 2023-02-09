@@ -3,28 +3,31 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  **DREAMER'S DISEASE** (2018 g. by Laoban). 4 wins at 2 and 4, 2022, $247,405, 1st Delta Mile S. (DED, $60,000), 2nd New York Stallion Series S.-R (SAR, $30,000), Better Talk Now S.-R (SAR, $24,000).
 		<hip>308</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**DREAMER'S DISEASE**</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Marketplace</DamName>
++    .  Zaici (2020 r. by Laoban). Winner at 2, placed at 3, 2023, $48,268.
 		<hip>308</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Zaici</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Marketplace</DamName>
++    .  What a Dude (2019 c. by Hard Spun). Winner at 3, 2022, $49,884.
 		<hip>308</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>What a Dude</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Off the Boat</DamName>
 	</update>

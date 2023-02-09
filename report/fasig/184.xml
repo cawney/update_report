@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Runninforcover (2018 g. by Run Away and Hide). Winner at 3, placed at 4, 2022, $106,313, in Canada; placed in 2 starts at 3, $6,370, in N.A./U.S. (Total: $90,076).
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Runninforcover</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
-33
 		<DamDamName>DOUBLE GUNS GIRL</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>e</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,38 +20,40 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 37: +    Runninforcover (2018 g. by Run Away and Hide). Winner at 3, placed at 4, 2022, $106,313, in Canada; placed in 2 starts at 3, $6,370, in N.A./U.S. (Total: $90,076).
 Dam is in line 33:   DOUBLE GUNS GIRL, by Langfuhr. Winner at 3, $43,873, in Canada; unplaced in 2 starts, $870, in N.A./U.S. (Total: $43,491). Half-sister to **BREAKING LUCKY** ($1,196,376, 1st Seagram Cup S. **[G3]** (WO, $108,000), etc.). Dam of 6 foals, 5 to race, 5 winners--
++    .  **MITCHELL ROAD** (2015 f. by English Channel). 7 wins, 3 to 5, $619,893, 1st Gallorette S. **[G3]** (PIM, $90,000), My Charmer S. [L] (GP, $58,900), Albert M. Stall Memorial S. (FG, $45,000), Ellis Park Turf S. (ELP, $30,690), 2nd Kentucky Downs Ladies Turf S. **[G3]** (KD, $98,000), Three Chimneys Ladies Turf S. **[G3]** (KD, $97,000), Athenia S. **[G3]** (BEL, $20,000), South Beach S. [L] (GP, $27,900), Albert M. Stall Memorial S. [L] (FG, $20,000). Sent from United States to France in 2021. Dam of 1 foal--
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**MITCHELL ROAD**</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Quake Lake</DamName>
++    .  .  =Wheeler (GB) (2022 c. by Speightstown).
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Wheeler</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseYOB>2022</HorseYOB>
 		<HorseSex>r</HorseSex>
++    Blasted (2007 f. by Dynaformer). Winner at 2, $35,480. Sent from United States to Saudi Arabia in 2014. Dam of 8 foals, 7 to race, 5 winners--
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Blasted</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>f</HorseSex>
-44
 		<DamDamName>**Shooting Party**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>r</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -59,70 +61,78 @@ Dam is in line 33:   DOUBLE GUNS GIRL, by Langfuhr. Winner at 3, $43,873, in Can
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 56: +    Blasted (2007 f. by Dynaformer). Winner at 2, $35,480. Sent from United States to Saudi Arabia in 2014. Dam of 8 foals, 7 to race, 5 winners--
 Dam is in line 44:   **Shooting Party**, by Sky Classic. 4 wins at 3 and 4, $322,917, 2nd Garden City Breeders' Cup H. **[G1]**, Boiling Springs Breeders' Cup H. [L] (MED, $40,000), Ballston Spa Breeders' Cup H. [L] (SAR, $42,181), Memories of Silver S.-R (AQU, $13,220), 3rd Nassau County S. **[G2]**, Pebbles H. **[G3]**. Died 2019. Dam of 8 foals, 7 to race, 4 winners--
++    .  Blasted Boss (2014 f. by Street Boss). 5 wins, 2 to 4, $127,373. Dam of 3 foals--
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Blasted Boss</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Blasted</DamName>
++    .  Having a Blast (2011 f. by Exchange Rate). Winner at 3, 22,800 Euro, in France. Sent from United States to France in 2013. (Total: $31,244). Dam of 6 foals, 5 to race, 3 winners--
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Having a Blast</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Blasted</DamName>
++    .  .  =Succendam (GB) (2016 g. by =Sea The Moon (GER)). 2 wins at 3, $39,370(AUS), in Australia. Registered in Great Britain as Blast Off. (Total: $26,479).
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Succendam</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =Lethal Blast (GB) (2017 f. by =Lethal Force (IRE)). 4 wins at 4, placed at 5, 2022, 19,190 Pounds, in England. (Total: $26,364).
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Lethal Blast</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =Le Tabou (GB) (2020 c. by =Charm Spirit (IRE)). Winner at 2, placed at 3, 2023, 24,500 Euro, in France. (Total: $25,971).
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Le Tabou</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =Have To Have (GB) (2018 f. by =Havana Gold (IRE)). Placed at 2, 1,513 Pounds, in England. (Total: $1,960).
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Have To Have</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =Shockwaves (GB) (2019 g. by =Sea The Moon (GER)). Placed at 3, 2022, 1,226 Pounds, in England. (Total: $1,517).
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Shockwaves</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Choegang Plus (2012 f. by Exchange Rate). 6 wins, 2 to 5 in Republic of Korea. Sent from United States to Republic of Korea in 2014. Dam of 1 foal--
 		<hip>184</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Choegang Plus</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Blasted</DamName>
 	</update>

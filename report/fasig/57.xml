@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    **BARESE** (2019 c. by Laoban). 4 wins at 2 and 3, 2022, $431,750, 1st New York Derby-R (FL, $90,000), Rego Park S.-R (AQU, $55,000), Gander S.-R (AQU, $55,000), 2nd Discovery S. [L] (AQU, $30,000), Albany S.-R (SAR, $50,000), 3rd Empire Classic S.-R (BAQ, $30,000), New York Stallion S.-R (AQU, $24,000).
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**BARESE**</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
-34
 		<DamDamName>RIGHT PREVAILS</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>n</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,123 +20,138 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 37: +    **BARESE** (2019 c. by Laoban). 4 wins at 2 and 3, 2022, $431,750, 1st New York Derby-R (FL, $90,000), Rego Park S.-R (AQU, $55,000), Gander S.-R (AQU, $55,000), 2nd Discovery S. [L] (AQU, $30,000), Albany S.-R (SAR, $50,000), 3rd Empire Classic S.-R (BAQ, $30,000), New York Stallion S.-R (AQU, $24,000).
 Dam is in line 34:   RIGHT PREVAILS, by Successful Appeal. Unraced. Sister to **CLOSING ARGUMENT** ($986,984, 1st Holy Bull S. **[G3]** (GP, $90,000), etc., sire). Dam of 6 foals, 3 to race, 2 winners--
++    .  **Tupancy Links** (2011 f. by Kodiak Kowboy). 3 wins at 2 and 3, $151,153, 2nd Gin Talking S. (LRL, $20,000), Hilltop S. (PIM, $23,333). Sent from United States to Australia in 2017. Dam of 3 foals, 2 to race, 2 winners--
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Tupancy Links**</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Oral Argument</DamName>
++    .  .  =Malibu Edition (AUS) (2018 g. by Malibu Moon). 3 wins at 3 and 4, 2022, $55,800(AUS), in Australia. (Total: $38,314).
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Malibu Edition</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  =Powerful Eagle (AUS) (2019 g. by Ribchester (IRE)). Winner at 3, 2022, $38,025(AUS), in Australia. (Total: $24,949).
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Powerful Eagle</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Super Woman (2012 f. by Super Saver). Placed at 3 and 4, $6,968. Dam of 3 foals, 2 to race, 1 winner--
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Super Woman</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Oral Argument</DamName>
++    .  .  Super Hunk (2019 g. by The Hunk). 2 wins at 3, 2022, $38,088.
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Super Hunk</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Super Besliu (2020 g. by Mr. Besilu). Placed at 2, 2022, $6,825.
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Super Besliu</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Miss Jade (2022 f. by Ain't Bad At All).
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Miss Jade</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseYOB>2022</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  My Gift (2014 f. by Ice Box). Unplaced in Japan. Sent from United States to Japan in 2015. Dam of 3 foals, 1 to race--
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>My Gift</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Oral Argument</DamName>
++    .  .  =Shin Sawbu (JPN) (2019 f. by Bago (FR)). Placed at 3, 2022, 56,000 Yen, in Japan. (Total: $438).
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Shin Sawbu</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Sunny Lane (2019 f. by Mastery). 2 wins at 3, 2022, $37,459.
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sunny Lane</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Mrs. Appeal</DamName>
++    .  New Money (2009 f. by Unbridled's Song). Winner at 3, $31,195. Dam of 4 foals, 3 to race, 1 winner--
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>New Money</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>True Argument</DamName>
++    .  .  Lil Money (2015 f. by Awesome Patriot). Winner at 4, $11,825.
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lil Money</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  First Place Money (2018 f. by First Place Flirt). (application pending)
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>First Place Money</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  =Sawam (KSA) (2018 c. by Casino Host). Winner at 3 and 4, 2022, 171,250 Riyals, in Saudi Arabia. (Total: $45,667).
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Sawam</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Jeaneri</DamName>
++    .  =Ghomoodh (KSA) (2020 f. by Stratford Hill). Placed at 2, 2022, 7,500 Riyals, in Saudi Arabia. (Total: $2,000).
 		<hip>57</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Ghomoodh</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Jeaneri</DamName>
 	</update>

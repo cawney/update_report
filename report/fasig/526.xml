@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Lazy Y Legacy (2022 f. by Honest Mischief). See above.
 		<hip>526</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lazy Y Legacy</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseYOB>2022</HorseYOB>
 		<HorseSex>g</HorseSex>
-33
 		<DamDamName>PERFECT LEGACY</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>f</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,27 +20,29 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 38: +    Lazy Y Legacy (2022 f. by Honest Mischief). See above.
 Dam is in line 33:   PERFECT LEGACY, by Perfect Soul (IRE). Placed at 4, $2,670. Half-sister to **Sam P.** ($399,864, 2nd Robert B. Lewis S. **[G2]** (SA, $40,000), etc.), **Summer Legacy** ($123,982, 2nd Sam F. Davis S. [L] (TAM, $15,000)). Dam of 5 foals, 2 to race, 2 winners--
++    .  It Was Considered (2014 f. by Tizway). Winner at 4, $36,025. Dam of 1 foal--
 		<hip>526</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>It Was Considered</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Sweetheart Legacy</DamName>
++    .  Oasis Jak (2020 f. by Tapizar). Placed at 2 and 3, 2023, $4,430.
 		<hip>526</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Oasis Jak</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Sweetheart Legacy</DamName>
 	</update>

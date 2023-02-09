@@ -3,44 +3,49 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Oh Toodles (2017 f. by Chatain). 3 wins at 3, $58,215. Dam of 1 foal--
 		<hip>382</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Oh Toodles</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Gal Aloud</DamName>
++    .  Kitten's Man (2017 g. by Hampton Court (AUS)). 6 wins, 3 to 6, 2023, $90,075.
 		<hip>382</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Kitten's Man</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Shining Kitten</DamName>
++    .  Astolat (GB) (2015 f. by =Camelot (GB)). 3 wins at 3 and 4, $62,040, in N.A./U.S.; placed at 3, 3,009 Pounds, in England. Sent from Great Britain to United States in 2018. (Total: $66,163). Dam of 2 foals--
 		<hip>382</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Astolat</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Sablonne</DamName>
++    .  =Royal Hush (GB) (2008 f. by $Royal Applause (GB)). Winner at 3, 4,045 Pounds, in England. (Total: $6,644). Dam of 6 foals, 4 to race--
 		<hip>382</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Royal Hush</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Sablonne</DamName>
++    .  =Odin's Quest (GB) (2018 g. by =Gentlewave (IRE)). Winner at 4, 2022, 2,492 Pounds, in England. (Total: $3,358).
 		<hip>382</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Odin's Quest</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Sablonne</DamName>
 	</update>

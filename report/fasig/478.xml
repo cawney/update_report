@@ -3,20 +3,22 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  =Lemi Gambino(TUR) (2014 f. by Dehere). 2 wins at 2 in Turkey. Dam of 2 foals--
 		<hip>478</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Lemi Gambino(TUR)</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Chatila</DamName>
++    .  =Tokyo Venture (TUR) (2012 f. by Powerscourt (GB)). Unplaced in 1 start in Turkey. Dam of 4 foals--
 		<hip>478</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Tokyo Venture</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Chatila</DamName>
 	</update>

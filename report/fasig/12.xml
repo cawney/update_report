@@ -3,21 +3,22 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++ AKRIS QUEEN, by Arch. Winner at 3, $23,933. Half-sister to **INDESCRIBABLE** ($476,159, 1st Arlington Matron H. **[G3]** (AP, $88,200), etc.), **MICROMANAGE** ($790,551, 1st Skip Away S. **[G3]** (GP, $60,000), etc., sire), **ELAFLAAK** (Total: $32,893, 1st Swettenham Stud St. Hugh's S. [L]). Dam of 7 foals, 5 to race, 4 winners--
 <hip>12</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
 update on line 36: + AKRIS QUEEN, by Arch. Winner at 3, $23,933. Half-sister to **INDESCRIBABLE** ($476,159, 1st Arlington Matron H. **[G3]** (AP, $88,200), etc.), **MICROMANAGE** ($790,551, 1st Skip Away S. **[G3]** (GP, $60,000), etc., sire), **ELAFLAAK** (Total: $32,893, 1st Swettenham Stud St. Hugh's S. [L]). Dam of 7 foals, 5 to race, 4 winners--
++    **Breadman** (2018 g. by Constitution). Winner at 2 and 4, 2022, $109,786, 3rd Sleepy Hollow S.-R (BEL, $18,000).
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Breadman**</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
-36
 		<DamDamName>AKRIS QUEEN</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>n</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -25,250 +26,283 @@ update on line 36: + AKRIS QUEEN, by Arch. Winner at 3, $23,933. Half-sister to 
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 40: +    **Breadman** (2018 g. by Constitution). Winner at 2 and 4, 2022, $109,786, 3rd Sleepy Hollow S.-R (BEL, $18,000).
 Dam is in line 36: + AKRIS QUEEN, by Arch. Winner at 3, $23,933. Half-sister to **INDESCRIBABLE** ($476,159, 1st Arlington Matron H. **[G3]** (AP, $88,200), etc.), **MICROMANAGE** ($790,551, 1st Skip Away S. **[G3]** (GP, $60,000), etc., sire), **ELAFLAAK** (Total: $32,893, 1st Swettenham Stud St. Hugh's S. [L]). Dam of 7 foals, 5 to race, 4 winners--
++    .  Cataria Girl (2009 f. by Discreet Cat). 4 wins at 5, 9,754 Pounds, in England. Sent from United States to Great Britain in 2010. Racing in England as Cataria Girl. (Total: $16,193). Dam of 4 foals, 2 to race, 1 winner--
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Cataria Girl</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**ELAFLAAK**</DamName>
++    .  .  =Alasrah (KSA) (2018 c. by Tayyab). Winner at 3, placed at 4, 2022, 78,875 Riyals, in Saudi Arabia. (Total: $21,033).
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Alasrah</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Alshaqee (KSA) (2016 c. by =Sir Percy (GB)). Placed at 3 and 4, 27,000 Riyals, in Saudi Arabia. (Total: $7,199).
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Alshaqee</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  =Aurora Borealis (IRE) (2011 f. by $Montjeu (IRE)). Unplaced in England. Dam of 6 foals, 3 to race, 2 winners--
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Aurora Borealis</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**ELAFLAAK**</DamName>
++    .  .  =Arctic Fox (GB) (2016 f. by Mastercraftsman (IRE)). 5 wins at 3 and 6, 2022, 57,510 Pounds, in England. (Total: $72,981).
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Arctic Fox</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Fraternity (IRE) (2017 f. by Zoffany (IRE)). Winner at 3, 6,815 Pounds, in England; placed at 4, 3,340 Euro, in Ireland. (Total: $12,459).
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Fraternity</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =April In Paris (IRE) (2019 f. by Zoffany (IRE)). Placed at 3, 2022, 1,923 Pounds, in England; unplaced in Qatar. (Total: $2,605).
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=April In Paris</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Ozil (2010 f. by Stormy Atlantic). Winner at 3, 17,698,000 Yen, in Japan. Sent from United States to Japan in 2012. (Total: $187,174). Dam of 3 foals, 2 to race, 2 winners--
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Ozil</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>One West</DamName>
++    .  .  =Rough Stream (JPN) (2018 c. by =Duramente (JPN)). 3 wins, 2 to 4, 2022, 32,771,000 Yen, in Japan. (Total: $278,423).
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Rough Stream</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  =Endspiel (JPN) (2019 f. by =Deep Brillante (JPN)). 3 wins in 5 starts at 3, 2022, 4,980,000 Yen, in Japan. (Total: $37,049).
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Endspiel</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Personally Yours (2009 f. by Harlan's Holiday). Winner at 2, $33,335. Sent from United States to Republic of Korea in 2018. Dam of 6 foals, 4 to race, 3 winners--
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Personally Yours</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>One West</DamName>
++    .  .  Nottoway (2015 g. by Twirling Candy). 9 wins, 3 to 6, placed at 7, 2022, $302,034.
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Nottoway</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Social Circle (2016 f. by Stay Thirsty). 9 wins, 3 to 6, 2022, $139,040.
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Social Circle</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Divine Appointment (2014 f. by Divine Park). Winner at 3 and 4, $51,035.
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Divine Appointment</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  One Fleet Princess (2018 f. by Afleet Alex). Placed at 3 and 4, 2022, $10,300, in Canada. (Total: $8,055).
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>One Fleet Princess</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Von Rosenberg (2008 f. by Johannesburg). Winner in 1 start at 3, $15,600. Dam of 9 foals, 5 to race, 3 winners--
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Von Rosenberg</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>One West</DamName>
++    .  .  Soul Set Free (2019 f. by Race Day). 4 wins at 3, 2022, $38,806.
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Soul Set Free</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Icy Baby (2013 f. by Ice Box). Winner at 3, $9,762.
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Icy Baby</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Handsome Rebel (2014 c. by Eskendereya). 4 wins, 3 to 5 in Panama. Sent from United States to Panama in 2015.
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Handsome Rebel</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Seductionist (2016 f. by Midshipman). Unraced. Dam of 2 foals--
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Seductionist</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Diva Gone Wild (2007 f. by Officer). Winner at 3, $12,145. Dam of 6 foals, 2 to race, 2 winners--
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Diva Gone Wild</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>One West</DamName>
++    .  .  Gone Viral (2013 g. by Informed). 5 wins at 5 and 6, $72,936.
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Gone Viral</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Smart Idea (2012 g. by Einstein (BRZ)). 3 wins at 4 and 5, $15,884.
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Smart Idea</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Vision (2015 g. by Orb). Winner in 1 start at 2, $24,000.
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Vision</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Tiz Dragon (2012 c. by Tiznow). 8 wins at 4 and 5, 2,505,000 Yen, in Japan. Sent from United States to Japan in 2013. (Total: $22,925).
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tiz Dragon</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Oxford Babes (2010 f. by Curlin). Winner at 4, $21,540. Sent from United States to Republic of Korea in 2017. Dam of 3 foals--
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Oxford Babes</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Quality A. Rod (2013 c. by Elusive Quality). Placed at 4, $5,960.
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Quality A. Rod</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  **Mannerly** (2014 f. by Unbridled's Song). 4 wins at 3 and 4, $175,925, 3rd Locust Grove S. **[G3]** (CD, $9,600), New Orleans Ladies Overnight S. (FG, $4,850). Dam of 2 foals--
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Mannerly**</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Strategical (2011 g. by More Than Ready). 3 wins at 2, 12,686 Pounds, in England; placed in 1 start at 4, 110,173 Dirhams, in United Arab Emirates. Sent from United States to Ireland in 2012. (Total: $49,929). Died 2019.
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Strategical</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Biting Bullets (2012 c. by Bluegrass Cat). 2 wins at 2, 10,622 Pounds, in England. Sent from United States to Ireland in 2013. (Total: $16,710). Died 2015.
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Biting Bullets</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Ten in Excess (2010 f. by Rock Hard Ten). Placed at 4, $8,560. Dam of 3 foals--
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Ten in Excess</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Head On (2009 f. by Giant's Causeway). 3 wins at 3, 41,504 Reals, in Brazil. Sent from United States to Brazil in 2010. (Total: $20,181). Dam of 3 foals, 3 to race, 1 winner--
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Head On</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Catchofthecentury</DamName>
++    .  .  =Rock N Roll (BRZ) (2018 c. by Hat Trick (JPN)). 3 wins at 3 and 4, 2022, 575,797 Pesos, in Uruguay. (Total: $14,200).
 		<hip>12</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Rock N Roll</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>

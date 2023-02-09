@@ -3,20 +3,22 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Zoe's Baba (2010 f. by In Excess (IRE)). 6 wins, 2 to 4, $46,805. Dam of 4 foals, 1 to race--
 		<hip>552</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Zoe's Baba</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Dear Isabella</DamName>
++    .  .  Respect the Ride (2019 f. by Boat Trip). Placed at 3, 2022, $4,610.
 		<hip>552</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Respect the Ride</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>

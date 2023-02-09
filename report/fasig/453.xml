@@ -3,216 +3,244 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  .  =Money Blue (ARG) (2011 f. by The Leopard). 3 wins at 3 and 5, 611,074 Pesos, in Argentina. (Total: $56,038).
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Money Blue</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =Simona Temple (ARG) (2015 f. by Grand Reward). 3 wins at 3, 1,163,637 Pesos, in Argentina. (Total: $33,191).
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Simona Temple</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =Gitano Guapo (ARG) (2013 c. by Grand Reward). 3 wins, 3 to 5, 546,796 Pesos, in Argentina. (Total: $27,478).
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Gitano Guapo</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =Mon But (ARG) (2010 c. by =Russian Blue (IRE)). Winner at 4 and 6, 140,350 Pesos, in Argentina. (Total: $14,746).
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Mon But</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =Madmuasel Blue (ARG) (2012 f. by =Russian Blue (IRE)). Unplaced in 1 start in Argentina. Dam of 3 foals, 2 to race, 1 winner--
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Madmuasel Blue</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Cantabile (2004 f. by Siphon (BRZ)). Placed at 2, $9,280. Dam of 3 foals, 2 to race, 1 winner--
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Cantabile</HorseName>
-		<HorseYOB>2004 </HorseYOB>
+		<HorseYOB>2004</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Mike's Way</DamName>
++    .  .  Tengas Way (2012 g. by Tenga Cat). Winner at 4, $9,675.
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tengas Way</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  Classy Me (2002 f. by Belong to Me). Unraced. Died 2011. Dam of 2 foals, 1 to race--
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Classy Me</HorseName>
-		<HorseYOB>2002 </HorseYOB>
+		<HorseYOB>2002</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Mike's Way</DamName>
++    .  .  Bayou Mike (2009 g. by Be Like Mike). Placed at 3, $2,082.
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Bayou Mike</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  =Baalb (IRE) (2020 g. by =Belardo (IRE)). 3 wins in 6 starts at 2, 2022, 179,750 Riyals, in Saudi Arabia. (Total: $47,934).
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Baalb</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Circleofinfluence</DamName>
++    .  =Crazy Maisie (IRE) (2019 f. by =Belardo (IRE)). Winner at 3, placed at 4, 2023, 8,312 Pounds, in England. (Total: $9,678).
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Crazy Maisie</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Circleofinfluence</DamName>
++    .  Wah Mei (2006 f. by Vindication). 4 wins at 4, $43,484, in N.A./U.S.; unplaced, $2,978, in Canada. (Total: $46,074). Dam of 4 foals--
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Wah Mei</HorseName>
-		<HorseYOB>2006 </HorseYOB>
+		<HorseYOB>2006</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Golden Prospect</DamName>
++    .  .  Classic Coyote (2017 c. by Wrote (IRE)). (application pending)
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Classic Coyote</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Wrinkle Room (2009 f. by English Channel). 3 wins at 3 and 4, $39,100. Dam of 1 foal--
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Wrinkle Room</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Golden Prospect</DamName>
++    .  Bebucha (2010 f. by English Channel). 3 wins at 2 and 3, 27,214 New Sol, in Peru. Sent from United States to Peru in 2011. (Total: $10,177). Dam of 3 foals, 3 to race, 1 winner--
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Bebucha</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Golden Prospect</DamName>
++    .  .  =Wanijaii (PER) (2016 f. by Forty Tales). 3 wins at 2 and 4, 12,907 New Sol, in Peru. (Total: $3,736).
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Wanijaii</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Juliet Alpha (2012 f. by English Channel). Unplaced in 1 start. Died 2020. Dam of 4 foals, 2 to race--
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Juliet Alpha</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Golden Prospect</DamName>
++    .  .  Maybe It's Time (2019 g. by Big Blue Kitten). Placed at 3, 2022, $14,465.
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Maybe It's Time</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  That's My Cat (2020 f. by Big Blue Kitten). Placed at 2, 2022, $3,300.
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>That's My Cat</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  La Nina (2013 f. by Tale of the Cat). 3 wins at 3 and 4, $132,756. Sent from United States to Saudi Arabia in 2021. Dam of 2 foals--
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>La Nina</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Ours</DamName>
++    .  Our Lute (2018 f. by Midnight Lute). Unraced. Dam of 1 foal--
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Our Lute</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Ours</DamName>
++    .  Tabarak (2016 c. by Quality Road). Winner at 3, placed at 7, 2023, 250,900 Dirhams, in United Arab Emirates. (Total: $68,320).
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tabarak</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Miss Drake</DamName>
++    .  Style (2019 f. by Union Rags). Winner at 2 and 3, 2022, $66,107.
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Style</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Miss Drake</DamName>
++    .  Thewestbelongstome (2022 c. by Driven West). (application pending)
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Thewestbelongstome</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseYOB>2022</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Classy Missy</DamName>
++    .  Classy Attraction (2005 f. by Cape Town). 4 wins at 4 and 7, $91,660. Dam of 1 foal, 1 to race, 1 winner--
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Classy Attraction</HorseName>
-		<HorseYOB>2005 </HorseYOB>
+		<HorseYOB>2005</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Classy Charlotte</DamName>
++    .  .  Royal Blue Grass (2016 g. by Bluegrass Cat). Winner at 4, $7,604.
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Royal Blue Grass</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Meadow Mirage (2003 f. by Meadowlake). 3 wins at 3 and 4, $61,276. Dam of 1 foal--
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Meadow Mirage</HorseName>
-		<HorseYOB>2003 </HorseYOB>
+		<HorseYOB>2003</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Classy Charlotte</DamName>
++    .  Smart Risk (2004 f. by Smart Strike). Unraced. Sent from United States to Ukraine in 2007. Sent from Ukraine to Russia in 2007. Dam of 1 foal--
 		<hip>453</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Smart Risk</HorseName>
-		<HorseYOB>2004 </HorseYOB>
+		<HorseYOB>2004</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Classy Charlotte</DamName>
 	</update>

@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Astro Jak (2014 g. by Astrology). 13 wins, 2 to 8, 2022, $196,922.
 		<hip>569</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Astro Jak</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
-34
 		<DamDamName>JACKIE'S CAUSEWAY</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>y</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,11 +20,11 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 37: +    Astro Jak (2014 g. by Astrology). 13 wins, 2 to 8, 2022, $196,922.
 Dam is in line 34:   JACKIE'S CAUSEWAY, by Giant's Causeway. Winner at 5, $49,016. Sent from United States to Mexico in 2018. Half-sister to **Dreaminofthewin** ($306,319, 2nd Smarty Jones S. [L] (OP, $20,000), etc.), **Comes the Dream** ($339,227, 3rd Toronto Cup S. [L] (WO, $13,750)). Dam of 6 foals, 5 to race, 4 winners--
 	</update>

@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Day's Humor (2017 f. by Carpe Diem). 2 wins at 4, placed at 5, 2022, $64,840. Died 2023.
 		<hip>351</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Day's Humor</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
-35
 		<DamDamName>FORCE OF HUMOR</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>m</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,11 +20,11 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 38: +    Day's Humor (2017 f. by Carpe Diem). 2 wins at 4, placed at 5, 2022, $64,840. Died 2023.
 Dam is in line 35:   FORCE OF HUMOR, by Distorted Humor. Winner at 4, $27,950. Half-sister to **SUMMER COLONY** ($1,448,930, 1st Personal Ensign H. **[G1]** (SAR, $240,000), etc.), **Colonial Causeway** ($130,200, 3rd Primal S. (CRC, $5,500)). Dam of 7 foals, 6 to race, 2 winners--
 	</update>

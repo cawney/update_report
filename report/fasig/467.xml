@@ -3,21 +3,22 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++ DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sister to **PHI BETA DOC** ($442,815, 1st Saranac H. **[G3]**, etc.), half-sister to **QUEEN MARY'S BOY** ($85,899, 1st San Mateo Mile S. [L] (BM, $33,700)), **Queen Ginni** ($43,083, 3rd Little Lady S. (SUF, $2,578)). Dam of 11 foals, 10 to race, 6 winners--
 <hip>467</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
 update on line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sister to **PHI BETA DOC** ($442,815, 1st Saranac H. **[G3]**, etc.), half-sister to **QUEEN MARY'S BOY** ($85,899, 1st San Mateo Mile S. [L] (BM, $33,700)), **Queen Ginni** ($43,083, 3rd Little Lady S. (SUF, $2,578)). Dam of 11 foals, 10 to race, 6 winners--
++    Juan Simon (2015 c. by Run Away and Hide). Winner at 2 in Panama. Sent from United States to Panama in 2016.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Juan Simon</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>c</HorseSex>
-35
 		<DamDamName>DOC'S LEADING LADY</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>e</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -25,264 +26,299 @@ update on line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sist
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 47: +    Juan Simon (2015 c. by Run Away and Hide). Winner at 2 in Panama. Sent from United States to Panama in 2016.
 Dam is in line 35: + DOC'S LEADING LADY, by Doc's Leader. Unplaced, $2,520. Sister to **PHI BETA DOC** ($442,815, 1st Saranac H. **[G3]**, etc.), half-sister to **QUEEN MARY'S BOY** ($85,899, 1st San Mateo Mile S. [L] (BM, $33,700)), **Queen Ginni** ($43,083, 3rd Little Lady S. (SUF, $2,578)). Dam of 11 foals, 10 to race, 6 winners--
++    .  Lady Temple (2013 f. by Temple City). 3 wins, 3 to 5, $72,676. Dam of 3 foals--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lady Temple</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Lady Cali</DamName>
++    .  Lady Molly (2012 f. by Brother Derek). 4 wins, 3 to 5, $60,910. Dam of 4 foals, 1 to race, 1 winner--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lady Molly</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Lady Cali</DamName>
++    .  .  Molly's Warrior (2019 f. by Warrior's Reward). Winner at 3, 2022, $46,200.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Molly's Warrior</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  **Sweet Remiss** (1999 f. by Bag). 4 wins, 2 to 6, $93,751, 2nd Louisiana Futurity-R (FG, $12,255). Dam of 2 foals, 2 to race, 1 winner--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Sweet Remiss**</HorseName>
-		<HorseYOB>1999 </HorseYOB>
+		<HorseYOB>1999</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Doc Malagar (2001 g. by Doc's Leader). 5 wins, 3 to 5, $87,344.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Doc Malagar</HorseName>
-		<HorseYOB>2001 </HorseYOB>
+		<HorseYOB>2001</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Few Can Fly (2005 g. by Ide). Winner at 3 and 5, $56,888.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Few Can Fly</HorseName>
-		<HorseYOB>2005 </HorseYOB>
+		<HorseYOB>2005</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Kiev (2007 f. by Native Regent). Winner at 2 and 3, $26,820.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Kiev</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Queen's Riches (1997 f. by Rizzi). Placed at 3, $540. Dam of 2 foals, 1 to race--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Queen's Riches</HorseName>
-		<HorseYOB>1997 </HorseYOB>
+		<HorseYOB>1997</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>**Queen Ginni**</DamName>
++    .  Tentadora (2000 f. by Rizzi). Unraced. Dam of 4 foals, 3 to race, 1 winner--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tentadora</HorseName>
-		<HorseYOB>2000 </HorseYOB>
+		<HorseYOB>2000</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**Queen Ginni**</DamName>
++    .  .  Pilarot (2005 f. by Wonder Bird). Winner at 2, $10,962.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Pilarot</HorseName>
-		<HorseYOB>2005 </HorseYOB>
+		<HorseYOB>2005</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  **One Smart Farrah** (2009 f. by Badge). 5 wins, 2 to 4, $99,053, 3rd Lady Finger S.-R (FL, $13,533). Dam of 5 foals, 2 to race--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**One Smart Farrah**</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  The Boss's Dance (1998 f. by Sword Dance (IRE)). Placed at 3, $4,132. Sent from United States to Ireland in 2002. Died 2013. Dam of 5 foals, 3 to race, 1 winner--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>The Boss's Dance</HorseName>
-		<HorseYOB>1998 </HorseYOB>
+		<HorseYOB>1998</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Smart Cat</DamName>
++    .  .  =Go Quick (IRE) (2004 f. by Fasliyev). 4 wins at 2 and 4, 21,090 Euro, in Italy. (Total: $30,453). Dam of 1 foal--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Go Quick</HorseName>
-		<HorseYOB>2004 </HorseYOB>
+		<HorseYOB>2004</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =Dalstontosiloth (IRE) (2008 g. by =Gamut (IRE)). Placed at 5 and 6, 1,879 Pounds, in England. (Total: $3,018). Died 2019.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Dalstontosiloth</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Sheza Maneater (2004 f. by Mecke). 5 wins, 4 to 7, $131,472. Dam of 1 foal, 1 to race, 1 winner--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sheza Maneater</HorseName>
-		<HorseYOB>2004 </HorseYOB>
+		<HorseYOB>2004</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Closing Bid (2008 f. by Closing Argument). Winner at 2 and 3, $69,290.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Closing Bid</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Z Larry (2003 g. by Sword Dance (IRE)). 4 wins at 3 and 4, $39,008.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Z Larry</HorseName>
-		<HorseYOB>2003 </HorseYOB>
+		<HorseYOB>2003</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Guapa Morena (2005 f. by Untuttable). 3 wins at 2 and 3, $18,278.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Guapa Morena</HorseName>
-		<HorseYOB>2005 </HorseYOB>
+		<HorseYOB>2005</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Everglades Drifter (2002 g. by Sword Dance (IRE)). Winner at 2, $9,320, in N.A./U.S.; winner at 3, $6,828, in Canada. (Total: $14,923).
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Everglades Drifter</HorseName>
-		<HorseYOB>2002 </HorseYOB>
+		<HorseYOB>2002</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Mr. Friendly Man (2006 c. by Mecke). Winner at 3, $5,746.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mr. Friendly Man</HorseName>
-		<HorseYOB>2006 </HorseYOB>
+		<HorseYOB>2006</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Burlman (2009 g. by Drewman). Placed at 2, $6,940, in Canada; placed, 2 to 4, $21,967, in N.A./U.S. (Total: $29,116).
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Burlman</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Contessachardonnay (1999 f. by Sword Dance (IRE)). Unplaced in 2 starts. Dam of 2 foals, 1 to race--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Contessachardonnay</HorseName>
-		<HorseYOB>1999 </HorseYOB>
+		<HorseYOB>1999</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  **Fine Red Wine** (2012 f. by Private Gold). 3 wins, 2 to 4, $52,664, 2nd Northwest Farms S.-R (EMD, $8,930). Dam of 1 foal--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Fine Red Wine**</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Ty Goes Gold (2009 g. by Private Gold). Winner at 2 and 4, $10,909, in N.A./U.S.; winner in 1 start at 5, $1,696, in Canada. (Total: $12,499).
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Ty Goes Gold</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  Queenhanna (1994 f. by Cryptoclearance). 3 wins, 3 to 6, $52,599. Dam of 9 foals, 7 to race, 6 winners--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Queenhanna</HorseName>
-		<HorseYOB>1994 </HorseYOB>
+		<HorseYOB>1994</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Strong Queen</DamName>
++    .  .  Hannas Agenda (2005 g. by Twilight Agenda). 4 wins, 3 to 6, $99,152.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Hannas Agenda</HorseName>
-		<HorseYOB>2005 </HorseYOB>
+		<HorseYOB>2005</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  A Pisa Work (2002 f. by Toolighttoquit). 3 wins at 3 and 4, $60,825. Dam of 1 foal, 1 to race, 1 winner--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>A Pisa Work</HorseName>
-		<HorseYOB>2002 </HorseYOB>
+		<HorseYOB>2002</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  One Million Rubies (2006 g. by Announce). 2 wins at 4, $57,892.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>One Million Rubies</HorseName>
-		<HorseYOB>2006 </HorseYOB>
+		<HorseYOB>2006</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Toolighthanna (2010 f. by Toolighttoquit). Winner at 3, $33,360.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Toolighthanna</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Toughallover (2007 f. by Announce). 2 wins at 4, $23,344.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Toughallover</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Queenhanna's Home (2001 f. by Homebuilder). Winner at 2, $13,800. Dam of 3 foals, 3 to race, 3 winners--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Queenhanna's Home</HorseName>
-		<HorseYOB>2001 </HorseYOB>
+		<HorseYOB>2001</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Honorstudenthannah (2004 g. by Toolighttoquit). Placed at 3, $12,864.
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Honorstudenthannah</HorseName>
-		<HorseYOB>2004 </HorseYOB>
+		<HorseYOB>2004</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  **DAYATTHESPA** (2009 f. by City Zip). 11 wins in 17 starts, 2 to 5, $2,248,000, in N.A./U.S., champion grass mare in U.S. (2014), 1st Breeders' Cup Filly and Mare Turf **[G1]** (SA, $1,100,000), Queen Elizabeth II Challenge Cup S. **[G1]** (KEE, $240,000), First Lady S. **[G1]** (KEE, $240,000), Herecomesthebride S. **[G3]** (GP, $90,000), Appalachian S. **[G3]** (KEE, $60,000), Sweetest Chant S. [L] (GP, $60,000), Riskaverse S. [L] (SAR, $60,000), Yaddo S.-R (SAR, $90,000) twice, You Go West Girl S.-R (BEL, $54,000), 2nd First Lady S. **[G1]** (KEE, $80,000), Eatontown H. **[G3]** (MTH, $20,000), Fasig-Tipton De La Rose S.-R (SAR, $20,000); placed in 1 start at 2, $40,000, in Canada, 2nd Natalma S. **[G3]** (WO, $40,000). (Total: $2,288,892). Dam of 5 foals, 3 to race, 2 winners--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**DAYATTHESPA**</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>M'Lady Doc</DamName>
++    .  .  Dailymotion (2020 f. by Medaglia d'Oro). Winner at 3, 2023, 16,000 Euro, in France. Sent from United States to France in 2022. (Total: $16,966).
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Dailymotion</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Ava Malone (2016 f. by Curlin). Placed at 3 and 4, $22,325. Sent from United States to Japan in 2020. Dam of 1 foal--
 		<hip>467</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Ava Malone</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>

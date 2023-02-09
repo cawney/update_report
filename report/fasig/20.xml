@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    They Shot Sonny (2014 g. by Giant's Causeway). 9 wins, 3 to 7, placed at 8, 2022, $312,455.
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>They Shot Sonny</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>g</HorseSex>
-38
 		<DamDamName>AMBER GRACE</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>y</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,402 +20,456 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 42: +    They Shot Sonny (2014 g. by Giant's Causeway). 9 wins, 3 to 7, placed at 8, 2022, $312,455.
 Dam is in line 38:   AMBER GRACE, by Elusive Quality. Winner at 3 and 4, $77,717. Half-sister to **RUSSIAN RHYTHM** (Total: $1,260,794, european Champion 3-year-old filly (2003), hwt. filly at 3 on English Free Hand., 7 - 9 1/2 fur. (2003), hwt. filly at 3 on English Free Hand., 9 1/2 - 11 fur. (2003), 1st Sagitta One Thousand Guineas **[G1]**, etc.), **PERFECTPERFORMANCE** (Total: $198,922, 1st Hackney Empire Royal Lodge S. **[G2]**, etc., sire), **Ive Gota Bad Liver** ($84,503, 2nd Lady's Secret H. (RP, $6,000), etc.). Dam of 9 foals, 4 to race, 2 winners--
++    .  .  **=MARENKO (GB)** (2013 f. by =Exceed And Excel (AUS)). 3 wins at 2 and 3, 64,247 Pounds, in England, 1st Betfred TV Fred Darling S. **[G3]**, 2nd 1stsecuritysolutions.co.uk May Hill S. **[G2]**, 3rd German-Thoroughbred.com Sweet Solera S. **[G3]**; placed in 1 start at 2, 16,000 Euro, in France, 2nd Longines Prix du Calvados **[G3]**. (Total: $112,912). Dam of 5 foals, 3 to race, 1 winner--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=MARENKO</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =Davydenko (GB) (2016 g. by =Intello (GER)). 4 wins at 3, 37,428 Pounds, in England. (Total: $46,231).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Davydenko</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  =Panova (GB) (2014 f. by =Invincible Spirit (IRE)). Winner at 2, 14,912 Pounds, in England. (Total: $19,090). Dam of 3 foals, 2 to race, 1 winner--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Panova</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =Melnikova (GB) (2017 f. by =Frankel (GB)). Winner at 2, 7,913 Pounds, in England. (Total: $9,742).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Melnikova</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  =Russian Heroine (GB) (2012 f. by =Invincible Spirit (IRE)). 2 wins at 3, 17,255 Pounds, in England. (Total: $27,180). Dam of 6 foals, 4 to race, 1 winner--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Russian Heroine</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**RUSSIAN RHYTHM**</DamName>
++    .  .  =Amasova (GB) (2018 f. by =Pivotal (GB)). 3 wins at 4, 2022, 30,529 Pounds, in England. (Total: $38,026).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Amasova</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =Kilham (GB) (2017 g. by =Pivotal (GB)). Placed at 2, 3,104 Pounds, in England. (Total: $3,878). Died 2019.
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Kilham</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  =Bonny Power (IRE) (2020 f. by =Twilight Son (GB)). Placed at 2, 2022, 3,770 Euro, in Ireland. (Total: $3,794).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Bonny Power</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Vasiliev (GB) (2016 g. by =Dutch Art (GB)). Winner at 3, 8,362 Pounds, in England; 4 wins, 4 to 6, 2022, $8,319,500(HK), in Hong Kong. Racing in Hong Kong as The Rock. (Total: $1,080,616).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Vasiliev</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  =Whitlock (GB) (2015 g. by =Dutch Art (GB)). 4 wins, 3 to 6, 22,109 Pounds, in England. (Total: $29,218).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Whitlock</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =Veleta (GB) (2017 f. by =Dutch Art (GB)). 3 wins at 2 and 3, 11,960 Pounds, in England. (Total: $15,571).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Veleta</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =Red Astaire (GB) (2019 g. by =Intello (GER)). Placed at 3, 2022, 5,324 Pounds, in England. (Total: $6,413).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Red Astaire</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  **=SPANGLED (GB)** (2012 f. by Starspangledbanner (AUS)). 5 wins at 3 and 4, 76,490 Pounds, in England, 1st Japan Racing Association Sceptre S. **[G3]**. (Total: $106,651). Dam of 3 foals, 1 to race, 1 winner--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=SPANGLED</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  **=Jumira Bridge (GB)** (2014 g. by =Invincible Spirit (IRE)). 7 wins, 3 to 8, placed at 9, 2023, 85,718 Pounds, in England, 3rd British Stallion Studs E.B.F. Westow S. [L]. (Total: $111,212).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=Jumira Bridge</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Ametist (GB) (2017 g. by =Dutch Art (GB)). 4 wins at 3 and 4, 38,392 Pounds, in England. (Total: $52,665). Died 2022.
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Ametist</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  =Jantina (GB) (2013 f. by =Dutch Art (GB)). Winner at 3, 3,777 Pounds, in England. (Total: $4,921). Dam of 3 foals, 1 to race--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Jantina</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =Frolova (GB) (2015 f. by =Dutch Art (GB)). Unraced in Great Britain. Dam of 2 foals, 1 to race--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Frolova</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Otelcaliforni (2003 f. by Gulch). Winner at 3, 5,359 Pounds, in England. Sent from United States to Ireland in 2003. (Total: $9,736). Dam of 8 foals, 6 to race, 4 winners--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Otelcaliforni</HorseName>
-		<HorseYOB>2003 </HorseYOB>
+		<HorseYOB>2003</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>**Ive Gota Bad Liver**</DamName>
++    .  .  =Scudetta (IRE) (2009 f. by =Dalakhani (IRE)). Winner at 3 and 4, 13,300 Euro, in Germany; winner at 4, 11,000 Euro, in France. (Total: $32,531).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Scudetta</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =High Response (IND) (2014 f. by =Arabian Gulf (GB)). Winner at 4 in India.
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=High Response</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  =Sardinia (IND) (2013 f. by =Arabian Gulf (GB)). 5 wins, 3 to 6 in India.
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Sardinia</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Artiste (IND) (2011 f. by Excellent Art (GB)). Winner at 3 and 4 in India.
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Artiste</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Irish Treasure (IRE) (2010 f. by Duke of Marmalade (IRE)). Placed at 3, 10,400 Krone, in Norway; placed at 4, 15,750 Krone, in Denmark; placed at 4, 18,320 Krona, in Sweden. (Total: $7,096).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Irish Treasure</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  =Soak (IRE) (2011 f. by Verglas (IRE)). Unraced in Ireland. Sent from Ireland to India in 2015. Dam of 5 foals, 4 to race, 1 winner--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Soak</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**Ive Gota Bad Liver**</DamName>
++    .  .  **=Dyf (IND)** (2019 c. by Cougar Mountain (IRE)). Placed at 3, 2022 in India, 3rd Golconda Two Thousand Guineas [L], Pune Derby [LR].
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=Dyf</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  **=November Rain (IND)** (2018 g. by =Kingda Ka (AUS)). Placed at 4, 2022 in India, 3rd South India St. Leger [LR].
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=November Rain</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Cavarozzi (IND) (2015 c. by =Makfi (GB)). 4 wins at 3 and 4 in India.
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Cavarozzi</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  =Apollonia Vitelli (IRE) (2016 f. by =Famous Name (GB)). Unraced in Ireland. Dam of 2 foals--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Apollonia Vitelli</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**Ive Gota Bad Liver**</DamName>
++    .  =Wine House (IRE) (2006 f. by Sadler's Wells). Unraced in Ireland. Dam of 8 foals, 7 to race, 2 winners--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Wine House</HorseName>
-		<HorseYOB>2006 </HorseYOB>
+		<HorseYOB>2006</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**Ive Gota Bad Liver**</DamName>
++    .  .  =Relentless Pursuit (IND) (2012 c. by =Moss Vale (IRE)). Winner at 5 and 6 in India.
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Relentless Pursuit</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Alpine Flower (IRE) (2011 f. by Intense Focus). Placed at 2 and 3, 2,527 Pounds, in England. (Total: $4,101).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Alpine Flower</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Star Generation (IRE) (2010 c. by Soviet Star). Placed at 2, 960 Euro, in Italy. (Total: $1,239).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Star Generation</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Luna Lucinda (IND) (2016 f. by =Saamidd (GB)). Placed at 4 in India.
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Luna Lucinda</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  =Sandilands (IRE) (2005 f. by Sadler's Wells). Unraced in Ireland. Died 2015. Dam of 3 foals, 1 to race--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Sandilands</HorseName>
-		<HorseYOB>2005 </HorseYOB>
+		<HorseYOB>2005</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**Ive Gota Bad Liver**</DamName>
++    .  =Sugarbush (GB) (2004 f. by Kingmambo). Unplaced in 2 starts in England. Died 2018. Dam of 3 foals, 3 to race, 1 winner--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Sugarbush</HorseName>
-		<HorseYOB>2004 </HorseYOB>
+		<HorseYOB>2004</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>**Ive Gota Bad Liver**</DamName>
++    .  .  =Al Wasmiya (QA) (2009 f. by =Motivator (GB)). 6 wins, 4 to 7 in Qatar. Sent from Qatar to Germany in 2010.
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Al Wasmiya</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =Tinassang (FR) (2016 f. by =Sea's Legacy (IRE)). Placed at 2, 1,450 Euro, in France. (Total: $1,647). Dam of 2 foals, 1 to race, 1 winner--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Tinassang</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  =Candy Tuft (AUS) (2008 f. by Rock of Gibraltar (IRE)). 6 wins, 3 to 6, $90,360(AUS), in Australia. (Total: $87,231). Died 2018. Dam of 1 foal--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Candy Tuft</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Balade Russe</DamName>
++    .  =Faziyah (AUS) (2009 f. by =Flying Spur (AUS)). Winner at 4, $14,375(AUS), in Australia. (Total: $13,226). Dam of 4 foals, 2 to race, 2 winners--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Faziyah</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Balade Russe</DamName>
++    .  .  =Alan (AUS) (2016 g. by Zoffany (IRE)). Winner at 4 and 5, placed at 6, 2022, $70,050(AUS), in Australia. (Total: $50,333).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Alan</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  =Steve Steve Steve (AUS) (2018 g. by Pluck). Winner at 3 and 4, 2022, $37,730(AUS), in Australia. (Total: $27,017).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Steve Steve Steve</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  =Lara's Song (AUS) (2007 f. by $Singspiel (IRE)). Winner at 4, $10,475(AUS), in Australia. (Total: $10,802). Died 2015. Dam of 2 foals, 2 to race, 2 winners--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Lara's Song</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Balade Russe</DamName>
++    .  .  =Virtuoso Lad (AUS) (2013 g. by =Exceed And Excel (AUS)). 6 wins, 4 to 8, $110,954(NZ), in New Zealand. (Total: $74,252).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Virtuoso Lad</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Ma Chao (AUS) (2014 g. by =Exceed And Excel (AUS)). Winner at 3, $4,130(AUS), in Australia. (Total: $3,264).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Ma Chao</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  =Gunarani (GB) (2004 f. by Green Desert). Winner at 2, $8,050(AUS), in Australia. (Total: $6,340). Dam of 5 foals, 2 to race, 2 winners--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Gunarani</HorseName>
-		<HorseYOB>2004 </HorseYOB>
+		<HorseYOB>2004</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Balade Russe</DamName>
++    .  .  =Gunna Excel (AUS) (2008 f. by =Exceed And Excel (AUS)). Winner at 4, $22,800(AUS), in Australia. (Total: $22,255).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Gunna Excel</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =Robin Charles (NZ) (2011 g. by =Tavistock (NZ)). Winner at 4 and 6, $28,125(NZ), in New Zealand. (Total: $19,645).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Robin Charles</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =New Dayrell (GB) (2020 g. by =New Approach (IRE)). Placed at 2, 2022, 1,255 Pounds, in England. (Total: $1,524).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=New Dayrell</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Gold Eliza (IRE) (2013 f. by =Pivotal (GB)). Placed at 3, 674 Pounds, in England; unplaced in Ireland. (Total: $974).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Gold Eliza</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Russian Maria Star (2011 f. by Medaglia d'Oro). Placed at 3, 2,060 Euro, in Ireland; unplaced in 2 starts, 300 Euro, in Germany; unplaced in 1 start, 800 Euro, in France. Sent from United States to Germany in 2012. (Total: $4,197). Dam of 1 foal--
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Russian Maria Star</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Russian Empress</DamName>
++    .  .  **Portilla** (2018 f. by Dialed In). Winner at 3 and 4, placed at 5, 2023, $237,158, 2nd Pan Zareta S. (FG, $20,000).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Portilla**</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Zahrat Jumeirah (2015 f. by Scat Daddy). Winner at 4, 24,668 Ringgits, in Malaysia; unplaced, 900 SIN$, in Singapore; unplaced, 9,000 Dirhams, in United Arab Emirates. Sent from United States to Ireland in 2016. (Total: $9,012).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Zahrat Jumeirah</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Giant K (2016 c. by Lookin At Lucky). Placed at 2, $4,825.
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Giant K</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Quinano (2022 c. by Lord Nelson).
 		<hip>20</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Quinano</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseYOB>2022</HorseYOB>
 		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>

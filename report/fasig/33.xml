@@ -3,21 +3,22 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++ AVERY A., by Kitten's Joy. Unplaced, $1,920. Half-sister to **WHATMAKESSAMMYRUN** ($325,070, 1st Eddie D S. **[G2]** (SA, $120,000), etc.), **SHAKHIMAT** ($516,711, 1st Transylvania S. **[G3]** (KEE, $60,000), etc.). Dam of 3 foals, 1 to race--
 <hip>33</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
 update on line 36: + AVERY A., by Kitten's Joy. Unplaced, $1,920. Half-sister to **WHATMAKESSAMMYRUN** ($325,070, 1st Eddie D S. **[G2]** (SA, $120,000), etc.), **SHAKHIMAT** ($516,711, 1st Transylvania S. **[G3]** (KEE, $60,000), etc.). Dam of 3 foals, 1 to race--
++    **WHATMAKESSAMMYRUN** (2018 g. by We Miss Artie). 4 wins, 2 to 4, 2022, $325,070, 1st Eddie D S. **[G2]** (SA, $120,000), Desert Code S. [L] (SA, $47,880), 2nd Stormy Liberal S. (DMR, $20,000), 3rd Atlantic Beach S. (AQU, $12,000).
 		<hip>33</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**WHATMAKESSAMMYRUN**</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
-39
 		<DamDamName>REGGAE ROSE</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>e</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -25,23 +26,23 @@ update on line 36: + AVERY A., by Kitten's Joy. Unplaced, $1,920. Half-sister to
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 42: +    **WHATMAKESSAMMYRUN** (2018 g. by We Miss Artie). 4 wins, 2 to 4, 2022, $325,070, 1st Eddie D S. **[G2]** (SA, $120,000), Desert Code S. [L] (SA, $47,880), 2nd Stormy Liberal S. (DMR, $20,000), 3rd Atlantic Beach S. (AQU, $12,000).
 Dam is in line 39:   REGGAE ROSE, by Touch Gold. 3 wins in 6 starts at 3, $147,861, in Canada; placed at 3, $4,900, in N.A./U.S. (Total: $142,097). Half-sister to **CELTIC NEW YEAR** ($294,422, 1st Del Mar H. **[G2]** (DMR, $120,000), etc.). Dam of 10 foals, 8 to race, 6 winners--
++    Silent Sofia (2014 f. by Silent Name (JPN)). 4 wins, 3 to 5, $85,403. Dam of 1 foal--
 		<hip>33</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Silent Sofia</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
-39
 		<DamDamName>REGGAE ROSE</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>N</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -49,11 +50,11 @@ Dam is in line 39:   REGGAE ROSE, by Touch Gold. 3 wins in 6 starts at 3, $147,8
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 46: +    Silent Sofia (2014 f. by Silent Name (JPN)). 4 wins, 3 to 5, $85,403. Dam of 1 foal--
 Dam is in line 39:   REGGAE ROSE, by Touch Gold. 3 wins in 6 starts at 3, $147,861, in Canada; placed at 3, $4,900, in N.A./U.S. (Total: $142,097). Half-sister to **CELTIC NEW YEAR** ($294,422, 1st Del Mar H. **[G2]** (DMR, $120,000), etc.). Dam of 10 foals, 8 to race, 6 winners--
 	</update>

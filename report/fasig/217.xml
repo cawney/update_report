@@ -3,24 +3,25 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  =Bestia Azul (CHI) (2019 g. by Viscount Nelson). Placed at 3, 2022, 1,906,500 Pesos, in Chile. (Total: $2,178).
 		<hip>217</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Bestia Azul</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Bertolina Fran</DamName>
++    Appalachian Trail (2020 f. by Accelerate). Placed in 2 starts at 3, 2023, $4,845.
 		<hip>217</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Appalachian Trail</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>c</HorseSex>
-34
 		<DamDamName>BURREN TRAIL (IRE)</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>e</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -28,35 +29,38 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 42: +    Appalachian Trail (2020 f. by Accelerate). Placed in 2 starts at 3, 2023, $4,845.
 Dam is in line 34:   BURREN TRAIL (IRE), by Shamardal. Placed at 3, 1,600 Euro, in Ireland. Sent from Ireland to United States in 2014. (Total: $2,115). Sister to **OREGON LADY (IRE)** ($266,178, 1st My Charmer H. **[G3]** (CRC, $60,760), etc.). Dam of 8 foals, 4 to race, 2 winners--
++    .  =Meiner Astoria (JPN) (2017 c. by Hard Spun). 7 wins, 2 to 5, 2022, 26,290,001 Yen, in Japan. (Total: $228,338).
 		<hip>217</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Meiner Astoria</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**OREGON LADY</DamName>
++    .  Saiga (2013 f. by Elusive Quality). Unraced. Dam of 1 foal--
 		<hip>217</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Saiga</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>**OREGON LADY</DamName>
++    .  =Vetusta (SPA) (2008 f. by Statue of Liberty). Unraced in Spain. Dam of 1 foal--
 		<hip>217</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Vetusta</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>=Eastward</DamName>
 	</update>

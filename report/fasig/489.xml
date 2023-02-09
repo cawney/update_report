@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Moon Confidential (2012 f. by Malibu Moon). Unraced. Sent from United States to Turkey in 2021. Dam of 4 foals, 2 to race, 1 winner--
 		<hip>489</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Moon Confidential</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
-44
 		<DamDamName>**BLUE MOON (FR)**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>n</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,47 +20,50 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 51: +    Moon Confidential (2012 f. by Malibu Moon). Unraced. Sent from United States to Turkey in 2021. Dam of 4 foals, 2 to race, 1 winner--
 Dam is in line 44:   **BLUE MOON (FR)**, by Lomitas (GB). Winner at 2 and 3, 58,236 Euro, in France, 1st Prix Ronde de Nuit [L], 2nd Prix des Reservoirs **[G3]**, Prix de la Cochere [L]; winner at 4 and 5, $283,180, in N.A./U.S., 1st Buena Vista H. **[G2]** (SA, $90,000), 2nd Queen Elizabeth II Challenge Cup S. **[G1]**, Locust Grove H. **[G3]** (CD, $33,780). Sent from France to United States in 2000. (Total: $341,363). Dam of 12 foals, 8 to race, 5 winners--
++    .  De la Luna (2020 r. by Tiznow). Winner at 3, 2023, $43,500.
 		<hip>489</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>De la Luna</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Moon Confidential</DamName>
++    .  La Rusia (2017 f. by Hampton Court (AUS)). 3 wins at 2 and 5, 2022, $120,300.
 		<hip>489</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>La Rusia</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Greer's Secret</DamName>
++    .  Affaire Secrete (2015 f. by Liaison). Winner at 3, $20,763. Dam of 1 foal--
 		<hip>489</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Affaire Secrete</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Greer's Secret</DamName>
++    Too Much Malibu (2014 f. by Malibu Moon). Unplaced, $2,859. Dam of 4 foals, 2 to race, 1 winner--
 		<hip>489</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Too Much Malibu</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>c</HorseSex>
-44
 		<DamDamName>**BLUE MOON (FR)**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>n</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -68,23 +71,23 @@ Dam is in line 44:   **BLUE MOON (FR)**, by Lomitas (GB). Winner at 2 and 3, 58,
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 72: +    Too Much Malibu (2014 f. by Malibu Moon). Unplaced, $2,859. Dam of 4 foals, 2 to race, 1 winner--
 Dam is in line 44:   **BLUE MOON (FR)**, by Lomitas (GB). Winner at 2 and 3, 58,236 Euro, in France, 1st Prix Ronde de Nuit [L], 2nd Prix des Reservoirs **[G3]**, Prix de la Cochere [L]; winner at 4 and 5, $283,180, in N.A./U.S., 1st Buena Vista H. **[G2]** (SA, $90,000), 2nd Queen Elizabeth II Challenge Cup S. **[G1]**, Locust Grove H. **[G3]** (CD, $33,780). Sent from France to United States in 2000. (Total: $341,363). Dam of 12 foals, 8 to race, 5 winners--
++    Mooghareadh (2013 f. by Malibu Moon). Unplaced in 1 start, $400. Sent from United States to Great Britain in 2016. Returned to United States from Great Britain in 2017. Dam of 5 foals, 2 to race, 1 winner--
 		<hip>489</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mooghareadh</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>g</HorseSex>
-44
 		<DamDamName>**BLUE MOON (FR)**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>n</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -92,19 +95,20 @@ Dam is in line 44:   **BLUE MOON (FR)**, by Lomitas (GB). Winner at 2 and 3, 58,
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 76: +    Mooghareadh (2013 f. by Malibu Moon). Unplaced in 1 start, $400. Sent from United States to Great Britain in 2016. Returned to United States from Great Britain in 2017. Dam of 5 foals, 2 to race, 1 winner--
 Dam is in line 44:   **BLUE MOON (FR)**, by Lomitas (GB). Winner at 2 and 3, 58,236 Euro, in France, 1st Prix Ronde de Nuit [L], 2nd Prix des Reservoirs **[G3]**, Prix de la Cochere [L]; winner at 4 and 5, $283,180, in N.A./U.S., 1st Buena Vista H. **[G2]** (SA, $90,000), 2nd Queen Elizabeth II Challenge Cup S. **[G1]**, Locust Grove H. **[G3]** (CD, $33,780). Sent from France to United States in 2000. (Total: $341,363). Dam of 12 foals, 8 to race, 5 winners--
++    .  Ughrouda (2019 f. by Curlin). Winner at 4, 2023, $41,183.
 		<hip>489</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Ughrouda</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Mooghareadh</DamName>
 	</update>

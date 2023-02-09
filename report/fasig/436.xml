@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Freedom Rider (2018 c. by Carpe Diem). 5 wins, 3 to 5, 2023, $163,525.
 		<hip>436</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Freedom Rider</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
-38
 		<DamDamName>**Grey Traffic**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>m</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,23 +20,23 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 44: +    Freedom Rider (2018 c. by Carpe Diem). 5 wins, 3 to 5, 2023, $163,525.
 Dam is in line 38:   **Grey Traffic**, by Numerous. 3 wins in 6 starts at 3 and 4, $134,300, 2nd Nassau County Breeders' Cup S. **[G2]** (BEL, $40,000). Half-sister to **Lord Beshara** ($17,101, 2nd Inaugural S. (ARP, $5,440)). Dam of 11 foals, 9 to race, 9 winners--
++    Sable (2010 f. by Invisible Ink). Winner at 4, $12,045. Dam of 4 foals, 3 to race, 1 winner--
 		<hip>436</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sable</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>f</HorseSex>
-38
 		<DamDamName>**Grey Traffic**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>k</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -44,27 +44,29 @@ Dam is in line 38:   **Grey Traffic**, by Numerous. 3 wins in 6 starts at 3 and 
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 51: +    Sable (2010 f. by Invisible Ink). Winner at 4, $12,045. Dam of 4 foals, 3 to race, 1 winner--
 Dam is in line 38:   **Grey Traffic**, by Numerous. 3 wins in 6 starts at 3 and 4, $134,300, 2nd Nassau County Breeders' Cup S. **[G2]** (BEL, $40,000). Half-sister to **Lord Beshara** ($17,101, 2nd Inaugural S. (ARP, $5,440)). Dam of 11 foals, 9 to race, 9 winners--
++    .  Prince Graygray (2018 c. by Can the Man). Placed in 2 starts at 5, 2023, $4,651.
 		<hip>436</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Prince Graygray</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Sable</DamName>
++    .  =Ontherun Davis (FR) (2010 f. by Peintre Celebre). Placed in 2 starts at 2, 3,600 Euro, in France. (Total: $4,675). Dam of 1 foal--
 		<hip>436</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Ontherun Davis</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Devil On the Run</DamName>
 	</update>

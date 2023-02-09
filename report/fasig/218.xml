@@ -3,648 +3,737 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  =Look Lovely (ARG) (2011 f. by Orpen). 4 wins at 3 and 4, 384,800 Pesos, in Argentina. (Total: $42,120). Dam of 4 foals, 2 to race, 1 winner--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Look Lovely</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Lookaway Dixieland</DamName>
++    .  .  =Loriana (ARG) (2017 f. by John F Kennedy (IRE)). 4 wins, 3 to 5, 2022, 1,427,462 Pesos, in Argentina. (Total: $12,095).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Loriana</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  =Look Now (ARG) (2013 f. by Jump Start). Unraced in Argentina. Dam of 1 foal--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Look Now</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Lookaway Dixieland</DamName>
++    .  Bacpac (2004 f. by Carson City). Unraced. Dam of 7 foals, 6 to race, 4 winners--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Bacpac</HorseName>
-		<HorseYOB>2004 </HorseYOB>
+		<HorseYOB>2004</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Lookaway Dixieland</DamName>
++    .  .  First Last Chance (2009 g. by You and I). Winner at 2 and 4, $24,384.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>First Last Chance</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Fearless Fiona (2012 f. by Parker's Storm Cat). 3 wins, 4 to 6, $21,506.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Fearless Fiona</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Sunshining (2013 f. by Well Informed). Winner at 3, $8,183.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sunshining</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  My Cadi (2010 f. by Parker's Storm Cat). Winner at 3, $7,504.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>My Cadi</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Shes Well Informed (2014 f. by Well Informed). Placed at 2 and 3, $8,850.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Shes Well Informed</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Grammy Pat (2009 f. by Discreet Cat). 6 wins, 3 to 5, $149,745. Dam of 3 foals, 1 to race, 1 winner--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Grammy Pat</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>The in Thing</DamName>
++    .  .  La Rufina (2018 f. by Mosler). 3 wins, 2 to 4, 2022, $34,556.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>La Rufina</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Stringalong (2007 f. by Stephen Got Even). 7 wins, 2 to 4, $52,518.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Stringalong</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Monarch City (2011 g. by Monarchos). Winner at 3, $25,221, in Canada. (Total: $22,846).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Monarch City</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Volley (2013 c. by Sky Mesa). Winner at 3, $13,305.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Volley</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Pearl Kitty (2005 f. by Jump Start). Unraced. Sent from United States to Argentina in 2007. Dam of 8 foals, 7 to race, 4 winners--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Pearl Kitty</HorseName>
-		<HorseYOB>2005 </HorseYOB>
+		<HorseYOB>2005</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**PEARL CITY**</DamName>
++    .  .  =Perlita De Rio (ARG) (2011 f. by Lizard Island). Winner at 3 and 4, 134,750 Pesos, in Argentina. (Total: $14,538). Dam of 1 foal--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Perlita De Rio</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Un Misil (URU) (2014 c. by =Emperor Richard (ARG)). 2 wins in 4 starts at 3, 408,770 Pesos, in Uruguay. (Total: $14,319).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Un Misil</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =Sacramental (URU) (2015 c. by Ecclesiastic). 2 wins at 3, 426,812 Pesos, in Uruguay. (Total: $13,148).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Sacramental</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =Pre Flop (ARG) (2013 c. by Manipulator). 4 wins at 5 and 6, 465,150 Pesos, in Argentina. (Total: $10,306).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Pre Flop</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Pearl of Dubai (URU) (2016 f. by Ecclesiastic). Placed at 2, 195,425 Pesos, in Uruguay. (Total: $5,561).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Pearl of Dubai</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Pure Royal (ARG) (2008 c. by Val Royal (FR)). Placed at 6, 12,100 Pesos, in Argentina. (Total: $1,409).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Pure Royal</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Perlita Del Viaje (ARG) (2010 f. by Lizard Island). Unplaced, 2,750 Pesos, in Argentina. (Total: $324). Dam of 2 foals, 1 to race--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Perlita Del Viaje</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Quick as a Cat (2001 f. by Storm Cat). Unplaced in 2 starts, $690. Died 2010. Dam of 2 foals, 1 to race--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Quick as a Cat</HorseName>
-		<HorseYOB>2001 </HorseYOB>
+		<HorseYOB>2001</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>**PEARL CITY**</DamName>
++    .  .  Quick to Rise (2008 c. by Value Plus). Placed at 3, $2,864.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Quick to Rise</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Quick and Golden (2007 f. by Medaglia d'Oro). Unraced. Dam of 7 foals, 3 to race, 2 winners--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Quick and Golden</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  **TALE FOR RUBY** (2013 f. by Tale of Ekati). 3 wins at 3 and 4, $177,776, 1st Safely Kept S. (LRL, $60,000). Dam of 2 foals--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**TALE FOR RUBY**</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Ruby City</DamName>
++    .  Hennessy City (2007 f. by Stephen Got Even). Winner at 3, 60,900 Pesos, in Argentina. Sent from United States to Argentina in 2008. (Total: $14,995). Dam of 4 foals, 2 to race, 1 winner--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Hennessy City</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Ruby City</DamName>
++    .  .  =Hemsby (ARG) (2013 f. by Curlinello). Winner at 4, 102,000 Pesos, in Argentina. (Total: $5,059).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Hemsby</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =High On the Sky (ARG) (2012 f. by Exchange Rate). Unraced in Argentina. Dam of 1 foal, 1 to race, 1 winner--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=High On the Sky</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  Perfect City (2009 f. by Perfect Soul (IRE)). Winner at 3, $11,798. Dam of 7 foals, 4 to race, 3 winners--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Perfect City</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Ruby City</DamName>
++    .  .  Perfect Dream (2015 g. by Tale of Ekati). Winner at 3, $23,012.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Perfect Dream</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Miss Understanding (2017 f. by Tale of Ekati). Winner at 2 and 3, $20,139, in N.A./U.S.; unplaced in 1 start, $1,200, in Canada. (Total: $21,042).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Miss Understanding</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  City Tale (2014 f. by Tale of Ekati). Winner at 4, $18,078.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>City Tale</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  **=Te Di Lacana (ARG)** (2008 f. by Editor's Note). Winner at 2 and 3, 256,345 Pesos, in Argentina, 2nd Seleccion-Argentine Oaks **[G1]**, 3rd Francisco J. Beazley **[G2]**. (Total: $60,235). Dam of 5 foals, 3 to race, 3 winners--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=Te Di Lacana</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =Butteler Casla (ARG) (2010 c. by Manipulator). 3 wins, 3 to 6, 214,318 Pesos, in Argentina. (Total: $24,386).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Butteler Casla</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Tumbero (ARG) (2009 c. by Manipulator). Winner at 3 and 5, 100,730 Pesos, in Argentina. (Total: $16,962).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Tumbero</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Con Permiso (ARG) (2006 c. by Cat Thief). Placed at 3, 22,650 Pesos, in Argentina. (Total: $5,930).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Con Permiso</HorseName>
-		<HorseYOB>2006 </HorseYOB>
+		<HorseYOB>2006</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Palacio Venecia (ARG) (2011 f. by Manipulator). Unraced in Argentina. Dam of 2 foals, 1 to race--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Palacio Venecia</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Perfectly Ruby (2010 f. by Perfect Soul (IRE)). Unraced. Dam of 4 foals, 2 to race, 2 winners--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Perfectly Ruby</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Ruby City</DamName>
++    .  .  Corima (2018 f. by Quien). Winner at 4, 2022, $37,378.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Corima</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Brilliant Ruby (2016 f. by Brilliant Speed). Winner at 3, $27,015.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Brilliant Ruby</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  **Ruby Bleu** (2014 g. by Messner). 22 wins, 3 to 8, 2022, $884,078, 3rd Roanoke S.-R (PRX, $11,000), Storm Cat S.-R (PRX, $9,200).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Ruby Bleu**</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Shamrock Gal (2013 f. by Super Saver). 3 wins at 3 and 4, $38,858.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Shamrock Gal</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Lucilda (CHI) (2019 f. by =Katmai (CHI)). 2 wins at 3, 2022, 14,030,000 Pesos, in Chile. (Total: $15,426).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Lucilda</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Gran Matador (2015 c. by Scat Daddy). 2 wins at 3, 4,337,500 Pesos, in Chile. Sent from United States to Chile in 2016. (Total: $6,517).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Gran Matador</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Ruby Luck (CHI) (2018 f. by Lookin At Lucky). 2 wins at 3, 3,267,500 Pesos, in Chile. (Total: $3,948).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Ruby Luck</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Office Sweets (1993 f. by Corporate Report). Placed at 3, $10,675. Dam of 9 foals, 6 to race, 2 winners--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Office Sweets</HorseName>
-		<HorseYOB>1993 </HorseYOB>
+		<HorseYOB>1993</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Winning Style</DamName>
++    .  .  Boston Paradise (1999 c. by Saint Ballado). Winner at 3, 14,050,000 Yen, in Japan. Sent from United States to Japan in 2001. (Total: $117,730).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Boston Paradise</HorseName>
-		<HorseYOB>1999 </HorseYOB>
+		<HorseYOB>1999</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Royal Sweetheart (2001 f. by Royal Academy). 2 wins at 4, $52,980. Sent from United States to Argentina in 2007. Dam of 7 foals, 6 to race, 5 winners--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Royal Sweetheart</HorseName>
-		<HorseYOB>2001 </HorseYOB>
+		<HorseYOB>2001</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Freddy's Dream (1998 g. by Storm Bird). Placed at 3 and 4, $18,497.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Freddy's Dream</HorseName>
-		<HorseYOB>1998 </HorseYOB>
+		<HorseYOB>1998</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Farewell Slew (2010 g. by Alystar Slew). Placed at 4, $3,632.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Farewell Slew</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Academy Sweets (2000 f. by Royal Academy). Unraced. Sent from United States to Republic of Korea in 2005. Dam of 3 foals, 3 to race, 3 winners--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Academy Sweets</HorseName>
-		<HorseYOB>2000 </HorseYOB>
+		<HorseYOB>2000</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Steppin On the Gas (1995 f. by Gold Legend). Winner at 3, $10,020. Dam of 5 foals, 3 to race, 3 winners--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Steppin On the Gas</HorseName>
-		<HorseYOB>1995 </HorseYOB>
+		<HorseYOB>1995</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Exclusive Cat</DamName>
++    .  .  Glenda Jane (2003 f. by Minardi). Winner at 2 and 3, $27,880.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Glenda Jane</HorseName>
-		<HorseYOB>2003 </HorseYOB>
+		<HorseYOB>2003</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Alaskan Storm (2002 g. by Thunder Gulch). Winner at 4, $26,835.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Alaskan Storm</HorseName>
-		<HorseYOB>2002 </HorseYOB>
+		<HorseYOB>2002</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Steppin On Cactus (2007 f. by Cactus Ridge). Winner at 3 and 4, $20,303.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Steppin On Cactus</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  Time for Sisu (1991 f. by Time for a Change). Winner at 4, $3,088. Dam of 10 foals, 5 to race, 1 winner--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Time for Sisu</HorseName>
-		<HorseYOB>1991 </HorseYOB>
+		<HorseYOB>1991</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Exclusive Cat</DamName>
++    .  .  Enamoradiza (2005 f. by Be Frank). Winner at 3, $4,758.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Enamoradiza</HorseName>
-		<HorseYOB>2005 </HorseYOB>
+		<HorseYOB>2005</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Remotico (ARG) (2017 c. by =Remote (GB)). 3 wins at 3 and 4, placed at 5, 2022, 1,744,300 Pesos, in Argentina. (Total: $17,656).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Remotico</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  =Arch Cat (CHI) (2013 f. by Archarcharch). Unraced in Chile. Dam of 1 foal, 1 to race, 1 winner--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Arch Cat</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Restless Cat</DamName>
++    .  .  =Practical Arch (CHI) (2019 f. by Practical Joke). Winner at 2, placed at 3, 2022, 10,362,500 Pesos, in Chile. (Total: $11,930).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Practical Arch</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Yaptown (2006 f. by Cape Town). Unraced. Dam of 7 foals, 3 to race--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Yaptown</HorseName>
-		<HorseYOB>2006 </HorseYOB>
+		<HorseYOB>2006</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Restless Cat</DamName>
++    .  .  Yap Yap Yap (2011 g. by Birdstone). Placed at 3, $13,000.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Yap Yap Yap</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Saratoga Whistler (2010 f. by Birdstone). Unplaced, $1,482. Dam of 3 foals, 2 to race--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Saratoga Whistler</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Restless Song (2007 f. by Songandaprayer). Unplaced in 2 starts, $550. Sent from United States to Philippines in 2016. Dam of 7 foals, 5 to race, 4 winners--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Restless Song</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Restless Cat</DamName>
++    .  .  Restless Rambler (2013 g. by Ghostzapper). 20 wins, 3 to 10, 2023, $341,210, in N.A./U.S.; unplaced in 2 starts, 660 Euro, in Ireland. Sent from United States to Ireland in 2014. Returned to United States from Ireland in 2015. (Total: $341,930).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Restless Rambler</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Nonhelma (2015 f. by Majestic Warrior). 3 wins in 5 starts at 3 and 4, $83,670. Sent from United States to Libya in 2021.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Nonhelma</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Go Salvatore Go (2012 g. by Sightseeing). Winner at 4, $31,780.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Go Salvatore Go</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Mi Querido Capi (2014 c. by Astrology). 6 wins, 2 to 4 in Mexico; unplaced in 2 starts, $745, in N.A./U.S. Sent from United States to Mexico in 2015.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mi Querido Capi</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Captain Hindsight (2011 g. by Pollard's Vision). Placed at 3, $2,249.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Captain Hindsight</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  Restless Kitten (2005 f. by Our Emblem). Unplaced, $412. Sent from United States to Chile in 2015. Returned to United States from Chile in 2018. Sent from United States to Chile in 2020. Dam of 9 foals, 8 to race, 3 winners--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Restless Kitten</HorseName>
-		<HorseYOB>2005 </HorseYOB>
+		<HorseYOB>2005</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Restless Cat</DamName>
++    .  .  Superstyle (2014 g. by Super Saver). 4 wins, 2 to 6, $97,634.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Superstyle</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Mas Risuena (CHI) (2016 f. by Scat Daddy). Winner at 2, 7,000,000 Pesos, in Chile. (Total: $10,458).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Mas Risuena</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Comin' On By (2011 g. by Birdstone). Winner at 4, $7,566, in Canada. (Total: $6,441).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Comin' On By</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Aventus (2013 c. by Colonel John). Placed at 2, $10,835.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Aventus</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Precious Pie (2015 f. by Colonel John). Placed at 3, $5,740.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Precious Pie</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Goldikova (CHI) (2020 f. by Ghostzapper). Placed in 1 start at 2, 2022, 1,462,500 Pesos, in Chile. (Total: $1,717).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Goldikova</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Bet On Bettye (2013 f. by Malibu Moon). Winner at 3 and 4, $79,244. Sent from United States to Chile in 2018. Dam of 1 foal, 1 to race--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Bet On Bettye</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Catchy</DamName>
++    .  Catchy Rythm (2015 f. by Majestic Warrior). 3 wins, 2 to 4, $53,108. Dam of 1 foal--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Catchy Rythm</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Catchy</DamName>
++    .  .  Stormy Rythm (2022 f. by Attila's Storm). (application pending)
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Stormy Rythm</HorseName>
-		<HorseYOB>2022 </HorseYOB>
+		<HorseYOB>2022</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  **GREAT HOT (BRZ)** (2008 f. by Orientate). Winner in 1 start at 2, 6,392 Reals, in Brazil; 4 wins at 3 and 5, $590,347, in N.A./U.S., 1st Lexus Raven Run S. **[G2]** (KEE, $150,000), Santa Maria S. **[G2]** (SA, $120,000), Torrey Pines S. [L] (DMR, $60,000), 2nd La Canada S. **[G2]** (SA, $30,000), L.A. Woman S. [L] (SA, $20,000), L.A. Woman S. (SA, $20,000), Bangles and Beads S. (FPX, $9,750), 3rd La Brea S. **[G1]** (SA, $36,000), Lady's Secret S. **[G1]** (SA, $30,000), Kalookan Queen S. [L] (SA, $9,360), Sandy Blue H. [L] (DMR, $10,835), Adoration S.-R (DMR, $10,842). Sent from Brazil to United States in 2010. (Total: $594,177). Dam of 8 foals, 3 to race, 2 winners--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**GREAT HOT</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Smart Aegis (2016 c. by Animal Kingdom). 6 wins in 12 starts, 4 to 6, placed at 7, 2023, 6,049,000 Yen, in Japan. Sent from United States to Japan in 2017. (Total: $48,909).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Smart Aegis</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Ingria Hot (BRZ) (2010 f. by Public Purse). 3 wins at 3 and 4, 37,266 Reals, in Brazil. (Total: $15,917). Dam of 1 foal, 1 to race, 1 winner--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Ingria Hot</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  =Hotter Than You (BRZ) (2009 c. by Public Purse). 3 wins at 3 and 4, 23,826 Reals, in Brazil. (Total: $11,123).
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Hotter Than You</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Gimme Gold (2018 g. by Hard Spun). Placed at 4, 2022, $5,115.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Gimme Gold</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  =Jumping Jack Flash (BRZ) (2011 f. by Wild Event). Placed at 3, 7,247 Reals, in Brazil. (Total: $2,891). Dam of 4 foals, 1 to race, 1 winner--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Jumping Jack Flash</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Agasaya (2015 f. by Animal Kingdom). Unraced. Dam of 4 foals, 2 to race, 1 winner--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Agasaya</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  Valuable Catch (2009 f. by Value Plus). Unraced. Dam of 4 foals, 1 to race, 1 winner--
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Valuable Catch</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Catchy</DamName>
++    .  .  Stormin Catch (2015 g. by Dome). Winner at 3, $5,834.
 		<hip>218</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Stormin Catch</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>

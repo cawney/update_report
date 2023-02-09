@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Adalinda (2020 f. by Cross Traffic). Winner at 2, 2022, $28,355.
 		<hip>83</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Adalinda</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>f</HorseSex>
-34
 		<DamDamName>CHARLIES LOVE</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>c</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,23 +20,23 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 35: +    Adalinda (2020 f. by Cross Traffic). Winner at 2, 2022, $28,355.
 Dam is in line 34:   CHARLIES LOVE, by Indian Charlie. Unplaced in 2 starts, $715. Half-sister to **MENDIP** (Total: $895,961, 1st Dubal Al Maktoum Challenge Round 2 **[G2]**, etc., sire), **DIG DEEP** ($125,600, 1st Robert Hilton Memorial S. (CT, $62,000)), **Paddle Board** ($183,774, 2nd Bessarabian S. **[G2]** (WO, $40,000)), **Happy Medium** ($168,400, 3rd Toboggan S. **[G3]** (AQU, $18,000)). Dam of 6 foals, 4 to race, 4 winners--
++    Dalton's Love (2019 f. by California Chrome). Winner at 3, 2022, $21,667.
 		<hip>83</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Dalton's Love</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
-34
 		<DamDamName>CHARLIES LOVE</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>e</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -44,31 +44,32 @@ Dam is in line 34:   CHARLIES LOVE, by Indian Charlie. Unplaced in 2 starts, $71
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 40: +    Dalton's Love (2019 f. by California Chrome). Winner at 3, 2022, $21,667.
 Dam is in line 34:   CHARLIES LOVE, by Indian Charlie. Unplaced in 2 starts, $715. Half-sister to **MENDIP** (Total: $895,961, 1st Dubal Al Maktoum Challenge Round 2 **[G2]**, etc., sire), **DIG DEEP** ($125,600, 1st Robert Hilton Memorial S. (CT, $62,000)), **Paddle Board** ($183,774, 2nd Bessarabian S. **[G2]** (WO, $40,000)), **Happy Medium** ($168,400, 3rd Toboggan S. **[G3]** (AQU, $18,000)). Dam of 6 foals, 4 to race, 4 winners--
++    .  Always Alright (2017 f. by Pioneerof the Nile). Winner at 3, $15,295. Dam of 1 foal--
 		<hip>83</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Always Alright</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**Paddle Board**</DamName>
++    Hot Spa (2009 f. by Latent Heat). Winner at 3, $22,540. Dam of 4 foals, 4 to race, 3 winners--
 		<hip>83</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Hot Spa</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>f</HorseSex>
-45
 		<DamDamName>WELL SPRING</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>t</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -76,27 +77,29 @@ Dam is in line 34:   CHARLIES LOVE, by Indian Charlie. Unplaced in 2 starts, $71
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 55: +    Hot Spa (2009 f. by Latent Heat). Winner at 3, $22,540. Dam of 4 foals, 4 to race, 3 winners--
 Dam is in line 45:   WELL SPRING, by Coronado's Quest. Placed at 3, $9,750. Died 2022. Dam of 12 foals, 9 to race, 7 winners--
++    .  Goldenspa (2020 c. by Goldencents). Winner at 3, 2023, $29,020.
 		<hip>83</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Goldenspa</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Hot Spa</DamName>
++    .  .  **R THREE ANGELS** (2019 f. by Kiss the Ghost). 7 wins at 2 and 3, placed at 4, 2023, $243,899, 1st Tomboy S.-R (BTP, $45,000), 2nd First Lady S.-R (MVR, $15,000), 3rd Best of Ohio Norm Barron Queen City Oaks-R (BTP, $10,000), Best of Ohio Distaff S.-R (MVR, $10,000).
 		<hip>83</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**R THREE ANGELS**</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>

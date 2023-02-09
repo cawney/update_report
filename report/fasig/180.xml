@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Depoli (2020 g. by Frosted). Placed at 2, 2022, $12,760.
 		<hip>180</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Depoli</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>g</HorseSex>
-34
 		<DamDamName>TOURNER</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>d</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,65 +20,72 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 37: +    Depoli (2020 g. by Frosted). Placed at 2, 2022, $12,760.
 Dam is in line 34:   TOURNER, by Hard Spun. Unraced. Sister to **QUESTING (GB)** (Total: $876,876, champion 3-year-old filly in U.S. (2012), 1st Alabama S. **[G1]** (SAR, $360,000), etc.). Dam of 5 foals, 3 to race--
++    .  **ADVENTURING** (2018 f. by Pioneerof the Nile). 5 wins at 3 and 4, placed at 5, 2023, $881,715, in N.A./U.S., 1st AGS Ladies Marathon S. **[G3]** (KD, $327,360), Exacta Systems Dueling Grounds Oaks [L] (KD, $303,800), Bourbonette Oaks [L] (TP, $88,350), West Virginia Senate President's Cup S. (MNR, $45,675), 3rd Cardinal S. **[G3]** (CD, $29,000), Rubicon Valley View S. **[G3]** (KEE, $15,000), La Prevoyante S. presented by Don Julio **[G3]** (GP, $14,700), Kentucky Downs TVG Preview Dueling Grounds Oaks (ELP, $9,700); unplaced in 1 start, $37,500, in Canada. (Total: $909,022).
 		<hip>180</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**ADVENTURING**</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**QUESTING</DamName>
++    .  Lady Hester (2014 f. by Bernardini). Winner at 5, $64,450, in N.A./U.S.; placed at 3, 1,720 Pounds, in England. Returned to United States from Great Britain in 2017. (Total: $66,584). Dam of 2 foals, 1 to race--
 		<hip>180</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lady Hester</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**QUESTING</DamName>
++    .  **Cover Version** (2015 f. by Medaglia d'Oro). 5 wins, 5 to 7, 2022, $240,164, in N.A./U.S., 2nd Carousel S. (LRL, $20,000), 3rd Rancho Bernardo H. **[G3]** (DMR, $18,000); placed at 3, 6,100 Euro, in France. Sent from United States to Great Britain in 2016. Returned to United States from France in 2019. (Total: $247,238).
 		<hip>180</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Cover Version**</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Vaguely Familiar</DamName>
++    .  Verinder (2014 f. by Hard Spun). Unraced. Sent from United States to Great Britain in 2015. Dam of 2 foals, 2 to race, 1 winner--
 		<hip>180</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Verinder</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Vaguely Familiar</DamName>
++    .  .  =Marynder (FR) (2019 g. by Pedro the Great). Winner at 2, 19,610 Euro, in France; unplaced in 2 starts, 11,268 Dirhams, in United Arab Emirates. (Total: $25,686).
 		<hip>180</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Marynder</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Lorcan (FR) (2020 c. by =Reliable Man (GB)). Placed in 2 starts at 2, 2022, 6,300 Euro, in France. (Total: $6,132).
 		<hip>180</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Lorcan</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Boss Lady Platinum (2013 f. by Freud). Winner at 4 and 5, $29,924. Dam of 1 foal--
 		<hip>180</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Boss Lady Platinum</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Ruly</DamName>
 	</update>

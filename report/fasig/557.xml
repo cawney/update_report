@@ -3,65 +3,73 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Go and Wander (2013 f. by Street Cry (IRE)). Placed at 4, $7,072. Dam of 2 foals--
 		<hip>557</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Go and Wander</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**FUNNY MOON**</DamName>
++    .  Pretty Philly (2013 f. by Unbridled's Song). Winner at 3, $10,090. Dam of 5 foals, 3 to race, 3 winners--
 		<hip>557</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Pretty Philly</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**Home Crowd**</DamName>
++    .  .  Big Philly (2020 f. by Tiznow). Winner in 2 starts at 2, 2022, $23,018.
 		<hip>557</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Big Philly</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  If You Please (2019 f. by Kitten's Joy). Winner at 3, 2022, $19,765.
 		<hip>557</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>If You Please</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Wrinkles Your Nose (2017 f. by Quality Road). Winner at 4, $8,402.
 		<hip>557</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Wrinkles Your Nose</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  **Darkwingsoverdubai** (2014 f. by Raven's Pass). 2 wins in 3 starts at 3, $41,100, in N.A./U.S., 3rd Bourbonette Oaks **[G3]** (TP, $9,300); unplaced in 1 start, $4,470, in Canada. (Total: $44,379). Dam of 3 foals--
 		<hip>557</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Darkwingsoverdubai**</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Dubai Moon</DamName>
++    .  =Pass The Moon (IRE) (2013 f. by Raven's Pass). Placed at 2, 2,108 Pounds, in England. (Total: $3,289). Dam of 3 foals--
 		<hip>557</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Pass The Moon</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Dubai Moon</DamName>
++    .  Vitesse (2017 g. by Liam's Map). 6 wins at 3 and 5, 2022, $92,407.
 		<hip>557</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Vitesse</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Bama Belle</DamName>
 	</update>

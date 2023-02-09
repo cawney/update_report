@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Packin (2018 f. by Wicked Strong). Placed at 4, 2022, $3,247.
 		<hip>170</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Packin</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
-34
 		<DamDamName>FULLY EQUIPPED</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>g</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,49 +20,54 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 38: +    Packin (2018 f. by Wicked Strong). Placed at 4, 2022, $3,247.
 Dam is in line 34:   FULLY EQUIPPED, by More Than Ready. Winner at 3, $11,590. Half-sister to **CITY ATTRACTION** ($258,900, 1st Gravesend H. **[G3]** (AQU, $64,260), etc.), **Vicarian** ($326,140, 2nd Harvey Arneault Memorial S. [L] (MNR, $22,000), etc.). Dam of 5 foals, 2 to race, 1 winner--
++    .  **GRACE'S TREASURE** (2013 f. by Rockport Harbor). 4 wins at 3 and 4, $133,924, 1st Open Mind S. [L] (CD, $62,000). Dam of 2 foals--
 		<hip>170</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**GRACE'S TREASURE**</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Sher Win Forest</DamName>
++    .  Lady Danger (2012 f. by Desert Party). Placed at 2, $9,390. Dam of 3 foals, 3 to race--
 		<hip>170</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lady Danger</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Sher Win Forest</DamName>
++    .  .  My Gal Toots (2016 f. by Lakerville). Placed in 2 starts at 3, $15,000.
 		<hip>170</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>My Gal Toots</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  Sir Williams Dream (2018 c. by Daddy Nose Best). Placed at 3, $10,960.
 		<hip>170</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sir Williams Dream</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  **Minnesota Miracle** (2016 g. by First Samurai). 9 wins, 2 to 6, 2022, $214,090, 3rd Northern Lights Futurity-R (CBY, $10,000), Minnesota Derby-R (CBY, $10,000).
 		<hip>170</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Minnesota Miracle**</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Streaming Fire</DamName>
 	</update>

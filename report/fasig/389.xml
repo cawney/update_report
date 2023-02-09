@@ -3,20 +3,22 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Hermiona (2016 f. by Kitten's Joy). Winner at 2, 33,730 Euro, in France; unplaced in 1 start in Czechoslovakia/Czech Republic. Sent from United States to Great Britain in 2017. (Total: $38,579). Dam of 2 foals--
 		<hip>389</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Hermiona</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Darajah</DamName>
++    .  Hey Good Lookin (2015 f. by Uncle Mo). Winner at 4, $9,626. Dam of 1 foal--
 		<hip>389</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Hey Good Lookin</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Darajah</DamName>
 	</update>

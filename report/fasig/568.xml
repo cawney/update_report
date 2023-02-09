@@ -3,161 +3,182 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  **=GOIANIA (GB)** (2011 f. by Oasis Dream (GB)). 2 wins at 3, 22,000 Euro, in Germany, 1st Grosser Preis der Deutschen Bank [L], 2nd Grosser Preis der Mehl-Mulhens- Stiftung [L]. (Total: $28,706). Dam of 4 foals, 3 to race, 2 winners--
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=GOIANIA</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**=GOATHEMALA</DamName>
++    .  .  =Gemma Blu (GER) (2016 f. by Mastercraftsman (IRE)). Winner at 3, 22,260 Euro, in France; placed at 2 and 3, 27,600 Euro, in Germany. (Total: $56,647).
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Gemma Blu</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =Granada (GER) (2020 f. by =Areion (GER)). Winner at 2, 2022, 6,000 Euro, in Germany. (Total: $6,156).
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Granada</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  **=Guavia (GER)** (2012 f. by =Invincible Spirit (IRE)). Winner at 2 and 4, 15,700 Euro, in Germany, 3rd Honda - Bayerischer Fliegerpreis [L]. (Total: $18,249). Dam of 4 foals, 2 to race, 2 winners--
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=Guavia</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**=GOATHEMALA</DamName>
++    .  .  =Gaheris (GER) (2018 c. by =Camelot (GB)). Winner at 3, 9,510 Euro, in Ireland; placed at 4, 2022 in Spain; placed at 4, 2022, 4,960 Euro, in France; unplaced in 1 start in England. (Total: $16,444).
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Gaheris</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Panama City (GB) (2019 g. by =Iffraaj (GB)). Winner at 3, 2022, 7,230 Pounds, in England; placed at 2, 6,025 Euro, in France. (Total: $16,378).
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Panama City</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  =Granja (GER) (2015 f. by Oasis Dream (GB)). Winner at 3, 8,750 Euro, in Germany. (Total: $10,322). Dam of 1 foal, 1 to race, 1 winner--
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Granja</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**=GOATHEMALA</DamName>
++    .  .  =Gregarious Gal (SAF) (2019 f. by =Areion (GER)). Winner at 3, 2022, 91,500 Rands, in South Africa. (Total: $5,356).
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Gregarious Gal</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  German Edition (GB) (2013 f. by $Cape Cross (IRE)). Placed at 3, $10,250. Sent from Germany to United States in 2014. Dam of 4 foals, 1 to race--
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>German Edition</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**=GOATHEMALA</DamName>
++    .  .  Pop Pop's Baby Boo (2018 f. by Flintshire (GB)). Placed at 4, 2022, $4,710.
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Pop Pop's Baby Boo</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  =Tooreen Katie (IRE) (2015 f. by =Intello (GER)). Winner at 3, 19,710 Euro, in Ireland. (Total: $22,774). Dam of 1 foal--
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Tooreen Katie</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>=Ultra Appeal</DamName>
++    .  =Global Love (GER) (2012 f. by $Lando (GER)). Winner at 3, 21,100 Euro, in Germany. (Total: $23,682). Dam of 1 foal, 1 to race--
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Global Love</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>=Global Beauty</DamName>
++    .  =Lulalula (IRE) (2005 f. by Intikhab). 4 wins at 2 and 3, 27,100 Euro, in Italy. (Total: $39,449). Dam of 2 foals, 2 to race--
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Lulalula</HorseName>
-		<HorseYOB>2005 </HorseYOB>
+		<HorseYOB>2005</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>=Global Pearl</DamName>
++    .  =Gobhana (IRE) (2004 f. by Spinning World). 2 wins at 2, 11,700 Euro, in Italy. (Total: $14,908). Dam of 4 foals, 4 to race, 3 winners--
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Gobhana</HorseName>
-		<HorseYOB>2004 </HorseYOB>
+		<HorseYOB>2004</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>=Global Pearl</DamName>
++    .  .  =Global Vision (FR) (2010 g. by =Desert Style (IRE)). 3 wins at 3 and 4, 42,000 Euro, in France. (Total: $56,818).
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Global Vision</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  =Germanwings (FR) (2013 f. by =Linngari (IRE)). 6 wins, 3 to 7, 42,770 Euro, in Germany; winner in 2 starts at 3 in Belgium; unplaced in 1 start in France. (Total: $48,662).
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Germanwings</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Pahlavan (FR) (2011 c. by =Sinndar (IRE)). Winner at 3, 18,600 Euro, in France. (Total: $25,151).
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Pahlavan</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  =Sa Dingding (IRE) (2006 f. by Orpen). Winner in 2 starts at 3, 4,000 Euro, in Italy. (Total: $5,848). Dam of 2 foals, 2 to race, 2 winners--
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Sa Dingding</HorseName>
-		<HorseYOB>2006 </HorseYOB>
+		<HorseYOB>2006</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>=Global Pearl</DamName>
++    .  .  =Sitapur (GB) (2011 g. by =Literato (FR)). 2 wins at 5, 18,020 Euro, in Italy. (Total: $21,160).
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Sitapur</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Tijuana (ITY) (2013 f. by =Notnowcato (GB)). Winner at 3, 10,902 Euro, in Italy. (Total: $12,053).
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Tijuana</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  =Global Ruby (IRE) (2016 f. by =Dragon Pulse (IRE)). Unraced in Ireland. Dam of 1 foal--
 		<hip>568</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Global Ruby</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>=Global Pearl</DamName>
 	</update>

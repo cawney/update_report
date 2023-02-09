@@ -3,44 +3,49 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  =Cheerful Chap (IRE) (2017 g. by =Pour Moi (IRE)). Winner at 5, 2022, 8,135 Euro, in Ireland. (Total: $8,498).
 		<hip>247</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Cheerful Chap</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>=Via Aurelia</DamName>
++    .  =Unbridled Power (IRE) (2018 g. by =Power (GB)). Placed at 4, 2022, 2,713 Pounds, in England; unplaced in Ireland. (Total: $3,793).
 		<hip>247</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Unbridled Power</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>=Via Aurelia</DamName>
++    .  =Ginandawin (IRE) (2016 f. by =Big Bad Bob (IRE)). Unraced in Ireland. Dam of 2 foals--
 		<hip>247</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Ginandawin</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>=Sandtail</DamName>
++    .  =Queen of Cash (IRE) (2008 f. by Ad Valorem). 4 wins at 2 and 3, 16,028 Pounds, in England; winner at 4, 99,140 Riyals, in Saudi Arabia. (Total: $52,259). Dam of 5 foals, 3 to race--
 		<hip>247</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Queen of Cash</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>=Warrior Wings</DamName>
++    .  .  =Rasd (KSA) (2016 c. by =Byron (GB)). Placed at 3, 6,000 Riyals, in Saudi Arabia. (Total: $1,600).
 		<hip>247</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Rasd</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>c</HorseSex>
 	</update>
 </FasigTiptonUpdates>

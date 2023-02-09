@@ -3,41 +3,46 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++ LOVELY REGINA, by Deputy Minister. Unplaced, $1,260. Half-sister to **BERNARDINI** ($3,060,480, champion 3-year-old colt in U.S. (2006), 1st Preakness S. **[G1]** (PIM, $600,000), etc., leading broodmare sire in U.S. (2022)), **Ile de France** ($125,300, 3rd Santa Anita Oaks **[G1]** (SA, $36,000)). Dam of 11 foals, 8 to race, 8 winners--
 <hip>71</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
 update on line 42: + LOVELY REGINA, by Deputy Minister. Unplaced, $1,260. Half-sister to **BERNARDINI** ($3,060,480, champion 3-year-old colt in U.S. (2006), 1st Preakness S. **[G1]** (PIM, $600,000), etc., leading broodmare sire in U.S. (2022)), **Ile de France** ($125,300, 3rd Santa Anita Oaks **[G1]** (SA, $36,000)). Dam of 11 foals, 8 to race, 8 winners--
++    .  Smoking Gun (2018 g. by Oxbow). 3 wins, 3 to 5, 2023, $66,669.
 		<hip>71</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Smoking Gun</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Gamblers Rose</DamName>
++    .  Openthegate (2019 f. by Arrogate). Placed at 2 and 3, 2022, $18,013.
 		<hip>71</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Openthegate</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>Gamblers Rose</DamName>
++    .  Scurry (2014 f. by Sky Mesa). 3 wins at 4, $38,942. Dam of 1 foal, 1 to race--
 		<hip>71</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Scurry</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Satyana</DamName>
++    .  .  Delightful Ava (2020 f. by Bucchero). Placed in 2 starts at 2, 2022, $3,440.
 		<hip>71</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Delightful Ava</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>g</HorseSex>
 	</update>
 </FasigTiptonUpdates>

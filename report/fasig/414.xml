@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Lucky Lorraine (2018 f. by Super Saver). Winner at 4, placed at 5, 2023, $66,550.
 		<hip>414</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lucky Lorraine</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
-34
 		<DamDamName>**Swear by It**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>r</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,23 +20,23 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 37: +    Lucky Lorraine (2018 f. by Super Saver). Winner at 4, placed at 5, 2023, $66,550.
 Dam is in line 34:   **Swear by It**, by Broken Vow. Winner at 3 and 4, $171,043, 3rd Robert G. Dick Memorial S. **[G3]** (DEL, $22,000), Rood and Riddle Dowager S. **[G3]** (KEE, $12,500), Red Carpet H. **[G3]** (DMR, $12,000), Ticonderoga S.-R (BEL, $15,000). Half-sister to **Shea Darby** ($107,077, 2nd Lady Finger S.-R (FL, $24,977)). Dam of 5 foals, 3 to race, 3 winners--
++    Violent Justice (2019 c. by Violence). Winner at 2, placed at 4, 2023, 101,636 Dirhams, in United Arab Emirates. Sent from United States to United Arab Emirates in 2021. (Total: $27,675).
 		<hip>414</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Violent Justice</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
-34
 		<DamDamName>**Swear by It**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>e</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -44,35 +44,38 @@ Dam is in line 34:   **Swear by It**, by Broken Vow. Winner at 3 and 4, $171,043
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 42: +    Violent Justice (2019 c. by Violence). Winner at 2, placed at 4, 2023, 101,636 Dirhams, in United Arab Emirates. Sent from United States to United Arab Emirates in 2021. (Total: $27,675).
 Dam is in line 34:   **Swear by It**, by Broken Vow. Winner at 3 and 4, $171,043, 3rd Robert G. Dick Memorial S. **[G3]** (DEL, $22,000), Rood and Riddle Dowager S. **[G3]** (KEE, $12,500), Red Carpet H. **[G3]** (DMR, $12,000), Ticonderoga S.-R (BEL, $15,000). Half-sister to **Shea Darby** ($107,077, 2nd Lady Finger S.-R (FL, $24,977)). Dam of 5 foals, 3 to race, 3 winners--
++    .  **Shawdyshawdyshawdy** (2018 g. by Summer Front). 3 wins at 2 and 4, 2022, $300,060, 3rd Pennine Ridge S. **[G3]** (BEL, $24,000).
 		<hip>414</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Shawdyshawdyshawdy**</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>**Shea Darby**</DamName>
++    .  No Salt (2017 g. by Tonalist). 10 wins, 3 to 5, 2022, $320,781 Set ncr at Parx Racing, about 1 1/16 miles in 1:42.71 (10/20/21).
 		<hip>414</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>No Salt</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>**Shea Darby**</DamName>
++    .  Shady Shady Shady (2016 f. by Hat Trick (JPN)). Winner at 2, $77,370. Dam of 1 foal--
 		<hip>414</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Shady Shady Shady</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**Shea Darby**</DamName>
 	</update>

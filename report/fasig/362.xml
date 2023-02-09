@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Chic (2016 f. by Orb). Unraced. Dam of 3 foals, 1 to race, 1 winner--
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Chic</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>c</HorseSex>
-38
 		<DamDamName>FASHION CAT</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>b</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,121 +20,134 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 44: +    Chic (2016 f. by Orb). Unraced. Dam of 3 foals, 1 to race, 1 winner--
 Dam is in line 38:   FASHION CAT, by Forest Wildcat. Winner at 3, $29,240. Died 2018. Half-sister to **PEACE RULES** ($3,084,278, 1st Haskell Invitational H. **[G1]** (MTH, $600,000), etc., sire), **WILD FASHION** ($365,605, 1st William Jefferson Clinton S. (CT, $25,110), etc.). Dam of 10 foals, 8 to race, 4 winners--
++    .  Forever Lights (2020 f. by City of Light). Winner at 2, 2022, $22,461.
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Forever Lights</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Chic</DamName>
++    .  Directional (2018 g. by Liam's Map). Winner at 3, placed at 5, 2023, $35,820.
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Directional</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Greek Sister</DamName>
++    .  **Arm Candy** (2018 f. by Twirling Candy). 3 wins at 2 and 3, placed at 5, 2023, $226,238, 3rd Hilltop S. (PIM, $10,000), Jersey Lilly Turf S. (HOU, $7,480), Ricks Memorial S. (RP, $8,250).
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Arm Candy**</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Chilly Fashion</DamName>
++    .  Schmooze (2019 g. by Malibu Moon). Winner at 3, placed at 4, 2023, $31,070.
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Schmooze</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Chilly Fashion</DamName>
++    .  Solitaria (2009 f. by Half Ours). 3 wins in 6 starts at 2 and 3 in Mexico. Sent from USA and Canada to Mexico in 2010. Dam of 2 foals--
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Solitaria</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**WILD FASHION**</DamName>
++    .  .  So Courageous (2018 g. by Bourbon Courage). Winner at 3 and 4, 2022, $50,428.
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>So Courageous</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  Fashionable Man (2013 g. by Charitable Man). Winner at 3 and 4, $20,757.
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Fashionable Man</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Fancidear (2010 f. by Gators N Bears). Winner at 3, $9,950.
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Fancidear</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  Rocket Francie (2009 g. by St Averil). Winner at 3, $8,280. Died 2012.
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Rocket Francie</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  I'd Imagine So (2017 c. by Imagining). (application pending)
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>I'd Imagine So</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Testimony Time (2018 c. by Not This Time). Placed in 1 start at 3, $2,800.
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Testimony Time</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  **Assemble** (2015 f. by Bodemeister). Winner at 2 and 3, $40,214, in N.A./U.S., 3rd Wine Country Debutante S. (SR, $6,000); placed in 1 start at 2, $10,000, in Canada, 3rd Fantasy S. [L] (HST, $10,000). (Total: $48,233). Dam of 3 foals--
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Assemble**</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Changing Plans</DamName>
++    .  Backstreet Gal (2018 f. by Street Sense). Winner at 3 and 4, 2022, $59,690.
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Backstreet Gal</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Changing Plans</DamName>
++    Summer Rules (2007 f. by Perfect Soul (IRE)). Unplaced in 1 start. Dam of 9 foals, 6 to race, 3 winners--
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Summer Rules</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>r</HorseSex>
-66
 		<DamDamName>HOLD TO FASHION</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>E</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -142,43 +155,47 @@ Dam is in line 38:   FASHION CAT, by Forest Wildcat. Winner at 3, $29,240. Died 
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 117: +    Summer Rules (2007 f. by Perfect Soul (IRE)). Unplaced in 1 start. Dam of 9 foals, 6 to race, 3 winners--
 Dam is in line 66:   HOLD TO FASHION, by Hold Your Peace. 2 wins at 3, $27,940. Half-sister to **Regal Togs** ($209,003, 2nd Florida Stallion/In Reality S. [LR] (CRC, $40,000), etc.). Dam of 14 foals, 8 to race, 6 winners--
++    .  Sheriff Bianco (2018 g. by Speightster). 5 wins at 3 and 4, 2022, $311,793, in N.A./U.S.; unplaced in 1 start in England. Sent from United States to Great Britain in 2020. Returned to United States from Great Britain in 2020. (Total: $311,793).
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sheriff Bianco</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Summer Rules</DamName>
++    .  Sister's Duty (2020 f. by Always Dreaming). Winner at 2, placed at 3, 2023, $24,918.
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sister's Duty</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Summer Rules</DamName>
++    .  Celtic Summer (2014 f. by Northern Afleet). Unplaced in 1 start, $210. Dam of 4 foals, 1 to race--
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Celtic Summer</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Summer Rules</DamName>
++    .  .  I'm So Extra (2019 f. by Gormley). Placed at 3, 2022, $5,190.
 		<hip>362</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>I'm So Extra</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>

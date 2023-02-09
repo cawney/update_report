@@ -3,21 +3,22 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++ THUNDER WAY, by Thunder Gulch. Winner at 3, $15,617. Half-sister to **Hearts of Red** ($154,867, 2nd Dream Supreme S. [L] (BEL, $16,000), etc.). Dam of 7 foals, 6 to race, 5 winners--
 <hip>411</hip>
 <SaleEntryCode>PH23</SaleEntryCode>
 <SaleCode>FTFEB</SaleCode>
 <SaleName>FT FEB MIXED 21</SaleName>
 update on line 36: + THUNDER WAY, by Thunder Gulch. Winner at 3, $15,617. Half-sister to **Hearts of Red** ($154,867, 2nd Dream Supreme S. [L] (BEL, $16,000), etc.). Dam of 7 foals, 6 to race, 5 winners--
++    Susie's Saver (2020 f. by Super Saver). See above.
 		<hip>411</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Susie's Saver</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
-36
 		<DamDamName>THUNDER WAY</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>r</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -25,27 +26,29 @@ update on line 36: + THUNDER WAY, by Thunder Gulch. Winner at 3, $15,617. Half-s
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 41: +    Susie's Saver (2020 f. by Super Saver). See above.
 Dam is in line 36: + THUNDER WAY, by Thunder Gulch. Winner at 3, $15,617. Half-sister to **Hearts of Red** ($154,867, 2nd Dream Supreme S. [L] (BEL, $16,000), etc.). Dam of 7 foals, 6 to race, 5 winners--
++    .  Latin Casino (2018 g. by Liam's Map). 4 wins at 3 and 4, 2022, $139,996.
 		<hip>411</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Latin Casino</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>**Hearts of Red**</DamName>
++    .  Euronthemoney (2019 g. by Euroears). 3 wins at 3, 2022, $21,712.
 		<hip>411</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Euronthemoney</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Go Get'm Tiger</DamName>
 	</update>

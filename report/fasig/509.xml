@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Tyry Tyrannosaurus (2018 c. by Goldencents). Winner at 3 and 4, placed at 5, 2023, $77,077.
 		<hip>509</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tyry Tyrannosaurus</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>r</HorseSex>
-33
 		<DamDamName>LIDO LADY</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>s</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,11 +20,11 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 39: +    Tyry Tyrannosaurus (2018 c. by Goldencents). Winner at 3 and 4, placed at 5, 2023, $77,077.
 Dam is in line 33:   LIDO LADY, by Lido Palace (CHI). Unraced. Half-sister to **BIRDBIRDISTHEWORD** ($783,544, 1st Boyd Gaming's Delta Jackpot S. **[G3]** (DED, $600,000), etc., sire). Dam of 6 foals, 5 to race, 5 winners--
 	</update>

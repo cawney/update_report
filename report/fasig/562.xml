@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Yolo Santiago (2019 g. by Maclean's Music). Placed at 2, $13,339.
 		<hip>562</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Yolo Santiago</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
-37
 		<DamDamName>**Royal Card**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>c</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,34 +20,37 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 49: +    Yolo Santiago (2019 g. by Maclean's Music). Placed at 2, $13,339.
 Dam is in line 37:   **Royal Card**, by Chapel Royal. 3 wins at 2 and 3, $147,317, in N.A./U.S., 2nd Charles Town Oaks [L] (CT, $49,000), Judy's Red Shoes S. (CRC, $15,750), 3rd Azalea S. **[G3]** (CRC, $19,200); unplaced in 1 start, $400, in Canada. (Total: $147,713). Half-sister to **MRS. BEGAN** ($191,600, 1st Princess Elizabeth S.-R (WO, $150,000), etc.), **Hey Baby** ($60,504, 3rd Iowa Stallion Filly S.-R (PRM, $5,850)). Dam of 8 foals, 8 to race, 6 winners--
++    .  **Run for Retts** (2013 f. by Ministers Wild Cat). 3 wins, 2 to 4, $230,057, 2nd Evening Jewel S.-R (SA, $38,000), 3rd Bear Fan S.-R (GG, $9,000). Dam of 4 foals, 1 to race, 1 winner--
 		<hip>562</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Run for Retts**</HorseName>
-		<HorseYOB>2013 </HorseYOB>
+		<HorseYOB>2013</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**MRS. BEGAN**</DamName>
++    .  .  Loving Spirit (2019 f. by Stanford). Winner in 2 starts at 3, 2022, $8,250.
 		<hip>562</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Loving Spirit</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  Legionary (2019 g. by Dominus). 3 wins at 2 and 3, 2022, $74,521.
 		<hip>562</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Legionary</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>**Hey Baby**</DamName>
 	</update>

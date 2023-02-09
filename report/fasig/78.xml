@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    Recall and Reload (2019 c. by Tapizar). Winner in 3 starts at 3 and 4, 2023, $83,900.
 		<hip>78</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Recall and Reload</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
-34
 		<DamDamName>CHAINSMOKNSUPRMODL</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>r</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,19 +20,20 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 38: +    Recall and Reload (2019 c. by Tapizar). Winner in 3 starts at 3 and 4, 2023, $83,900.
 Dam is in line 34:   CHAINSMOKNSUPRMODL, by Super Saver. Winner at 3, $36,410. Half-sister to **GREELEY'S GALAXY** ($446,222, 1st Illinois Derby **[G2]** (HAW, $300,000), etc., sire). Dam of 4 foals, 3 to race, 3 winners--
++    .  =Unstoppable (PER) (2018 c. by Yazamaan (GB)). Winner at 3 and 4, 2022, 14,407 New Sol, in Peru. (Total: $3,777).
 		<hip>78</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Unstoppable</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Street Indy</DamName>
 	</update>

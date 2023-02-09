@@ -32,9 +32,10 @@ def main():
     three_dam_re = re.compile(r'3rd dam\n') # Gets the third dam
     sex_sire_re = re.compile(r'\(\d{4}\s') # Gets the sex and sire (technically gets the YOB, but it's the same thing)
     race_record_re = re.compile(r'RACE RECORD') # Gets the race record
-    re_yob = re.compile(r"(?!\()\d{4}\s") # Gets the YOB
+    re_yob = re.compile(r"(?!\()(\d{4})\s") # Gets the YOB
     re_sex = re.compile(r"(?!by\s)([fcgr])")
     re_money = re.compile(r"(Total:\s|\d,\s)\$(?P<money>\d+(?:\,\d+(?:\,\d+)?)?)")
+    re_sire = re.compile(r"by (.)+?\).")
 
     ############################################################
     # Paths
@@ -301,27 +302,15 @@ def main():
         line_number = []
         global string_update
         for i, line in enumerate(list):
-            this_line = line
-            next_line = list[i+1 % len(list)]
-            # last_line = list[i-1]
-            if this_line.startswith("+"):
-                if next_line.startswith("?"):
-                    re_string = re.finditer(r'[+^]', next_line)
-                    index = [m.start() for m in re_string]
-                    line_number.append(i)
-                    string_update = {}
-                    string_update[i] = line[min(index):max(index)]
-                elif last_line.startswith("?"):
-                    re_string = re.finditer(r'[+^]', last_line)
+            if line.startswith("+"):
+                if i < len(list) - 1 and list[i+1].startswith("?"):
+                    re_string = re.finditer(r'[+^]', list[i+1])
                     index = [m.start() for m in re_string]
                     line_number.append(i)
                     string_update = {}
                     string_update[i] = line[min(index):max(index)]
                 else:
                     pass
-            
-            
-            
             # if line.startswith("+"):
             #     # print("Line: ", i)
             #     # print("Lines: ", line)
@@ -355,8 +344,12 @@ def main():
         gen4 = get_generation(file_name)[3]
         i = 0
         n = 0
-        print("Starting on horse\n", horse)
-        get_update_strings(lines)
+        # print("Starting on horse\n", horse)
+        # print(get_update_strings(lines)[1])
+        # string_update = get_update_strings(lines)
+        # for i in string_update:
+        #     f2.writelines(string_update.values())
+        # f2.writelines(string_update.values())
         # print(get_update_strings(file_name))
         # line_index = get_update_strings(file_name)[0]
         # line_number = get_update_strings(file_name)[1]
@@ -368,22 +361,22 @@ def main():
                 pass
             elif line.startswith('+'):
                 if i in gen1:
+                    f2.writelines(line)
                     f2.write(f"<hip>{horse}</hip>\n")
                     f2.write("<SaleEntryCode>PH23</SaleEntryCode>\n<SaleCode>FTFEB</SaleCode>\n<SaleName>FT FEB MIXED 21</SaleName>\n")
                     f2.writelines(f"update on line {i}: {line}")
                 elif i in gen2:
-                    print("Gen 1: ", gen1)
-                    print("Gen 2: ", gen2)
+                    f2.writelines(line)
                     f2.write(f"\t\t<hip>{horse}</hip>\n")
                     f2.write("\t\t<SaleEntryCode>PH23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")
                     f2.write(f"\t\t<HorseName>{get_names(line, 2)}</HorseName>\n")
                     f2.write(f"\t\t<HorseYOB>{get_substring(line, re_yob)}</HorseYOB>\n")
                     f2.write(f"\t\t<HorseSex>{get_substring(line, re_sex)}</HorseSex>\n")
                   #   f2.write(f"{lines[get_closest(i, gen1)]}")
-                    f2.write(f"{get_closest(i, gen1)}\n")
+                    # f2.write(f"{get_closest(i, gen1)}\n")
                     # f2.write(f"\t\t<DamName>{get_names(lines[get_closest(i, gen1)], 1)}</DamName>\n")
                     f2.write(f"\t\t<DamDamName>{get_names(lines[get_closest(i, gen1)], 1)}</DamDamName>\n")
-                    f2.write(f"\t\t<SireName>Sire Name</SireName>\n")
+                    f2.write(f"\t\t<SireName>{get_substring(line, re_sire)}</SireName>\n")
                     f2.write(f"\t\t<OfficalPosition>3</OfficalPosition>\n")
                     f2.write(f"\t\t<RaceNumber>2</RaceNumber>\n")
                     f2.write(f"\t\t<RaceType>MCL</RaceType>\n")
@@ -391,14 +384,15 @@ def main():
                     f2.write(f"\t\t<RaceDate>20200606</RaceDate>\n")
                     f2.write(f"\t\t<TrackName>CHURCHILL DOWNS</TrackName>\n")
                     f2.write(f"\t\t<UpdPosition>2</UpdPosition>\n")
-                    f2.write(f"<Generation>2</Generation>\n")
-                    f2.write(f"<Earnings>$2,200</Earnings>\n")
-                    f2.write(f"<BlackType>N</BlackType>\n")
-                    f2.write(f"<WhiteType>Y</WhiteType>\n")
-                    f2.write(f"<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>\n")
+                    f2.write(f"\t\t<Generation>2</Generation>\n")
+                    f2.write(f"\t\t<Earnings>$2,200</Earnings>\n")
+                    f2.write(f"\t\t<BlackType>N</BlackType>\n")
+                    f2.write(f"\t\t<WhiteType>Y</WhiteType>\n")
+                    f2.write(f"\t\t<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>\n")
                     f2.writelines(f"update on line {i}: {line}")
                     f2.writelines(f"Dam is in line {get_closest(i, gen1)}: {lines[get_closest(i, gen1)]}")
                 elif i in gen3:
+                    f2.writelines(line)
                     f2.write(f"\t\t<hip>{horse}</hip>\n")
                     f2.write("\t\t<SaleEntryCode>PH23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")
                     f2.write(f"\t\t<HorseName>{get_names(line, 2)}</HorseName>\n")
@@ -406,6 +400,8 @@ def main():
                     f2.write(f"\t\t<HorseSex>{get_substring(line, re_sex)}</HorseSex>\n")
                     f2.write(f"\t\t<DamName>{get_names(lines[get_closest(i, gen2)], 2)}</DamName>\n")
                 elif i in gen4:
+                    # print(line)
+                    f2.writelines(line)
                     f2.write(f"\t\t<hip>{horse}</hip>\n")
                     f2.write("\t\t<SaleEntryCode>PH23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")
                     f2.write(f"\t\t<HorseName>{get_names(line, 3)}</HorseName>\n")
@@ -466,7 +462,7 @@ def main():
 
     def get_substring(string, regex):
         """Gets the substring from a string"""
-        return regex.search(string).group(0)
+        return regex.search(string).group(1)
         
 
 
@@ -567,7 +563,7 @@ def main():
                     f.writelines(line)
                 i += 1
 
-    print("Making an getting updates...")
+    print("getting updates...")
     for horse in zip(source_list, hip_list):
         get_updates(f"{p_report}/{horse[1]}.txt", horse[1])
 

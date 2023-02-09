@@ -3,51 +3,57 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Sea Shack (2015 f. by Shackleford). Winner at 3 and 4, $36,280. Dam of 3 foals, 1 to race--
 		<hip>556</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sea Shack</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Bumba Bumba</DamName>
++    .  Music and Lyrics (2016 f. by Fed Biz). Winner at 2, $31,015. Dam of 3 foals, 1 to race, 1 winner--
 		<hip>556</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Music and Lyrics</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Lefreakcestchic</DamName>
++    .  .  Mikey Bananas (2020 g. by Constitution). Winner at 2, placed at 3, 2023, $36,210, in N.A./U.S.; unplaced in 1 start, $2,500, in Canada. (Total: $38,128).
 		<hip>556</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mikey Bananas</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  Sheer Element (2020 g. by Tonalist). Winner at 2, 2022, $22,600.
 		<hip>556</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sheer Element</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Lefreakcestchic</DamName>
++    .  Tellallthepeople (2012 f. by Green Raskal). Placed at 3, $9,155. Dam of 2 foals--
 		<hip>556</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Tellallthepeople</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Miss Chicane</DamName>
++    .  Shanteria (2014 f. by Stephen Got Even). Unraced. Dam of 1 foal--
 		<hip>556</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Shanteria</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Miss Chicane</DamName>
 	</update>

@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    **Bounding Bi** (2007 f. by Outflanker). 7 wins, 3 to 6, $364,580, 2nd Turf Amazon H. [L] (PRX, $40,000) twice, Jenny Wade H. [L] (PEN, $19,400), Buffalo Trace Franklin County S. [L] (KEE, $20,000), 3rd Cornucopia S. [L] (PHA, $8,475), Lightning City S. [L] (TAM, $5,625). Dam of 5 foals, 5 to race, 3 winners--
 		<hip>48</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Bounding Bi**</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>g</HorseSex>
-38
 		<DamDamName>BOUND ON BI</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>r</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,31 +20,32 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 41: +    **Bounding Bi** (2007 f. by Outflanker). 7 wins, 3 to 6, $364,580, 2nd Turf Amazon H. [L] (PRX, $40,000) twice, Jenny Wade H. [L] (PEN, $19,400), Buffalo Trace Franklin County S. [L] (KEE, $20,000), 3rd Cornucopia S. [L] (PHA, $8,475), Lightning City S. [L] (TAM, $5,625). Dam of 5 foals, 5 to race, 3 winners--
 Dam is in line 38:   BOUND ON BI, by Bounding Basque. 3 wins, 5 to 7, $167,445. Half-sister to **LADY BI BI** ($314,715, 1st Ticonderoga H.-R (BEL, $90,000), etc.), **Say It Both Ways** ($112,634, 2nd George W. Barker S.-R (FL, $7,000)). Dam of 8 foals, 8 to race, 4 winners--
++    .  Kaique (2020 g. by Exaggerator). Placed in 1 start at 3, 2023, $6,050.
 		<hip>48</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Kaique</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>**Bounding Bi**</DamName>
++    Leaping Lady (2009 f. by Mass Media). 2 wins at 3, $97,710. Dam of 5 foals, 4 to race, 3 winners--
 		<hip>48</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Leaping Lady</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>g</HorseSex>
-38
 		<DamDamName>BOUND ON BI</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>a</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -52,72 +53,80 @@ Dam is in line 38:   BOUND ON BI, by Bounding Basque. 3 wins, 5 to 7, $167,445. 
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 51: +    Leaping Lady (2009 f. by Mass Media). 2 wins at 3, $97,710. Dam of 5 foals, 4 to race, 3 winners--
 Dam is in line 38:   BOUND ON BI, by Bounding Basque. 3 wins, 5 to 7, $167,445. Half-sister to **LADY BI BI** ($314,715, 1st Ticonderoga H.-R (BEL, $90,000), etc.), **Say It Both Ways** ($112,634, 2nd George W. Barker S.-R (FL, $7,000)). Dam of 8 foals, 8 to race, 4 winners--
++    .  Callaloo (2019 c. by Trinniberg). Winner at 4, 2023, $58,100.
 		<hip>48</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Callaloo</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Leaping Lady</DamName>
++    .  **Big Engine** (2015 g. by Not For Love). 10 wins, 4 to 7, placed at 8, 2023, $505,945, 2nd Hudson H.-R (BEL, $25,000), Hollie Hughes S.-R (AQU, $20,000), 3rd Affirmed Success S.-R (BEL, $12,000).
 		<hip>48</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Big Engine**</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>g</HorseSex>
 		<DamName>**LADY BI BI**</DamName>
++    .  Telescopic (2008 f. by Lunarpal). 8 wins, 2 to 5, $136,240. Dam of 1 foal, 1 to race, 1 winner--
 		<hip>48</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Telescopic</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Looking Twice</DamName>
++    .  .  We Can Dream (2015 f. by Nownownow). Winner at 6, $25,130.
 		<hip>48</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>We Can Dream</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  Eretwice (2007 f. by Erewhon). Unplaced in 2 starts. Dam of 6 foals, 4 to race, 3 winners--
 		<hip>48</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Eretwice</HorseName>
-		<HorseYOB>2007 </HorseYOB>
+		<HorseYOB>2007</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Looking Twice</DamName>
++    .  .  Pineapple Julep (2012 f. by Thunderello). Winner at 3 and 4, $34,001.
 		<hip>48</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Pineapple Julep</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  E Z 's Shadow (2014 f. by E Z's Gentleman). Winner at 4, $6,515.
 		<hip>48</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>E Z 's Shadow</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  El Patron (2015 c. by Hold Me Back). Winner at 3 and 4 in Panama. Sent from United States to Panama in 2016.
 		<hip>48</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>El Patron</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>

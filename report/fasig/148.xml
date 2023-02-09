@@ -3,46 +3,50 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  **BLUEBERRY SMOOTHIE** (2010 f. by Giant's Causeway). 3 wins at 2 and 4, $135,342, 1st Barbara Shinpoch S. (EMD, $27,225), 2nd Washington Oaks (EMD, $13,000), Angie C. S. (EMD, $9,900), 3rd Emerald Distaff H. (EMD, $9,750), Seattle H. (EMD, $7,500), Irish Day H. (EMD, $7,500), Kent H. (EMD, $7,692), Hastings H. (EMD, $7,500), Washington State Legislators H. (EMD, $7,500), Boeing H. (EMD, $7,692). Sent from United States to Australia in 2017. Dam of 7 foals, 3 to race, 1 winner--
 		<hip>148</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**BLUEBERRY SMOOTHIE**</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**SHAMPOO**</DamName>
++    .  .  =Compassionate (AUS) (2018 f. by Into Mischief). Winner at 3, placed at 4, 2022, $104,825(AUS), in Australia. (Total: $75,427).
 		<hip>148</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Compassionate</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  .  =Ambassadors (AUS) (2019 g. by =Zoustar (AUS)). Placed at 3, 2022, $13,900(AUS), in Australia. (Total: $9,602).
 		<hip>148</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Ambassadors</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  **STARSHIP NTERPRISE** (2018 f. by Honor Code). 2 wins at 3, placed at 4, 2022, $159,218, 1st Martha Washington S. (GP, $45,105), 2nd Monroe S. (GP, $14,700), 3rd Monroe S. (GP, $7,275).
 		<hip>148</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**STARSHIP NTERPRISE**</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**SMARTY DEB**</DamName>
++    Hot Blooded Girl (2014 f. by Tapit). Winner at 3, $44,400. Dam of 4 foals, 1 to race, 1 winner--
 		<hip>148</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Hot Blooded Girl</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
-44
 		<DamDamName>**TASTE THE PASSION**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>t</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -50,27 +54,29 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 69: +    Hot Blooded Girl (2014 f. by Tapit). Winner at 3, $44,400. Dam of 4 foals, 1 to race, 1 winner--
 Dam is in line 44:   **TASTE THE PASSION**, by Wild Again. 3 wins at 2, $142,210, 1st Washington Thoroughbred Breeders' Association Lassie S. [L] (EMD, $29,700), Mona Lisa S. (EMD, $23,760), 2nd Washington Breeders' Cup Oaks [L] (EMD, $20,000), Federal Way H. (EMD, $9,600), King County H. (EMD, $8,000), Washington State Legislators H. (EMD, $7,000), 3rd Gottstein Futurity [L] (EMD, $15,000), Boeing H. (EMD, $6,000). Half-sister to **BISBEE'S PROSPECT** ($58,790, 1st U. S. Bank S. (EMD, $19,250), etc.). Dam of 14 foals, 9 to race, 6 winners--
++    .  Don't Talk (2019 f. by Violence). Winner at 3, 2022, $20,096.
 		<hip>148</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Don't Talk</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Hot Blooded Girl</DamName>
++    .  Iknowyourface (2015 f. by Trickey Trevor). 14 wins, 3 to 7, placed at 8, 2023, $92,581.
 		<hip>148</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Iknowyourface</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>For the Girls</DamName>
 	</update>

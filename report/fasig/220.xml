@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    **Arcadia Calls** (2016 g. by City Zip). 7 wins, 2 to 6, placed at 7, 2023, $170,261, 2nd Tom Metzen HBPA S.-R (CBY, $9,675).
 		<hip>220</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**Arcadia Calls**</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
-34
 		<DamDamName>**DOE**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>p</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,11 +20,11 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 37: +    **Arcadia Calls** (2016 g. by City Zip). 7 wins, 2 to 6, placed at 7, 2023, $170,261, 2nd Tom Metzen HBPA S.-R (CBY, $9,675).
 Dam is in line 34:   **DOE**, by Forestry. 6 wins at 2 and 3, $216,547, 1st Lady Charles Town S. [L] (CT, $44,100), Beautiful Day S. (DEL, $30,000), 2nd Charles Town Juvenile S. [L] (CT, $19,400), Dover S. [L] (DEL, $11,625). Dam of 7 foals, 4 to race, 4 winners--
 	</update>

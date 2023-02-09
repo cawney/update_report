@@ -3,24 +3,25 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  The X Factor (2018 f. by The Factor). Placed, 3 to 5, 2023, $17,200.
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>The X Factor</HorseName>
-		<HorseYOB>2018 </HorseYOB>
+		<HorseYOB>2018</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Twenty Six Acts</DamName>
++    Pinata Cat (2012 f. by Tiznow). Placed, 3 to 5, $23,696. Dam of 5 foals, 3 to race, 1 winner--
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Pinata Cat</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>f</HorseSex>
-38
 		<DamDamName>CAT DANCER</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>w</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -28,80 +29,89 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 55: +    Pinata Cat (2012 f. by Tiznow). Placed, 3 to 5, $23,696. Dam of 5 foals, 3 to race, 1 winner--
 Dam is in line 38:   CAT DANCER, by Storm Cat. Winner at 3, $53,465. Sister to **MAGIC STORM** ($249,135, 1st Monmouth Breeders' Cup Oaks **[G2]** (MTH, $150,000), etc.). Dam of 14 foals, 8 to race, 7 winners--
++    .  Silent Declaration (2019 g. by Declaration of War). Winner at 3, placed at 4, 2023, $13,149.
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Silent Declaration</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Pinata Cat</DamName>
++    .  Masabeeh (2019 f. by Union Rags). 2 wins at 3, 2022, $68,189.
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Masabeeh</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Thorayya</DamName>
++    .  **=LACHESIS (JPN)** (2010 f. by =Deep Impact (JPN)). 5 wins, 2 to 5, 295,986,000 Yen, in Japan, 1st Queen Elizabeth II Cup **[G1]**, Sankei Osaka Hai **[G2]**, 2nd Queen Elizabeth II Cup **[G1]**, Sankei Sho All Comers **[G2]**, Chunichi Shimbun Hai **[G3]**. (Total: $2,690,718). Dam of 3 foals, 3 to race, 2 winners--
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>**=LACHESIS</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>**MAGIC STORM**</DamName>
++    .  .  =Red Mirage (JPN) (2019 f. by =King Kamehameha (JPN)). 2 wins at 3, 2022, 15,000,000 Yen, in Japan. (Total: $108,191).
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Red Mirage</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
++    .  .  =Maxi (JPN) (2020 c. by =Epiphaneia (JPN)). Winner in 2 starts at 3, 2023, 6,200,000 Yen, in Japan. (Total: $47,731).
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Maxi</HorseName>
-		<HorseYOB>2020 </HorseYOB>
+		<HorseYOB>2020</HorseYOB>
 		<HorseSex>c</HorseSex>
++    .  .  =Sylvis (JPN) (2017 f. by =Rulership (JPN)). Placed in 2 starts at 2 and 3, 4,800,000 Yen, in Japan. (Total: $43,729).
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Sylvis</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>f</HorseSex>
++    .  Sosua Summer (2019 c. by Summer Front). Winner at 3, placed at 4, 2023, $141,978.
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sosua Summer</HorseName>
-		<HorseYOB>2019 </HorseYOB>
+		<HorseYOB>2019</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Honey Badger</DamName>
++    .  =Grace Valentina (ARG) (2008 f. by Suave). 2 wins at 4, 98,800 Pesos, in Argentina. (Total: $21,743). Dam of 3 foals, 1 to race--
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Grace Valentina</HorseName>
-		<HorseYOB>2008 </HorseYOB>
+		<HorseYOB>2008</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Dancing Dryad</DamName>
++    .  .  =Fauda (ARG) (2015 f. by =Bom Viento (ARG)). Placed at 4, 31,200 Pesos, in Argentina. (Total: $554).
 		<hip>223</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Fauda</HorseName>
-		<HorseYOB>2015 </HorseYOB>
+		<HorseYOB>2015</HorseYOB>
 		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>

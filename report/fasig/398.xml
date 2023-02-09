@@ -3,20 +3,22 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Grela (2012 f. by Bernstein). Unraced. Sent from United States to Argentina in 2014. Dam of 1 foal--
 		<hip>398</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Grela</HorseName>
-		<HorseYOB>2012 </HorseYOB>
+		<HorseYOB>2012</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>**GREEN LYONS</DamName>
++    .  =Blueberry (IRE) (2014 g. by So You Think (NZ)). 4 wins at 4 and 5 in Spain; 4 wins, 6 to 9, 2023, 52,700 Euro, in France; placed at 6, 54,536 Dirhams, in United Arab Emirates. (Total: $73,660).
 		<hip>398</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>=Blueberry</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>=Lake Windermere</DamName>
 	</update>

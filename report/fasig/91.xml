@@ -3,16 +3,16 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    English Classic (2014 g. by English Channel). Winner at 5 and 8, 2022, $154,152, in Canada. Set cre at Woodbine, 1 3/8 miles in 2:19.31 (08/05/19); placed in 1 start at 9, 2023, $2,800, in N.A./U.S. (Total: $120,314).
 		<hip>91</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>English Classic</HorseName>
-		<HorseYOB>2014 </HorseYOB>
+		<HorseYOB>2014</HorseYOB>
 		<HorseSex>g</HorseSex>
-40
 		<DamDamName>**CLASSIC STAMP**</DamDamName>
-		<SireName>Sire Name</SireName>
+		<SireName>l</SireName>
 		<OfficalPosition>3</OfficalPosition>
 		<RaceNumber>2</RaceNumber>
 		<RaceType>MCL</RaceType>
@@ -20,19 +20,20 @@
 		<RaceDate>20200606</RaceDate>
 		<TrackName>CHURCHILL DOWNS</TrackName>
 		<UpdPosition>2</UpdPosition>
-<Generation>2</Generation>
-<Earnings>$2,200</Earnings>
-<BlackType>N</BlackType>
-<WhiteType>Y</WhiteType>
-<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
+		<Generation>2</Generation>
+		<Earnings>$2,200</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
 update on line 47: +    English Classic (2014 g. by English Channel). Winner at 5 and 8, 2022, $154,152, in Canada. Set cre at Woodbine, 1 3/8 miles in 2:19.31 (08/05/19); placed in 1 start at 9, 2023, $2,800, in N.A./U.S. (Total: $120,314).
 Dam is in line 40:   **CLASSIC STAMP**, by Regal Classic. 5 wins at 3 and 4, $655,597, in N.A./U.S., 1st Canadian H. **[G2]** (WO, $198,300(CAN)), Carotene S.-R (WO, $100,800(CAN)), 3rd E. P. Taylor S. **[G1]** (WO, $82,500(CAN)), Nassau S. **[G3]** (WO, $35,448(CAN)), Dance Smartly H. **[G3]** (WO, $23,369(CAN)), Northernette S.-R (WO, $11,550(CAN)); winner at 5, $330,954, in Canada, 1st Bell Canadian H. **[G2]** (WO, $231,600), 2nd Dance Smartly H. **[G3]** (WO, $75,700). (Total: $933,588). Half-sister to **PRIZED STAMP** ($438,703, 1st Barbara Fritchie H. **[G2]**, etc.), **NATIVE LEGEND** ($145,846, 1st Star Shoot S. [L] (WO, $75,000)), **The Queen's Stamp** ($297,733, 3rd Carotene S.-R (WO, $17,952)). Dam of 8 foals, 7 to race, 5 winners--
++    .  Mr. Roundtree (2016 g. by Mineshaft). 4 wins, 4 to 6, placed at 7, 2023, $152,435.
 		<hip>91</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mr. Roundtree</HorseName>
-		<HorseYOB>2016 </HorseYOB>
+		<HorseYOB>2016</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Classical Humour</DamName>
 	</update>

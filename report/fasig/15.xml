@@ -3,50 +3,56 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++    .  Firstlady of Speed (2004 f. by First Tour). 5 wins, 2 to 5, $61,232. Dam of 1 foal--
 		<hip>15</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Firstlady of Speed</HorseName>
-		<HorseYOB>2004 </HorseYOB>
+		<HorseYOB>2004</HorseYOB>
 		<HorseSex>r</HorseSex>
 		<DamName>Leona's Ticket</DamName>
++    .  Rachel's Ticket (2011 f. by Hal's Image). Placed at 2 and 3, $5,466. Died 2018. Dam of 2 foals, 1 to race, 1 winner--
 		<hip>15</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Rachel's Ticket</HorseName>
-		<HorseYOB>2011 </HorseYOB>
+		<HorseYOB>2011</HorseYOB>
 		<HorseSex>c</HorseSex>
 		<DamName>Leona's Ticket</DamName>
++    .  .  Baddest Blues (2017 g. by Milwaukee Brew). Winner at 2, $42,409, in Canada. (Total: $32,434).
 		<hip>15</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Baddest Blues</HorseName>
-		<HorseYOB>2017 </HorseYOB>
+		<HorseYOB>2017</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  Jill's Bay Lady (2005 f. by First Tour). Placed at 2, $4,077. Dam of 2 foals, 2 to race, 2 winners--
 		<hip>15</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Jill's Bay Lady</HorseName>
-		<HorseYOB>2005 </HorseYOB>
+		<HorseYOB>2005</HorseYOB>
 		<HorseSex>f</HorseSex>
 		<DamName>Leona's Ticket</DamName>
++    .  .  Jill's Image (2010 f. by Hal's Image). 4 wins, 3 to 5, $55,011.
 		<hip>15</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Jill's Image</HorseName>
-		<HorseYOB>2010 </HorseYOB>
+		<HorseYOB>2010</HorseYOB>
 		<HorseSex>g</HorseSex>
++    .  .  Sir Jeffrey Image (2009 f. by Hal's Image). 3 wins at 5, $33,686. Dam of 1 foal, 1 to race--
 		<hip>15</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Sir Jeffrey Image</HorseName>
-		<HorseYOB>2009 </HorseYOB>
+		<HorseYOB>2009</HorseYOB>
 		<HorseSex>r</HorseSex>
 	</update>
 </FasigTiptonUpdates>
