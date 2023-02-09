@@ -3,32 +3,54 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Sweetie Darling (2014 f. by Bernardini). Placed at 3, $8,058. Dam of 3 foals, 1 to race, 1 winner--
-		<hip>311</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sweetie Darling</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**NICOLE H**</DamName>
 +    .  .  Phra Phrom (2019 g. by Street Sense). Winner at 3, 2022, $82,086.
+Found Gen 4
 		<hip>311</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Phra Phrom</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00311.htm</UpdateLink>
 +    .  Ready to Roll (2017 g. by City Zip). Winner at 3, placed at 6, 2023, $111,183.
+Found Gen 3
 		<hip>311</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ready to Roll</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>One for London</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00311.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

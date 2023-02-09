@@ -4,156 +4,101 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Klimt Ride (2019 g. by Klimt). Placed at 3, 2022, $15,150.
+		Gen 2
 		<hip>205</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Klimt Ride</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>HONEYED</DamDamName>
-		<SireName>t</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>HONEYED</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 38: +    Klimt Ride (2019 g. by Klimt). Placed at 3, 2022, $15,150.
-Dam is in line 34:   HONEYED, by Candy Ride (ARG). Placed at 4, $10,295. Half-sister to **Willow Place** ($194,623, 2nd Junior Champion S. (MTH, $8,550), etc.), **Sword Chief** ($133,387, 2nd Roman Brother S.-R (CRC, $10,000)). Dam of 5 foals, 2 to race, 1 winner--
-+    .  Willowy Wildcat (2002 f. by Forest Wildcat). Unplaced, $315. Dam of 1 foal, 1 to race, 1 winner--
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Willowy Wildcat</HorseName>
-		<HorseYOB>2002</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**Willow Place**</DamName>
-+    .  .  Willowy Danseur (2009 g. by Le Grande Danseur). 18 wins, 2 to 10, $126,194.
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Willowy Danseur</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  **BALMARAN** (2010 f. by Yes It's True). 6 wins, 2 to 4, $84,956, 1st Clasico Dia de la Mujer [L], 2nd Clasico Prensa Hipica [L], 3rd Clasico Ano Nuevo S. [L], Clasico Eduardo Cautino Insua S. [L], Accion de Gracias [L]. Dam of 5 foals, 3 to race, 2 winners--
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**BALMARAN**</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Free Space</DamName>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00205.htm</UpdateLink>
 +    .  .  Texas Ascot Queen (2019 f. by Fast Anna). 4 wins, 2 to 4, 2023, $91,258.
+Found Gen 4
 		<hip>205</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Texas Ascot Queen</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Moro Legend (2018 g. by Moro Tap). Winner at 4, 2022, $26,466.
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Moro Legend</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Infinite Cents (2016 f. by Goldencents). Unplaced in 2 starts, $200. Dam of 1 foal--
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Infinite Cents</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  **Into Oblivion** (2012 f. by Into Mischief). Winner at 2, $70,238, 2nd Barretts Debutante S.-R (LRC, $17,393). Dam of 4 foals, 1 to race, 1 winner--
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Into Oblivion**</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Free Space</DamName>
-+    .  .  Tiz Nena (2019 f. by Tiznow). Winner at 3, 2022, $25,205.
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tiz Nena</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Okbyecya (2014 f. by Into Mischief). 5 wins, 2 to 4, $79,239. Dam of 2 foals, 1 to race--
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Okbyecya</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Free Space</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00205.htm</UpdateLink>
 +    .  Aiden Little King (2019 c. by Can the Man). 4 wins at 3, placed at 4, 2023, $27,518.
+Found Gen 3
 		<hip>205</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Aiden Little King</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Free Space</DamName>
-+    .  Vuelve Azarel (2011 f. by Notional). 2 wins at 3, $13,953. Dam of 1 foal--
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Vuelve Azarel</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Free Space</DamName>
-+    .  .  **Midnitesalright** (2016 f. by Midnight Lute). 3 wins at 3, $94,274, 3rd Lynbrook S.-R (BEL, $10,000). Dam of 2 foals--
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Midnitesalright**</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00205.htm</UpdateLink>
 +    .  .  Targe (2018 f. by Will Take Charge). 5 wins at 2 and 4, 2022, $187,189.
+Found Gen 4
 		<hip>205</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Targe</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Junglherly Love (2019 g. by Mosler). Placed at 3, 2022, $5,560.
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Junglherly Love</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Keen Response (2019 g. by Keen Ice). Winner at 3, 2022, $15,923.
-		<hip>205</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Keen Response</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Meet At Lola's</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00205.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,48 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Probably Thursday (2013 f. by Gio Ponti). Unplaced, $2,622. Dam of 5 foals, 3 to race, 1 winner--
-		<hip>404</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Probably Thursday</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>PROBABLE STORM</DamDamName>
-		<SireName>i</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 53: +    Probably Thursday (2013 f. by Gio Ponti). Unplaced, $2,622. Dam of 5 foals, 3 to race, 1 winner--
-Dam is in line 40:   PROBABLE STORM, by Tabasco Cat. Unraced. Half-sister to **SUMMER COLONY** ($1,448,930, 1st Personal Ensign H. **[G1]** (SAR, $240,000), etc.), **Colonial Causeway** ($130,200, 3rd Primal S. (CRC, $5,500)). Dam of 11 foals, 9 to race, 5 winners--
 +    .  Caxambas Candy (2018 c. by Twirling Candy). Winner at 3 and 4, placed at 5, 2023, $63,895.
+Found Gen 3
 		<hip>404</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Caxambas Candy</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Probably Thursday</DamName>
-+    .  Next Thursday (2020 f. by Street Strategy). Placed in 1 start at 3, 2023, $18,000.
-		<hip>404</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Next Thursday</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Probably Thursday</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00404.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,65 +3,54 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Benevolent Austin (2019 g. by Lemon Drop Kid). Placed at 2, $2,455.
-		<hip>141</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Benevolent Austin</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>ERZULIE DANTOR</DamDamName>
-		<SireName>d</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 37: +    Benevolent Austin (2019 g. by Lemon Drop Kid). Placed at 2, $2,455.
-Dam is in line 34:   ERZULIE DANTOR, by Yonaguska. 2 wins at 5, $36,642. Half-sister to **INHISGLORY** ($221,734, 1st Turfway Prevue S. (TP, $29,140), etc.), **Hat of Jacks** ($152,551, 3rd Ack Ack H. **[G3]** (CD, $9,800)). Dam of 6 foals, 3 to race--
-+    .  **CHAMPAGNE ROOM** (2014 f. by Broken Vow). 3 wins at 2 and 3, $1,490,600, champion 2-year-old filly in U.S. (2016), 1st Breeders' Cup Juvenile Fillies **[G1]** (SA, $1,100,000), Sorrento S. **[G2]** (DMR, $120,000), Remington Park Oaks [L] (RP, $120,000), 2nd Bayakoa S. **[G2]** (LRC, $40,000), 3rd Del Mar Debutante S. **[G1]** (DMR, $36,000), Las Virgenes S. **[G2]** (SA, $24,000). Sent from United States to Japan in 2019. Dam of 3 foals, 2 to race, 1 winner--
-		<hip>141</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**CHAMPAGNE ROOM**</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Lucky to Be Me</DamName>
 +    .  .  Cordon Rouge (2019 f. by American Pharoah). 3 wins in 6 starts at 3, 2022, 30,513,000 Yen, in Japan. Sent from United States to Japan in 2019. (Total: $224,522).
+Found Gen 4
 		<hip>141</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cordon Rouge</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00141.htm</UpdateLink>
 +    .  =Lucky Mo (JPN) (2018 g. by Uncle Mo). Winner at 2 and 4, 2022, 14,700,000 Yen, in Japan. (Total: $124,388).
+Found Gen 3
 		<hip>141</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Lucky Mo</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Lucky to Be Me</DamName>
-+    .  One Card too Many (2016 f. by Drosselmeyer). Placed in 2 starts at 3, $7,253. Sent from United States to Japan in 2021. Dam of 2 foals--
-		<hip>141</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>One Card too Many</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Lucky to Be Me</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00141.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

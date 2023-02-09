@@ -3,40 +3,54 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  High Heeled Diva (2013 f. by Pleasantly Perfect). Winner at 3, $8,370. Dam of 1 foal--
-		<hip>123</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>High Heeled Diva</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Hondo's Way</DamName>
 +    .  Kara Para (2020 f. by The Factor). Placed at 2, 2022, $38,440.
+Found Gen 3
 		<hip>123</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kara Para</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>White Rock Lake</DamName>
-+    .  .  **Lady Emily Sage** (2012 f. by Intimidator). 8 wins, 2 to 5, $175,605, 2nd Louisiana Champions Day Lassie S.-R (FG, $20,000), 3rd Evangeline Downs Starlet S. (EVD, $10,000). Dam of 3 foals--
-		<hip>123</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Lady Emily Sage**</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00123.htm</UpdateLink>
 +    .  .  Catcake (2017 f. by D'wildcat). 5 wins, 2 to 5, 2022, $114,604.
+Found Gen 4
 		<hip>123</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Catcake</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00123.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

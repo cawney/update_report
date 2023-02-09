@@ -3,78 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    **Miss Shipman** (2020 f. by Midshipman). Winner at 2, 2022, $49,250, 3rd Letellier Memorial S. (FG, $10,000).
-		<hip>232</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Miss Shipman**</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>KALISTOGA GIRL</DamDamName>
-		<SireName>n</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 34: +    **Miss Shipman** (2020 f. by Midshipman). Winner at 2, 2022, $49,250, 3rd Letellier Memorial S. (FG, $10,000).
-Dam is in line 33:   KALISTOGA GIRL, by Tapit. Unraced. Half-sister to **Always in a Tiz** ($91,750, 2nd Traskwood S. (AQU, $15,000), etc.). Dam of 5 foals, 4 to race, 3 winners--
 +    Weegee (2018 g. by Gio Ponti). 3 wins at 4, placed at 5, 2023, $90,380.
+		Gen 2
 		<hip>232</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Weegee</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>KALISTOGA GIRL</DamDamName>
-		<SireName>i</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>KALISTOGA GIRL</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 37: +    Weegee (2018 g. by Gio Ponti). 3 wins at 4, placed at 5, 2023, $90,380.
-Dam is in line 33:   KALISTOGA GIRL, by Tapit. Unraced. Half-sister to **Always in a Tiz** ($91,750, 2nd Traskwood S. (AQU, $15,000), etc.). Dam of 5 foals, 4 to race, 3 winners--
-+    Kalistoga Girl (2011 f. by Tapit). See above.
-		<hip>232</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kalistoga Girl</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>**CALENDAR GIRL**</DamDamName>
-		<SireName>t</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 46: +    Kalistoga Girl (2011 f. by Tapit). See above.
-Dam is in line 42:   **CALENDAR GIRL**, by Elusive Quality. Winner at 3, $67,900, in Canada, 1st Mount Royal H. (STP, $30,000), 2nd Northlands Oaks [L] (NP, $20,000), Supernaturel H. (HST, $10,000), 3rd Penny Ridge S. [L] (STP, $7,500); winner at 3, $14,143, in N.A./U.S. (Total: $77,228). Dam of 10 foals, 5 to race, 3 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00232.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

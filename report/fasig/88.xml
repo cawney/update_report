@@ -4,29 +4,29 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Fujin (2020 c. by Temple City). Placed in 2 starts at 2, 2022, $21,400.
+		Gen 2
 		<hip>88</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fujin</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamDamName>**Seasoned**</DamDamName>
-		<SireName>y</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>**Seasoned**</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 45: +    Fujin (2020 c. by Temple City). Placed in 2 starts at 2, 2022, $21,400.
-Dam is in line 37:   **Seasoned**, by Pulpit. Winner at 2, $59,250, 2nd Happy Ticket S. [L] (LAD, $20,000), 3rd M2 Technology La Senorita S. [L] (RET, $11,000). Half-sister to **FLAVOR** ($310,957, 1st Forego S. (TP, $30,380)). Dam of 10 foals, 6 to race, 5 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00088.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,33 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  =Vice Versa (GB) (2014 f. by Oasis Dream (GB)). Winner at 3, 3,468 Pounds, in England. (Total: $4,492). Dam of 1 foal, 1 to race--
-		<hip>462</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Vice Versa</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Mascarene</DamName>
 +    .  =Drill To Dream (GB) (2019 f. by =Australia (GB)). Placed at 3, 2022, 7,845 Pounds, in England. (Total: $9,655).
+Found Gen 3
 		<hip>462</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Drill To Dream</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Mascarene</DamName>
-+    .  =Nelum (GB) (2016 f. by =Medicean (GB)). Unraced in Great Britain. Dam of 2 foals--
-		<hip>462</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Nelum</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Mascarene</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00462.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

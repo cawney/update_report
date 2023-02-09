@@ -4,38 +4,29 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Higher Authority (2016 g. by Bernardini). 6 wins, 4 to 7, 2023, $129,899.
+		Gen 2
 		<hip>195</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Higher Authority</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>HEAVENLY VISION</DamDamName>
-		<SireName>i</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>HEAVENLY VISION</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 37: +    Higher Authority (2016 g. by Bernardini). 6 wins, 4 to 7, 2023, $129,899.
-Dam is in line 34:   HEAVENLY VISION, by Forestry. 3 wins at 2 and 3, $85,544. Half-sister to **CAIRO PRINCE** ($562,000, 1st Holy Bull S. **[G2]** (GP, $240,000), etc., sire), **Nonna Mia** ($127,150, 2nd Loudonville S.-R (SAR, $14,000), etc.), **Holdin Bullets** ($166,254, 3rd Breeders' Cup Juvenile Sprint [L] (CD, $49,500)). Dam of 9 foals, 5 to race, 5 winners--
-+    .  Nonna Bella (2014 f. by Stay Thirsty). 2 wins at 3, $63,875. Dam of 4 foals--
-		<hip>195</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Nonna Bella</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**Nonna Mia**</DamName>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00195.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

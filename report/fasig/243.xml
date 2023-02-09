@@ -3,254 +3,124 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Spirit of America (2004 f. by Lemon Drop Kid). Unraced. Sent from United States to Turkey in 2008. Dam of 2 foals, 1 to race, 1 winner--
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Spirit of America</HorseName>
-		<HorseYOB>2004</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Strawberry Way**</DamName>
-+    .  .  Historically (2008 g. by Sharp Humor). 9 wins, 3 to 5, $100,369.
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Historically</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  R Luck's Lady (2003 f. by Tiznow). Unraced. Dam of 6 foals, 6 to race, 6 winners--
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>R Luck's Lady</HorseName>
-		<HorseYOB>2003</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**Strawberry Way**</DamName>
-+    .  .  Harvest a Storm (2014 g. by Tribal Rule). 4 wins, 2 to 5, $186,266.
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Harvest a Storm</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Fine and Rare (2008 g. by Include). 6 wins at 4 and 5, $69,743.
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fine and Rare</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  All Bizness (2016 g. by Fed Biz). Winner at 3 and 4, $36,333, in N.A./U.S.; unplaced in 1 start, $288, in Canada. (Total: $36,572).
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>All Bizness</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Jazillionaire (2010 g. by Jazil). 3 wins at 3 and 4, $25,116.
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Jazillionaire</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Tiz a Bit Lucky (2018 f. by Tonalist). Winner at 2, $24,613.
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tiz a Bit Lucky</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Classy Disturbance (2012 f. by Parading). Winner at 4, $11,440.
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Classy Disturbance</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Fish Bowl (2006 f. by Northern Afleet). Winner in 2 starts at 3, $15,700. Dam of 7 foals, 4 to race, 4 winners--
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fish Bowl</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**Bowl of Berries**</DamName>
-+    .  .  Red N Black Attack (2011 g. by Big Brown). 7 wins, 3 to 5, $135,905, in N.A./U.S.; 5 wins at 6 and 7, $23,053, in Canada. (Total: $153,822).
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Red N Black Attack</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Fish to Fry (2016 f. by Well Spelled). 7 wins at 3 and 4, $136,639.
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fish to Fry</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
 +    .  .  Master Guns (2015 g. by Not For Love). 3 wins, 3 to 7, 2022, $95,550.
+Found Gen 4
 		<hip>243</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Master Guns</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Strawberry Treat (2020 g. by Well Spelled). 2 wins in 4 starts at 2, 2022, $46,978.
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Strawberry Treat</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Our Striker (2022 c. by Well Spelled). (application pending)
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Our Striker</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  **Princess Samurai** (2014 f. by First Samurai). Winner at 2 and 3, $96,990, 2nd Louisiana Futurity-R (FG, $20,160). Dam of 3 foals, 1 to race, 1 winner--
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Princess Samurai**</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Interruption</DamName>
-+    .  .  Quagmire Magic (2020 g. by Good Magic). Winner in 2 starts at 2, 2022, $20,300.
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Quagmire Magic</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Kaskiida (2012 f. by Mineshaft). 2 wins at 3, $26,500. Dam of 3 foals--
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kaskiida</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Interruption</DamName>
-+    .  .  Style Maker (2022 f. by Hard Aces). (application pending)
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Style Maker</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Little Dixie Miss (2010 f. by Dixie Union). Winner at 3, $20,790. Sent from United States to Republic of Korea in 2014. Dam of 6 foals--
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Little Dixie Miss</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Interruption</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00243.htm</UpdateLink>
 +    .  .  **The Boss Soss** (2020 c. by Court Vision). Winner at 2, placed at 3, 2023, $79,850, 2nd D. S. Shine Young Futurity-R (EVD, $10,200), 3rd Louisiana Legacy S.-R (DED, $10,000).
+Found Gen 4
 		<hip>243</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**The Boss Soss**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00243.htm</UpdateLink>
 +    .  .  Spider Legs (2017 f. by Temple City). Winner at 3, placed at 5, 2022, $58,505.
+Found Gen 4
 		<hip>243</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Spider Legs</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Clear Intent (2012 f. by Yankee Gentleman). Winner at 3 and 4, $38,810.
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00243.htm</UpdateLink>
++      .  Amongst Friends (2018 g. by Oxbow). 3 wins at 3 and 4, placed at 5, 2023, $168,283.
 		<hip>243</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Clear Intent</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Guest Appearance (2016 f. by Cameo Appearance). Winner at 3 and 4, $36,270.
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Guest Appearance</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Mis Isla (2013 f. by Into Mischief). Winner at 2, $25,600.
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mis Isla</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  =Classic Approach (AUS) (2011 f. by =New Approach (IRE)). Unraced in Australia. Dam of 5 foals, 4 to race, 2 winners--
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Classic Approach</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>=Cloneen</DamName>
-+    .  .  =My Factory (AUS) (2016 g. by The Factor). Winner at 5, $592,800(HK), in Hong Kong. Registered in Hong Kong as The Mint. (Total: $76,151).
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=My Factory</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Kyokushin (AUS) (2018 g. by =Scissor Kick (AUS)). Winner at 3, $37,800(AUS), in Australia. (Total: $27,097).
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Kyokushin</HorseName>
+		<HorseName>+      .  Amongst Friends (</HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Realism (AUS) (2015 f. by =Al Maher (AUS)). Placed at 3 and 4, $25,365(AUS), in Australia. (Total: $17,835).
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00243.htm</UpdateLink>
++      .  Darlene Strong (2017 f. by Mark Valeski). 6 wins, 2 to 5, 2022, $118,435.
 		<hip>243</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Realism</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  =Scarteen (AUS) (2012 f. by =New Approach (IRE)). Winner at 4, $19,150(AUS), in Australia. (Total: $14,546). Dam of 1 foal--
-		<hip>243</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Scarteen</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>=Lady Helissio</DamName>
+		<HorseName>+      .  Darlene Strong (</HorseName>
+		<HorseYOB>2017</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00243.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

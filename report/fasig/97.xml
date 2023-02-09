@@ -3,166 +3,78 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Elusive Candy (2011 f. by Candy Ride (ARG)). Unraced. Dam of 3 foals, 1 to race, 1 winner--
-		<hip>97</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Elusive Candy</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**ELUSIVE HORIZON**</DamName>
 +    .  .  Carson's Princess (2018 f. by Tale of the Cat). 5 wins at 3 and 4, placed at 5, 2023, $85,610.
+Found Gen 4
 		<hip>97</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Carson's Princess</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Smart Samurai (2012 f. by First Samurai). Placed at 3, $4,824. Sent from United States to Dominican Republic in 2016. Dam of 3 foals--
-		<hip>97</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Smart Samurai</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Smarty Kota</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00097.htm</UpdateLink>
 +    .  Vegas Weekend (2018 f. by Mineshaft). 5 wins at 3, placed at 5, 2023, $225,240.
+Found Gen 3
 		<hip>97</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Vegas Weekend</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Hope Chest</DamName>
-+    .  Propellant (2020 c. by Into Mischief). Placed at 2, 2022, $7,539.
-		<hip>97</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Propellant</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Quality Way</DamName>
-+    Less Traveled (2010 f. by Gottcha Gold). Unraced. Dam of 5 foals, 3 to race, 2 winners--
-		<hip>97</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Less Traveled</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>TANGLED UP IN BLUE</DamDamName>
-		<SireName>d</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 88: +    Less Traveled (2010 f. by Gottcha Gold). Unraced. Dam of 5 foals, 3 to race, 2 winners--
-Dam is in line 72:   TANGLED UP IN BLUE, by Phone Trick. 3 wins at 4, $34,640. Half-sister to **COUNT ON A CHANGE** ($233,699, 1st Etobicoke H. [L] (WO, $39,204(CAN)), etc.), **T. V. COUNTESS** ($117,237, 1st Politely S. [LR] (PIM, $32,500), etc.). Dam of 11 foals, 5 to race, 4 winners--
-+    .  Sky Traveler (2018 g. by Sky Mesa). Placed in 2 starts at 4, 2022, $2,660.
-		<hip>97</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sky Traveler</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Less Traveled</DamName>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00097.htm</UpdateLink>
 +    .  I Love Jaxson (2015 g. by Flat Out). 11 wins, 2 to 7, placed at 8, 2023, $379,230.
+Found Gen 3
 		<hip>97</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>I Love Jaxson</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2015</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Procellous</DamName>
-+    Pahlmuhree (2004 f. by Gone West). Unraced. Dam of 8 foals, 7 to race, 5 winners--
-		<hip>97</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pahlmuhree</HorseName>
-		<HorseYOB>2004</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>TANGLED UP IN BLUE</DamDamName>
-		<SireName>t</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 102: +    Pahlmuhree (2004 f. by Gone West). Unraced. Dam of 8 foals, 7 to race, 5 winners--
-Dam is in line 72:   TANGLED UP IN BLUE, by Phone Trick. 3 wins at 4, $34,640. Half-sister to **COUNT ON A CHANGE** ($233,699, 1st Etobicoke H. [L] (WO, $39,204(CAN)), etc.), **T. V. COUNTESS** ($117,237, 1st Politely S. [LR] (PIM, $32,500), etc.). Dam of 11 foals, 5 to race, 4 winners--
-+    .  Passionville (2008 f. by Petionville). 2 wins at 6, $82,367. Dam of 4 foals, 2 to race, 1 winner--
-		<hip>97</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Passionville</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Dynablue</DamName>
-+    .  .  Cat Lady Blues (2018 f. by Bluegrass Cat). Winner at 4, 2022, $9,300.
-		<hip>97</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cat Lady Blues</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Ryano Rose (2019 f. by Texas Ryano). Placed at 3, 2022, $3,920.
-		<hip>97</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ryano Rose</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Abbreviated Career (2004 f. by Quiet American). Unraced. Dam of 2 foals, 2 to race, 2 winners--
-		<hip>97</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Abbreviated Career</HorseName>
-		<HorseYOB>2004</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Dynablue</DamName>
-+    .  .  Froggyville (2007 g. by Petionville). 18 wins, 3 to 9, $267,776.
-		<hip>97</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Froggyville</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Seekingacareer (2008 g. by Petionville). Winner at 3, $7,647, in Canada. (Total: $7,775).
-		<hip>97</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Seekingacareer</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00097.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

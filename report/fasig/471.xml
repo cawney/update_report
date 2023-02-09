@@ -3,49 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Warrior Hall (2014 f. by War Front). Winner at 2, $74,535, in N.A./U.S.; placed at 3, $16,260, in Canada. (Total: $87,461). Dam of 3 foals--
-		<hip>471</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Warrior Hall</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Azzedine</DamName>
-+    .  Assoulin (2013 f. by Candy Ride (ARG)). Placed at 2, $26,300. Dam of 3 foals, 2 to race, 2 winners--
-		<hip>471</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Assoulin</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Azzedine</DamName>
-+    .  .  Miss International (2017 f. by Tapizar). 2 wins at 3, $36,256.
-		<hip>471</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Miss International</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Danley (2019 g. by Anchor Down). Winner at 3, 2022, $30,770.
-		<hip>471</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Danley</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Shadow Lane (2016 f. by Exchange Rate). Unraced. Dam of 2 foals--
-		<hip>471</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Shadow Lane</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Azzedine</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

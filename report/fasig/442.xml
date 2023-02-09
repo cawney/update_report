@@ -3,60 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+ RUNNINGTHESHOW, by Majesticperfection. Unplaced in 2 starts, $274. Half-sister to **Toro Bonito** ($237,836, 2nd Sharp Cat S. [L] (HOL, $20,000), etc.). Dam of 6 foals, 3 to race, 2 winners--
-<hip>442</hip>
-<SaleEntryCode>PH23</SaleEntryCode>
-<SaleCode>FTFEB</SaleCode>
-<SaleName>FT FEB MIXED 21</SaleName>
-update on line 37: + RUNNINGTHESHOW, by Majesticperfection. Unplaced in 2 starts, $274. Half-sister to **Toro Bonito** ($237,836, 2nd Sharp Cat S. [L] (HOL, $20,000), etc.). Dam of 6 foals, 3 to race, 2 winners--
 +    Dial Her (2019 f. by Dialed In). Winner at 3, placed at 4, 2023, $22,761.
+		Gen 2
 		<hip>442</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dial Her</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>RUNNINGTHESHOW</DamDamName>
-		<SireName>n</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>RUNNINGTHESHOW</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 41: +    Dial Her (2019 f. by Dialed In). Winner at 3, placed at 4, 2023, $22,761.
-Dam is in line 37: + RUNNINGTHESHOW, by Majesticperfection. Unplaced in 2 starts, $274. Half-sister to **Toro Bonito** ($237,836, 2nd Sharp Cat S. [L] (HOL, $20,000), etc.). Dam of 6 foals, 3 to race, 2 winners--
-+    Klimt's Legacy (2020 f. by Klimt). Placed in 1 start at 3, 2023, $1,100.
-		<hip>442</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Klimt's Legacy</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>RUNNINGTHESHOW</DamDamName>
-		<SireName>t</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 44: +    Klimt's Legacy (2020 f. by Klimt). Placed in 1 start at 3, 2023, $1,100.
-Dam is in line 37: + RUNNINGTHESHOW, by Majesticperfection. Unplaced in 2 starts, $274. Half-sister to **Toro Bonito** ($237,836, 2nd Sharp Cat S. [L] (HOL, $20,000), etc.). Dam of 6 foals, 3 to race, 2 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00442.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

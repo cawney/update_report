@@ -3,48 +3,78 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  **Subtle** (2008 f. by Yankee Gentleman). 5 wins, 4 to 6, $223,795, 2nd Turf Amazon H. [L] (PRX, $40,000). Dam of 5 foals--
-		<hip>255</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Subtle**</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Ava Anne</DamName>
-+    .  **SECRET KITTEN** (2011 f. by Discreet Cat). 3 wins at 2, $138,750, 1st Cassidy S. (CRC, $51,000), Catcharisingstar S. (CRC, $45,000), 3rd Sandpiper S. (TAM, $5,000), Juvenile Filly Sprint S.-R (GP, $13,750). Dam of 6 foals, 4 to race, 3 winners--
-		<hip>255</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**SECRET KITTEN**</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Mossy Bank</DamName>
 +    .  .  Chief Howcome (2017 g. by City Zip). Winner at 3 and 5, placed at 6, 2023, $61,738.
+Found Gen 4
 		<hip>255</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Chief Howcome</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00255.htm</UpdateLink>
 +    .  .  Liam's Secret (2018 f. by Liam's Map). Winner at 3 and 4, 2022, $56,390.
+Found Gen 4
 		<hip>255</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Liam's Secret</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00255.htm</UpdateLink>
 +    .  .  Gata Runz (2019 f. by Runhappy). Winner at 3, 2022, $50,883.
+Found Gen 4
 		<hip>255</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Gata Runz</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00255.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,45 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+ **HOLY FASHION**, by Holy Bull. 4 wins at 2 and 3, $83,030, 1st Aspen Cup Thoroughbred S. (RUI, $24,000), Desert Rose H. (RUI, $24,000), 3rd Sun Devil S. (TUP, $4,000). Half-sister to **Mandarin Marsh** ($174,786, 2nd Jamaica H. **[G2]**, etc.), **Daguerreotype** ($86,342, 3rd Iowa State Fair S. (PRM, $5,000)). Dam of 13 foals, 11 to race, 8 winners--
-<hip>413</hip>
-<SaleEntryCode>PH23</SaleEntryCode>
-<SaleCode>FTFEB</SaleCode>
-<SaleName>FT FEB MIXED 21</SaleName>
-update on line 44: + **HOLY FASHION**, by Holy Bull. 4 wins at 2 and 3, $83,030, 1st Aspen Cup Thoroughbred S. (RUI, $24,000), Desert Rose H. (RUI, $24,000), 3rd Sun Devil S. (TUP, $4,000). Half-sister to **Mandarin Marsh** ($174,786, 2nd Jamaica H. **[G2]**, etc.), **Daguerreotype** ($86,342, 3rd Iowa State Fair S. (PRM, $5,000)). Dam of 13 foals, 11 to race, 8 winners--
 +    .  Miss Fashionista (2020 f. by Bernardini). Placed at 2, 2022, $19,670.
+Found Gen 3
 		<hip>413</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Miss Fashionista</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**ABOVE FASHION**</DamName>
-+    Ssonsal Cheoreom (2019 c. by Race Day). 3 wins at 3, 2022 in Republic of Korea. Sent from United States to Republic of Korea in 2020.
-		<hip>413</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ssonsal Cheoreom</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>**HOLY FASHION**</DamDamName>
-		<SireName>y</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 56: +    Ssonsal Cheoreom (2019 c. by Race Day). 3 wins at 3, 2022 in Republic of Korea. Sent from United States to Republic of Korea in 2020.
-Dam is in line 44: + **HOLY FASHION**, by Holy Bull. 4 wins at 2 and 3, $83,030, 1st Aspen Cup Thoroughbred S. (RUI, $24,000), Desert Rose H. (RUI, $24,000), 3rd Sun Devil S. (TUP, $4,000). Half-sister to **Mandarin Marsh** ($174,786, 2nd Jamaica H. **[G2]**, etc.), **Daguerreotype** ($86,342, 3rd Iowa State Fair S. (PRM, $5,000)). Dam of 13 foals, 11 to race, 8 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00413.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

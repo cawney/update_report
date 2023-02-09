@@ -3,124 +3,126 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    **FLAMING HEART** (2001 f. by Touch Gold). 4 wins at 4 and 5, $185,914, in N.A./U.S., 1st Strolling Belle S.-R (AQU, $37,350), 2nd Next Move H. **[G3]** (AQU, $21,364); winner in 2 starts at 5, $67,500, in Canada, 1st Hill 'n' Dale S. [L] (WO, $60,000). (Total: $245,961). Died 2021. Dam of 11 foals, 9 to race, 8 winners--
-		<hip>87</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**FLAMING HEART**</HorseName>
-		<HorseYOB>2001</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>**HOT LEAR**</DamDamName>
-		<SireName>d</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 47: +    **FLAMING HEART** (2001 f. by Touch Gold). 4 wins at 4 and 5, $185,914, in N.A./U.S., 1st Strolling Belle S.-R (AQU, $37,350), 2nd Next Move H. **[G3]** (AQU, $21,364); winner in 2 starts at 5, $67,500, in Canada, 1st Hill 'n' Dale S. [L] (WO, $60,000). (Total: $245,961). Died 2021. Dam of 11 foals, 9 to race, 8 winners--
-Dam is in line 44:   **HOT LEAR**, by Lear Fan. 4 wins in 7 starts at 2 and 4, $106,050, 1st Santa Clara H. (BM, $25,230), Courtship S. (BM, $19,600), Bay Meadows Debutante S. (BM, $19,670), 2nd Fremont H. (BM, $9,000), 3rd Miss America H. [L] (GG, $18,000). Sent from United States to Saudi Arabia in 2010. Half-sister to **INTERN** ($392,729, 1st Sea O Erin Breeders' Cup Mile H. [L] (AP, $72,780), etc.), **LOVE MEDICINE** ($149,561, 1st West Long Branch S. (MTH, $24,000), etc.). Dam of 10 foals, 6 to race, 4 winners--
 +    .  **Intrepid Heart** (2016 g. by Tapit). 8 wins, 3 to 6, 2022, $562,382, 2nd Fort Larned S. (CD, $39,600), Bosselman Pump and Pantry/Gus Fonner S. (FON, $15,900), 3rd Peter Pan S. **[G3]** (BEL, $36,000).
+Found Gen 3
 		<hip>87</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Intrepid Heart**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**FLAMING HEART**</DamName>
-+    .  .  Song of Peace (2018 c. by Uncle Mo). Placed at 2, 1,485 Euro, in Ireland. Sent from United States to Ireland in 2019. (Total: $1,758).
-		<hip>87</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Song of Peace</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Nakano Takeko (2014 f. by First Samurai). Unraced. Dam of 3 foals, 1 to race--
-		<hip>87</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Nakano Takeko</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Covenant (2014 f. by Speightstown). Winner at 3, $65,930. Dam of 3 foals--
-		<hip>87</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Covenant</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**FLAMING HEART**</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00087.htm</UpdateLink>
 +    .  Hawker (2020 c. by Justify). Winner at 3, 2023, $59,440.
+Found Gen 3
 		<hip>87</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hawker</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**FLAMING HEART**</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00087.htm</UpdateLink>
 +    .  .  **PRACTICAL MOVE** (2020 c. by Practical Joke). 2 wins at 2, 2022, $194,200, 1st Los Alamitos Futurity **[G2]** (LRC, $120,000), 3rd Bob Hope S. **[G3]** (DMR, $12,000).
+Found Gen 4
 		<hip>87</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**PRACTICAL MOVE**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Lovin Spoon Phil (2013 f. by Philanthropist). 5 wins, 3 to 6, $122,350, in Canada; placed at 5 and 6, $8,080, in N.A./U.S. (Total: $100,655). Dam of 1 foal--
-		<hip>87</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lovin Spoon Phil</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Love Torch</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00087.htm</UpdateLink>
 +    .  Lady Shaman (2017 f. by Proud Citizen). 3 wins at 3 and 5, placed at 6, 2023, $94,133.
+Found Gen 3
 		<hip>87</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lady Shaman</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Love Torch</DamName>
-+    .  I'm Good With It (2011 f. by Where's the Ring). Placed at 2 and 3, $31,022, in Canada. (Total: $28,749). Dam of 5 foals, 3 to race--
-		<hip>87</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>I'm Good With It</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Love Torch</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00087.htm</UpdateLink>
 +    .  .  Grand Gizmo (2018 g. by Giant Gizmo). Placed at 3 and 4, 2022, $56,734, in Canada. (Total: $43,843).
+Found Gen 4
 		<hip>87</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Grand Gizmo</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Well You Know (2017 f. by Revolutionary). Placed at 3, $5,860, in Canada. (Total: $4,382).
-		<hip>87</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Well You Know</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00087.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

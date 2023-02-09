@@ -3,74 +3,29 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  =Puerta Ravenna (CHI) (2011 f. by Pavarotti). Unraced in Chile. Dam of 3 foals, 3 to race, 2 winners--
++ 2016 Big Tall Dawg, g. by The Factor. 5 wins, 3 to 6, 2022, $122,181.
 		<hip>121</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Puerta Ravenna</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Quietly Bold</DamName>
-+    .  .  =Mister Gandhi (CHI) (2016 g. by Shanghai Bobby). 6 wins, 2 to 6, 2022, 31,922,000 Pesos, in Chile. (Total: $41,444).
-		<hip>121</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Mister Gandhi</HorseName>
+		<HorseName>+ 2016 Big Tall Dawg,</HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Sdarovia (CHI) (2018 f. by Forever Thing). Winner at 3, placed at 4, 2022, 1,655,000 Pesos, in Chile. (Total: $1,958).
-		<hip>121</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Sdarovia</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Cocomama (2005 f. by Glitterman). 2 wins at 3, $24,810. Dam of 2 foals, 1 to race, 1 winner--
-		<hip>121</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cocomama</HorseName>
-		<HorseYOB>2005</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Inca Goddess</DamName>
-+    .  .  Bemois (2011 g. by Sir Shackleton). 3 wins at 4 and 5, $54,932.
-		<hip>121</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bemois</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  =The Panter (ARG) (2012 f. by The Leopard). Unraced in Argentina. Dam of 1 foal--
-		<hip>121</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=The Panter</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Inca Goddess</DamName>
-+    .  =Diosa Inca (ARG) (2008 f. by Easing Along). Unraced in Argentina. Dam of 5 foals, 1 to race, 1 winner--
-		<hip>121</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Diosa Inca</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Inca Goddess</DamName>
-+    .  .  =Ngnechen Lef (ARG) (2013 c. by Pollard's Vision). 3 wins, 3 to 6, 687,627 Pesos, in Argentina. (Total: $31,755).
-		<hip>121</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Ngnechen Lef</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00121.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

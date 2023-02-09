@@ -3,213 +3,29 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Takethedoeandrun (2011 f. by Arch). Winner in 2 starts at 3, $22,850. Dam of 6 foals, 1 to race--
++    .  .  .  Dr. Ferber (2018 g. by Lookin At Lucky). 4 wins, 2 to 4, 2022, $128,583.
 		<hip>488</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Takethedoeandrun</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Winning Doe</DamName>
-+    .  .  Oodles and Boodles (2022 f. by Awesome Slew).
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Oodles and Boodles</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Latin Lashes (2008 f. by Stormy Atlantic). Winner at 2, 4,070 Pounds, in England; placed in 1 start at 4, $11,720, in Canada; unplaced, $990, in N.A./U.S. Sent from United States to Great Britain in 2010. Returned to United States from Great Britain in 2010. Sent from United States to Jamaica in 2015. (Total: $19,093). Died 2017. Dam of 3 foals, 3 to race, 1 winner--
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Latin Lashes</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Magnificentaproval</DamName>
-+    .  .  Brave Request (2014 g. by Awesome Again). 5 wins at 4, $71,857.
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Brave Request</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Suzie Grey (JAM) (2017 f. by Rising Moon). Placed at 5, 2022 in Jamaica.
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Suzie Grey</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  =Haute Couture (TUR) (2015 f. by Victory Gallop). Placed at 2 in Turkey. Dam of 1 foal--
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Haute Couture</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Highest Approval</DamName>
-+    .  =Midnight High (TUR) (2014 f. by Midnight Lute). Placed at 3 in Turkey. Dam of 2 foals--
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Midnight High</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Highest Approval</DamName>
-+    .  **Anything for You** (1997 f. by Allen's Prospect). 4 wins at 3 and 4, $133,600, 3rd Politely S.-R (LRL, $6,600), Squan Song S.-R (LRL, $5,500). Dam of 7 foals, 4 to race, 4 winners--
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Anything for You**</HorseName>
-		<HorseYOB>1997</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Pleasure Point</DamName>
-+    .  .  Anythingtogeteven (2011 g. by Time to Get Even). 8 wins, 3 to 5, $82,885.
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Anythingtogeteven</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Sister Gertrude (2008 f. by Songandaprayer). 3 wins at 3 and 4, $49,388. Dam of 6 foals, 3 to race, 1 winner--
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sister Gertrude</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Spoiledandentitled (2010 f. by Afleet Alex). Winner at 4, $31,520. Dam of 3 foals, 2 to race, 1 winner--
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Spoiledandentitled</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Anything for Gold (2004 g. by Touch Gold). Winner at 3, $22,922. Died 2008.
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Anything for Gold</HorseName>
-		<HorseYOB>2004</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  **LOVE YOU MADLY** (2000 f. by Partner's Hero). 6 wins, 2 to 5, $160,985, 1st Skipat S. (PIM, $30,000), 3rd Marshua S. (LRL, $6,600). Dam of 10 foals, 8 to race, 4 winners--
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**LOVE YOU MADLY**</HorseName>
-		<HorseYOB>2000</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Georgian (2004 g. by Touch Gold). 6 wins, 3 to 7, $151,465.
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Georgian</HorseName>
-		<HorseYOB>2004</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Sir Simms (2001 g. by Allen's Prospect). 4 wins at 4 and 5, $70,122. Died 2007.
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sir Simms</HorseName>
-		<HorseYOB>2001</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Youra Rosie Won (2006 f. by Bartok (IRE)). Winner at 7, $12,875.
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Youra Rosie Won</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Perla Verde (2007 f. by Swiss Yodeler). 6 wins at 2 and 3 in Mexico. Sent from United States to Mexico in 2008. Sent from USA and Canada to Mexico in 2009. Dam of 2 foals, 1 to race, 1 winner--
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Perla Verde</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Paper Flower (2002 f. by Bertrando). Unraced. Died 2009. Dam of 2 foals, 1 to race, 1 winner--
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Paper Flower</HorseName>
-		<HorseYOB>2002</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Sun and Moon (1991 f. by Sir Ivor Again). Winner at 3, $9,651. Dam of 3 foals, 3 to race, 2 winners--
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sun and Moon</HorseName>
-		<HorseYOB>1991</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Pleasure Point</DamName>
-+    .  .  Ramadan Moon (1999 f. by Tamayaz). Winner at 3, $20,442. Dam of 9 foals, 6 to race, 2 winners--
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ramadan Moon</HorseName>
-		<HorseYOB>1999</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Beyond the Sea (2000 g. by Horatius). Winner at 3, $4,725.
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Beyond the Sea</HorseName>
-		<HorseYOB>2000</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Wake Up Call (1997 g. by Twining). Placed at 3, $12,125.
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Wake Up Call</HorseName>
-		<HorseYOB>1997</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Doublethepleasure (2002 f. by Two Punch). Unraced. Dam of 3 foals, 2 to race, 2 winners--
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Doublethepleasure</HorseName>
-		<HorseYOB>2002</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Pleasure Point</DamName>
-+    .  .  Laugh It Off (2009 g. by Lion Heart). 2 wins at 4, $37,065. Died 2013.
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Laugh It Off</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Action Tonight (2012 f. by Lion Hearted). Winner at 3, $19,780. Died 2015.
-		<hip>488</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Action Tonight</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseName>+    .  .  .  Dr. Ferber (</HorseName>
+		<HorseYOB>2018</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00488.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

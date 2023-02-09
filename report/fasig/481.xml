@@ -3,39 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Red Menace (2011 f. by Stormy Atlantic). Unraced. Dam of 7 foals, 4 to race, 1 winner--
-		<hip>481</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Red Menace</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamDamName>NEAR AND DEAR</DamDamName>
-		<SireName>c</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 53: +    Red Menace (2011 f. by Stormy Atlantic). Unraced. Dam of 7 foals, 4 to race, 1 winner--
-Dam is in line 41:   NEAR AND DEAR, by Red Ransom. 3 wins at 3 and 4, $80,400. Half-sister to **Bond Arbitrage** ($77,481, 2nd Bertram F. Bongard S.-R (BEL, $21,900)). Dam of 10 foals, 7 to race, 6 winners--
-+    .  Diamond Princess (2016 f. by Gemologist). Winner at 2 and 3, $53,796. Dam of 2 foals--
-		<hip>481</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Diamond Princess</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Red Menace</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,110 +3,53 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+ **Preach It**, by Saint Ballado. 3 wins at 3 and 4, $120,839, 2nd Wayward Lass S. (TAM, $9,000), 3rd Florida Breeders' Distaff S.-R (OTC, $4,000). Half-sister to **ORATORY** ($189,000, 1st Peter Pan S. **[G2]** (BEL, $120,000), sire). Dam of 13 foals, 7 to race, 5 winners--
-<hip>334</hip>
-<SaleEntryCode>PH23</SaleEntryCode>
-<SaleCode>FTFEB</SaleCode>
-<SaleName>FT FEB MIXED 21</SaleName>
-update on line 40: + **Preach It**, by Saint Ballado. 3 wins at 3 and 4, $120,839, 2nd Wayward Lass S. (TAM, $9,000), 3rd Florida Breeders' Distaff S.-R (OTC, $4,000). Half-sister to **ORATORY** ($189,000, 1st Peter Pan S. **[G2]** (BEL, $120,000), sire). Dam of 13 foals, 7 to race, 5 winners--
-+    Where's the Pumps (2020 f. by Daredevil). Winner in 2 starts at 2, 2022, $12,000.
-		<hip>334</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Where's the Pumps</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>**Preach It**</DamDamName>
-		<SireName>l</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 46: +    Where's the Pumps (2020 f. by Daredevil). Winner in 2 starts at 2, 2022, $12,000.
-Dam is in line 40: + **Preach It**, by Saint Ballado. 3 wins at 3 and 4, $120,839, 2nd Wayward Lass S. (TAM, $9,000), 3rd Florida Breeders' Distaff S.-R (OTC, $4,000). Half-sister to **ORATORY** ($189,000, 1st Peter Pan S. **[G2]** (BEL, $120,000), sire). Dam of 13 foals, 7 to race, 5 winners--
-+    Realisons Le Reve (2013 f. by Lemon Drop Kid). Winner at 3, 14,950,000 Yen, in Japan. Sent from United States to Japan in 2015. (Total: $141,257). Dam of 1 foal, 1 to race--
-		<hip>334</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Realisons Le Reve</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>**ARRESTED DREAMS**</DamDamName>
-		<SireName>d</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 54: +    Realisons Le Reve (2013 f. by Lemon Drop Kid). Winner at 3, 14,950,000 Yen, in Japan. Sent from United States to Japan in 2015. (Total: $141,257). Dam of 1 foal, 1 to race--
-Dam is in line 49:   **ARRESTED DREAMS**, by Dehere. 8 wins in 12 starts at 2 and 3, $319,969, 1st Silver Spur S. [L] (LS, $90,000), Pago Hop S. [L] (FG, $60,000), Pontalba S. [L] (FG, $30,000), Thelma S. [L] (FG, $30,000), 2nd Matron S. **[G1]**. Died 2013. Dam of 11 foals, 10 to race, 9 winners--
-+    .  =Real Edge (JPN) (2020 c. by =Real Steel (JPN)). Placed in 2 starts at 2 and 3, 2023, 3,200,000 Yen, in Japan. (Total: $24,503).
-		<hip>334</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Real Edge</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Realisons Le Reve</DamName>
-+    .  **Court of Dreams** (2009 f. by Powerscourt (GB)). Winner at 2 and 3, $67,266, 3rd May Night S. (AQU, $6,000). Dam of 6 foals, 4 to race, 3 winners--
-		<hip>334</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Court of Dreams**</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Ascended Dreams</DamName>
 +    .  .  Simbasalltrouble (2016 g. by Frost Giant). 5 wins at 5 and 6, 2022, $105,084.
+Found Gen 4
 		<hip>334</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Simbasalltrouble</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Pequeno Grande (2015 g. by Frost Giant). 5 wins, 3 to 6, $57,978.
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00334.htm</UpdateLink>
++ 2017 American Union, g. by Union Rags. 5 wins at 4 and 5, 2022, $98,461.
 		<hip>334</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pequeno Grande</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Butter Lou (2019 c. by Superestrella). Winner in 1 start at 2, $46,750.
-		<hip>334</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Butter Lou</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Mini Megan (2014 f. by Frost Giant). Placed at 2, $10,306.
-		<hip>334</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mini Megan</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseName>+ 2017 American Union,</HorseName>
+		<HorseYOB>2017</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00334.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,174 +3,126 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Nuffsaid Nuffsaid (2009 f. by Mutakddim). 9 wins, 3 to 7, $417,415. Dam of 4 foals, 2 to race, 2 winners--
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Nuffsaid Nuffsaid</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>**BEAUTIFUL EAST**</DamDamName>
-		<SireName>m</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 41: +    Nuffsaid Nuffsaid (2009 f. by Mutakddim). 9 wins, 3 to 7, $417,415. Dam of 4 foals, 2 to race, 2 winners--
-Dam is in line 38:   **BEAUTIFUL EAST**, by Wolf Power (SAF). 4 wins at 3 and 5, $195,405, 1st Queen Lib H.-R (MED, $33,000), 2nd Spruce Fir H.-R (MTH, $12,000), Goldfinch H.-R (MTH, $12,000), 3rd Eleven North H.-R (MTH, $11,000). Half-sister to **BET A BUCK** ($93,695, 1st Danzig S.-R (PEN, $27,420)). Dam of 7 foals, 4 to race, 4 winners--
 +    .  **All Dialed In** (2018 f. by Dialed In). 3 wins at 4, 2022, $183,200, 3rd Betty Grable S.-R (DMR, $12,000).
+Found Gen 3
 		<hip>2</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**All Dialed In**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Nuffsaid Nuffsaid</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00002.htm</UpdateLink>
 +    .  Papa Tiger (2019 g. by Smiling Tiger). Winner at 3, 2022, $33,678.
+Found Gen 3
 		<hip>2</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Papa Tiger</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Nuffsaid Nuffsaid</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00002.htm</UpdateLink>
 +    Strum and Pluck (2017 g. by Midnight Lute). 3 wins at 4 and 5, 2022, $60,232.
+		Gen 2
 		<hip>2</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Strum and Pluck</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>**BEAUTIFUL EAST**</DamDamName>
-		<SireName>e</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>**BEAUTIFUL EAST**</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 55: +    Strum and Pluck (2017 g. by Midnight Lute). 3 wins at 4 and 5, 2022, $60,232.
-Dam is in line 38:   **BEAUTIFUL EAST**, by Wolf Power (SAF). 4 wins at 3 and 5, $195,405, 1st Queen Lib H.-R (MED, $33,000), 2nd Spruce Fir H.-R (MTH, $12,000), Goldfinch H.-R (MTH, $12,000), 3rd Eleven North H.-R (MTH, $11,000). Half-sister to **BET A BUCK** ($93,695, 1st Danzig S.-R (PEN, $27,420)). Dam of 7 foals, 4 to race, 4 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00002.htm</UpdateLink>
 +    .  Grand Deal (2018 g. by Acclamation). Winner at 3 and 4, placed at 5, 2023, $83,137.
+Found Gen 3
 		<hip>2</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Grand Deal</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Verticaleigh</DamName>
-+    .  **LUNAR SURGE** (2010 f. by Malibu Moon). 3 wins at 4 and 5, $287,500, 1st Maryland Racing Media S. (LRL, $60,000), 2nd Hilliard Lyons Doubledogdare S. **[G3]** (KEE, $20,000), 3rd Maryland Racing Media S. (LRL, $10,000). Dam of 6 foals, 3 to race, 1 winner--
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**LUNAR SURGE**</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Zoey Power</DamName>
-+    .  .  Lunar Blast (2018 f. by Trappe Shot). 2 wins at 3, placed at 4, 2022, $55,130.
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lunar Blast</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Nancy My Love (2019 f. by American Pharoah). Placed at 3, 2022, $6,990.
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Nancy My Love</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Rock Me Mama (2011 f. by Broken Vow). 3 wins at 2 and 3, $190,154. Dam of 5 foals, 1 to race--
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Rock Me Mama</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Zoey Power</DamName>
-+    .  **Kandy Kard** (2003 f. by Kokand). 4 wins, 2 to 5, $81,102, 3rd West Virginia Futurity-R (CT, $4,273). Dam of 1 foal, 1 to race--
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Kandy Kard**</HorseName>
-		<HorseYOB>2003</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Bet the Card</DamName>
-+    .  .  Boptart (2012 f. by Bop). Placed at 3, $3,968.
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Boptart</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    Dark Eyes (2006 f. by Holy Bull). Winner at 3, $44,800. Dam of 5 foals, 5 to race, 4 winners--
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dark Eyes</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>**SQUARE UP THE BET**</DamDamName>
-		<SireName>l</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 92: +    Dark Eyes (2006 f. by Holy Bull). Winner at 3, $44,800. Dam of 5 foals, 5 to race, 4 winners--
-Dam is in line 66:   **SQUARE UP THE BET**, by Bet Big. 4 wins at 2 and 3, $60,480, 1st Notches Trace S. (LRL, $18,825). Half-sister to **THUNDERELLO** ($388,400, 1st Gallant Bob H. [L] (PHA, $90,000), etc., sire), **MS. DEEP POCKETS** ($225,477, 1st OBS Championship S.-R (OTC, $60,000), etc.). Dam of 10 foals, 9 to race, 7 winners--
-+    .  Audit Committee (2020 f. by Classic Empire). Winner at 3, 2023, $31,450.
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00002.htm</UpdateLink>
++    .  .  Lunar Blast (2018 f. by Trappe Shot). 2 wins at 3, placed at 4, 2022, $55,130.
+Found Gen 4
 		<hip>2</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Audit Committee</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Dark Eyes</DamName>
-+    .  Such Spirit (2012 f. by Montbrook). Placed at 5, $31,300. Dam of 1 foal--
-		<hip>2</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Such Spirit</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Dark Eyes</DamName>
+		<HorseName></HorseName>
+		<HorseYOB>2018</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00002.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

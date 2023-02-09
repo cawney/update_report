@@ -4,29 +4,52 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Tiffany Twist (2018 f. by Flat Out). Winner at 3, placed at 4, 2022, $47,341.
+		Gen 2
 		<hip>189</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tiffany Twist</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>SUCCESSFUL SLEW</DamDamName>
-		<SireName>t</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>SUCCESSFUL SLEW</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 44: +    Tiffany Twist (2018 f. by Flat Out). Winner at 3, placed at 4, 2022, $47,341.
-Dam is in line 38:   SUCCESSFUL SLEW, by Successful Appeal. Winner at 3, $61,747. Dam of 9 foals, 6 to race, 6 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00189.htm</UpdateLink>
++ 2019 Violent Hailstorm, f. by Violence. 2 wins at 3, 2022, $61,892.
+		<hip>189</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>+ 2019 Violent Hailstorm,</HorseName>
+		<HorseYOB>2019</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00189.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

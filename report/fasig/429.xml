@@ -4,283 +4,219 @@
 <FasigTiptonUpdates>
 	<Update>
 +    =De Valera (AUS) (2015 g. by =Not A Single Doubt (AUS)). 3 wins, 3 to 5, placed at 7, 2022, $149,870(AUS), in Australia. (Total: $106,231).
+		Gen 2
 		<hip>429</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=De Valera</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>QUIET MAGGY</DamDamName>
-		<SireName>S</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>QUIET MAGGY</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    =De Valera (AUS) (2015 g. by =Not A Single Doubt (AUS)). 3 wins, 3 to 5, placed at 7, 2022, $149,870(AUS), in Australia. (Total: $106,231).
-Dam is in line 38:   QUIET MAGGY, by Quiet American. Unraced. Sent from United States to Australia in 2010. Half-sister to **AFLEET ALEX** ($2,765,800, champion 3-year-old colt in U.S. (2005), 1st Preakness S. **[G1]** (PIM, $650,000), etc., sire), **UNFORGETTABLE MAX** ($384,079, 1st Shecky Greene S. (DEL, $32,340), etc., sire), **Stormin Maggy** ($28,298, 2nd E. L. Gaylord Memorial S. (RP, $10,000)). Dam of 11 foals, 7 to race, 5 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00429.htm</UpdateLink>
 +    .  =Jack The Lad (AUS) (2017 g. by =I Am Invincible (AUS)). 3 wins at 3 and 4, placed at 5, 2022, $164,100(AUS), in Australia. (Total: $119,538).
+Found Gen 3
 		<hip>429</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Jack The Lad</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>=Luluoru</DamName>
-+    .  **HOW DID HE DO THAT** (2020 c. by Good Magic). 2 wins at 2, placed at 3, 2023, $115,558, 1st Zia Park Juvenile S. (ZIA, $44,400), 2nd Riley Allison Derby (SUN, $20,000).
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**HOW DID HE DO THAT**</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**Stormin Maggy**</DamName>
-+    .  Higher Quality (2018 g. by Tiznow). 2 wins at 4, 2022, $80,870.
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Higher Quality</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>**Stormin Maggy**</DamName>
-+    .  Nawaasy (2012 f. by Distorted Humor). Placed in 2 starts at 2 and 3, 962 Pounds, in England. Sent from United States to United Arab Emirates in 2013. (Total: $1,484). Dam of 4 foals, 1 to race, 1 winner--
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Nawaasy</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**Stormin Maggy**</DamName>
-+    .  .  =Nasab (GB) (2019 f. by Ribchester (IRE)). Winner at 3, 2022 in Spain; placed in 1 start at 2, 3,600 Euro, in France. (Total: $4,276).
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Nasab</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Cash Is Queen (2010 f. by Unbridled's Song). 3 wins at 3, $75,299. Dam of 7 foals, 5 to race, 5 winners--
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cash Is Queen</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Stimulus Maker (2018 g. by Fed Biz). 2 wins at 4, 2022, $73,998.
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Stimulus Maker</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Classic Lines (2015 g. by Ghostzapper). 3 wins at 4, $61,615. Died 2019.
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Classic Lines</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Funded (2011 c. by Medaglia d'Oro). Winner at 3, $49,500.
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Funded</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Motown Girl (2017 f. by Uncle Mo). Placed at 3, $20,664. Dam of 1 foal--
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Motown Girl</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  **Mobaadel** (2018 g. by Speightstown). 5 wins in 9 starts, 3 to 5, 2023 in Bahrain, 2nd H.H. Sh. Khalid Bin Hamad Al Khalifa Cup [LR]; placed at 2 and 3, 2,537 Pounds, in England; unplaced in 1 start in United Arab Emirates. Sent from United States to United Arab Emirates in 2019. (Total: $3,418).
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Mobaadel**</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Maggy's Melody</DamName>
-+    Afleet Alexsis (2012 f. by Northern Afleet). Unraced. Dam of 4 foals, 1 to race--
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Afleet Alexsis</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>MAGGY HAWK</DamDamName>
-		<SireName>t</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 100: +    Afleet Alexsis (2012 f. by Northern Afleet). Unraced. Dam of 4 foals, 1 to race--
-Dam is in line 54:   MAGGY HAWK, by Hawkster. Winner at 2, $15,080. Dam of 12 foals, 6 to race, 3 winners--
-+    .  Poetic Union (2020 f. by Union Rags). Placed at 2 and 3, 2023, $5,846.
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00429.htm</UpdateLink>
++    .  **HOW DID HE DO THAT** (2020 c. by Good Magic). 2 wins at 2, placed at 3, 2023, $115,558, 1st Zia Park Juvenile S. (ZIA, $44,400), 2nd Riley Allison Derby (SUN, $20,000).
+Found Gen 3
 		<hip>429</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Poetic Union</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Afleet Alexsis</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00429.htm</UpdateLink>
++    .  Higher Quality (2018 g. by Tiznow). 2 wins at 4, 2022, $80,870.
+Found Gen 3
+		<hip>429</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName></HorseName>
+		<HorseYOB>2018</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00429.htm</UpdateLink>
++    .  .  .  Cover Photo (2016 f. by Munnings). 7 wins, 3 to 6, 2022, $186,031.
+		<hip>429</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>+    .  .  .  Cover Photo (</HorseName>
+		<HorseYOB>2016</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00429.htm</UpdateLink>
++    .  .  Stimulus Maker (2018 g. by Fed Biz). 2 wins at 4, 2022, $73,998.
+Found Gen 4
+		<hip>429</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName></HorseName>
+		<HorseYOB>2018</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00429.htm</UpdateLink>
 +    .  =Isaac Barows (JPN) (2020 c. by =Duramente (JPN)). Placed in 2 starts at 2, 2022, 3,900,000 Yen, in Japan. (Total: $29,216).
+Found Gen 3
 		<hip>429</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Isaac Barows</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Curlin Hawk</DamName>
-+    .  Itsallaboutthehype (2016 f. by Super Saver). Placed at 3, $11,702. Dam of 1 foal--
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Itsallaboutthehype</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Curlin Hawk</DamName>
-+    .  **Fleet Dude** (2014 f. by First Dude). Winner at 2, $81,875, 3rd Florida Sire My Dear Girl S.-R (GP, $55,000). Dam of 3 foals, 2 to race, 1 winner--
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Fleet Dude**</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Awesome Fleet</DamName>
-+    .  .  Pressly's Hope (2019 f. by Northern Afleet). 3 wins at 3, 2022, $41,300.
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pressly's Hope</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Aaron (2020 c. by Speightstown). Placed in 1 start at 2, 2022, $10,800.
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Aaron</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00429.htm</UpdateLink>
 +    .  Awesome Ally Vee (2019 f. by Dialed In). Placed at 3, 2022, $28,939.
+Found Gen 3
 		<hip>429</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Awesome Ally Vee</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Awesome Fleet</DamName>
-+    .  Crystal Lake Drive (2011 f. by Giant's Causeway). Unraced. Dam of 7 foals, 5 to race, 4 winners--
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00429.htm</UpdateLink>
++ 2018 Halfbarberbingie, c. by American Pharoah. 2 wins at 4, 2022, $73,670.
 		<hip>429</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Crystal Lake Drive</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Awesome Fleet</DamName>
-+    .  .  Whiskarita (2016 f. by Shanghai Bobby). Winner at 2, $21,292, in N.A./U.S.; 6 wins at 5 and 6, 2022, $48,111, in Canada. (Total: $58,511).
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Whiskarita</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Cold as You (2019 f. by Texas Red). 2 wins at 3, 2022, $46,110.
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cold as You</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Rednecker (2018 f. by Texas Red). Winner at 4, 2022, $25,074.
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Rednecker</HorseName>
+		<HorseName>+ 2018 Halfbarberbingie,</HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Sweet Crystal (2020 f. by Twirling Candy). Winner at 2, placed at 3, 2023, $12,750.
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sweet Crystal</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Tiz a Diamond (2012 f. by Tiznow). Winner at 4, $94,190. Dam of 3 foals--
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tiz a Diamond</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Divine Diamond</DamName>
-+    .  Diamond Tap (2014 f. by Tapit). Winner at 3, $48,845. Dam of 2 foals--
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Diamond Tap</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Divine Diamond</DamName>
-+    .  Unbridled Diamond (2013 f. by Unbridled's Song). Unraced. Dam of 4 foals, 2 to race, 1 winner--
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Unbridled Diamond</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Divine Diamond</DamName>
-+    .  .  Just Pick It Up (2018 g. by Paynter). Winner at 3 and 5, 2023, $16,165.
-		<hip>429</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Just Pick It Up</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00429.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

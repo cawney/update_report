@@ -3,102 +3,54 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Taptana (2015 f. by Tapit). Unraced. Dam of 3 foals, 1 to race, 1 winner--
-		<hip>235</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Taptana</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**KEERTANA**</DamName>
-+    .  .  Kanthartana (2019 g. by Kantharos). Winner at 3, 2022, $21,599.
-		<hip>235</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kanthartana</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  George's Peach (2011 f. by Pleasantly Perfect). 4 wins at 2 and 4, $87,601. Dam of 3 foals, 1 to race, 1 winner--
-		<hip>235</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>George's Peach</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Whitefish</DamName>
 +    .  .  Peach Perfect (2019 f. by Cupid). 3 wins at 3 and 4, 2023, $161,866.
+Found Gen 4
 		<hip>235</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Peach Perfect</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Lox (2012 f. by Hard Spun). Winner at 4, $17,853. Dam of 2 foals--
-		<hip>235</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lox</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Whitefish</DamName>
-+    .  Swan Quarter (2010 f. by Mizzen Mast). Unplaced, $780. Sent from United States to Saudi Arabia in 2014. Dam of 6 foals, 4 to race--
-		<hip>235</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Swan Quarter</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Whitefish</DamName>
-+    .  Cobia (2013 f. by Smoke Glacken). Unplaced in 2 starts, $595. Dam of 4 foals, 1 to race, 1 winner--
-		<hip>235</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cobia</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Whitefish</DamName>
-+    .  .  Klimco (2019 g. by Klimt). Winner at 3 and 4, 2023, $36,949.
-		<hip>235</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Klimco</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Pekani Unbridled (2008 f. by Unbridled Energy). Unraced. Dam of 1 foal--
-		<hip>235</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pekani Unbridled</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Pekani</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00235.htm</UpdateLink>
 +    .  Lexi's Spirit (2020 f. by Kantharos). Placed at 2 and 3, 2023, $32,238.
+Found Gen 3
 		<hip>235</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lexi's Spirit</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Educating</DamName>
-+    .  Family Rate (2018 f. by More Than Ready). Unraced. Dam of 1 foal--
-		<hip>235</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Family Rate</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Educating</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00235.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

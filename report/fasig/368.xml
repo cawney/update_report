@@ -3,51 +3,54 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  **TURF WAR** (2016 f. by War Front). Winner at 2, 23,460 Euro, in France; winner at 3, $84,053, in N.A./U.S., 1st Christiecat S. [L] (BEL, $55,000). Returned to United States from France in 2018. Sent from United States to Japan in 2021. (Total: $111,550). Dam of 1 foal--
-		<hip>368</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**TURF WAR**</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**STARSTRUCK</DamName>
-+    .  **Scarabea** (2018 f. by American Pharoah). Winner at 3, placed at 4, 2022, $186,070, 2nd CTT and TOC S. [L] (DMR, $20,000), Possibly Perfect S. [L] (SA, $20,000).
-		<hip>368</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Scarabea**</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**STARSTRUCK</DamName>
 +    .  Time for Trouble (2017 g. by English Channel). 8 wins, 3 to 5, 2022, $265,787 Set ncr at Belterra Park, 1 3/8 miles in 2:13.05 (07/29/21).
+Found Gen 3
 		<hip>368</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Time for Trouble</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**STARSTRUCK</DamName>
-+    .  =Liffey View (IRE) (2012 f. by =Arcano (IRE)). Winner at 2, 11,630 Euro, in Ireland. (Total: $14,388). Dam of 3 foals--
-		<hip>368</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Liffey View</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>=April</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00368.htm</UpdateLink>
 +    .  =Golden Prosperity (IRE) (2019 g. by =Galileo Gold (GB)). Placed, 2 to 4, 2023, 6,498 Pounds, in England. (Total: $8,184).
+Found Gen 3
 		<hip>368</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Golden Prosperity</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>=April</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00368.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

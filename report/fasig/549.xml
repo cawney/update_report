@@ -3,49 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Conquest Rebel (2011 f. by Dixie Union). Winner at 3, $63,707, in Canada; unplaced in 2 starts, $2,104, in N.A./U.S. (Total: $61,055). Dam of 5 foals, 2 to race--
-		<hip>549</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Conquest Rebel</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**DELICATE DYNAMITE**</DamName>
-+    .  .  Tizwellwithmysoul (2016 f. by Tiznow). Placed at 3, $5,296. Dam of 2 foals--
-		<hip>549</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tizwellwithmysoul</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Superare (2017 f. by Tiznow). Unraced. Dam of 1 foal--
-		<hip>549</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Superare</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
 +    .  King of the Ring (2017 g. by Where's the Ring). 3 wins at 4 and 5, placed at 6, 2023, $55,212, in N.A./U.S.; placed at 3, $25,479, in Canada. (Total: $74,267).
+Found Gen 3
 		<hip>549</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>King of the Ring</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Hannah Sue</DamName>
-+    .  Hummingbird (2011 f. by Cat Thief). 2 wins at 4, $28,469. Dam of 2 foals--
-		<hip>549</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hummingbird</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Goldie Nekia</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00549.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

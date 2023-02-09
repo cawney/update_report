@@ -4,47 +4,53 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Smart Aegis (2016 c. by Animal Kingdom). 6 wins in 12 starts, 4 to 6, placed at 7, 2023, 6,049,000 Yen, in Japan. Sent from United States to Japan in 2017. (Total: $48,909).
+		Gen 2
 		<hip>183</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Smart Aegis</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>THAT'S HOT</DamDamName>
-		<SireName>m</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>THAT'S HOT</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    Smart Aegis (2016 c. by Animal Kingdom). 6 wins in 12 starts, 4 to 6, placed at 7, 2023, 6,049,000 Yen, in Japan. Sent from United States to Japan in 2017. (Total: $48,909).
-Dam is in line 38:   THAT'S HOT, by Seeking the Gold. Unraced. Sent from United States to Brazil in 2008. Returned to United States from Brazil in 2013. Dam of 10 foals, 7 to race, 4 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00183.htm</UpdateLink>
 +    .  Java Buzz (2019 g. by Mshawish). Winner at 3, placed at 4, 2023, $154,840.
+Found Gen 3
 		<hip>183</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Java Buzz</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Agasaya</DamName>
-+    .  Pidin (2020 g. by Girvin). Placed at 2, 2022, $11,971, in Canada. (Total: $8,914).
-		<hip>183</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pidin</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Agasaya</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00183.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

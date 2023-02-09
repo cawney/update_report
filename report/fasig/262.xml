@@ -3,113 +3,78 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+ MA PETITE, by Distorted Humor. Unraced. Sent from United States to Great Britain in 2014. Returned to United States from Great Britain in 2016. Half-sister to **Astarte** ($15,395, 2nd Hard Rock Casino S. (HST, $10,000)). Dam of 4 foals, 2 to race, 1 winner--
-<hip>262</hip>
-<SaleEntryCode>PH23</SaleEntryCode>
-<SaleCode>FTFEB</SaleCode>
-<SaleName>FT FEB MIXED 21</SaleName>
-update on line 36: + MA PETITE, by Distorted Humor. Unraced. Sent from United States to Great Britain in 2014. Returned to United States from Great Britain in 2016. Half-sister to **Astarte** ($15,395, 2nd Hard Rock Casino S. (HST, $10,000)). Dam of 4 foals, 2 to race, 1 winner--
 +    .  Muchmorethanready (2020 f. by Tom's Ready). Placed at 2, 2022, $13,800.
+Found Gen 3
 		<hip>262</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Muchmorethanready</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**Astarte**</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00262.htm</UpdateLink>
 +    .  **=War Subjective (CHI)** (2016 c. by War Command). 11 wins, 2 to 6, 2022, 86,460,000 Pesos, in Chile, 2nd Victor Matetic Fernandez **[G3]**. (Total: $107,202).
+Found Gen 3
 		<hip>262</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**=War Subjective</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Subjective</DamName>
-+    Kiss the Bride (2011 f. by Elusive Quality). Unraced. Sent from United States to Saudi Arabia in 2018. Dam of 5 foals, 5 to race, 2 winners--
-		<hip>262</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kiss the Bride</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>**Caressive**</DamDamName>
-		<SireName>y</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 62: +    Kiss the Bride (2011 f. by Elusive Quality). Unraced. Sent from United States to Saudi Arabia in 2018. Dam of 5 foals, 5 to race, 2 winners--
-Dam is in line 40:   **Caressive**, by A.P. Indy. Winner at 3, $59,010, 3rd La Canada S. **[G2]** (SA, $24,000). Set ntr at Hollywood Park, 1 1/16 miles in 1:41.37 (11/22/07). Half-sister to **SKY MESA** ($633,076, 1st Hopeful S. **[G1]** (SAR, $120,000), etc., sire), **GOLDEN VELVET** (Total: $341,309, 1st Sixty Sails H. **[G3]** (HAW, $116,400), etc.), **Monthir** ($185,160, 2nd Hutcheson S. **[G2]** (GP, $30,000), etc., sire). Dam of 10 foals, 5 to race, 1 winner--
-+    .  =Meadaal (KSA) (2020 c. by =Qaatef (IRE)). Winner at 3, 2023, 23,250 Riyals, in Saudi Arabia. (Total: $6,200).
-		<hip>262</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Meadaal</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Kiss the Bride</DamName>
-+    Carelaine (2010 f. by Street Cry (IRE)). Unraced. Dam of 4 foals, 2 to race, 1 winner--
-		<hip>262</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Carelaine</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>**Caressive**</DamDamName>
-		<SireName>E</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 67: +    Carelaine (2010 f. by Street Cry (IRE)). Unraced. Dam of 4 foals, 2 to race, 1 winner--
-Dam is in line 40:   **Caressive**, by A.P. Indy. Winner at 3, $59,010, 3rd La Canada S. **[G2]** (SA, $24,000). Set ntr at Hollywood Park, 1 1/16 miles in 1:41.37 (11/22/07). Half-sister to **SKY MESA** ($633,076, 1st Hopeful S. **[G1]** (SAR, $120,000), etc., sire), **GOLDEN VELVET** (Total: $341,309, 1st Sixty Sails H. **[G3]** (HAW, $116,400), etc.), **Monthir** ($185,160, 2nd Hutcheson S. **[G2]** (GP, $30,000), etc., sire). Dam of 10 foals, 5 to race, 1 winner--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00262.htm</UpdateLink>
 +    .  Bourbon On the Bay (2018 g. by Bourbon Courage). Winner at 5, 2023, $56,588.
+Found Gen 3
 		<hip>262</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bourbon On the Bay</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Carelaine</DamName>
-+    .  Doubleclickdamouse (2015 f. by Point of Entry). Unraced. Dam of 2 foals, 1 to race--
-		<hip>262</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Doubleclickdamouse</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Carelaine</DamName>
-+    .  .  Fierce and Strong (2020 c. by Hoppertunity). Placed at 2, 2022, $4,375.
-		<hip>262</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fierce and Strong</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00262.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

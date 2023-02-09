@@ -3,244 +3,100 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Whisk (2012 f. by Elusive Quality). Winner at 3 and 4, $93,390. Dam of 3 foals--
++    .  .  .  Stressed (2018 f. by Goldencents). Winner at 3 and 4, 2022, $76,880.
 		<hip>120</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Whisk</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**FASTONGRASS**</DamName>
-+    .  .  El Season (2007 g. by El Prado (IRE)). 6 wins, 3 to 7, $144,575.
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>El Season</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Spring Reason (2009 f. by El Prado (IRE)). Winner at 4 and 5, $138,761. Sent from United States to Brazil in 2015. Dam of 4 foals, 3 to race, 2 winners--
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Spring Reason</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Mogowan (2015 g. by Uncle Mo). Winner at 4 and 5, $25,405.
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mogowan</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Karayel (2017 c. by Karakontie (JPN)). 3 wins at 4 and 5, 2022, $23,575.
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Karayel</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Atlantic Spring (2011 g. by Stormy Atlantic). Placed at 3, $7,400.
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Atlantic Spring</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Spring Zapper (2010 f. by Ghostzapper). Placed at 3, $2,045. Dam of 5 foals, 4 to race, 2 winners--
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Spring Zapper</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Ocotlan (2019 c. by Stormy Atlantic). Placed at 2 in Mexico.
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ocotlan</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Lucky Strikes Gold (2008 f. by Smart Strike). 3 wins, 2 to 4, $91,345. Dam of 4 foals, 4 to race, 1 winner--
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lucky Strikes Gold</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**ALICE SPRINGS**</DamName>
+		<HorseName>+    .  .  .  Stressed (</HorseName>
+		<HorseYOB>2018</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00120.htm</UpdateLink>
 +    .  .  Lion Kingdom (2016 g. by Animal Kingdom). 3 wins, 4 to 6, 2022, $116,879, in Canada. (Total: $90,397).
+Found Gen 4
 		<hip>120</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lion Kingdom</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Nyquest Nix (2019 g. by Nyquist). Placed at 2, $35,780.
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00120.htm</UpdateLink>
++    .  .  .  Johnnypump (2017 g. by Quality Road). 2 wins at 4, placed at 5, 2022, $125,115.
 		<hip>120</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Nyquest Nix</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Yours Truly (2017 f. by Point of Entry). Placed at 3, $1,990, in N.A./U.S.; unplaced, $4,980, in Canada. (Total: $5,742). Dam of 1 foal--
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Yours Truly</HorseName>
+		<HorseName>+    .  .  .  Johnnypump (</HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Lilla Creek (2000 f. by Quest for Fame (GB)). 2 wins at 4, 29,700 Euro, in France. Sent from United States to France in 2001. (Total: $35,589). Dam of 1 foal, 1 to race--
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lilla Creek</HorseName>
-		<HorseYOB>2000</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**ALICE SPRINGS**</DamName>
-+    .  .  =Desert Creek (FR) (2006 c. by $Desert Prince (IRE)). Placed at 4, 6,780 Euro, in France. (Total: $8,597).
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Desert Creek</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Vamos a Ver (2007 g. by Smart Strike). 4 wins, 2 to 4, $101,831.
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Vamos a Ver</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Schon (2013 f. by Harlan's Holiday). Placed at 3 and 4, $41,067. Dam of 3 foals, 1 to race, 1 winner--
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Schon</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Spring Vow (2011 f. by Broken Vow). Unraced. Dam of 5 foals, 4 to race--
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Spring Vow</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Forest Spring (2005 f. by Forest Wildcat). Unraced. Died 2011. Dam of 1 foal, 1 to race, 1 winner--
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Forest Spring</HorseName>
-		<HorseYOB>2005</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**ALICE SPRINGS**</DamName>
-+    .  .  Forest Rim (2010 g. by Rimrod). 4 wins, 3 to 6, $155,637.
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Forest Rim</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Naughty Nina (2005 f. by Mutakddim). 4 wins at 3 and 4, $129,100. Dam of 2 foals, 2 to race, 2 winners--
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Naughty Nina</HorseName>
-		<HorseYOB>2005</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Annora Springs</DamName>
-+    .  .  Sybledollarqueen (2012 f. by El Campo). 2 wins at 4, $33,510.
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sybledollarqueen</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Ima Frayed Knot (2013 f. by El Campo). Winner at 4, $28,031.
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ima Frayed Knot</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00120.htm</UpdateLink>
 +    .  .  =Pale King (FR) (2017 g. by =Dabirsim (FR)). 4 wins at 3 and 5, 2022, $244,290(AUS), in Australia; winner in 1 start at 3, 3,429 Pounds, in England. (Total: $169,678).
+Found Gen 4
 		<hip>120</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Pale King</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Romulus du Donjon (IRE) (2011 g. by =Stormy River (FR)). Placed at 3, 8,050 Euro, in France; winner at 4 and 6, 20,164 Pounds, in England. (Total: $39,788).
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Romulus du Donjon</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Swansway (GB) (2013 g. by =Showcasing (GB)). Winner at 3 and 4, 19,976 Pounds, in England. (Total: $25,831).
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Swansway</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Spring Show (IRE) (2015 f. by =Showcasing (GB)). Winner at 3, 19,260 Euro, in France. (Total: $22,494).
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Spring Show</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Satanica (2007 f. by Horse Chestnut (SAF)). Placed at 3, 4,250 Euro, in France. Sent from United States to France in 2007. (Total: $5,335). Dam of 5 foals, 5 to race--
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Satanica</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Penny D (2010 f. by Air Commander). Unplaced, $1,854. Dam of 1 foal, 1 to race, 1 winner--
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Penny D</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Glide Slope</DamName>
-+    .  .  Letsplayagame (2016 g. by The Visualiser). Winner at 4, $10,033.
-		<hip>120</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Letsplayagame</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00120.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

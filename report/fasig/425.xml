@@ -4,53 +4,29 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Fieldsman (2012 c. by Hard Spun). 12 wins, 2 to 10, 2022, 95,908 Pounds, in England. Sent from United States to Ireland in 2013. (Total: $131,328).
+		Gen 2
 		<hip>425</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fieldsman</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2012</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamDamName>**R CHARLIE'S ANGEL**</DamDamName>
-		<SireName>n</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>**R CHARLIE'S ANGEL**</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 48: +    Fieldsman (2012 c. by Hard Spun). 12 wins, 2 to 10, 2022, 95,908 Pounds, in England. Sent from United States to Ireland in 2013. (Total: $131,328).
-Dam is in line 42:   **R CHARLIE'S ANGEL**, by Indian Charlie. 6 wins, 2 to 4, $211,288, 1st Island Fashion S. (SUN, $30,000), 2nd Harry W. Henson H. [L] (SUN, $34,144), Santa Teresa H. (SUN, $10,750), 3rd WinStar Sunland Park Oaks [L] (SUN, $20,000), El Paso Times H. (SUN, $5,000). Dam of 8 foals, 6 to race, 6 winners--
-+    Angel Raphael (2017 f. by Flashback). 5 wins, 2 to 5, 2022, $116,290.
-		<hip>425</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Angel Raphael</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>**R CHARLIE'S ANGEL**</DamDamName>
-		<SireName>k</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 53: +    Angel Raphael (2017 f. by Flashback). 5 wins, 2 to 5, 2022, $116,290.
-Dam is in line 42:   **R CHARLIE'S ANGEL**, by Indian Charlie. 6 wins, 2 to 4, $211,288, 1st Island Fashion S. (SUN, $30,000), 2nd Harry W. Henson H. [L] (SUN, $34,144), Santa Teresa H. (SUN, $10,750), 3rd WinStar Sunland Park Oaks [L] (SUN, $20,000), El Paso Times H. (SUN, $5,000). Dam of 8 foals, 6 to race, 6 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00425.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

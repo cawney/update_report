@@ -3,33 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Nantasket Beach (2019 g. by Street Boss). Winner at 3, 2022, $50,248.
-		<hip>299</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Nantasket Beach</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Holy Cargo</DamName>
-+    .  Holy Lighting (2018 f. by Silver Max). Placed at 2, $11,902, in Canada. (Total: $8,946). Dam of 1 foal--
-		<hip>299</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Holy Lighting</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Holy Cargo</DamName>
-+    .  Holy Selena (2017 f. by Ghostzapper). Unplaced in 1 start, $400, in Canada. (Total: $301). Dam of 1 foal--
-		<hip>299</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Holy Selena</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Holy Cargo</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

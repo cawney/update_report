@@ -4,47 +4,76 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Rad Paisley (2018 g. by Liaison). 3 wins at 3 and 4, 2022, $149,860.
+		Gen 2
 		<hip>403</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Rad Paisley</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>HIDDEN FEVER</DamDamName>
-		<SireName>n</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>HIDDEN FEVER</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    Rad Paisley (2018 g. by Liaison). 3 wins at 3 and 4, 2022, $149,860.
-Dam is in line 38:   HIDDEN FEVER, by Stormin Fever. Unplaced in 1 start, $2,400. Sent from United States to Saudi Arabia in 2019. Half-sister to **SAMYSILVER** (Total: $152,107, 1st Gran Premio Citta' di Napoli [L], sire). Dam of 6 foals, 6 to race, 4 winners--
-+    .  Slovianka (2012 f. by Sun King). Unraced. Dam of 2 foals--
-		<hip>403</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Slovianka</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Tiz Hidden</DamName>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00403.htm</UpdateLink>
 +    .  Demand Ransom (2015 g. by Munnings). 4 wins, 2 to 6, placed at 7, 2022, $111,959.
+Found Gen 3
 		<hip>403</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Demand Ransom</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2015</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Raize's Ransom</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00403.htm</UpdateLink>
++ 2018 Chargina, f. by Fed Biz. 3 wins at 3 and 4, 2022, $95,559, in N.A./U.S.; placed at 3, $14,225, in
+		<hip>403</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>+ 2018 Chargina,</HorseName>
+		<HorseYOB>2018</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00403.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,63 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Shadow Matter (2018 g. by Macho Uno). 4 wins at 3 and 4, 2022, $279,171.
-		<hip>289</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Shadow Matter</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>CASTING DIRECTOR</DamDamName>
-		<SireName>o</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 37: +    Shadow Matter (2018 g. by Macho Uno). 4 wins at 3 and 4, 2022, $279,171.
-Dam is in line 34:   CASTING DIRECTOR, by Bernardini. Unraced. Dam of 6 foals, 5 to race, 5 winners--
-+    Evasive Power (2016 c. by Elusive Quality). Winner at 2, 22,403 Euro, in Ireland; 5 wins, 2 to 6, 2022, 32,806 Pounds, in England. Sent from United States to Ireland in 2017. (Total: $69,513).
-		<hip>289</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Evasive Power</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>CASTING DIRECTOR</DamDamName>
-		<SireName>y</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    Evasive Power (2016 c. by Elusive Quality). Winner at 2, 22,403 Euro, in Ireland; 5 wins, 2 to 6, 2022, 32,806 Pounds, in England. Sent from United States to Ireland in 2017. (Total: $69,513).
-Dam is in line 34:   CASTING DIRECTOR, by Bernardini. Unraced. Dam of 6 foals, 5 to race, 5 winners--
-+    .  **Home Base** (2015 c. by Street Sense). 10 wins, 3 to 7, 2022, $455,546, in N.A./U.S., 2nd King Cotton S. [L] (OP, $30,000), Good Lord S. (ELP, $9,500); unplaced in 1 start, $8,000, in Canada. (Total: $461,620).
-		<hip>289</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Home Base**</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Cast Call</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,23 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Knock Out Queen (2005 f. by Two Punch). Unplaced, $3,420. Dam of 3 foals, 2 to race, 1 winner--
-		<hip>579</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Knock Out Queen</HorseName>
-		<HorseYOB>2005</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Shifra</DamName>
-+    .  .  Tampa Bay Blue (2011 g. by Medallist). Winner at 3, $61,721.
-		<hip>579</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tampa Bay Blue</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>g</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

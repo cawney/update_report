@@ -3,51 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Antigua (2017 f. by Distorted Humor). Unraced. Dam of 2 foals--
-		<hip>17</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Antigua</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>**ANTIPATHY**</DamName>
-+    .  **CLASSIC FIT** (2016 f. by Bernardini). 3 wins at 2, $174,471, 1st Hut Hut S. (GP, $45,570), 2nd Mother Goose S. **[G2]** (BEL, $50,000), 3rd Remington Park Oaks **[G3]** (RP, $22,000), Wayward Lass S. (TAM, $5,000). Dam of 2 foals--
-		<hip>17</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**CLASSIC FIT**</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>True Style</DamName>
-+    .  Affect (2012 f. by Bernardini). Winner at 3 and 4, $36,190. Dam of 3 foals, 2 to race--
-		<hip>17</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Affect</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>True Style</DamName>
 +    .  Missoni (2019 f. by Flintshire (GB)). Placed, 2 to 4, 2023, $48,710.
+Found Gen 3
 		<hip>17</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Missoni</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>True Style</DamName>
-+    .  Donatella (2018 f. by Bernardini). Unraced. Dam of 1 foal--
-		<hip>17</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Donatella</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>True Style</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00017.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

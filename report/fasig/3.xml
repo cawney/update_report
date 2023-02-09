@@ -3,39 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Season Maker (2016 f. by Pioneerof the Nile). Unplaced in 1 start, $200. Dam of 2 foals, 1 to race, 1 winner--
-		<hip>3</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Season Maker</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>**SEASON'S GREETINGS (IRE)**</DamDamName>
-		<SireName>e</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 50: +    Season Maker (2016 f. by Pioneerof the Nile). Unplaced in 1 start, $200. Dam of 2 foals, 1 to race, 1 winner--
-Dam is in line 37:   **SEASON'S GREETINGS (IRE)**, by $Ezzoud (IRE). 3 wins at 2, 103,056 Euro, in France, 1st Criterium de Vitesse [L], 2nd Prix du Gros-Chene **[G2]**, Prix de Saint-Georges **[G3]**, Prix d'Arenberg **[G3]**, 3rd Prix Hampton [L]. Sent from Great Britain to United States in 2001. (Total: $91,094). Died 2021. Half-sister to **Legend of Spring (GB)** (Total: $49,434, 2nd Prix du Bois **[G3]**, etc.), **=Deep Space (IRE)** (Total: $187,214, 3rd Vodafone Dash Rated S. [L], etc.). Dam of 12 foals, 10 to race, 6 winners--
-+    .  Hardwired (2020 c. by Hard Spun). Winner in 1 start at 3, 2023, 6,200,000 Yen, in Japan. Sent from United States to Japan in 2021. (Total: $46,934).
-		<hip>3</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hardwired</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Season Maker</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

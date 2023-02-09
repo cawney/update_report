@@ -3,234 +3,149 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Madaket Sunset (2015 f. by Point of Entry). Winner at 3 and 4, $67,156. Dam of 1 foal--
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Madaket Sunset</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**RED HOT BUDDHA**</DamName>
-+    .  Moon Hunter (2019 g. by Malibu Moon). Winner at 3, 2022, $30,147.
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Moon Hunter</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**RED HOT BUDDHA**</DamName>
 +    .  Knockout Bert (2017 g. by Munnings). 3 wins at 4 and 5, placed at 6, 2023, $78,897.
+Found Gen 3
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Knockout Bert</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**Knockout Bertie**</DamName>
-+    .  Left Right Center (2015 f. by Tale of the Cat). Placed at 3, $8,943. Dam of 3 foals--
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Left Right Center</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**Knockout Bertie**</DamName>
-+    .  Fracing Hot (2019 f. by Flintshire (GB)). Winner at 3, 2022, $18,151.
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fracing Hot</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Red Hot Maria</DamName>
-+    .  .  **Red Hot Moon** (2019 f. by Mr Speaker). 4 wins at 2 and 3, placed at 4, 2023, $101,296, 3rd Texas Thoroughbred Futurity-R (LS, $11,000).
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Red Hot Moon**</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Bratton (2020 g. by Upstart). Winner at 2, 2022, $19,600.
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bratton</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Shooting (2018 g. by Trappe Shot). Winner at 4, 2022, $15,949.
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Shooting</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    Moon Warrior (2019 g. by Malibu Moon). Winner at 3 and 4, 2023, $35,350.
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Moon Warrior</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>RED HOT BERTIE</DamDamName>
-		<SireName>n</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 85: +    Moon Warrior (2019 g. by Malibu Moon). Winner at 3 and 4, 2023, $35,350.
-Dam is in line 38:   RED HOT BERTIE, by Tabasco Cat. Winner at 3, $26,520. Half-sister to **ALLAMERICAN BERTIE** ($799,235, 1st Falls City H. **[G2]** (CD, $167,400), etc.), **HURRICANE BERTIE** ($940,041, 1st Prioress S. **[G2]**, etc.), **My Poppy Bert** ($228,228, 2nd Great Falls S. (MED, $8,550)). Dam of 13 foals, 9 to race, 7 winners--
-+    .  Princess Arantza (2018 f. by Shackleford). Winner at 2 and 3 in Mexico; unplaced, $1,591, in N.A./U.S.
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00288.htm</UpdateLink>
++    .  .  **Red Hot Moon** (2019 f. by Mr Speaker). 4 wins at 2 and 3, placed at 4, 2023, $101,296, 3rd Texas Thoroughbred Futurity-R (LS, $11,000).
+Found Gen 4
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Princess Arantza</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Red Hot Heels</DamName>
-+    .  =Riyadee (KSA) (2015 c. by Cat Dreams). 6 wins, 2 to 6, 836,250 Riyals, in Saudi Arabia. (Total: $222,990).
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Riyadee</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**ALLAMERICAN BERTIE**</DamName>
-+    .  =Momenah (KSA) (2012 f. by Eskendereya). Winner at 2, 93,900 Riyals, in Saudi Arabia. (Total: $25,024). Dam of 1 foal--
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Momenah</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**ALLAMERICAN BERTIE**</DamName>
-+    .  Sky High Bertie (2011 f. by Sky Mesa). Winner at 3, $14,733. Dam of 5 foals, 1 to race, 1 winner--
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sky High Bertie</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>**ALLAMERICAN BERTIE**</DamName>
-+    .  .  Ravenel (2016 f. by Verrazano). 7 wins, 3 to 6, 2022, $127,876.
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ravenel</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Flashy Bertie (2010 f. by Corinthian). Winner at 3 and 4, $12,457. Dam of 4 foals, 4 to race, 1 winner--
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Flashy Bertie</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**ALLAMERICAN BERTIE**</DamName>
-+    .  .  Mr. Halftime (2019 g. by Overanalyze). Winner at 2, placed at 3, 2022, $40,148.
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mr. Halftime</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Collectthemoney (2018 g. by Liaison). Placed at 2 and 3, $7,284.
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00288.htm</UpdateLink>
++    Moon Warrior (2019 g. by Malibu Moon). Winner at 3 and 4, 2023, $35,350.
+		Gen 2
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Collectthemoney</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Paynted Flash (2015 c. by Paynter). Placed at 3, $5,880.
+		<HorseName></HorseName>
+		<HorseYOB>2019</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName>RED HOT BERTIE</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00288.htm</UpdateLink>
++    .  =Riyadee (KSA) (2015 c. by Cat Dreams). 6 wins, 2 to 6, 836,250 Riyals, in Saudi Arabia. (Total: $222,990).
+Found Gen 3
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Paynted Flash</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2015</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  **BELIEVE IN BERTIE** (2013 f. by Langfuhr). 6 wins, 2 to 4, $413,482, 1st Pago Hop S.-ncr, 1 mile in 1:34.22 (FG, $45,000), Daisy Devine S.-ncr, 1 1/16 miles in 1:40.31 (FG, $45,000), Louisiana Legends Soiree S.-R (EVD, $60,000), Red Camelia S.-R (FG, $36,000), 2nd Churchill Distaff Turf Mile S. **[G2]** (CD, $58,800), Old Forester Mint Julep H. **[G3]** (CD, $19,800), Indiana Grand S. [L] (IND, $39,482), Acadiana S.-R (EVD, $12,600). Dam of 4 foals--
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00288.htm</UpdateLink>
++    .  .  Ravenel (2016 f. by Verrazano). 7 wins, 3 to 6, 2022, $127,876.
+Found Gen 4
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**BELIEVE IN BERTIE**</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Nifty Bertie (2017 f. by Afleet Alex). Unraced. Dam of 2 foals--
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Nifty Bertie</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Lucky Bertie (2015 f. by Country Day). Unraced. Dam of 1 foal--
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lucky Bertie</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  **LET HER DANCE** (2011 f. by Eddington). 3 wins at 3, $96,428, 1st Goldfinch S. (PRM, $45,000), 2nd El Paso Times H. (SUN, $11,000). Dam of 5 foals, 1 to race--
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**LET HER DANCE**</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Puttin for Bertie</DamName>
-+    .  .  De Two Step (2016 g. by Indy Express). Placed at 2 and 3, $4,840.
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>De Two Step</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Awsome Charlie (2022 g. by Awesome Indian). (application pending)
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00288.htm</UpdateLink>
++ 2020 Hang the Moon, f. by Uncle Mo. Winner in 4 starts at 2 and 3, 2023, $64,800.
 		<hip>288</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Awsome Charlie</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Carolina Bertie (2017 f. by Speightstown). Unraced. Dam of 2 foals--
-		<hip>288</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Carolina Bertie</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Bashful Bertie</DamName>
+		<HorseName>+ 2020 Hang the Moon,</HorseName>
+		<HorseYOB>2020</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00288.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

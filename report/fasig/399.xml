@@ -4,29 +4,29 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Coconut Beach (2018 f. by Street Boss). 3 wins at 4, 2022, $76,130, in N.A./U.S.; placed at 2 and 3, $39,700, in Canada. (Total: $107,592).
+		Gen 2
 		<hip>399</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Coconut Beach</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamDamName>INCLUDE MAXINE</DamDamName>
-		<SireName>s</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>INCLUDE MAXINE</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 37: +    Coconut Beach (2018 f. by Street Boss). 3 wins at 4, 2022, $76,130, in N.A./U.S.; placed at 2 and 3, $39,700, in Canada. (Total: $107,592).
-Dam is in line 34:   INCLUDE MAXINE, by Include. Unraced. Half-sister to **READY INTAGLIO** ($197,418, 1st Canadian Derby **[G3]** (NP, $90,000), etc., sire), **Mama Said No** ($23,110, 3rd My Trusty Cat S. (DED, $10,000)). Dam of 4 foals, 2 to race, 2 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00399.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

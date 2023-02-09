@@ -3,159 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Abinadi (2020 g. by Goldencents). Winner at 2, 2022, $40,250.
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Abinadi</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>LOVEMEORLEAVEME</DamDamName>
-		<SireName>s</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 37: +    Abinadi (2020 g. by Goldencents). Winner at 2, 2022, $40,250.
-Dam is in line 34:   LOVEMEORLEAVEME, by Unbridled's Song. Unraced. Half-sister to **SQUARE EDDIE** (Total: $856,019, 1st Lane's End Breeders' Futurity **[G1]** (KEE, $310,000), etc., sire), **Reverently** ($150,402, 3rd Princess Elizabeth S.-R (WO, $27,500)), **Conquest Smartee** ($149,679, 3rd KLAQ H. (SUN, $6,500)), **Hoi An** ($105,881, 3rd Wonder Where S.-R (WO, $25,000)), **Dubai Media** (Total: $29,329, 2nd Betfred the Bonus King Cecil Frail S. [L]). Dam of 7 foals, 5 to race, 2 winners--
-+    Charmonte (2019 f. by Into Mischief). Placed in 2 starts at 3, 2022, $13,800.
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Charmonte</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>LOVEMEORLEAVEME</DamDamName>
-		<SireName>f</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 40: +    Charmonte (2019 f. by Into Mischief). Placed in 2 starts at 3, 2022, $13,800.
-Dam is in line 34:   LOVEMEORLEAVEME, by Unbridled's Song. Unraced. Half-sister to **SQUARE EDDIE** (Total: $856,019, 1st Lane's End Breeders' Futurity **[G1]** (KEE, $310,000), etc., sire), **Reverently** ($150,402, 3rd Princess Elizabeth S.-R (WO, $27,500)), **Conquest Smartee** ($149,679, 3rd KLAQ H. (SUN, $6,500)), **Hoi An** ($105,881, 3rd Wonder Where S.-R (WO, $25,000)), **Dubai Media** (Total: $29,329, 2nd Betfred the Bonus King Cecil Frail S. [L]). Dam of 7 foals, 5 to race, 2 winners--
-+    .  Tall and Sweet (2012 f. by Lemon Drop Kid). Winner at 2 and 4, $80,475. Dam of 4 foals--
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tall and Sweet</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**Reverently**</DamName>
-+    .  .  Tall Command (2022 c. by Forest Command). (application pending)
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tall Command</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Maisie's Moon (2010 f. by Curlin). Placed at 3, 385 Pounds, in England. Sent from United States to Ireland in 2011. (Total: $599). Dam of 3 foals, 2 to race--
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Maisie's Moon</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**Reverently**</DamName>
-+    .  Lauderdale (2015 g. by Silent Name (JPN)). 3 wins, 3 to 5, $90,570, in Canada; winner at 6 and 7, placed at 8, 2023, $45,834, in N.A./U.S. (Total: $114,946).
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lauderdale</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Hoi An**</DamName>
-+    .  Via Ann (2014 f. by Street Boss). Winner at 4, $118,579, in Canada. (Total: $91,002). Dam of 1 foal--
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Via Ann</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**Hoi An**</DamName>
-+    .  .  Bet On White (2022 c. by Tamarkuz).
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bet On White</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Taho Snow (2022 c. by Tamarkuz).
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Taho Snow</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**Hoi An**</DamName>
-+    .  =Princess Salamah (IRE) (2016 f. by =Australia (GB)). Winner in 2 starts at 2, 4,329 Pounds, in England. (Total: $5,480). Dam of 2 foals--
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Princess Salamah</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Dubai Media**</DamName>
-+    .  =Kahramanah (GB) (2013 f. by Zamindar). Unraced in Great Britain. Dam of 2 foals, 2 to race, 1 winner--
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Kahramanah</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Dubai Media**</DamName>
-+    .  .  =Shadzadi (IRE) (2019 f. by El Kabeir). Winner at 3, 2022, 84,319 Dirhams, in United Arab Emirates. (Total: $22,960).
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Shadzadi</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Lotta Moscato (2020 f. by Mineshaft). Winner at 2, 2022, $16,157.
-		<hip>253</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lotta Moscato</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Lotta Lolly</DamName>
 +    .  Proven Hope (2019 g. by Street Boss). Placed at 3 and 4, 2023, $28,670.
+Found Gen 3
 		<hip>253</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Proven Hope</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Lotta Lolly</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00253.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

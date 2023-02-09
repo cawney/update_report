@@ -3,60 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+ TWO TO ONE, by Yesbyjimminy. 3 wins at 2 and 3, $47,212. Half-sister to **MORELLO** ($359,900, 1st Gotham S. **[G3]** (AQU, $165,000), etc.). Dam of 4 foals, 2 to race, 1 winner--
-<hip>192</hip>
-<SaleEntryCode>PH23</SaleEntryCode>
-<SaleCode>FTFEB</SaleCode>
-<SaleName>FT FEB MIXED 21</SaleName>
-update on line 36: + TWO TO ONE, by Yesbyjimminy. 3 wins at 2 and 3, $47,212. Half-sister to **MORELLO** ($359,900, 1st Gotham S. **[G3]** (AQU, $165,000), etc.). Dam of 4 foals, 2 to race, 1 winner--
 +    **MORELLO** (2019 c. by Classic Empire). 4 wins in 8 starts at 2 and 3, 2022, $359,900, 1st Gotham S. **[G3]** (AQU, $165,000), Jimmy Winkfield S. (AQU, $55,000), 3rd Gravesend S. [L] (AQU, $16,200).
+		Gen 2
 		<hip>192</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**MORELLO**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamDamName>STOP THE WEDDING</DamDamName>
-		<SireName>e</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>STOP THE WEDDING</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    **MORELLO** (2019 c. by Classic Empire). 4 wins in 8 starts at 2 and 3, 2022, $359,900, 1st Gotham S. **[G3]** (AQU, $165,000), Jimmy Winkfield S. (AQU, $55,000), 3rd Gravesend S. [L] (AQU, $16,200).
-Dam is in line 40:   STOP THE WEDDING, by Congrats. Winner at 2, $40,379. Died 2022. Half-sister to **Saint Bernadette** ($145,900, 3rd Hollywood Breeders' Cup Oaks **[G2]** (HOL, $32,016)). Dam of 8 foals, 5 to race, 2 winners--
-+    Ella Frances (2020 f. by Cairo Prince). Placed at 2, 2022, $11,650.
-		<hip>192</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ella Frances</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>STOP THE WEDDING</DamDamName>
-		<SireName>e</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 46: +    Ella Frances (2020 f. by Cairo Prince). Placed at 2, 2022, $11,650.
-Dam is in line 40:   STOP THE WEDDING, by Congrats. Winner at 2, $40,379. Died 2022. Half-sister to **Saint Bernadette** ($145,900, 3rd Hollywood Breeders' Cup Oaks **[G2]** (HOL, $32,016)). Dam of 8 foals, 5 to race, 2 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00192.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

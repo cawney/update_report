@@ -3,30 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Closing Time Cutie (2018 f. by Maclean's Music). Winner at 3, placed at 4, 2022, $17,311.
-		<hip>419</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Closing Time Cutie</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>**Lasamanamama**</DamDamName>
-		<SireName>c</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 44: +    Closing Time Cutie (2018 f. by Maclean's Music). Winner at 3, placed at 4, 2022, $17,311.
-Dam is in line 41:   **Lasamanamama**, by Sabre d'Argent. 6 wins, 2 to 6, $247,925, 2nd May Night S. (AQU, $12,000). Half-sister to **Double Dip** ($121,640, 2nd Alameda County H. (PLN, $10,100), etc.). Dam of 2 foals, 2 to race, 1 winner--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

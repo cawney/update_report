@@ -3,80 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Matwakel (2018 c. by California Chrome). 3 wins at 3 and 4, 2022, 176,000 Riyals, in Saudi Arabia. Sent from United States to Saudi Arabia in 2020. (Total: $46,933).
-		<hip>219</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Matwakel</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamDamName>**MAMMA KIMBO**</DamDamName>
-		<SireName>e</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 37: +    Matwakel (2018 c. by California Chrome). 3 wins at 3 and 4, 2022, 176,000 Riyals, in Saudi Arabia. Sent from United States to Saudi Arabia in 2020. (Total: $46,933).
-Dam is in line 34:   **MAMMA KIMBO**, by Discreet Cat. 2 wins at 3, $242,250, 1st Fantasy S. **[G2]** (OP, $180,000). Half-sister to **Jane of All Trades** ($151,689, 2nd Vagrancy H. **[G3]** (BEL, $30,000)). Dam of 8 foals, 6 to race, 4 winners--
-+    Mendenhall (2019 g. by Pioneerof the Nile). Winner at 3, 2022, $36,523.
-		<hip>219</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mendenhall</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>**MAMMA KIMBO**</DamDamName>
-		<SireName>e</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 40: +    Mendenhall (2019 g. by Pioneerof the Nile). Winner at 3, 2022, $36,523.
-Dam is in line 34:   **MAMMA KIMBO**, by Discreet Cat. 2 wins at 3, $242,250, 1st Fantasy S. **[G2]** (OP, $180,000). Half-sister to **Jane of All Trades** ($151,689, 2nd Vagrancy H. **[G3]** (BEL, $30,000)). Dam of 8 foals, 6 to race, 4 winners--
 +    .  Treasure Coast (2020 g. by West Coast). Placed at 2, 2022, $4,264.
+Found Gen 3
 		<hip>219</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Treasure Coast</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Jane of All Trades**</DamName>
-+    .  Champagne Sipper (2011 f. by Menhal). Unplaced in 1 start, $100. Dam of 1 foal, 1 to race, 1 winner--
-		<hip>219</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Champagne Sipper</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Champagne Dream</DamName>
-+    .  .  Champagne Stooper (2019 g. by Da Stoops). Winner at 3, placed at 4, 2023, $14,959.
-		<hip>219</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Champagne Stooper</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00219.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

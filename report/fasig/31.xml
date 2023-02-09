@@ -3,42 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  **VERDANT PASTURES** (2014 f. by Colonel John). 3 wins at 3, $238,536, 1st Empire Distaff H.-R (BEL, $150,000). Dam of 1 foal--
-		<hip>31</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**VERDANT PASTURES**</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**STORMY'S SMILE**</DamName>
-+    .  **Therisastormbrewin** (2016 g. by Broken Vow). 5 wins, 4 to 6, 2022, $249,166, 2nd Saginaw S.-R (BEL, $20,000).
-		<hip>31</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Therisastormbrewin**</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**STORMY'S SMILE**</DamName>
-+    .  Stormy's Honor (2012 f. by Congrats). 9 wins, 3 to 5, $100,832. Dam of 2 foals, 1 to race--
-		<hip>31</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Stormy's Honor</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**STORMY'S SMILE**</DamName>
-+    .  Terra Bella (2022 f. by Quality Road).
-		<hip>31</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Terra Bella</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Tiznow's Smile**</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

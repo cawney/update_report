@@ -3,39 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Lillehammer (2008 f. by North Light (IRE)). 3 wins, 3 to 6, $80,316. Dam of 3 foals, 1 to race, 1 winner--
-		<hip>117</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lillehammer</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>DESERT DEED</DamDamName>
-		<SireName>E</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 38: +    Lillehammer (2008 f. by North Light (IRE)). 3 wins, 3 to 6, $80,316. Dam of 3 foals, 1 to race, 1 winner--
-Dam is in line 35:   DESERT DEED, by Exploit. Winner at 3, $29,679. Sent from United States to Republic of Korea in 2010. Half-sister to **SIR CAT** ($401,185, 1st National Museum of Racing Hall of Fame S. **[G2]**, etc., sire). Dam of 8 foals, 6 to race, 3 winners--
 +    .  Crimson Lille (2018 f. by Red Vine). Winner at 5, 2023, $21,238.
+Found Gen 3
 		<hip>117</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Crimson Lille</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Lillehammer</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00117.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

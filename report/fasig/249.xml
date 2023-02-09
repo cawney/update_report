@@ -3,147 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Empire's Best (2020 c. by Empire Maker). Placed in 2 starts at 2, 2022, $10,250.
-		<hip>249</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Empire's Best</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>LIBERTY GIRL</DamDamName>
-		<SireName>r</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 35: +    Empire's Best (2020 c. by Empire Maker). Placed in 2 starts at 2, 2022, $10,250.
-Dam is in line 34:   LIBERTY GIRL, by A. P. Warrior. Winner at 2 and 3, $106,890, in N.A./U.S.; unplaced in 1 start, $400, in Canada. (Total: $107,299). Half-sister to **CHAMPAGNE D'ORO** ($614,940, 1st Betfair TVG Acorn S. **[G1]** (BEL, $180,000), etc.), **RULER ON ICE** ($1,709,566, 1st Belmont S. **[G1]** (BEL, $600,000), etc.), **Lost On Champagne** ($26,962, 3rd Cinderella S. (HOL, $8,097)). Dam of 6 foals, 1 to race--
-+    .  Michelle d'Oro (2013 f. by Bernardini). Unplaced, $1,020. Dam of 3 foals, 2 to race, 1 winner--
-		<hip>249</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Michelle d'Oro</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**CHAMPAGNE D'ORO**</DamName>
-+    .  .  **PICO D'ORO** (2018 g. by Curlin). 2 wins at 2, placed at 4, 2022, $148,884, 1st Runhappy Juvenile S. (ELP, $61,035), 3rd Jimmy Winkfield S. (AQU, $12,000).
-		<hip>249</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**PICO D'ORO**</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  She's Mo Bubbly (2019 f. by Uncle Mo). Placed in 1 start at 4, 2023, $7,000.
-		<hip>249</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>She's Mo Bubbly</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Dora's Champagne (2015 f. by Proud Tower Too). 2 wins at 3, $18,700. Dam of 1 foal--
-		<hip>249</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dora's Champagne</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Lost On Champagne**</DamName>
-+    .  .  =Vikingo Rock (CHI) (2016 c. by Boboman). 4 wins at 4 and 5, 11,395,000 Pesos, in Chile. (Total: $14,528).
-		<hip>249</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Vikingo Rock</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Taekwondo (CHI) (2014 c. by Scat Daddy). Winner at 4 and 6, 1,675,000 Pesos, in Chile. (Total: $2,369).
-		<hip>249</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Taekwondo</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Tahili (CHI) (2015 f. by =Fast Company (IRE)). Placed at 2 and 4, 2,720,000 Pesos, in Chile. (Total: $4,151).
-		<hip>249</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Tahili</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Can't Sleep (2004 f. by Belong to Me). 3 wins at 3 and 4, $74,490. Dam of 5 foals, 2 to race, 2 winners--
-		<hip>249</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Can't Sleep</HorseName>
-		<HorseYOB>2004</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Night Talk</DamName>
-+    .  .  Longing to Sleep (2010 g. by Louis Quatorze). 3 wins at 3 and 4, $46,128.
-		<hip>249</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Longing to Sleep</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Freudian Fantasy (2013 g. by Freud). 2 wins at 3, $14,213. Died 2016.
-		<hip>249</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Freudian Fantasy</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Miss Bette M (2007 f. by Tale of the Cat). Winner at 2 and 3, $51,574. Dam of 4 foals, 3 to race, 2 winners--
-		<hip>249</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Miss Bette M</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Night Talk</DamName>
 +    .  .  Miss Bette Lute (2018 f. by Midnight Lute). 3 wins at 3 and 4, 2022, $83,400.
+Found Gen 4
 		<hip>249</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Miss Bette Lute</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Jersey Town Cat (2015 c. by Jersey Town). 2 wins at 3, $20,295.
-		<hip>249</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Jersey Town Cat</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  **Champagne Humor** (2017 f. by Distorted Humor). Winner at 2, $45,600, 3rd Bolton Landing S. [L] (SAR, $12,000), Sharp Susan S. (GP, $9,600). Dam of 2 foals--
-		<hip>249</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Champagne Humor**</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Champagne Ice</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00249.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

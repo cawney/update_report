@@ -3,74 +3,54 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Lady Alexandria (2018 f. by Alternation). 9 wins, 2 to 4, 2022, $54,083.
-		<hip>440</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lady Alexandria</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>TRUE BLISS</DamDamName>
-		<SireName>n</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 41: +    Lady Alexandria (2018 f. by Alternation). 9 wins, 2 to 4, 2022, $54,083.
-Dam is in line 38:   TRUE BLISS, by Yes It's True. Winner at 2 and 5, $101,327. Half-sister to **HIERRO** ($271,301, 1st The Cliff's Edge Derby Trial S. **[G3]** (CD, $139,886)), **CHEROKEE TRIANGLE** ($330,294, 1st Sunday Silence S. [L] (LAD, $120,000), etc.), **Sam's Bliss** ($195,931, 2nd Inaugural S. [L] (PID, $20,000), etc.). Dam of 7 foals, 5 to race, 3 winners--
-+    .  Gaming Jack (2018 g. by Shanghai Bobby). 3 wins at 2 and 3, placed at 4, 2022, $72,381.
-		<hip>440</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Gaming Jack</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Beautiful Bliss</DamName>
-+    .  Euphorically (2013 f. by Hard Spun). Placed at 3, $5,700. Dam of 2 foals--
-		<hip>440</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Euphorically</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Beautiful Bliss</DamName>
-+    .  .  Elizabeth Bay (2018 f. by Bodemeister). (application pending)
-		<hip>440</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Elizabeth Bay</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
 +    .  Fort Stanton Scout (2019 g. by Fort Larned). 2 wins at 3, placed at 4, 2023, $20,424.
+Found Gen 3
 		<hip>440</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fort Stanton Scout</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Sweetness 'n Sugar</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00440.htm</UpdateLink>
 +    .  Perceived (2016 g. by Blame). 5 wins, 4 to 6, 2022, $232,680.
+Found Gen 3
 		<hip>440</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Perceived</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Street Trick</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00440.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

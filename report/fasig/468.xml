@@ -3,82 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Wild Moment (2016 f. by Medaglia d'Oro). Winner at 2, $67,820. Dam of 2 foals--
-		<hip>468</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Wild Moment</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**SHE BE WILD**</DamName>
-+    .  She Be Striking (GB) (2014 f. by Smart Strike). Winner at 5, $46,345. Sent from Great Britain to United States in 2014. Dam of 3 foals, 1 to race--
-		<hip>468</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>She Be Striking</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**SHE BE WILD**</DamName>
-+    .  Propositioned (2013 f. by Tapit). Unraced. Dam of 3 foals, 2 to race, 2 winners--
-		<hip>468</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Propositioned</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**SHE BE WILD**</DamName>
-+    .  .  Electric Lettuce (2020 f. by Straight Fire). Winner at 2, placed at 3, 2023, $43,296.
-		<hip>468</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Electric Lettuce</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  My Proposition (2019 f. by Straight Fire). Winner at 2, $15,823.
-		<hip>468</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>My Proposition</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Shebealittlewild (2012 f. by Tapit). Unraced. Dam of 5 foals, 3 to race, 2 winners--
-		<hip>468</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Shebealittlewild</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**SHE BE WILD**</DamName>
 +    .  .  Shadilee (2017 f. by Declaration of War). 3 wins, 2 to 5, 2022, $97,040.
+Found Gen 4
 		<hip>468</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Shadilee</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  A Little Wild (2018 g. by Union Rags). 2 wins in 3 starts at 4, 2022, $21,783.
-		<hip>468</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>A Little Wild</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Tapidlected (2020 f. by Collected). Placed in 2 starts at 2, 2022, $1,350.
-		<hip>468</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tapidlected</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00468.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

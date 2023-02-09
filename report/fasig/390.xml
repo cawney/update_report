@@ -3,83 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  **Diva Treva** (2019 f. by Outwork). 4 wins at 3, 2022, $113,973, 3rd Youngstown Oaks (MVR, $9,700).
-		<hip>390</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Diva Treva**</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Truffles</DamName>
-+    .  Summertime Gal (2013 f. by Summer Bird). 3 wins at 4 and 5, $49,147. Dam of 3 foals--
-		<hip>390</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Summertime Gal</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Truffles</DamName>
-+    .  Command Sgt Major (2018 g. by Outwork). 3 wins at 3 and 4, 2022, $34,048.
-		<hip>390</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Command Sgt Major</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Truffles</DamName>
-+    .  Rum Brandy (2015 f. by Colonel John). Placed at 3, $3,260. Dam of 2 foals, 1 to race--
-		<hip>390</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Rum Brandy</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Truffles</DamName>
-+    .  .  True Beast (2019 f. by The Big Beast). Placed at 3, 2022, $3,070.
-		<hip>390</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>True Beast</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    Cort'n Asong (2012 g. by Unbridled's Song). Winner in 1 start at 3, $33,540, in Canada; 20 wins, 4 to 10, 2022, $332,090, in N.A./U.S. (Total: $359,023).
-		<hip>390</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cort'n Asong</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>MISS CORT'N</DamDamName>
-		<SireName>g</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 70: +    Cort'n Asong (2012 g. by Unbridled's Song). Winner in 1 start at 3, $33,540, in Canada; 20 wins, 4 to 10, 2022, $332,090, in N.A./U.S. (Total: $359,023).
-Dam is in line 40:   MISS CORT'N, by A.P. Indy. Winner at 3, $19,600. Died 2016. Dam of 13 foals, 12 to race, 10 winners--
 +    .  John Dutton (2020 c. by Eastwood). Winner at 2, 2022, $33,900.
+Found Gen 3
 		<hip>390</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>John Dutton</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Reconsider</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00390.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

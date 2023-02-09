@@ -4,55 +4,53 @@
 <FasigTiptonUpdates>
 	<Update>
 +    =Young Blood (JPN) (2017 f. by =To the World (JPN)). 2 wins at 4, placed at 5, 2022, 13,824,000 Yen, in Japan. (Total: $125,600).
+		Gen 2
 		<hip>158</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Young Blood</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>**November Slew**</DamDamName>
-		<SireName>N</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>**November Slew**</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 48: +    =Young Blood (JPN) (2017 f. by =To the World (JPN)). 2 wins at 4, placed at 5, 2022, 13,824,000 Yen, in Japan. (Total: $125,600).
-Dam is in line 40:   **November Slew**, by Seattle Slew. 3 wins at 2 and 3, $134,245, 2nd Sorrento S. **[G2]**. Sent from United States to Japan in 2004. Dam of 14 foals, 11 to race, 8 winners--
-+    .  =Hyades (JPN) (2016 f. by =Monterosso (GB)). Unraced in Japan. Dam of 2 foals, 1 to race--
-		<hip>158</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Hyades</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>=November Sky</DamName>
-+    .  .  =Bajigakumanamusume (JPN) (2019 f. by =Oken Bruce Lee (JPN)). Placed at 3, 2022, 780,000 Yen, in Japan. (Total: $5,736).
-		<hip>158</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Bajigakumanamusume</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00158.htm</UpdateLink>
 +    .  =Lily Jasper (JPN) (2018 f. by =Just a Way (JPN)). 7 wins at 3 and 4, 2022, 2,657,000 Yen, in Japan. (Total: $20,873).
+Found Gen 3
 		<hip>158</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Lily Jasper</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>=Champagne Topaz</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00158.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,78 +3,78 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+ **STIFFED**, by Stephen Got Even. 5 wins at 3 and 4, $256,559, 1st Monmouth Beach S. [L] (MTH, $60,000), Jersey Girl H.-R (MTH, $34,200), 2nd Molly Pitcher S. **[G3]** (MTH, $42,000), 3rd Rampart S. **[G3]** (GP, $9,700), Jersey Girl H.-R (MTH, $6,000). Half-sister to **SPEAKING** ($288,100, 1st Smoke Glacken S. (MTH, $75,000), etc.). Dam of 3 foals, 2 to race--
-<hip>304</hip>
-<SaleEntryCode>PH23</SaleEntryCode>
-<SaleCode>FTFEB</SaleCode>
-<SaleName>FT FEB MIXED 21</SaleName>
-update on line 36: + **STIFFED**, by Stephen Got Even. 5 wins at 3 and 4, $256,559, 1st Monmouth Beach S. [L] (MTH, $60,000), Jersey Girl H.-R (MTH, $34,200), 2nd Molly Pitcher S. **[G3]** (MTH, $42,000), 3rd Rampart S. **[G3]** (GP, $9,700), Jersey Girl H.-R (MTH, $6,000). Half-sister to **SPEAKING** ($288,100, 1st Smoke Glacken S. (MTH, $75,000), etc.). Dam of 3 foals, 2 to race--
 +    **Affirmative Lady** (2020 f. by Arrogate). Placed at 2 and 3, 2023, $78,218, 2nd Demoiselle S. **[G2]** (AQU, $50,000), 3rd Busanda S. (AQU, $12,000).
+		Gen 2
 		<hip>304</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Affirmative Lady**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>**STIFFED**</DamDamName>
-		<SireName>e</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>**STIFFED**</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 40: +    **Affirmative Lady** (2020 f. by Arrogate). Placed at 2 and 3, 2023, $78,218, 2nd Demoiselle S. **[G2]** (AQU, $50,000), 3rd Busanda S. (AQU, $12,000).
-Dam is in line 36: + **STIFFED**, by Stephen Got Even. 5 wins at 3 and 4, $256,559, 1st Monmouth Beach S. [L] (MTH, $60,000), Jersey Girl H.-R (MTH, $34,200), 2nd Molly Pitcher S. **[G3]** (MTH, $42,000), 3rd Rampart S. **[G3]** (GP, $9,700), Jersey Girl H.-R (MTH, $6,000). Half-sister to **SPEAKING** ($288,100, 1st Smoke Glacken S. (MTH, $75,000), etc.). Dam of 3 foals, 2 to race--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00304.htm</UpdateLink>
 +    **SPEAKING** (2019 g. by Mr Speaker). 4 wins at 2 and 3, 2022, $288,100, 1st Smoke Glacken S. (MTH, $75,000), New Jersey Breeders H.-R (MTH, $60,000), 2nd Parx Juvenile S. (PRX, $18,800), Sunny Ridge H.-R (MTH, $17,000), 3rd Jersey Shore S. (MTH, $14,000).
+		Gen 2
 		<hip>304</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**SPEAKING**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>HIGH NOON NELLIE</DamDamName>
-		<SireName>r</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>HIGH NOON NELLIE</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 47: +    **SPEAKING** (2019 g. by Mr Speaker). 4 wins at 2 and 3, 2022, $288,100, 1st Smoke Glacken S. (MTH, $75,000), New Jersey Breeders H.-R (MTH, $60,000), 2nd Parx Juvenile S. (PRX, $18,800), Sunny Ridge H.-R (MTH, $17,000), 3rd Jersey Shore S. (MTH, $14,000).
-Dam is in line 44:   HIGH NOON NELLIE, by Silver Deputy. Unraced. Half-sister to **Half Metal Jacket** ($279,070, 2nd James Marvin S. [L] (SAR, $15,000), etc.). Dam of 13 foals, 10 to race, 7 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00304.htm</UpdateLink>
 +    .  Riding Pretty (2020 f. by Jack Milton). Winner at 2 and 3, 2023, $103,635.
+Found Gen 3
 		<hip>304</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Riding Pretty</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>High Renaissance</DamName>
-+    .  Cassation (2019 g. by Peace and Justice). Winner at 3, 2022, $76,047.
-		<hip>304</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cassation</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>High Renaissance</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00304.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

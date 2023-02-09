@@ -3,45 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+ **Kazamira**, by Dynaformer. Winner at 2, $52,780, 3rd Santa Ysabel S. **[G3]** (SA, $13,068). Dam of 7 foals, 5 to race, 3 winners--
-<hip>236</hip>
-<SaleEntryCode>PH23</SaleEntryCode>
-<SaleCode>FTFEB</SaleCode>
-<SaleName>FT FEB MIXED 21</SaleName>
-update on line 36: + **Kazamira**, by Dynaformer. Winner at 2, $52,780, 3rd Santa Ysabel S. **[G3]** (SA, $13,068). Dam of 7 foals, 5 to race, 3 winners--
-+    .  Isla Bonita (2018 f. by Stormy Atlantic). 3 wins at 3, placed at 4, 2022, $70,448.
-		<hip>236</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Isla Bonita</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Dark Street</DamName>
-+    .  .  **U S Diva** (2014 f. by United States). Winner at 2 and 3, $129,058, 3rd Florida Sire Susan's Girl S.-R (GP, $33,000), Florida Sire Desert Vixen S.-R (GP, $22,000). Dam of 1 foal--
-		<hip>236</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**U S Diva**</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
 +    .  .  Balistico (2015 g. by United States). 4 wins, 2 to 7, placed at 8, 2023, $123,190.
+Found Gen 4
 		<hip>236</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Balistico</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2015</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Jack's a Diva (2016 c. by United States). Winner at 3, $31,440.
-		<hip>236</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Jack's a Diva</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00236.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

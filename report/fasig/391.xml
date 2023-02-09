@@ -4,56 +4,77 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  Tango Charlie (2018 g. by Hard Spun). 5 wins at 3 and 4, placed at 5, 2023, $184,357.
+Found Gen 3
 		<hip>391</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tango Charlie</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Gem</DamName>
-+    .  La Samana Laura (2019 f. by Tiznow). Winner at 3 and 4, 2023, $65,523.
-		<hip>391</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>La Samana Laura</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Gem</DamName>
-+    Moon Sign (2020 g. by Malibu Moon). Placed at 2, 2022, $14,470.
-		<hip>391</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Moon Sign</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>SKIPSTONE</DamDamName>
-		<SireName>n</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 54: +    Moon Sign (2020 g. by Malibu Moon). Placed at 2, 2022, $14,470.
-Dam is in line 37:   SKIPSTONE, by Montbrook. Winner at 2, $24,300. Half-sister to **TIZAHIT** ($195,307, 1st Demoiselle S. **[G2]** (AQU, $120,000), etc.). Dam of 10 foals, 9 to race, 4 winners--
-+    .  She Makes Me Tizzy (2019 f. by Tiznow). 2 wins at 3, 2022, $37,850, in Canada; winner at 3, 2022, $10,061, in N.A./U.S. (Total: $38,974).
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00391.htm</UpdateLink>
++    .  La Samana Laura (2019 f. by Tiznow). Winner at 3 and 4, 2023, $65,523.
+Found Gen 3
 		<hip>391</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>She Makes Me Tizzy</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Make Waves</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00391.htm</UpdateLink>
++    Moon Sign (2020 g. by Malibu Moon). Placed at 2, 2022, $14,470.
+		Gen 2
+		<hip>391</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName></HorseName>
+		<HorseYOB>2020</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName>SKIPSTONE</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00391.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

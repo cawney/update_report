@@ -3,241 +3,125 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Piccadilly Line (2018 f. by Air Force Blue). Unplaced in 1 start, $400. Dam of 1 foal--
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Piccadilly Line</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**Sloane Square**</DamName>
-+    .  Mo's Ginny (2013 f. by Uncle Mo). 3 wins at 5, $71,338. Dam of 1 foal--
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mo's Ginny</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>St Pancras</DamName>
-+    .  She's a Fine Dime (2016 f. by Street Sense). 2 wins at 3, $14,268. Dam of 1 foal--
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>She's a Fine Dime</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>St Pancras</DamName>
-+    .  **Hug and a Kiss** (2011 f. by Thewayyouare). Winner at 3, 53,850 Euro, in France, 2nd Prix Penelope **[G3]**, 3rd Prix Cleopatre **[G3]**; winner at 4, $43,870, in N.A./U.S. Sent from United States to France in 2013. Returned to United States from France in 2014. Sent from United States to Ireland in 2016. (Total: $118,000). Dam of 4 foals, 3 to race, 2 winners--
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Hug and a Kiss**</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Primrose Hill</DamName>
-+    .  .  Beowulf (IRE) (2018 g. by =Camelot (GB)). 2 wins at 3, 9,648 Pounds, in England; placed at 4, 2022, $11,500, in N.A./U.S. Sent from Great Britain to United States in 2022. (Total: $24,762).
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Beowulf</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  =Point Reyes (IRE) (2017 f. by Competitive Edge). Winner at 2, 13,366 Euro, in Ireland. (Total: $14,890). Dam of 1 foal--
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Point Reyes</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  =Black Pepper (IRE) (2019 f. by Caravaggio). Placed at 2, 3,205 Euro, in Ireland; placed at 3, 2022 in Hungary. (Total: $3,741).
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Black Pepper</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Cheval Blanche (2014 f. by Stay Thirsty). 3 wins at 2 and 3, 17,106 Pounds, in England; unplaced in 1 start, $345, in N.A./U.S. Sent from United States to Ireland in 2014. Returned to United States from Great Britain in 2017. (Total: $22,879). Dam of 3 foals, 1 to race--
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cheval Blanche</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Primrose Hill</DamName>
-+    .  .  Sail On Silverbird (2020 f. by Twirling Candy). Placed in 1 start at 2, 2022, 1,255 Pounds, in England. Sent from United States to Great Britain in 2021. (Total: $1,441).
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sail On Silverbird</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  **ALPHA KITTEN** (2006 f. by Tale of the Cat). Winner at 2 and 3, $227,010, 1st Santa Ynez S. **[G2]** (SA, $90,000), 2nd Rancho Bernardo H. **[G3]** (DMR, $30,000), Anoakia S. [L] (OSA, $16,560), Desert Stormer H. (HOL, $12,340), 3rd Las Flores H. **[G3]** (SA, $12,000). Dam of 8 foals, 5 to race, 4 winners--
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**ALPHA KITTEN**</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Alpha Mama</DamName>
-+    .  .  Major League (2013 c. by Malibu Moon). 8 wins, 3 to 6, $178,880 Set ntr at North Dakota Horse Park, 5 1/2 furlongs in 1:04.70 (07/28/19). Died 2020.
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Major League</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
 +    .  .  Omega Moon (2014 g. by Malibu Moon). 3 wins at 4 and 7, $143,280, in N.A./U.S.; placed in 2 starts at 8, 2022, $3,840, in Canada. (Total: $146,155).
+Found Gen 4
 		<hip>539</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Omega Moon</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2014</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00539.htm</UpdateLink>
 +    .  .  Juggler (2019 g. by Lord Nelson). Winner at 3, 2022, $111,228.
+Found Gen 4
 		<hip>539</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Juggler</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Cottonwood Falls (2015 f. by Malibu Moon). Winner at 3, $52,920. Dam of 1 foal--
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cottonwood Falls</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  My Little Nany (2018 f. by Temple City). Placed in 2 starts at 3, $9,950.
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>My Little Nany</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Ria Munk (2015 f. by Paynter). Winner at 4 and 5, $127,131. Dam of 1 foal--
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ria Munk</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Alpha Mama</DamName>
-+    .  Downtown Mama (2014 f. by Speightstown). 3 wins at 3, $126,837. Dam of 2 foals, 1 to race, 1 winner--
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Downtown Mama</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Alpha Mama</DamName>
-+    .  .  Downtown Mischief (2020 f. by Into Mischief). Winner in 1 start at 3, 2023, $38,500.
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Downtown Mischief</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Malibu Breeze (2012 f. by Distorted Humor). Placed at 3, $11,244. Dam of 5 foals, 2 to race, 2 winners--
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Malibu Breeze</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Alpha Mama</DamName>
-+    .  .  Well Done West (2017 c. by Awesome Again). Winner at 3 and 4, $57,960.
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Well Done West</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00539.htm</UpdateLink>
 +    .  .  Coastal Charm (2019 f. by Ghostzapper). Winner at 3, 2022, $51,255.
+Found Gen 4
 		<hip>539</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Coastal Charm</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Ocean View (2018 f. by Candy Ride (ARG)). Unraced. Dam of 1 foal--
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ocean View</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Lookie Loo (2014 g. by Candy Ride (ARG)). 5 wins, 4 to 6, $138,697.
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lookie Loo</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00539.htm</UpdateLink>
 +    .  .  Vivando (2018 f. by Twirling Candy). Placed at 4, 2022, $63,780.
+Found Gen 4
 		<hip>539</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Vivando</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Blue Venus (2010 f. by Giant's Causeway). Unplaced in 2 starts, $280. Dam of 4 foals, 1 to race--
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00539.htm</UpdateLink>
++ 2019 With Bells On, f. by American Pharoah. Winner at 3, 2022, $68,575.
 		<hip>539</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Blue Venus</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Alpha Mama</DamName>
-+    .  .  Brienne of Tarth (2019 f. by Malibu Moon). Placed at 3, 2022, $15,904, in Canada; unplaced in 1 start, $140, in N.A./U.S. (Total: $12,282).
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Brienne of Tarth</HorseName>
+		<HorseName>+ 2019 With Bells On,</HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Elara (2017 f. by Malibu Moon). Unraced. Dam of 2 foals--
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Elara</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Pharoah Lady (2017 f. by American Pharoah). Unraced. Dam of 1 foal--
-		<hip>539</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pharoah Lady</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Theworldweknow</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00539.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

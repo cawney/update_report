@@ -3,36 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+ ASSCHER, by Harlan's Holiday. Winner at 2, $73,888. Sent from United States to Japan in 2022. Half-sister to **LORD NELSON** ($958,271, 1st Triple Bend S. **[G1]** (SA, $180,000), etc., sire). Dam of 3 foals, 1 to race--
-<hip>28</hip>
-<SaleEntryCode>PH23</SaleEntryCode>
-<SaleCode>FTFEB</SaleCode>
-<SaleName>FT FEB MIXED 21</SaleName>
-update on line 35: + ASSCHER, by Harlan's Holiday. Winner at 2, $73,888. Sent from United States to Japan in 2022. Half-sister to **LORD NELSON** ($958,271, 1st Triple Bend S. **[G1]** (SA, $180,000), etc., sire). Dam of 3 foals, 1 to race--
 +    Emerald Express (2018 c. by Tapit). 3 wins at 4, 2022, $132,438.
+		Gen 2
 		<hip>28</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Emerald Express</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>AFRICAN JADE</DamDamName>
-		<SireName>t</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>AFRICAN JADE</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    Emerald Express (2018 c. by Tapit). 3 wins at 4, 2022, $132,438.
-Dam is in line 38:   AFRICAN JADE, by Seeking the Gold. Unplaced in 2 starts, 750 Euro, in France. Sent from United States to Great Britain in 2008. Returned to United States from Great Britain in 2010. (Total: $955). Dam of 8 foals, 5 to race, 5 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00028.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

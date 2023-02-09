@@ -3,123 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    **HALO DOLLY** (2008 f. by Popular). 18 wins, 3 to 6, $1,016,466, 1st Yellow Ribbon H. **[G2]** (DMR, $150,000), Wilshire H. **[G3]** (BHP, $60,000), Solana Beach H.-R (DMR, $60,000), Solana Beach H.-R (DMR, $57,000), Miss America S. (GG, $39,500), Diamond Jubilee S. (SR, $41,050), Alameda County Fillies and Mares S. (PLN, $40,750), Solana Beach H.-R (DMR, $86,100), Dream of Summer S.-R (SA, $60,000), Fran's Valentine S.-R (BHP, $43,050), 2nd Pacific Heights S.-R (GG, $15,000), Luther Burbank H. (SR, $13,050), Miss America S. (GG, $13,000), 3rd Paseana S. [L] (SA, $12,060), Osunitas S.-R (DMR, $13,866), Golden Poppy S. (GG, $7,800), Luther Burbank H. (SR, $7,850), Fran's Valentine S.-R (SA, $12,000). Dam of 5 foals, 2 to race, 2 winners--
-		<hip>449</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**HALO DOLLY**</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>SPANISH HALO</DamDamName>
-		<SireName>r</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 36: +    **HALO DOLLY** (2008 f. by Popular). 18 wins, 3 to 6, $1,016,466, 1st Yellow Ribbon H. **[G2]** (DMR, $150,000), Wilshire H. **[G3]** (BHP, $60,000), Solana Beach H.-R (DMR, $60,000), Solana Beach H.-R (DMR, $57,000), Miss America S. (GG, $39,500), Diamond Jubilee S. (SR, $41,050), Alameda County Fillies and Mares S. (PLN, $40,750), Solana Beach H.-R (DMR, $86,100), Dream of Summer S.-R (SA, $60,000), Fran's Valentine S.-R (BHP, $43,050), 2nd Pacific Heights S.-R (GG, $15,000), Luther Burbank H. (SR, $13,050), Miss America S. (GG, $13,000), 3rd Paseana S. [L] (SA, $12,060), Osunitas S.-R (DMR, $13,866), Golden Poppy S. (GG, $7,800), Luther Burbank H. (SR, $7,850), Fran's Valentine S.-R (SA, $12,000). Dam of 5 foals, 2 to race, 2 winners--
-Dam is in line 33:   SPANISH HALO, by Comic Strip. Unraced. Dam of 10 foals, 8 to race, 5 winners--
-+    .  Bold Zone (2020 c. by Mendelssohn). Winner in 1 start at 3, 2023, 6,200,000 Yen, in Japan. (Total: $48,493).
-		<hip>449</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bold Zone</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**HALO DOLLY**</DamName>
-+    .  Tesi (2016 f. by Temple City). Unraced. Dam of 2 foals--
-		<hip>449</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tesi</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**HALO DOLLY**</DamName>
 +    .  Alesha (2019 f. by Reagan Republican). 3 wins at 2 and 3, placed at 4, 2023, $71,746.
+Found Gen 3
 		<hip>449</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Alesha</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Spanishsugarrr</DamName>
-+    Halo Ahead (2014 f. by Kitten's Joy). Placed at 3, $45,067. Dam of 3 foals, 1 to race--
-		<hip>449</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Halo Ahead</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>SPANISH HALO</DamDamName>
-		<SireName>y</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 52: +    Halo Ahead (2014 f. by Kitten's Joy). Placed at 3, $45,067. Dam of 3 foals, 1 to race--
-Dam is in line 33:   SPANISH HALO, by Comic Strip. Unraced. Dam of 10 foals, 8 to race, 5 winners--
-+    Crown of Light (2013 f. by Popular). Unplaced, $1,140. Dam of 5 foals, 2 to race, 1 winner--
-		<hip>449</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Crown of Light</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>SPANISH HALO</DamDamName>
-		<SireName>r</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 57: +    Crown of Light (2013 f. by Popular). Unplaced, $1,140. Dam of 5 foals, 2 to race, 1 winner--
-Dam is in line 33:   SPANISH HALO, by Comic Strip. Unraced. Dam of 10 foals, 8 to race, 5 winners--
-+    .  J C Express (2018 g. by Jeranimo). Winner at 3, placed at 4, 2022, $25,479.
-		<hip>449</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>J C Express</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Crown of Light</DamName>
-+    .  Royal and Ready (2022 c. by Jeranimo).
-		<hip>449</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Royal and Ready</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Crown of Light</DamName>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00449.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

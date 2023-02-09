@@ -3,1024 +3,170 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Dark Storm (2016 g. by Flatter). 5 wins, 3 to 6, 2022, $264,745.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dark Storm</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Banded**</DamName>
 +    Elianagrace (2018 f. by Malibu Moon). Winner at 3 and 4, placed at 5, 2023, $52,984.
+		Gen 2
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Elianagrace</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>REBALITE</DamDamName>
-		<SireName>n</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>REBALITE</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 44: +    Elianagrace (2018 f. by Malibu Moon). Winner at 3 and 4, placed at 5, 2023, $52,984.
-Dam is in line 34:   REBALITE, by More Than Ready. Winner at 2 and 3, $46,197. Half-sister to **LITE LIGHT** ($1,231,596, 1st Coaching Club American Oaks **[G1]**, etc.), **Gold Press** ($88,708, 3rd Sam Houston Sprint H. [L] (HOU, $5,500), sire). Dam of 7 foals, 7 to race, 5 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00263.htm</UpdateLink>
 +    .  Special Operator (2020 c. by Violence). Winner at 2, 2022, $20,612.
+Found Gen 3
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Special Operator</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Connected Fitness</DamName>
-+    .  .  Hosho Amane (2005 f. by Unbridled's Song). 3 wins at 4 and 5, 29,367,000 Yen, in Japan. Sent from United States to Japan in 2007. (Total: $347,605). Dam of 4 foals, 4 to race, 3 winners--
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00263.htm</UpdateLink>
++    .  .  .  =Amane Raccoon (JPN) (2017 c. by Pyro). 13 wins in 18 starts, 3 to 5, 2022, 47,410,000 Yen, in Japan. (Total: $404,910).
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hosho Amane</HorseName>
-		<HorseYOB>2005</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Gracious (2007 f. by Elusive Quality). Winner at 5, $31,656. Dam of 3 foals, 1 to race--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Gracious</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Equiczar (2008 c. by Gone West). Winner at 2, $22,140. Died 2010.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Equiczar</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Heron Watch (2013 f. by Candy Ride (ARG)). Placed at 2, $7,492. Dam of 4 foals, 2 to race, 2 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Heron Watch</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Rail Marin (2000 f. by Silver Deputy). Winner at 3, 9,200,000 Yen, in Japan. Sent from United States to Japan in 2002. (Total: $77,986). Dam of 8 foals, 7 to race, 6 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Rail Marin</HorseName>
-		<HorseYOB>2000</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**LITE LIGHT**</DamName>
-+    .  .  =True Wind (JPN) (2012 c. by =Gold Allure (JPN)). 3 wins at 3 and 5, 45,850,000 Yen, in Japan. (Total: $409,642).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=True Wind</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Release Version (JPN) (2007 c. by =Neo Universe (JPN)). Winner at 3 and 5, 17,450,000 Yen, in Japan. (Total: $202,446).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Release Version</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Sea Roar (JPN) (2011 f. by =Daiwa Major (JPN)). Winner at 2 and 4, 9,888,000 Yen, in Japan. (Total: $95,823).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Sea Roar</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Light Rail (JPN) (2008 f. by =Heart's Cry (JPN)). Winner at 3, 5,060,000 Yen, in Japan. (Total: $60,178). Dam of 4 foals, 4 to race, 4 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Light Rail</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Shine Ray (JPN) (2013 c. by =Manhattan Cafe (JPN)). 5 wins, 3 to 5, 1,759,000 Yen, in Japan. (Total: $16,172).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Shine Ray</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Vent Blanc (JPN) (2009 f. by =Daiwa Major (JPN)). 9 wins, 4 to 6, 1,409,000 Yen, in Japan. (Total: $13,601).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Vent Blanc</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Marine Look (JPN) (2010 f. by =Special Week (JPN)). Placed at 3, 554,000 Yen, in Japan. (Total: $6,925).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Marine Look</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Le Secret (2010 f. by Pleasantly Perfect). Winner at 2, 5,200 New Sol, in Peru. Sent from United States to Peru in 2012. (Total: $2,005). Dam of 5 foals, 4 to race, 2 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Le Secret</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Auric Force (IND) (2015 c. by =Arazan (IRE)). Winner at 2 in India.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Auric Force</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Iron Will (IND) (2013 g. by =Arazan (IRE)). Winner at 2 in India.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Iron Will</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Arminius (IND) (2011 g. by Hard Spun). 5 wins, 3 to 6 in India.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Arminius</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Mine Light (2007 f. by Mineshaft). Unraced. Sent from United States to Turkey in 2016. Dam of 4 foals, 4 to race, 2 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mine Light</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>**LITE LIGHT**</DamName>
-+    .  .  Mo Light (2013 f. by Uncle Mo). Winner at 4, $35,380. Dam of 1 foal--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mo Light</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Lidar (2016 f. by Don Gato). Winner at 3, $4,952.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lidar</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Quality Light (2011 f. by Elusive Quality). Unplaced in 1 start, $360. Dam of 4 foals, 3 to race, 1 winner--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Quality Light</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Saratoga Lady (2001 f. by Deputy Minister). Unraced. Dam of 8 foals, 5 to race, 4 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Saratoga Lady</HorseName>
-		<HorseYOB>2001</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**LITE LIGHT**</DamName>
-+    .  .  St. Augustine (2006 g. by Point Given). 3 wins at 4 and 5, $57,280.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>St. Augustine</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Marshall Hill (2016 g. by Flat Out). Winner at 3, $19,123.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Marshall Hill</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Upper Mesa Falls (2014 c. by Stay Thirsty). Winner at 3, $13,539, in N.A./U.S.; unplaced in 1 start, $200, in Canada. (Total: $13,694).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Upper Mesa Falls</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Tiz Tap (2013 c. by Tizway). Winner at 2 and 3 in Republic of Korea. Sent from United States to Republic of Korea in 2015.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tiz Tap</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Dazzling Light (1994 f. by A.P. Indy). Unraced. Sent from United States to Japan in 1996. Returned to United States from Japan in 1999. Dam of 6 foals, 3 to race, 3 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dazzling Light</HorseName>
-		<HorseYOB>1994</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>**LITE LIGHT**</DamName>
-+    .  .  Gaily Delight (2001 c. by Tale of the Cat). 24 wins, 4 to 8, 14,142,000 Yen, in Japan. Sent from United States to Japan in 2003. (Total: $140,227).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Gaily Delight</HorseName>
-		<HorseYOB>2001</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Gaily Flare (JPN) (1999 c. by Afleet). Winner at 4, 8,085,000 Yen, in Japan. (Total: $67,607).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Gaily Flare</HorseName>
-		<HorseYOB>1999</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Noble Light (2003 f. by Giant's Causeway). Winner at 4, 332,000 Yen, in Japan. Sent from United States to Japan in 2005. (Total: $2,783). Dam of 4 foals, 3 to race, 1 winner--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Noble Light</HorseName>
-		<HorseYOB>2003</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Alwaysgoodthanx (1996 f. by Miswaki). Winner at 3 and 4, $74,390. Sent from United States to Japan in 2001. Dam of 9 foals, 9 to race, 7 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Alwaysgoodthanx</HorseName>
-		<HorseYOB>1996</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Redeemer</DamName>
-+    .  .  =Snark Falcon (JPN) (2002 c. by King Glorious). 5 wins, 3 to 5, 94,127,000 Yen, in Japan. (Total: $824,178).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Snark Falcon</HorseName>
-		<HorseYOB>2002</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Opera Fountain (JPN) (2008 f. by $Opera House (GB)). Winner at 3 and 4, 20,150,000 Yen, in Japan. (Total: $249,356). Dam of 5 foals, 5 to race, 1 winner--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Opera Fountain</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Keen Sword (JPN) (2011 c. by =Lincoln (JPN)). Winner at 2, 18,698,000 Yen, in Japan. (Total: $182,296).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Keen Sword</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Gratia (JPN) (2013 f. by =Meisho Bowler (JPN)). 13 wins, 3 to 7, 11,917,000 Yen, in Japan. (Total: $108,860).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Gratia</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Cosmo Danke Schon (JPN) (2009 c. by Meiner Love). Winner at 3, 5,925,000 Yen, in Japan. (Total: $72,545).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Cosmo Danke Schon</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Foundry Ryu (JPN) (2005 c. by $Opera House (GB)). Winner at 3 and 4, 3,580,000 Yen, in Japan. (Total: $35,493).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Foundry Ryu</HorseName>
-		<HorseYOB>2005</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Isolado (JPN) (2017 f. by Grass Wonder). Winner at 3, 668,000 Yen, in Japan. (Total: $6,297).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Isolado</HorseName>
+		<HorseName>+    .  .  .  =Amane Raccoon (</HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  =Hikaru Princess (JPN) (2003 f. by =Croco Rouge (IRE)). Unplaced in 2 starts in Japan. Dam of 4 foals, 4 to race, 3 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Hikaru Princess</HorseName>
-		<HorseYOB>2003</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Alameda King (2003 c. by Horse Chestnut (SAF)). Winner at 2 and 6, 21,300,000 Yen, in Japan. Sent from United States to Japan in 2005. (Total: $201,824).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Alameda King</HorseName>
-		<HorseYOB>2003</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Tripping (2009 f. by Hard Spun). 3 wins, 2 to 4, $90,809. Dam of 4 foals, 2 to race, 1 winner--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tripping</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Adamant (2002 c. by Lion Hearted). Winner at 3 and 4, $60,570.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Adamant</HorseName>
-		<HorseYOB>2002</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Victory March (2006 g. by War Chant). Winner at 3, $27,719.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Victory March</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Wholedifferentgig (2011 g. by Political Force). 2 wins at 4, $18,386.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Wholedifferentgig</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Sincity Glow (2005 r. by Pulpit). Winner at 5, $15,458.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sincity Glow</HorseName>
-		<HorseYOB>2005</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Gulfport (1999 g. by Allen's Prospect). Winner at 3 and 4, $13,014.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Gulfport</HorseName>
-		<HorseYOB>1999</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Zion Punch (2001 c. by Two Punch). 6 wins, 2 to 4 in Republic of Korea. Sent from United States to Republic of Korea in 2003.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Zion Punch</HorseName>
-		<HorseYOB>2001</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Lambano (2014 g. by Temple City). Placed, 3 to 5, $17,970.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lambano</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Light Grip (2008 f. by Quiet American). Unraced. Sent from United States to Republic of Korea in 2016. Dam of 7 foals, 4 to race, 3 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Light Grip</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Beat to Quarters (2010 f. by War Front). Unplaced in 2 starts, $422. Dam of 6 foals, 5 to race, 1 winner--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Beat to Quarters</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  **=AMPERE (JPN)** (2006 f. by Wild Rush). 7 wins, 2 to 5, 40,380,000 Yen, in Japan, 1st Edelweiss Sho [LR], 3rd Kanto Oaks [LR]. (Total: $418,529). Dam of 2 foals, 2 to race, 2 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**=AMPERE</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  =Daiwa Mobile (JPN) (2008 c. by Swept Overboard). 3 wins, 2 to 4, 40,657,000 Yen, in Japan. (Total: $498,568).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Daiwa Mobile</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Wild Heat Bomb (JPN) (2013 f. by Wild Rush). 7 wins, 2 to 7, 9,888,000 Yen, in Japan. (Total: $87,954).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Wild Heat Bomb</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  =Orion Barows (JPN) (2012 c. by =Daiwa Major (JPN)). 2 wins at 3, 328,000 Yen, in Japan. (Total: $2,727).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Orion Barows</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Daiwa Gentle (JPN) (2011 c. by Grass Wonder). Winner at 3, 163,000 Yen, in Japan. (Total: $1,524).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Daiwa Gentle</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Absolution (JPN) (2004 f. by Taiki Shuttle). Placed at 3, 2,750,000 Yen, in Japan. (Total: $23,502). Dam of 9 foals, 9 to race, 7 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Absolution</HorseName>
-		<HorseYOB>2004</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  =Flower Fairy (JPN) (2007 f. by Alkaased). Placed at 2, 295,000 Yen, in Japan. (Total: $3,138). Dam of 3 foals, 3 to race, 3 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Flower Fairy</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Wild Without Wine (2007 f. by Kela). 4 wins, 2 to 4, $105,720.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Wild Without Wine</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Honourable Heart (2005 g. by Lion Hearted). 3 wins at 3 and 4, $103,370.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Honourable Heart</HorseName>
-		<HorseYOB>2005</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  St. Thaddeus (2011 g. by Love of Money). Winner at 4, $37,362.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>St. Thaddeus</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Mississippi Miss (1997 f. by Distinctive Pro). Unraced. Sent from United States to Japan in 2000. Dam of 10 foals, 9 to race, 8 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mississippi Miss</HorseName>
-		<HorseYOB>1997</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Redeemer</DamName>
-+    .  .  =Smart Familiar (JPN) (2009 c. by =Admire Moon (JPN)). 15 wins, 4 to 7, 38,454,000 Yen, in Japan. (Total: $363,844).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Smart Familiar</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Black Z (JPN) (2007 c. by =Manhattan Cafe (JPN)). Winner at 2, 15,184,000 Yen, in Japan. (Total: $169,555).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Black Z</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Silk Salute (JPN) (2002 f. by =Fuji Kiseki (JPN)). Winner in 2 starts at 3, 7,000,000 Yen, in Japan. (Total: $66,262). Dam of 9 foals, 8 to race, 6 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Silk Salute</HorseName>
-		<HorseYOB>2002</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  =D First (JPN) (2012 c. by =Admire Moon (JPN)). Winner at 3, 3,800,000 Yen, in Japan. (Total: $32,558).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=D First</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Ceres Ashley (JPN) (2006 f. by Silver Charm). Winner at 3 and 4, 2,665,000 Yen, in Japan. (Total: $29,186).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Ceres Ashley</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Suzuka Charisma (JPN) (2004 c. by Charismatic). Winner at 3, 1,244,000 Yen, in Japan. (Total: $10,898).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Suzuka Charisma</HorseName>
-		<HorseYOB>2004</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Noah Porte (JPN) (2011 f. by =Neo Universe (JPN)). 3 wins at 3 and 4, 720,000 Yen, in Japan. (Total: $6,443).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Noah Porte</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Tigo Dancer (JPN) (2015 g. by =Suzuka Mambo (JPN)). Winner at 4, 530,000 Yen, in Japan. (Total: $4,944).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Tigo Dancer</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Kurino Alpamayo (JPN) (2010 f. by Fantastic Light). Placed at 3, 64,000 Yen, in Japan. (Total: $651).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Kurino Alpamayo</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Gekko (JPN) (2008 f. by =King Kamehameha (JPN)). Unraced in Japan. Dam of 7 foals, 5 to race, 4 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Gekko</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  =Eishin Wonderful (JPN) (1995 f. by Sunday Silence). Placed at 3 and 4, 9,900,000 Yen, in Japan. (Total: $87,084). Dam of 6 foals, 6 to race, 6 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Eishin Wonderful</HorseName>
-		<HorseYOB>1995</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Eishin Momo</DamName>
-+    .  .  =A Shin Scorpio (JPN) (2009 c. by =King Kamehameha (JPN)). 7 wins, 2 to 7, 12,685,000 Yen, in Japan. (Total: $142,415).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=A Shin Scorpio</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Eishin Bravo (JPN) (2002 c. by Eishin Washington). Winner at 4 and 5, 8,792,000 Yen, in Japan. (Total: $81,889).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Eishin Bravo</HorseName>
-		<HorseYOB>2002</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =A Shin Wonders (JPN) (2006 f. by Eishin Preston). 3 wins, 2 to 6, 8,535,000 Yen, in Japan. (Total: $81,647).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=A Shin Wonders</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =A Shin Prima (JPN) (2008 f. by =Jungle Pocket (JPN)). Winner at 3, 6,500,000 Yen, in Japan. (Total: $79,144). Dam of 3 foals, 3 to race, 1 winner--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=A Shin Prima</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Eishin Lovely (JPN) (2003 f. by Mi Cielo). 6 wins, 2 to 6, 8,257,000 Yen, in Japan. (Total: $75,368).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Eishin Lovely</HorseName>
-		<HorseYOB>2003</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  =Eishin Delta (JPN) (2001 f. by Eishin Washington). 7 wins at 4, 1,400,000 Yen, in Japan. (Total: $12,946).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Eishin Delta</HorseName>
-		<HorseYOB>2001</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Clinton Girl (2001 f. by Southern Halo). Placed at 3, 850,000 Yen, in Japan. Sent from United States to Japan in 2003. (Total: $8,011). Dam of 10 foals, 10 to race, 7 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Clinton Girl</HorseName>
-		<HorseYOB>2001</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Eishin Momo</DamName>
-+    .  .  =A Shin Kuroageha (JPN) (2007 f. by Eishin Preston). Winner at 3, 5,500,000 Yen, in Japan. (Total: $60,934).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=A Shin Kuroageha</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Cosmo Epaule (JPN) (2012 c. by Roses in May). 3 wins at 2 and 3, 2,944,000 Yen, in Japan. (Total: $24,526).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Cosmo Epaule</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =A Shin Dingo (JPN) (2008 c. by Hector Protector). 7 wins, 3 to 5, 1,888,000 Yen, in Japan. (Total: $23,205).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=A Shin Dingo</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Sanono Sky (JPN) (2015 c. by =Deep Sky (JPN)). 4 wins at 3 and 4, 2,296,000 Yen, in Japan. (Total: $21,081).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Sanono Sky</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Ho O (JPN) (2006 f. by Eishin Kimball). 5 wins at 4, 1,447,000 Yen, in Japan. (Total: $16,047).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Ho O</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  =Abe Batman (JPN) (2009 c. by Symboli Kris S). 5 wins at 3 and 4, 1,188,000 Yen, in Japan. (Total: $13,035).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Abe Batman</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Tanu Kick (JPN) (2011 f. by =Song of Wind (JPN)). Winner at 2, 575,000 Yen, in Japan. (Total: $5,755).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Tanu Kick</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Taisei Go (JPN) (2016 c. by =Danon Ballade (JPN)). Placed at 2, 1,645,000 Yen, in Japan. (Total: $14,682).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Taisei Go</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Neo Paradox (JPN) (2017 f. by =Time Paradox (JPN)). Placed, 2 to 4, 1,158,000 Yen, in Japan. (Total: $10,798).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Neo Paradox</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Fa Mulan (2002 f. by Artax). Winner at 3, $17,604. Dam of 4 foals, 3 to race, 2 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fa Mulan</HorseName>
-		<HorseYOB>2002</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Lady of Lourdes</DamName>
-+    .  .  Laughing Charlie (2007 c. by Indian Charlie). 2 wins at 3, $39,394. Sire.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Laughing Charlie</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Chop Suey (2013 g. by Henny Hughes). Winner at 3, $6,315.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Chop Suey</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Indira Baby (2004 f. by Indian Charlie). Unraced. Dam of 2 foals--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Indira Baby</HorseName>
-		<HorseYOB>2004</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Lady of Lourdes</DamName>
-+    .  **Don't Ruffle Me** (1999 f. by Pine Bluff). 3 wins at 2 and 3, $118,847, 2nd Top Flight S. [L] (AP, $15,000), 3rd Iowa Oaks [L] (PRM, $15,000). Died 2012. Dam of 7 foals, 5 to race, 4 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Don't Ruffle Me**</HorseName>
-		<HorseYOB>1999</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Delivery Day</DamName>
-+    .  .  My Donna Jean (2008 f. by E Dubai). 7 wins, 3 to 7, $232,011.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>My Donna Jean</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Go Doug Go (2007 g. by Ecton Park). 18 wins, 3 to 9, $218,256.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Go Doug Go</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Jeninsky (2005 f. by Stravinsky). 3 wins at 2 and 4, 43,767 Pounds, in England; unplaced in 1 start in Germany. Sent from United States to Ireland in 2006. (Total: $74,781).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Jeninsky</HorseName>
-		<HorseYOB>2005</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Brother Wayne (2012 g. by Summer Bird). Winner at 3, $11,740.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Brother Wayne</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  About Time (2011 f. by Artie Schiller). Unraced. Dam of 1 foal--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>About Time</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Indy Lake (2006 f. by Friends Lake). Unraced. Dam of 6 foals, 3 to race, 2 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Indy Lake</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Jaunty Day (2000 f. by Pine Bluff). Winner at 3, $23,520. Dam of 6 foals, 5 to race, 4 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Jaunty Day</HorseName>
-		<HorseYOB>2000</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Delivery Day</DamName>
-+    .  .  Paige Me (2008 g. by Shaniko). 13 wins, 2 to 8, $220,960.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Paige Me</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Mad Patriot (2010 g. by Don't Get Mad). Winner at 3 and 4, $53,240.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mad Patriot</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Racer X. (2006 g. by Skip Away). 2 wins at 3, $35,836.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Racer X.</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Poni Girl (2005 f. by Volponi). 3 wins, 2 to 4, $28,030.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Poni Girl</HorseName>
-		<HorseYOB>2005</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Flatter Me Lucky (2009 f. by Flatter). Placed at 3, $7,330. Dam of 2 foals, 2 to race, 1 winner--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Flatter Me Lucky</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  **HELEN BELEN** (2007 f. by Five Star Day). 5 wins, 2 to 4, $182,193, 1st Valdale S. (TP, $29,450), 3rd Indiana Downs Distaff S. [L] (IND, $11,750), Cincinnati Trophy S. (TP, $4,900). Dam of 2 foals, 2 to race, 2 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**HELEN BELEN**</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  **Toomanytomatoes** (2009 f. by Downtown Seattle). 9 wins, 3 to 6, $297,814, 2nd Las Madrinas H. (BSR, $9,500), 3rd Valentine Dancer S.-R (SA, $12,000). Dam of 2 foals, 2 to race--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Toomanytomatoes**</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Maybe Sometime (2018 g. by Desert Code). Winner at 3 and 4, 2022, $55,494, in N.A./U.S.; 3 wins at 4, 2022, $37,896, in Canada. (Total: $84,492).
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Maybe Sometime</HorseName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00263.htm</UpdateLink>
++    .  .  .  A Penn Legacy (2018 g. by Cinco Charlie). 3 wins at 2 and 3, placed at 4, 2022, $59,306.
+		<hip>263</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>+    .  .  .  A Penn Legacy (</HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Too Much Drama (2013 f. by Thorn Song). Winner at 3, $49,425.
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00263.htm</UpdateLink>
++    .  .  .  =Clap Thunder (JPN) (2019 c. by =Just a Way (JPN)). Winner at 3, 2022, 13,970,000 Yen, in Japan. (Total: $105,980).
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Too Much Drama</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Toomanylucky's (2008 g. by Lucky Pulpit). 3 wins at 4 and 6, $41,246, in N.A./U.S.; winner at 6, $8,180, in Canada. (Total: $48,714).
+		<HorseName>+    .  .  .  =Clap Thunder (</HorseName>
+		<HorseYOB>2019</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00263.htm</UpdateLink>
++    .  .  .  =A Shin Supreme (JPN) (2014 c. by South Vigorous). 8 wins, 5 to 8, 2022, 6,251,000 Yen, in Japan. (Total: $56,136).
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Toomanylucky's</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Lucky Tomorrow (2011 g. by Lucky Pulpit). Winner at 4 and 5, $38,851, in N.A./U.S.; 3 wins at 6, $10,297, in Canada. (Total: $47,063).
+		<HorseName>+    .  .  .  =A Shin Supreme (</HorseName>
+		<HorseYOB>2014</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00263.htm</UpdateLink>
++    .  .  Maybe Sometime (2018 g. by Desert Code). Winner at 3 and 4, 2022, $55,494, in N.A./U.S.; 3 wins at 4, 2022, $37,896, in Canada. (Total: $84,492).
+Found Gen 4
 		<hip>263</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lucky Tomorrow</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Theory (2004 f. by High Brite). Winner at 3, $17,150. Dam of 1 foal--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Theory</HorseName>
-		<HorseYOB>2004</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Carson Can Can (1996 f. by Carson City). 9 wins at 3 and 4, $143,659. Dam of 1 foal, 1 to race--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Carson Can Can</HorseName>
-		<HorseYOB>1996</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Music Row</DamName>
-+    .  Dehere's de Lite (1997 f. by Dehere). Winner at 3, $9,180. Died 2002. Dam of 1 foal--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dehere's de Lite</HorseName>
-		<HorseYOB>1997</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Music Row</DamName>
-+    .  The Aggravator (1995 f. by Crafty Prospector). Placed at 3, $2,581. Dam of 7 foals, 5 to race, 3 winners--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>The Aggravator</HorseName>
-		<HorseYOB>1995</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Music Row</DamName>
-+    .  .  Api Mohkat (2005 c. by Early Flyer). 9 wins, 2 to 5, $174,467.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Api Mohkat</HorseName>
-		<HorseYOB>2005</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Don't Call Mom (2002 f. by Maria's Mon). 4 wins, 3 to 6, $32,725, in Canada; unplaced in 1 start, $306, in N.A./U.S. (Total: $29,472). Dam of 2 foals--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Don't Call Mom</HorseName>
-		<HorseYOB>2002</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Snicker M H F (2004 g. by Snuck In). Winner at 4 and 5, $14,224.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Snicker M H F</HorseName>
-		<HorseYOB>2004</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Aggies Cat M H F (2008 g. by Thorn Cat). Placed at 3, $1,713.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Aggies Cat M H F</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Attic Gold (2001 f. by Atticus). Unraced. Dam of 4 foals, 2 to race, 1 winner--
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Attic Gold</HorseName>
-		<HorseYOB>2001</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Music Row</DamName>
-+    .  .  On Higher Wings (2006 g. by Tricky Prospect). Winner at 4, $21,601. Died 2010.
-		<hip>263</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>On Higher Wings</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseName></HorseName>
+		<HorseYOB>2018</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00263.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,206 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Distorted Type (2012 f. by Distorted Humor). 6 wins at 3 and 4, $99,583. Died 2022. Dam of 4 foals, 1 to race--
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Distorted Type</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Stormy Season</DamName>
-+    .  .  Typey (2020 f. by Accelerate). Placed in 2 starts at 2 and 3, 2023, $18,000.
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Typey</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Spa Day (2013 f. by Smoke Glacken). Unraced. Dam of 2 foals, 1 to race, 1 winner--
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Spa Day</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Stormy Season</DamName>
-+    .  .  Blanquita Nieve (2019 f. by Cinco Charlie). Winner at 2 and 3, 2022, $35,970.
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Blanquita Nieve</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Seasonal Gold (2007 f. by Medaglia d'Oro). Unraced. Sent from United States to Argentina in 2010. Dam of 6 foals, 5 to race, 2 winners--
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Seasonal Gold</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Stormy Season</DamName>
-+    .  .  =Spurs (ARG) (2012 c. by Alpha Plus). Winner at 5, 191,650 Pesos, in Argentina. (Total: $11,308).
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Spurs</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Warrior Gold (ARG) (2015 c. by Poseidon's Warrior). 4 wins, 3 to 7, 2022, 884,120 Pesos, in Argentina. (Total: $7,890).
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Warrior Gold</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Sing of the Time (ARG) (2018 f. by =Que Vida Buena (ARG)). Placed at 4, 2022, 208,962 Pesos, in Argentina. (Total: $1,382).
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Sing of the Time</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  =North Cat (JPN) (2014 f. by =Deep Sky (JPN)). Winner at 2 and 3, 5,000,000 Yen, in Japan. (Total: $47,601). Dam of 2 foals, 2 to race, 2 winners--
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=North Cat</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Burmese Cat</DamName>
-+    .  .  =Camillo (JPN) (2020 c. by =Leontes (JPN)). Winner in 2 starts at 3, 2023, 5,500,000 Yen, in Japan. (Total: $42,460).
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Camillo</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =North Kurotaka (JPN) (2019 c. by =Leontes (JPN)). Winner at 2, 3,345,000 Yen, in Japan. (Total: $29,983).
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=North Kurotaka</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  =Martin Sleep (JPN) (2009 f. by Symboli Kris S). Unplaced in Japan. Dam of 6 foals, 6 to race, 2 winners--
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Martin Sleep</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Burmese Cat</DamName>
-+    .  .  =Meiner Wecker (JPN) (2015 c. by =Deep Brillante (JPN)). Winner at 4 and 6, 4,295,000 Yen, in Japan. (Total: $39,524).
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Meiner Wecker</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =B B Jackal (JPN) (2017 c. by =Real Impact (JPN)). Winner at 3, 981,000 Yen, in Japan. (Total: $9,090).
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=B B Jackal</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Koigokoro (JPN) (2019 f. by =Logotype (JPN)). Placed at 2 and 3, 2022, 2,985,000 Yen, in Japan. (Total: $25,358).
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Koigokoro</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Martin Shappu (JPN) (2016 c. by =Kinshasa no Kiseki (AUS)). Placed at 3, 2,600,000 Yen, in Japan. (Total: $23,998).
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Martin Shappu</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  =R Vistoso (JPN) (2007 f. by =Dance in the Dark (JPN)). Unplaced in Japan. Dam of 3 foals, 3 to race, 2 winners--
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=R Vistoso</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Burmese Cat</DamName>
-+    .  .  =Attack Girl (JPN) (2013 f. by Pyro). 6 wins, 3 to 5, 13,222,000 Yen, in Japan. (Total: $123,822).
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Attack Girl</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Trust Heart (JPN) (2014 f. by Storming Home (GB)). Winner at 2, 2,818,000 Yen, in Japan. (Total: $26,679).
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Trust Heart</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Surprise Time (JPN) (2012 f. by =Meisho Samson (JPN)). Placed at 3, 1,191,000 Yen, in Japan. (Total: $9,898).
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Surprise Time</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  **DADDY LOVES GOLD** (2010 f. by Scat Daddy). 8 wins, 3 to 5, $160,558, 1st Clasico Prensa Hipica S. [L]. Dam of 4 foals, 3 to race, 2 winners--
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**DADDY LOVES GOLD**</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Glitz N Gold</DamName>
 +    .  .  Pirate Rick (2017 g. by Liam's Map). 6 wins, 3 to 6, 2023, $256,754.
+Found Gen 4
 		<hip>238</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pirate Rick</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Ollie's Gold (2018 f. by Goldencents). Winner at 3, $37,725.
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ollie's Gold</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  =Golden Beauty (ARG) (2012 f. by Orpen). Winner at 4, 150,500 Pesos, in Argentina. (Total: $9,733). Dam of 2 foals, 1 to race--
-		<hip>238</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Golden Beauty</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Time Is Golden</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00238.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

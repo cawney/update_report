@@ -3,526 +3,220 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Lord Jaxston (2019 g. by Lord Nelson). 2 wins at 3, 2022, $36,250.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lord Jaxston</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>WILDABOUTSHOPPING</DamDamName>
-		<SireName>n</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 38: +    Lord Jaxston (2019 g. by Lord Nelson). 2 wins at 3, 2022, $36,250.
-Dam is in line 34:   WILDABOUTSHOPPING, by Wildcat Heir. Unraced. Half-sister to **MISS SHOP** ($1,126,038, 1st Personal Ensign S. **[G1]** (SAR, $240,000), etc.), **TRAPPE SHOT** ($703,884, 1st True North H. **[G2]** (BEL, $150,000), etc., sire), **BOUGHT IN DIXIE** ($319,183, 1st Chief Pennekeck S. [L] (MED, $30,000), etc.), **SHOP AGAIN** ($122,274, 1st Ada S. (RP, $30,000)), **Bulling** ($203,302, 3rd Sanford S. **[G2]**). Dam of 7 foals, 3 to race, 2 winners--
-+    .  **TIN TYPE GAL** (2013 f. by Tapit). 3 wins at 2 and 3, $292,609, 1st Miss Grillo S. **[G3]** (BEL, $120,000), Boiling Springs S. **[G3]** (MTH, $60,000), 3rd Sands Point S. **[G2]** (BEL, $50,000). Dam of 3 foals, 1 to race--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**TIN TYPE GAL**</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**MISS SHOP**</DamName>
 +    .  .  **Portos** (2017 c. by Tapit). Winner at 2 and 4, placed at 5, 2022, $254,174, 2nd Flat Out S. [L] (BEL, $20,000), 3rd Withers S. **[G3]** (AQU, $30,000), Isaac Murphy Marathon Overnight S. (CD, $12,820).
+Found Gen 4
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Portos**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Bantu (2015 g. by Stormy Atlantic). 3 wins, 2 to 4, $152,908.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bantu</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00385.htm</UpdateLink>
 +    .  .  Point Wild (2018 f. by Point of Entry). Winner at 3 and 4, 2022, $71,936.
+Found Gen 4
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Point Wild</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00385.htm</UpdateLink>
 +    .  Jasper Great (2019 c. by Arrogate). Winner at 2 and 3, placed at 4, 2023, 31,682,000 Yen, in Japan; unplaced in 1 start, $20,000, in N.A./U.S. Sent from United States to Japan in 2020. Returned to United States from Japan in 2021. Sent from United States to Japan in 2021. (Total: $269,141).
+Found Gen 3
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Jasper Great</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**SHOP AGAIN**</DamName>
-+    .  Fast Retailing (2012 f. by Malibu Moon). Winner at 3, $72,325. Dam of 4 foals, 2 to race--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fast Retailing</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>**SHOP AGAIN**</DamName>
-+    .  .  Biggie (2018 g. by Uncle Mo). Placed, 3 to 5, 2023, $30,418.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Biggie</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Cinq Souers (2019 f. by Curlin). Placed at 3, 2022, $11,317.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cinq Souers</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Celebrity Glitter (2015 f. by Tapit). Placed at 2 and 4, $26,280. Dam of 1 foal--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Celebrity Glitter</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**SHOP AGAIN**</DamName>
-+    .  Capria (2017 f. by Curlin). Unraced. Dam of 2 foals--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Capria</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**SHOP AGAIN**</DamName>
-+    .  Meiann (2008 f. by First Samurai). Unraced. Dam of 6 foals, 2 to race--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Meiann</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**SHOP AGAIN**</DamName>
-+    .  .  Arisaema (2019 f. by California Chrome). Placed at 3, 2022, $18,940.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Arisaema</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  **FIFTH AVENUE** (2003 f. by Monarchos). 2 wins at 2, $110,314, 1st Fashion S. [L] (BEL, $48,600), 2nd Adirondack S. **[G2]** (SAR, $30,000). Dam of 4 foals, 4 to race, 3 winners--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**FIFTH AVENUE**</HorseName>
-		<HorseYOB>2003</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Shop Here</DamName>
-+    .  .  Inventor's Gate (2011 g. by Eddington). 3 wins at 3 and 4, $96,734.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Inventor's Gate</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Bundler (2010 g. by Political Force). 3 wins at 5 and 6, $69,881.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bundler</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Eighth Avenue (2008 c. by Broken Vow). Winner at 3, $27,825.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Eighth Avenue</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Ionized (2007 g. by Langfuhr). Placed at 3, $7,000.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ionized</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  **Warranty** (2013 f. by Artie Schiller). 5 wins, 3 to 5, $201,505, 3rd Millions Filly and Mare Turf Preview S.-R (GPW, $7,275). Dam of 3 foals, 1 to race--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Warranty**</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  I Love Shopping (2016 f. by Violence). Placed at 3 and 4, $28,690. Dam of 1 foal--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>I Love Shopping</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Summer Returns (2017 f. by Summer Front). Placed at 3, $11,160. Dam of 1 foal--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Summer Returns</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Looting (2018 c. by Violence). Placed at 2, $9,560.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Looting</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Dakota Fred (2011 g. by Harlington). 8 wins, 3 to 5, $69,235.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dakota Fred</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Just Charge It (2015 g. by Take Charge Indy). 3 wins at 3, $44,398. Died 2018.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Just Charge It</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Secret Shopper (2014 f. by Shackleford). Winner at 3, $29,130. Died 2017.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Secret Shopper</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Yes Its Bear (2012 g. by Harlan's Holiday). 2 wins in 4 starts at 3, $22,020, in Canada. (Total: $17,967).
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Yes Its Bear</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Banksamillion (2019 f. by Central Banker). Placed at 2, $13,060. Dam of 1 foal--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Banksamillion</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Tippany (2012 f. by Tapit). 2 wins at 3, $60,692, in N.A./U.S.; unplaced in 1 start, $1,250, in Canada. (Total: $61,637). Dam of 3 foals--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tippany</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Shop Here</DamName>
-+    .  Hummingbird Hill (2010 f. by Tapit). Placed at 3, $18,265. Dam of 7 foals, 4 to race, 1 winner--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hummingbird Hill</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Shop Here</DamName>
-+    .  .  Beautiful Bella (2017 f. by Super Saver). 2 wins at 4, placed at 5, 2022, $35,289.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Beautiful Bella</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Sitting Pretty (2018 f. by Empire Maker). Placed at 3 and 4, 2022, $33,231, in N.A./U.S.; unplaced in 1 start, $4,200, in Canada. (Total: $36,570).
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sitting Pretty</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Culpable (2015 g. by Blame). Placed at 3, $10,900.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Culpable</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Charming Debutante (2016 f. by Tiznow). Unraced. Dam of 2 foals, 1 to race--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Charming Debutante</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Union Gap (2018 c. by Union Rags). 4 wins at 3, $47,390.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Union Gap</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Drax (2017 g. by Lemon Drop Kid). Winner at 3, $16,955.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Drax</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Shop for Gold (2008 f. by Speightstown). Unraced. Dam of 9 foals, 6 to race, 6 winners--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Shop for Gold</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Shop Here</DamName>
-+    .  .  Mo Moxie (2015 f. by Uncle Mo). Winner at 4, $103,490. Died 2019.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mo Moxie</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Brockton George (2014 g. by Harlan's Holiday). 3 wins, 2 to 5, $86,672.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Brockton George</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Jeffrow (2019 g. by Custom for Carlos). 2 wins at 3, placed at 4, 2023, $42,680.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Jeffrow</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Delta Hutch (2017 f. by Paynter). Winner at 2, $25,300.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Delta Hutch</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Carson City Zip (2013 f. by City Zip). Winner in 1 start at 2, $16,800. Died 2015.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Carson City Zip</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Alexander the Gray (2016 g. by Graydar). Winner at 3, $11,044, in Canada. (Total: $8,418).
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Alexander the Gray</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Spend Spend Spend (2015 f. by Majestic Warrior). 3 wins, 3 to 5, $152,900. Dam of 1 foal--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Spend Spend Spend</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00385.htm</UpdateLink>
 +    .  .  Holiday Raid (2018 f. by Exaggerator). 3 wins at 3 and 4, 2022, $77,620.
+Found Gen 4
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Holiday Raid</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Bedaveeya (2014 f. by Tizway). Winner at 4, 46,500 Dirhams, in United Arab Emirates. Sent from United States to United Arab Emirates in 2016. (Total: $12,663).
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bedaveeya</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00385.htm</UpdateLink>
 +    .  **Mohaafeth** (2018 g. by Tapit). Winner at 3 and 4, 2022, $132,052, 2nd Frank Y. Whiteley S. (LRL, $20,000).
+Found Gen 3
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Mohaafeth**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Zaroof</DamName>
-+    .  Ajwibah (2015 g. by Tapit). 2 wins at 4, placed at 7, 2022, $33,556.
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00385.htm</UpdateLink>
++    .  .  .  Our Amen (2017 f. by Half Ours). Winner at 3 and 4, placed at 5, 2022, $63,530.
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ajwibah</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Zaroof</DamName>
-+    .  Mohallela (2014 f. by =Teofilo (IRE)). Unplaced in 1 start in England. Sent from United States to United Arab Emirates in 2015. Dam of 2 foals--
+		<HorseName>+    .  .  .  Our Amen (</HorseName>
+		<HorseYOB>2017</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00385.htm</UpdateLink>
++    .  .  .  Fiery Playboy (2018 g. by Songandaprayer). 3 wins in 6 starts at 4, 2022, $64,200.
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mohallela</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Zaroof</DamName>
-+    .  .  Perfect Praise (2010 f. by Pleasantly Perfect). 8 wins, 2 to 6, $137,720.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Perfect Praise</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Nairet (2013 f. by Bob and John). Winner at 3 and 4, $88,222.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Nairet</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Baksuchyeo (2011 c. by Bob and John). 6 wins, 2 to 4 in Republic of Korea. Sent from United States to Republic of Korea in 2013.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Baksuchyeo</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Shecanshop (2002 f. by Thunder Gulch). Unraced. Dam of 4 foals, 4 to race, 3 winners--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Shecanshop</HorseName>
-		<HorseYOB>2002</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Shop Around</DamName>
-+    .  .  Angel of Fire (2008 f. by Devil His Due). 6 wins, 3 to 6, $83,712. Dam of 3 foals, 3 to race, 3 winners--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Angel of Fire</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Watchoutfor Taylor (2015 g. by Star of David). 3 wins at 3 and 4, $38,705.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Watchoutfor Taylor</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Callitwhatyawant (2012 g. by Don't Get Mad). 2 wins at 4, $31,550.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Callitwhatyawant</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseName>+    .  .  .  Fiery Playboy (</HorseName>
+		<HorseYOB>2018</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00385.htm</UpdateLink>
 +    .  .  **Taylors Tap** (2020 f. by Tapwrit). Winner in 4 starts at 2 and 3, 2023, $62,690, 3rd My Trusty Cat S. (DED, $11,000).
+Found Gen 4
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Taylors Tap**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00385.htm</UpdateLink>
 +    .  .  Liberty Star (2018 g. by Astrology). Winner at 4, 2022, $70,599.
+Found Gen 4
 		<hip>385</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Liberty Star</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Bluegrassislegal (2009 f. by Bluegrass Cat). 2 wins at 4, $44,850. Dam of 3 foals, 2 to race, 2 winners--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bluegrassislegal</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Shop Glack</DamName>
-+    .  .  True Blue (2015 g. by Warrior's Reward). 5 wins, 3 to 6, $114,680.
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>True Blue</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Into Bluegrass (2014 f. by Into Mischief). 3 wins at 3 and 5, $79,530. Dam of 2 foals--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Into Bluegrass</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Tiz Shopping (2012 f. by Tiznow). Placed at 5, $4,095. Dam of 2 foals--
-		<hip>385</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tiz Shopping</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Shop Glack</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00385.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

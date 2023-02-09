@@ -4,29 +4,29 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Expensive Liaison (2020 f. by Liaison). Winner at 2, placed at 3, 2023, $32,935.
+		Gen 2
 		<hip>202</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Expensive Liaison</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>HIGH PRICE HIT</DamDamName>
-		<SireName>n</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>HIGH PRICE HIT</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 38: +    Expensive Liaison (2020 f. by Liaison). Winner at 2, placed at 3, 2023, $32,935.
-Dam is in line 33:   HIGH PRICE HIT, by Concord Point. Winner at 2 and 3, $63,268. Half-sister to **IMAHIT** ($506,168, 1st Oklahoma Classics Cup S.-R (RP, $94,800), etc.), **HALLELUJAH HIT** ($238,895, 1st Don C. McNeill S.-R (RP, $45,000), etc.). Dam of 6 foals, 3 to race, 3 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00202.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

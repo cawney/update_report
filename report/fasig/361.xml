@@ -3,66 +3,54 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+ RUNNINWITHTHEWIND, by Medaglia d'Oro. Winner at 4, $76,398. Half-sister to **One for Jim** ($131,555, 2nd Sunland Park Oaks [L] (SUN, $44,000), etc.). Dam of 3 foals, 1 to race--
-<hip>361</hip>
-<SaleEntryCode>PH23</SaleEntryCode>
-<SaleCode>FTFEB</SaleCode>
-<SaleName>FT FEB MIXED 21</SaleName>
-update on line 35: + RUNNINWITHTHEWIND, by Medaglia d'Oro. Winner at 4, $76,398. Half-sister to **One for Jim** ($131,555, 2nd Sunland Park Oaks [L] (SUN, $44,000), etc.). Dam of 3 foals, 1 to race--
 +    .  Youvesaiditall (2016 c. by Lookin At Lucky). 11 wins, 3 to 7, 2023, $256,378.
+Found Gen 3
 		<hip>361</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Youvesaiditall</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**One for Jim**</DamName>
-+    .  Dash to the Flash (2011 f. by Langfuhr). 3 wins at 3, $61,495. Dam of 6 foals, 1 to race--
-		<hip>361</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dash to the Flash</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**One for Jim**</DamName>
-+    .  Emma Kate (2015 f. by Successful Appeal). Winner at 2, $42,266. Dam of 2 foals--
-		<hip>361</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Emma Kate</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**One for Jim**</DamName>
-+    .  Hong Kong Helen (2017 f. by Palace Malice). Placed at 2 and 3, $11,991. Dam of 1 foal--
-		<hip>361</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hong Kong Helen</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>**One for Jim**</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00361.htm</UpdateLink>
 +    .  The Biggest One (2018 f. by Gone Astray). 4 wins at 3 and 4, placed at 5, 2023, $94,040.
+Found Gen 3
 		<hip>361</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>The Biggest One</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Pillow Case</DamName>
-+    .  Margarita Twosday (2022 f. by Timeline).
-		<hip>361</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Margarita Twosday</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Wallofsound</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00361.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

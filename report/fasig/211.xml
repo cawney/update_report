@@ -3,110 +3,54 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Sky Dweller (2016 f. by Orb). Unraced. Dam of 1 foal--
-		<hip>211</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sky Dweller</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**BEL AIR BEAUTY**</DamName>
-+    .  **TRUE ROYALTY** (2015 f. by Yes It's True). 3 wins at 2 and 3, $156,112, 1st Torrey Pines S. **[G3]** (DMR, $60,000). Dam of 1 foal--
-		<hip>211</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**TRUE ROYALTY**</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>High Wire</DamName>
 +    .  It's Mandatory (2017 g. by Strong Mandate). 4 wins, 3 to 5, placed at 6, 2023, $120,250.
+Found Gen 3
 		<hip>211</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>It's Mandatory</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>High Wire</DamName>
-+    .  **Texas Red Bel** (2018 f. by Texas Red). 3 wins at 3 and 4, 2022, $128,735, 3rd Bara Lass S.-R (HOU, $10,780).
-		<hip>211</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Texas Red Bel**</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Bel Air Kid</DamName>
-+    .  Posse Up (2013 f. by Posse). Winner at 3, $32,760. Dam of 5 foals, 3 to race, 2 winners--
-		<hip>211</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Posse Up</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Bel Air Kid</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00211.htm</UpdateLink>
 +    .  .  Thetruthisthetruth (2018 f. by Flat Out). 5 wins at 3 and 4, 2022, $95,784.
+Found Gen 4
 		<hip>211</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Thetruthisthetruth</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Janisthebeauty (2019 f. by Half Ours). Winner at 3, 2022, $13,020.
-		<hip>211</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Janisthebeauty</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Marvins' Posse (2020 g. by Super Saver). Placed in 2 starts at 3, 2023, $4,620.
-		<hip>211</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Marvins' Posse</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  War Lass (2010 f. by War Chant). Unplaced, $2,730. Dam of 3 foals, 2 to race--
-		<hip>211</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>War Lass</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Bel Air Kid</DamName>
-+    .  .  Always Silver (2016 f. by Silver City). Placed at 3, $3,993.
-		<hip>211</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Always Silver</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Onemorsaturdaynite (2012 f. by Any Given Saturday). Placed at 3, $16,765. Dam of 2 foals--
-		<hip>211</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Onemorsaturdaynite</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Elleway</DamName>
-+    .  Elegant Elle (2015 f. by Liaison). Placed in 1 start at 4, $4,510. Dam of 1 foal--
-		<hip>211</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Elegant Elle</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Elleway</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00211.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

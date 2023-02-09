@@ -4,71 +4,53 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Proper Attire (2018 f. by Imagining). 10 wins, 2 to 5, 2023, $326,305.
+		Gen 2
 		<hip>305</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Proper Attire</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>INSPIRED SAY EYE</DamDamName>
-		<SireName>g</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>INSPIRED SAY EYE</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 43: +    Proper Attire (2018 f. by Imagining). 10 wins, 2 to 5, 2023, $326,305.
-Dam is in line 40:   INSPIRED SAY EYE, by Two Punch. 4 wins, 2 to 4, $102,150. Half-sister to **WILD JACOB** ($244,804, 1st Prairie Mile S. (PRM, $36,000), etc.), **Star Anna** ($99,458, 2nd Maryland Filly Championship S.-R (LRL, $10,000)). Dam of 4 foals, 2 to race, 2 winners--
-+    Noble Soul (2022 c. by Mineshaft). See above.
-		<hip>305</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Noble Soul</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamDamName>INSPIRED SAY EYE</DamDamName>
-		<SireName>t</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 48: +    Noble Soul (2022 c. by Mineshaft). See above.
-Dam is in line 40:   INSPIRED SAY EYE, by Two Punch. 4 wins, 2 to 4, $102,150. Half-sister to **WILD JACOB** ($244,804, 1st Prairie Mile S. (PRM, $36,000), etc.), **Star Anna** ($99,458, 2nd Maryland Filly Championship S.-R (LRL, $10,000)). Dam of 4 foals, 2 to race, 2 winners--
-+    .  Survive (2014 f. by Redding Colliery). 3 wins at 3 and 4, $70,440. Dam of 1 foal--
-		<hip>305</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Survive</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Star Anna**</DamName>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00305.htm</UpdateLink>
 +    .  Dangnabbit (2019 g. by Imagining). Winner at 2 and 3, 2022, $62,816.
+Found Gen 3
 		<hip>305</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dangnabbit</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Dig in Now</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00305.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

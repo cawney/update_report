@@ -3,221 +3,102 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Church View (2007 f. by Quiet American). 2 wins at 3, $149,729, in Canada; placed at 3 and 4, $23,640, in N.A./U.S. (Total: $170,301). Dam of 5 foals, 3 to race, 3 winners--
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Church View</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Holy Belle</DamName>
 +    .  .  Assume Control (2015 f. by Take Charge Indy). 10 wins, 4 to 7, 2022, $231,560.
+Found Gen 4
 		<hip>347</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Assume Control</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Tuktoyaktuk (2018 g. by Fed Biz). Winner in 1 start at 2, $18,000.
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tuktoyaktuk</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  El Invensible (2014 c. by Into Mischief). 11 wins in 19 starts, 2 to 4 in Dominican Republic. Sent from United States to Dominican Republic in 2015.
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>El Invensible</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Bruco Vale (2005 f. by El Prado (IRE)). Unplaced in 1 start in N.A./U.S.; unplaced in 2 starts, $3,960, in Canada. (Total: $3,584). Dam of 7 foals, 6 to race, 4 winners--
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bruco Vale</HorseName>
-		<HorseYOB>2005</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Holy Belle</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00347.htm</UpdateLink>
 +    .  .  Candizar (2016 g. by Twirling Candy). 5 wins at 4 and 5, placed at 6, 2022, $95,011.
+Found Gen 4
 		<hip>347</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Candizar</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Jax Be Quick (2012 g. by Ide). 2 wins at 3, $40,769.
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Jax Be Quick</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Sweet Frangipani (2010 f. by Flower Alley). 3 wins at 3 and 4, $38,192.
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sweet Frangipani</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Racin Rocks (2017 g. by Red Rocks (IRE)). Winner at 3, $5,870.
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Racin Rocks</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Carlisle House (2008 f. by Dynaformer). Unplaced in 2 starts. Dam of 5 foals, 4 to race, 4 winners--
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Carlisle House</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Holy Belle</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00347.htm</UpdateLink>
 +    .  .  Too Much Bourbon (2017 g. by Closing Argument). 7 wins, 2 to 5, 2022, $109,040.
+Found Gen 4
 		<hip>347</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Too Much Bourbon</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00347.htm</UpdateLink>
 +    .  .  J C's in Town (2016 g. by Jimmy Creed). 3 wins, 3 to 7, 2023, $59,340.
+Found Gen 4
 		<hip>347</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>J C's in Town</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Palace Wind (2018 g. by Palace). Winner at 3, $17,310.
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Palace Wind</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Brq (2020 c. by Jimmy Creed). Winner at 2, 2022, 18,250 Riyals, in Saudi Arabia. Sent from United States to Saudi Arabia in 2022. (Total: $4,867).
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Brq</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Thing of Nothing (IRE) (2012 g. by Haatef). Winner at 2 and 3, $45,885(AUS), in Australia; placed in 1 start at 2, 1,120 Euro, in Ireland. (Total: $35,606).
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Thing of Nothing</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Greeneyed Monster (IRE) (2011 g. by Diamond Green (FR)). Winner at 2, 11,560 Euro, in Ireland. (Total: $15,094).
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Greeneyed Monster</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Global Spring (IRE) (2015 f. by =Kodiac (GB)). Unraced in Ireland. Dam of 3 foals, 2 to race--
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Global Spring</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  =Alghanooj (IRE) (2002 f. by =Xaar (GB)). Winner at 4, 62,200 Riyals, in Saudi Arabia. (Total: $16,586). Dam of 4 foals, 3 to race--
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Alghanooj</HorseName>
-		<HorseYOB>2002</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Stylized</DamName>
-+    .  .  =Kabir Almuhandisin (KSA) (2011 c. by Ozzie Cat). Placed at 4, 29,420 Riyals, in Saudi Arabia. (Total: $7,839).
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Kabir Almuhandisin</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  =Reham (IRE) (2001 f. by Lear Fan). Unplaced in Ireland; unplaced, 3,600 Riyals, in Saudi Arabia. (Total: $960). Dam of 3 foals, 3 to race, 1 winner--
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Reham</HorseName>
-		<HorseYOB>2001</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Stylized</DamName>
-+    .  .  =Meknas (KSA) (2012 c. by Official Visit). Winner at 4, 197,300 Riyals, in Saudi Arabia. (Total: $52,598).
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Meknas</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  =Batraanah (KSA) (2007 f. by =Royal Command (IRE)). Unplaced in Saudi Arabia. Dam of 2 foals, 1 to race, 1 winner--
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Batraanah</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Stylized</DamName>
-+    .  .  =Ayn Alkheerah (KSA) (2016 f. by Chief Lone Eagle). Winner at 2, 30,000 Riyals, in Saudi Arabia. (Total: $7,997).
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Ayn Alkheerah</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  =Sunday Surprise (FR) (2012 f. by Orpen). 2 wins in 3 starts at 3, 15,700 Euro, in France; unplaced in 1 start in Germany. (Total: $17,453). Dam of 4 foals, 2 to race, 2 winners--
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Sunday Surprise</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Spira</DamName>
-+    .  .  =The Sunrise (FR) (2018 c. by =Pomellato (GER)). Winner at 2 and 3, 30,166 Euro, in France. (Total: $35,804).
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=The Sunrise</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Miss Bassett (FR) (2017 f. by =Wootton Bassett (GB)). Winner at 3, 12,850 Euro, in France. (Total: $14,957).
-		<hip>347</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Miss Bassett</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00347.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

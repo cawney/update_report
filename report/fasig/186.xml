@@ -3,64 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Gypsy Squall (2022 c. by Apriority). (application pending)
-		<hip>186</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Gypsy Squall</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamDamName>**IRISH GYPSY**</DamDamName>
-		<SireName>y</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    Gypsy Squall (2022 c. by Apriority). (application pending)
-Dam is in line 38:   **IRISH GYPSY**, by Hennessy. 6 wins at 3 and 5, $386,420, 1st A Gleam H. **[G2]** (HOL, $120,000), Valid Expectations S. [L] (LS, $45,000), Desert Stormer H. (HOL, $43,110), 2nd California State Fair Sprint H. [L] (SAC, $15,100), Time To Leave S. (HOL, $14,460), Cascapedia S. (OSA, $12,810), 3rd Rancho Bernardo H. **[G3]** (DMR, $18,000). Half-sister to **Piscitelli** ($240,521, 3rd Arlington-Washington Futurity **[G3]** (AP, $16,170)). Dam of 8 foals, 4 to race--
-+    .  Gold Chrome (2012 f. by Gold Tribute). 11 wins, 2 to 6, $149,806. Dam of 1 foal--
-		<hip>186</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Gold Chrome</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Silver Vine</DamName>
-+    .  Girl's World (2011 f. by Holy Bull). 3 wins at 2 and 3, $66,399. Dam of 4 foals, 3 to race, 2 winners--
-		<hip>186</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Girl's World</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Silver Vine</DamName>
-+    .  .  Great Curves (2018 f. by Mr. Big). 3 wins at 3 and 4, 2022, $26,065.
-		<hip>186</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Great Curves</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Sheza Colonel (2016 f. by Colonel John). 2 wins at 4, $13,331.
-		<hip>186</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sheza Colonel</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

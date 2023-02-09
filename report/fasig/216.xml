@@ -3,250 +3,78 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Magnificent Chrome (2018 g. by California Chrome). 3 wins at 3 and 4, 2022, $122,703.
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Magnificent Chrome</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>**MAGNIFICENT SONG**</DamDamName>
-		<SireName>e</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    Magnificent Chrome (2018 g. by California Chrome). 3 wins at 3 and 4, 2022, $122,703.
-Dam is in line 38:   **MAGNIFICENT SONG**, by Unbridled's Song. 5 wins at 2 and 3, $445,732, 1st Garden City Breeders' Cup S. **[G1]** (BEL, $150,000), Lake George S. **[G3]** (SAR, $67,740), Edgewood S. [L] (CD, $68,389), 2nd Regret S. **[G3]** (CD, $43,052), Early Times Mint Julep H. **[G3]** (CD, $32,491). Half-sister to **Great Barrier Reef** (Total: $92,671, 2nd Ireland Gimcrack S. **[G2]**, etc., sire), **Galileo's Song (IRE)** ($220,350, 2nd Long Island H. **[G3]** (AQU, $40,000), etc.), **=Park Avenue (IRE)** (Total: $99,306, 2nd Irish Stallion Farms E.B.F. Star Appeal S. [L], etc.), **Queen Daenerys (IRE)** (Total: $48,845, 2nd Betfair E.B.F. Pretty Polly S. [L]). Dam of 11 foals, 5 to race, 3 winners--
-+    .  =Captain's Song (SAF) (2012 f. by =Captain Al (SAF)). Winner at 2, 78,625 Rands, in South Africa. (Total: $6,465). Dam of 3 foals, 3 to race, 3 winners--
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Captain's Song</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Supper Singer</DamName>
-+    .  .  **=Monashada (SAF)** (2018 f. by Silvano (GER)). 3 wins at 3 and 4, 2022, 319,613 Rands, in South Africa, 2nd East Cape Oaks [L]. (Total: $20,044).
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**=Monashada</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  =Silvano's Song (SAF) (2019 c. by Silvano (GER)). Winner at 3, 2022, 74,250 Rands, in South Africa. (Total: $4,355).
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Silvano's Song</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Al Aasy (SAF) (2017 c. by =Soft Falling Rain (SAF)). Winner in 1 start at 3, 42,000 Rands, in South Africa. (Total: $2,573).
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Al Aasy</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  =Song Thrush (SAF) (2007 f. by =Spectrum (IRE)). Unraced in South Africa. Dam of 2 foals, 2 to race, 1 winner--
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Song Thrush</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Supper Singer</DamName>
-+    .  .  =Sudden Song (SAF) (2018 g. by =Sudden Storm (SAF)). 2 wins at 4, 2022, 167,888 Rands, in South Africa. (Total: $9,861).
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Sudden Song</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Lancer (SAF) (2013 g. by Soar With Eagles). Placed at 3 and 4, 17,875 Rands, in South Africa. (Total: $1,364).
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Lancer</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  **Royal Obsession** (2013 f. by Tapit). Winner at 2 and 3, $140,857, 2nd Gazelle S. **[G2]** (AQU, $60,000). Dam of 5 foals, 1 to race, 1 winner--
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Royal Obsession**</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Rote</DamName>
 +    .  .  Rue de Bac (2019 f. by Distorted Humor). Winner at 3, 2022, $58,575.
+Found Gen 4
 		<hip>216</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Rue de Bac</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Royal Azahar (2018 f. by Curlin). Unraced. Dam of 1 foal--
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Royal Azahar</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  **Jumby Bay** (2014 f. by City Zip). Winner at 2 and 4, $118,125, 2nd Sandpiper S. (TAM, $10,000), Gasparilla S. (TAM, $10,000). Dam of 2 foals, 1 to race, 1 winner--
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Jumby Bay**</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Rote</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00216.htm</UpdateLink>
 +    .  .  Erna (2020 f. by Curlin). Winner at 2, 2022, $59,850.
+Found Gen 4
 		<hip>216</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Erna</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Miss Nancy (2013 f. by Arch). 3 wins at 3 and 4, $202,795. Dam of 3 foals--
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Miss Nancy</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Silky Omega</DamName>
-+    .  Run Wild (2009 f. by Wild Rush). Winner at 2, $51,445, in N.A./U.S.; 2 wins at 4, $46,634, in Canada. (Total: $95,774). Dam of 2 foals, 1 to race, 1 winner--
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Run Wild</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Silky Omega</DamName>
-+    .  .  Real Wild Solution (2017 f. by Real Solution). Winner at 3, placed at 5, 2022, $38,310.
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Real Wild Solution</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00216.htm</UpdateLink>
 +    .  Ninja Abarrio (2019 f. by Liam's Map). 3 wins at 3, placed at 4, 2023, $50,200.
+Found Gen 3
 		<hip>216</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ninja Abarrio</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Silky Omega</DamName>
-+    .  .  =Kathya (CHI) (2018 f. by California Chrome). 3 wins at 3, placed at 4, 2022, 11,809,000 Pesos, in Chile. (Total: $14,823).
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Kathya</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  =Kokoro (CHI) (2014 f. by Dunkirk). Winner at 3 and 4, 6,180,000 Pesos, in Chile. (Total: $9,522).
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Kokoro</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Full Master (CHI) (2015 g. by Mastercraftsman (IRE)). Winner at 3, 5,702,500 Pesos, in Chile. (Total: $8,310).
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Full Master</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Richmond Spider (2014 f. by Union Rags). Unplaced, $2,023. Dam of 3 foals--
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Richmond Spider</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Silky Omega</DamName>
-+    .  Melissani (2017 f. by Malibu Moon). 3 wins at 3 and 4, $42,374. Dam of 1 foal--
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Melissani</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Ransomed Heart</DamName>
-+    .  Golden Purchase (2019 g. by Goldencents). Placed at 4, 2023, $18,267.
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Golden Purchase</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Ransomed Heart</DamName>
-+    .  Steelin the Rhythm (2015 f. by Shanghai Bobby). Unraced. Dam of 3 foals, 1 to race, 1 winner--
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Steelin the Rhythm</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Rhythm and Rhyme</DamName>
-+    .  .  Built Different (2019 f. by Practical Joke). Winner at 3, 2022, $30,450.
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Built Different</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Sweet Sweet Beauty (2009 f. by Pulpit). 2 wins at 4, $36,900. Dam of 1 foal, 1 to race, 1 winner--
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sweet Sweet Beauty</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Thissongsforyou</DamName>
-+    .  .  Bold Determination (2015 g. by Jersey Town). Winner at 2 and 3, $18,863.
-		<hip>216</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bold Determination</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00216.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

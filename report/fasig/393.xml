@@ -3,111 +3,102 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+ SMILEFORAMILE, by Unbridled's Song. Winner at 4, $40,800. Half-sister to **Tigre Di Slugo** ($245,126, 2nd San Carlos S. **[G2]** (SA, $40,000), etc.), **Derivative** ($135,379, 3rd Northern Spur S. [L] (OP, $10,000)). Dam of 11 foals, 6 to race, 5 winners--
-<hip>393</hip>
-<SaleEntryCode>PH23</SaleEntryCode>
-<SaleCode>FTFEB</SaleCode>
-<SaleName>FT FEB MIXED 21</SaleName>
-update on line 36: + SMILEFORAMILE, by Unbridled's Song. Winner at 4, $40,800. Half-sister to **Tigre Di Slugo** ($245,126, 2nd San Carlos S. **[G2]** (SA, $40,000), etc.), **Derivative** ($135,379, 3rd Northern Spur S. [L] (OP, $10,000)). Dam of 11 foals, 6 to race, 5 winners--
-+    **SHERIFFA** (2011 f. by Posse). 7 wins, 2 to 5, $469,984, 1st Critical Eye S.-R (BEL, $120,000), New York Stallion Series S.-R (AQU, $75,000), Jack Betta Be Rite S.-R (FL, $30,000), 2nd Bay Ridge S.-R (AQU, $20,000). Dam of 5 foals, 3 to race, 2 winners--
-		<hip>393</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**SHERIFFA**</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>SMILEFORAMILE</DamDamName>
-		<SireName>e</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 41: +    **SHERIFFA** (2011 f. by Posse). 7 wins, 2 to 5, $469,984, 1st Critical Eye S.-R (BEL, $120,000), New York Stallion Series S.-R (AQU, $75,000), Jack Betta Be Rite S.-R (FL, $30,000), 2nd Bay Ridge S.-R (AQU, $20,000). Dam of 5 foals, 3 to race, 2 winners--
-Dam is in line 36: + SMILEFORAMILE, by Unbridled's Song. Winner at 4, $40,800. Half-sister to **Tigre Di Slugo** ($245,126, 2nd San Carlos S. **[G2]** (SA, $40,000), etc.), **Derivative** ($135,379, 3rd Northern Spur S. [L] (OP, $10,000)). Dam of 11 foals, 6 to race, 5 winners--
-+    .  Kid Billy (2020 c. by Flatter). Winner in 1 start at 2, 2022, $38,500.
-		<hip>393</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kid Billy</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**SHERIFFA**</DamName>
 +    .  Flattering Gal (2019 f. by Flatter). Placed at 3, 2022, $20,522.
+Found Gen 3
 		<hip>393</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Flattering Gal</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**SHERIFFA**</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00393.htm</UpdateLink>
 +    Greys the Boy (2019 g. by Midnight Lute). Winner at 3, 2022, $44,110.
+		Gen 2
 		<hip>393</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Greys the Boy</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>SMILEFORAMILE</DamDamName>
-		<SireName>e</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>SMILEFORAMILE</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 54: +    Greys the Boy (2019 g. by Midnight Lute). Winner at 3, 2022, $44,110.
-Dam is in line 36: + SMILEFORAMILE, by Unbridled's Song. Winner at 4, $40,800. Half-sister to **Tigre Di Slugo** ($245,126, 2nd San Carlos S. **[G2]** (SA, $40,000), etc.), **Derivative** ($135,379, 3rd Northern Spur S. [L] (OP, $10,000)). Dam of 11 foals, 6 to race, 5 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00393.htm</UpdateLink>
 +    .  Isabella Smile (2016 f. by El Padrino). 4 wins, 3 to 5, placed at 6, 2022, $192,746.
+Found Gen 3
 		<hip>393</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Isabella Smile</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Smilestone</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00393.htm</UpdateLink>
 +    **Tigre Di Slugo** (2015 g. by Smiling Tiger). 3 wins at 4 and 5, placed at 7, 2022, $245,126, 2nd San Carlos S. **[G2]** (SA, $40,000), Kona Gold S. **[G3]** (SA, $20,000), Don Valpredo California Cup Sprint S.-R (SA, $30,000), 3rd Thor's Echo S.-R (SA, $12,000).
+		Gen 2
 		<hip>393</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Tigre Di Slugo**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2015</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>**ERICA'S SMILE**</DamDamName>
-		<SireName>r</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>**ERICA'S SMILE**</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 68: +    **Tigre Di Slugo** (2015 g. by Smiling Tiger). 3 wins at 4 and 5, placed at 7, 2022, $245,126, 2nd San Carlos S. **[G2]** (SA, $40,000), Kona Gold S. **[G3]** (SA, $20,000), Don Valpredo California Cup Sprint S.-R (SA, $30,000), 3rd Thor's Echo S.-R (SA, $12,000).
-Dam is in line 65:   **ERICA'S SMILE**, by Williamstown. 4 wins at 2 and 3, $232,190, 1st Washington Breeders' Cup Oaks [L] (EMD, $55,000), Fairfield S. (SOL, $23,510), 2nd Indiana Breeders' Cup Oaks **[G3]** (HOO, $61,280), 3rd La Brea S. **[G1]** (SA, $24,000), Star Ball H. (GG, $9,000), Golden Poppy H. (BM, $9,000). Half-sister to **PURELY COZZENE** ($541,671, 1st La Jolla H. **[G3]**, etc.), **Forestry Prince** ($78,826, 2nd Inaugural S. (TAM, $9,000)). Dam of 12 foals, 9 to race, 8 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00393.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

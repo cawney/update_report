@@ -4,123 +4,53 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  Feline (2019 f. by Brethren). Placed at 3, 2022, $44,660.
+Found Gen 3
 		<hip>405</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Feline</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**FELINE STORY**</DamName>
-+    .  Feline Delite (2006 f. by Mineshaft). Unplaced in 1 start, $148. Dam of 6 foals, 4 to race, 3 winners--
-		<hip>405</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Feline Delite</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**FELINE STORY**</DamName>
-+    .  .  Tiz Deliteful (2014 f. by Tiz Wonderful). 3 wins, 2 to 4, $75,525. Dam of 1 foal--
-		<hip>405</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tiz Deliteful</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Tiz de Lovely (2015 f. by Tiz Wonderful). 3 wins at 3 and 4, $31,059. Dam of 1 foal--
-		<hip>405</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tiz de Lovely</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Kitty Creed (2017 f. by Jimmy Creed). Winner at 4, $7,046.
-		<hip>405</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kitty Creed</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Deliteyul Candy (2011 f. by Montbrook). Placed at 2 and 3, $9,602.
-		<hip>405</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Deliteyul Candy</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  =Karula Factor (JPN) (2019 f. by The Factor). 6 wins at 3, placed at 4, 2023, 5,994,000 Yen, in Japan. (Total: $44,137).
-		<hip>405</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Karula Factor</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Ys Dream</DamName>
-+    .  =Irie Day (JPN) (2015 f. by =Monterosso (GB)). Unplaced in Japan. Dam of 1 foal, 1 to race, 1 winner--
-		<hip>405</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Irie Day</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Ys Dream</DamName>
-+    .  .  =Irie First (JPN) (2020 f. by =Pas de Trois (JPN)). Winner in 2 starts at 2, 2022, 2,400,000 Yen, in Japan. (Total: $17,772).
-		<hip>405</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Irie First</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    Graceontour (2008 f. by Henny Hughes). Placed at 3, $17,398. Dam of 8 foals, 6 to race, 4 winners--
-		<hip>405</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Graceontour</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>SHAPPY</DamDamName>
-		<SireName>s</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 74: +    Graceontour (2008 f. by Henny Hughes). Placed at 3, $17,398. Dam of 8 foals, 6 to race, 4 winners--
-Dam is in line 39:   SHAPPY, by Really Secret. Winner at 3, $24,509. Died 2017. Sister to **Salty Secret** ($31,142, 2nd Somethingroyal H.-R (CNL, $6,000)), half-sister to **PATOOIE** ($74,767, 1st Foxy J. G. S.-R (PHA, $23,370), etc.), **My Necessity** ($106,376, 3rd Lovely Claire S. [L] (AQU, $6,552)). Dam of 10 foals, 6 to race, 3 winners--
-+    .  Offutt Cole (2019 g. by Cairo Prince). Winner at 3, 2022, $28,088.
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00405.htm</UpdateLink>
++    .  =Karula Factor (JPN) (2019 f. by The Factor). 6 wins at 3, placed at 4, 2023, 5,994,000 Yen, in Japan. (Total: $44,137).
+Found Gen 3
 		<hip>405</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Offutt Cole</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Graceontour</DamName>
-+    .  Mochima (2012 f. by Wildcat Heir). 6 wins, 3 to 5, $81,182. Dam of 4 foals--
-		<hip>405</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mochima</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Starship Squaw</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00405.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

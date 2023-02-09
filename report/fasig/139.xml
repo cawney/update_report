@@ -3,45 +3,54 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+ RAISE THE FLAG, by Awesome Again. Winner at 3, $66,771. Half-sister to **STORM FLAG FLYING** ($1,951,828, champion 2-year-old filly in U.S. (2002), 1st Breeders' Cup Juvenile Fillies **[G1]** (AP, $520,000), etc.), **WITH FLYING COLORS** ($139,684, 1st Floral Park Heatherten S. (BEL, $41,040)), **On Parade** ($47,085, 3rd Valley Stream S. **[G3]**), **Leading the Parade** ($97,624, 3rd Wadsworth Memorial H. (FL, $5,000), sire). Dam of 7 foals, 5 to race, 3 winners--
-<hip>139</hip>
-<SaleEntryCode>PH23</SaleEntryCode>
-<SaleCode>FTFEB</SaleCode>
-<SaleName>FT FEB MIXED 21</SaleName>
-update on line 38: + RAISE THE FLAG, by Awesome Again. Winner at 3, $66,771. Half-sister to **STORM FLAG FLYING** ($1,951,828, champion 2-year-old filly in U.S. (2002), 1st Breeders' Cup Juvenile Fillies **[G1]** (AP, $520,000), etc.), **WITH FLYING COLORS** ($139,684, 1st Floral Park Heatherten S. (BEL, $41,040)), **On Parade** ($47,085, 3rd Valley Stream S. **[G3]**), **Leading the Parade** ($97,624, 3rd Wadsworth Memorial H. (FL, $5,000), sire). Dam of 7 foals, 5 to race, 3 winners--
 +    Twodogsfourcats (2019 f. by Mastery). Winner at 3, 2022, $59,190.
+		Gen 2
 		<hip>139</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Twodogsfourcats</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>RAISE THE FLAG</DamDamName>
-		<SireName>y</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>RAISE THE FLAG</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 44: +    Twodogsfourcats (2019 f. by Mastery). Winner at 3, 2022, $59,190.
-Dam is in line 38: + RAISE THE FLAG, by Awesome Again. Winner at 3, $66,771. Half-sister to **STORM FLAG FLYING** ($1,951,828, champion 2-year-old filly in U.S. (2002), 1st Breeders' Cup Juvenile Fillies **[G1]** (AP, $520,000), etc.), **WITH FLYING COLORS** ($139,684, 1st Floral Park Heatherten S. (BEL, $41,040)), **On Parade** ($47,085, 3rd Valley Stream S. **[G3]**), **Leading the Parade** ($97,624, 3rd Wadsworth Memorial H. (FL, $5,000), sire). Dam of 7 foals, 5 to race, 3 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00139.htm</UpdateLink>
 +    .  Smooth Motion (2020 c. by Cross Traffic). Placed at 2 and 3, 2023, $15,470.
+Found Gen 3
 		<hip>139</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Smooth Motion</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Raising Aida</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00139.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

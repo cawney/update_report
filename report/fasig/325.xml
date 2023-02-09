@@ -4,253 +4,101 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Top of My Game (2020 c. by Mark Valeski). Winner at 2, 2022, $72,790.
+		Gen 2
 		<hip>325</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Top of My Game</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>**PIOUS ASHLEY**</DamDamName>
-		<SireName>i</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>**PIOUS ASHLEY**</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 38: +    Top of My Game (2020 c. by Mark Valeski). Winner at 2, 2022, $72,790.
-Dam is in line 33:   **PIOUS ASHLEY**, by Include. 4 wins at 3 and 4, $251,563, 1st Valid Expectations S. [L] (LS, $60,000), 2nd Endine S. **[G3]** (DEL, $30,000). Half-sister to **HELLO LIBERTY** ($284,239, 1st Nassau County Breeders' Cup S. **[G2]** (BEL, $124,560), etc.). Dam of 9 foals, 8 to race, 7 winners--
-+    Filly Pelli (2019 f. by Cupid). Winner at 3, 2022, $22,190.
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Filly Pelli</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>**PIOUS ASHLEY**</DamDamName>
-		<SireName>d</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 46: +    Filly Pelli (2019 f. by Cupid). Winner at 3, 2022, $22,190.
-Dam is in line 33:   **PIOUS ASHLEY**, by Include. 4 wins at 3 and 4, $251,563, 1st Valid Expectations S. [L] (LS, $60,000), 2nd Endine S. **[G3]** (DEL, $30,000). Half-sister to **HELLO LIBERTY** ($284,239, 1st Nassau County Breeders' Cup S. **[G2]** (BEL, $124,560), etc.). Dam of 9 foals, 8 to race, 7 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00325.htm</UpdateLink>
 +    .  .  **HELLO HOT ROD** (2018 g. by Mosler). 5 wins, 2 to 4, 2022, $188,905, 1st Jimmy Winkfield S. (AQU, $55,000).
+Found Gen 4
 		<hip>325</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**HELLO HOT ROD**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Hello Amigo (2016 g. by Bandbox). 2 wins at 6, 2022, $129,611.
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hello Amigo</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Surprise Hello (2019 g. by Golden Years). Placed at 3, 2022, $15,308.
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Surprise Hello</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Hello Hoppertunity (2022 f. by Hoppertunity).
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hello Hoppertunity</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Liberty Road (2012 f. by Quality Road). 3 wins at 4 and 5, $91,540. Dam of 2 foals, 1 to race, 1 winner--
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Liberty Road</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**HELLO LIBERTY**</DamName>
-+    .  .  Born for Victory (2019 g. by Divining Rod). Winner at 3, 2022, $29,670.
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Born for Victory</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  **Sutton's Smile** (2013 f. by Paddy O'Prado). Winner at 2, $133,860, 3rd Starlet S. **[G1]** (LRC, $36,000), Jimmy Durante S. **[G3]** (DMR, $12,000). Dam of 4 foals, 2 to race--
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Sutton's Smile**</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Maybe Later (2018 f. by Not This Time). 3 wins, 3 to 5, 2023, $234,533.
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Maybe Later</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Majestic Lyric (2014 f. by Majestic Warrior). 3 wins at 2 and 4, $57,336.
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Majestic Lyric</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Partisan Divide (2016 g. by Paddy O'Prado). Winner at 2, $30,200.
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Partisan Divide</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Something Expect (2017 c. by Blame). Winner at 3 in Republic of Korea. Sent from United States to Republic of Korea in 2018.
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Something Expect</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Sojunghan Somang (2015 f. by Blame). 3 wins at 2 and 3 in Republic of Korea. Sent from United States to Republic of Korea in 2017.
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sojunghan Somang</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Tappin'time (2018 f. by Union Rags). Placed at 3 and 4, 2022, $5,840.
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tappin'time</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    Buneya (2011 f. by Indian Charlie). Winner in 2 starts at 4, $26,270. Dam of 7 foals, 5 to race, 1 winner--
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Buneya</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>WITNESS POST</DamDamName>
-		<SireName>e</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 89: +    Buneya (2011 f. by Indian Charlie). Winner in 2 starts at 4, $26,270. Dam of 7 foals, 5 to race, 1 winner--
-Dam is in line 49:   WITNESS POST, by Gone West. Unraced. Died 2021. Dam of 13 foals, 8 to race, 6 winners--
-+    .  Aseelah (2017 f. by Candy Ride (ARG)). Placed at 2, $22,100. Dam of 1 foal--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00325.htm</UpdateLink>
++    .  .  Hello Amigo (2016 g. by Bandbox). 2 wins at 6, 2022, $129,611.
+Found Gen 4
 		<hip>325</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Aseelah</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Buneya</DamName>
-+    .  El Gemar (2019 c. by Malibu Moon). Placed at 3, 2022, $19,482.
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>El Gemar</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Buneya</DamName>
-+    .  Daleelaty (2016 f. by Daaher). Unplaced in 1 start, $3,600. Dam of 2 foals--
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Daleelaty</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Buneya</DamName>
-+    .  **SIGNIFICANT FORM** (2015 f. by Creative Cause). 5 wins, 2 to 4, $817,216, 1st Woodford Reserve Ballston Spa S. **[G2]** (SAR, $220,000), Miss Grillo S. **[G3]** (BEL, $120,000), Intercontinental S. **[G3]** (BEL, $110,000), Noble Damsel S. **[G3]** (BEL, $110,000), Memories Of Silver S. [L] (AQU, $60,000), 2nd Wonder Again S. **[G3]** (BEL, $40,000), 3rd Intercontinental S. **[G3]** (BEL, $12,000). Sent from United States to France in 2020. Dam of 1 foal--
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00325.htm</UpdateLink>
++    .  .  Maybe Later (2018 f. by Not This Time). 3 wins, 3 to 5, 2023, $234,533.
+Found Gen 4
 		<hip>325</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**SIGNIFICANT FORM**</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Church by the Sea</DamName>
-+    .  Hay Flo (2016 f. by Cairo Prince). Winner at 3, $21,620. Dam of 2 foals--
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hay Flo</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Church by the Sea</DamName>
-+    .  Piney Point (2019 f. by Curlin). Unraced. Dam of 1 foal--
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Piney Point</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Church by the Sea</DamName>
-+    .  **CARIBA** (2016 f. by Cairo Prince). 3 wins at 3 and 4, $221,750, 1st Caress S. [L] (SAR, $110,000). Dam of 1 foal--
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**CARIBA**</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Incarnate Memories</DamName>
-+    .  .  **SOL PRINCIPE GRIS** (2020 c. by Summer Front). 2 wins at 2, 2022 in Panama, 1st Clasico German Ruiz [L], Clasico Familia Fernandez [L]. Sent from United States to Panama in 2021.
-		<hip>325</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**SOL PRINCIPE GRIS**</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseName></HorseName>
+		<HorseYOB>2018</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00325.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

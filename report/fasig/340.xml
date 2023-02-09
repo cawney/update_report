@@ -3,24 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Madera (2017 f. by Ghostzapper). 4 wins at 3 and 4, $107,141.
-		<hip>340</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Madera</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Mi Hermana</DamName>
-+    .  Mary Lee and Me (2016 f. by Paynter). 4 wins, 2 to 4, $79,140. Dam of 1 foal--
-		<hip>340</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mary Lee and Me</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Mi Hermana</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

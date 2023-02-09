@@ -3,54 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    War Secret Baby (2022 f. by Cutting Humor).
-		<hip>370</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>War Secret Baby</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>WAR SECRET</DamDamName>
-		<SireName>r</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    War Secret Baby (2022 f. by Cutting Humor).
-Dam is in line 38:   WAR SECRET, by War Front. Unraced. Half-sister to **Junket** ($240,968, 2nd Colin S. [L] (WO, $25,000), etc.). Dam of 7 foals, 1 to race--
-+    Ambitiously Placed (2018 f. by Flat Out). 6 wins at 3 and 4, 2022, $174,760.
-		<hip>370</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ambitiously Placed</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamDamName>**TRAVEL PLANS**</DamDamName>
-		<SireName>t</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 49: +    Ambitiously Placed (2018 f. by Flat Out). 6 wins at 3 and 4, 2022, $174,760.
-Dam is in line 45:   **TRAVEL PLANS**, by Notebook. 3 wins at 3 and 4, $96,871, 1st Sweet and Sassy S. [L] (DEL, $45,000). Dam of 10 foals, 6 to race, 6 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

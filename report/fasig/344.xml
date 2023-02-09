@@ -3,97 +3,100 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  **NAVAL COMMAND** (2012 f. by Midshipman). 3 wins at 2, $137,843, 1st Happy Ticket S. [L] (LAD, $45,000), 2nd Cassidy S. (GP, $13,950). Sent from United States to Republic of Korea in 2019. Dam of 3 foals, 1 to race, 1 winner--
-		<hip>344</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**NAVAL COMMAND**</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Lucky Flyer</DamName>
-+    .  .  Uno Baby Bird (2017 c. by Macho Uno). Winner at 3, $19,670.
-		<hip>344</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Uno Baby Bird</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Mine Golden Goddes (2011 f. by Mineshaft). Placed at 3 in Panama. Sent from United States to Panama in 2013. Dam of 1 foal, 1 to race, 1 winner--
-		<hip>344</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mine Golden Goddes</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Election Star</DamName>
-+    .  .  =El Compi (PAN) (2016 c. by Wisemans Cure). 2 wins at 3 in Panama.
-		<hip>344</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=El Compi</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Meisho Volga (JPN) (2014 c. by =Meisho Samson (JPN)). 4 wins, 3 to 5, 35,000,000 Yen, in Japan. (Total: $319,834).
-		<hip>344</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Meisho Volga</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Meisho Hibari (JPN) (2017 f. by South Vigorous). 3 wins at 3 and 4, 26,850,000 Yen, in Japan. (Total: $247,797).
-		<hip>344</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Meisho Hibari</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
 +    .  .  =Meisho Kid (JPN) (2019 c. by =Hokko Tarumae (JPN)). 2 wins at 3, 2022, 28,000,000 Yen, in Japan. (Total: $233,273).
+Found Gen 4
 		<hip>344</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Meisho Kid</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Meisho Seil (JPN) (2013 c. by =Meisho Bowler (JPN)). 8 wins, 4 to 6, 19,666,000 Yen, in Japan. (Total: $178,036).
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00344.htm</UpdateLink>
++    .  .  .  =Meisho Fuka (JPN) (2018 f. by =Meisho Samson (JPN)). 4 wins at 4, 2022, 8,225,000 Yen, in Japan. (Total: $66,385).
 		<hip>344</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Meisho Seil</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Meisho Kogashira (JPN) (2020 c. by =Meisho Bowler (JPN)). Placed at 2, 2022, 2,880,000 Yen, in Japan. (Total: $20,852).
-		<hip>344</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Meisho Kogashira</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  =Meisho Allpa (JPN) (2012 f. by =Zenno Rob Roy (JPN)). Placed at 2, 1,760,000 Yen, in Japan. (Total: $14,687). Dam of 2 foals, 2 to race, 2 winners--
-		<hip>344</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Meisho Allpa</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  =Karara Lad (AUS) (2018 g. by =Better Than Ready (AUS)). Winner at 4, 2022, $14,750(AUS), in Australia. (Total: $9,720).
-		<hip>344</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Karara Lad</HorseName>
+		<HorseName>+    .  .  .  =Meisho Fuka (</HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Special Shadow</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00344.htm</UpdateLink>
++    .  =Karara Lad (AUS) (2018 g. by =Better Than Ready (AUS)). Winner at 4, 2022, $14,750(AUS), in Australia. (Total: $9,720).
+Found Gen 3
+		<hip>344</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName></HorseName>
+		<HorseYOB>2018</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00344.htm</UpdateLink>
++ 2019 Credit Event, c. by Not This Time. 2 wins in 4 starts at 3, 2022, $114,825.
+		<hip>344</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>+ 2019 Credit Event,</HorseName>
+		<HorseYOB>2019</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00344.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

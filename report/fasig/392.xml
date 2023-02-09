@@ -3,107 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Better Biz (2016 f. by Fed Biz). 2 wins at 4, $78,500. Dam of 1 foal--
-		<hip>392</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Better Biz</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Giftie Gie</DamName>
-+    .  Morethanawarning (2011 f. by More Than Ready). 3 wins, 2 to 5, $213,949. Sent from United States to Turkey in 2022. Dam of 4 foals, 2 to race, 1 winner--
-		<hip>392</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Morethanawarning</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Catch a Warning</DamName>
-+    .  .  Morethanastorm (2019 f. by Get Stormy). Winner at 3, 2022, $22,295.
-		<hip>392</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Morethanastorm</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Run for Cover (2020 f. by Get Stormy). Placed in 2 starts at 2, 2022, $17,098.
-		<hip>392</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Run for Cover</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Urban Shocker (2002 f. by Charismatic). 5 wins, 3 to 5, $104,085. Sent from United States to Republic of Korea in 2013. Dam of 2 foals, 1 to race--
-		<hip>392</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Urban Shocker</HorseName>
-		<HorseYOB>2002</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Catch a Warning</DamName>
-+    .  City Section (2013 f. by City Zip). 2 wins at 4, $99,007. Dam of 2 foals--
-		<hip>392</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>City Section</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Catch a Warning</DamName>
-+    .  Don't Get Married (2006 f. by Dixie Union). Winner at 3, $37,058. Dam of 6 foals, 6 to race, 4 winners--
-		<hip>392</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Don't Get Married</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Catch a Warning</DamName>
 +    .  .  Bernice Who (2019 f. by Comfort). Winner at 2 and 3, placed at 4, 2023, $59,262.
+Found Gen 4
 		<hip>392</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bernice Who</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Sutah Who (2017 f. by Abstraction). Winner at 3, $12,655.
-		<hip>392</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sutah Who</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Jo Jo Who (2016 f. by Indian Firewater). Winner at 2, $9,000.
-		<hip>392</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Jo Jo Who</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Old Flames Who (2015 f. by Indian Firewater). Winner at 2, $5,930.
-		<hip>392</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Old Flames Who</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Matchmaker Who (2012 f. by The Way Home). Placed at 2, $5,271.
-		<hip>392</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Matchmaker Who</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00392.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

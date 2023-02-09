@@ -3,290 +3,54 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  **Divine Elegance** (2013 f. by Uncle Mo). 3 wins at 3 and 4, $238,577, 3rd Matron S. **[G3]** (CD, $9,400). Dam of 4 foals, 1 to race--
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Divine Elegance**</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>**CLASSIC ELEGANCE**</DamName>
-+    .  .  Lazara (2019 f. by Tapit). Placed at 3, 2022, $5,760.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lazara</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Street to Indy (2013 g. by Street Sense). 6 wins, 5 to 7, $235,940.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Street to Indy</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Plein Air (2014 f. by Lonhro (AUS)). 3 wins at 3 and 4, $72,690. Dam of 3 foals--
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Plein Air</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Cold Spice (2012 g. by Tiznow). 3 wins at 4 and 5, $60,880.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cold Spice</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Thales (2018 g. by Quality Road). Winner at 4, 2022, $38,360.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Thales</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Robinhill (2019 f. by Kitten's Joy). Winner at 2, $29,551. Sent from United States to Chile in 2022.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Robinhill</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Richardofnewstead (2015 c. by Haynesfield). Placed at 2 in Republic of Korea. Sent from United States to Republic of Korea in 2017.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Richardofnewstead</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>c</HorseSex>
 +    .  .  Golden Tone (2018 g. by Tonalist). 3 wins at 3 and 4, placed at 5, 2023, $60,313.
+Found Gen 4
 		<hip>472</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Golden Tone</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Don't Tell Deb (2017 g. by Bodemeister). Placed at 2, $2,105. Died 2019.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Don't Tell Deb</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Nila (2011 f. by Indian Charlie). Unraced. Dam of 1 foal--
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Nila</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**CLASSIC ELEGANCE**</DamName>
-+    .  Esentzofbernardini (2009 f. by Bernardini). Unraced. Dam of 2 foals, 2 to race, 2 winners--
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Esentzofbernardini</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**CLASSIC ELEGANCE**</DamName>
-+    .  .  Bright Note (2014 f. by Maclean's Music). Winner at 3, $7,400, in Canada; placed at 3, $4,155, in N.A./U.S. (Total: $9,802).
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bright Note</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Superior Quality (2012 c. by Dunkirk). 3 wins at 2 and 3 in Jamaica. Sent from United States to Jamaica in 2014.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Superior Quality</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Goldenmine (2016 f. by Mineshaft). Unplaced in 1 start, $134. Dam of 3 foals, 1 to race--
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Goldenmine</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**CLASSIC ELEGANCE**</DamName>
-+    .  Jen Take Charge (2016 f. by Will Take Charge). 3 wins at 4 and 5, placed at 6, 2022, $106,690. Dam of 1 foal--
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Jen Take Charge</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>You Make Luvin Fun</DamName>
-+    .  **BELIEVE YOU CAN** (2009 f. by Proud Citizen). 8 wins in 14 starts, 2 to 4, $1,280,324, 1st Kentucky Oaks **[G1]** (CD, $564,200), Fair Grounds Oaks **[G2]** (FG, $300,000), Tempted S. **[G3]** (BEL, $60,000), New Orleans Ladies S. [L] (FG, $90,000), Silverbulletday S. [L] (FG, $75,000), Tiffany Lass S. (FG, $60,000), 3rd Mother Goose S. **[G1]** (BEL, $30,000), La Troienne S. **[G2]** (CD, $32,840). Dam of 6 foals, 5 to race, 1 winner--
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**BELIEVE YOU CAN**</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>El Fasto</DamName>
-+    .  .  Faith's Reward (2019 f. by Uncle Mo). Placed at 3, 2022, $22,710.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Faith's Reward</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Conclude (2020 c. by Collected). Placed in 1 start at 3, 2023, $13,400.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Conclude</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Brother in Arms (2018 g. by War Front). Placed, 2 to 4, 2022, $12,165.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Brother in Arms</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Birdy Num (2016 f. by Tapit). Unplaced in 2 starts, $4,580. Dam of 3 foals--
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Birdy Num</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Profound Legacy (2016 f. by Proud Citizen). 2 wins at 2, $78,163. Dam of 1 foal--
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Profound Legacy</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>El Fasto</DamName>
-+    .  Cause She's Fast (2014 f. by Creative Cause). Winner at 2, $25,630. Dam of 5 foals, 2 to race--
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cause She's Fast</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>El Fasto</DamName>
-+    .  .  Fast Boat to Skye (2020 g. by Cairo Prince). Placed at 2, 2022, $18,193.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fast Boat to Skye</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Artyistheparty (2018 f. by Cairo Prince). Placed at 3, $13,720.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Artyistheparty</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Believe You Will (2015 f. by Proud Citizen). Unraced. Dam of 4 foals, 2 to race, 1 winner--
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Believe You Will</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>El Fasto</DamName>
-+    .  .  Believe in Freedom (2019 f. by American Freedom). Winner at 3, 2022, $27,560.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Believe in Freedom</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  King Russell (2020 c. by Creative Cause). Placed at 2 and 3, 2023, $40,850.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>King Russell</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  And You Can (2011 f. by Istan). Unplaced, $192. Dam of 5 foals, 4 to race, 3 winners--
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>And You Can</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>El Fasto</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00472.htm</UpdateLink>
 +    .  .  Decisive Cause (2019 f. by Creative Cause). Winner at 3, 2022, $54,402.
+Found Gen 4
 		<hip>472</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Decisive Cause</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Adero (2020 g. by American Freedom). Winner at 3, 2023, $26,970.
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Adero</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Freudian Finish (2016 f. by Haynesfield). Winner at 3 and 4, $99,348. Dam of 1 foal--
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Freudian Finish</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Psychadelacized</DamName>
-+    .  She's My First (2014 f. by To Honor and Serve). Winner at 3 and 4, $51,765. Dam of 2 foals--
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>She's My First</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Psychadelacized</DamName>
-+    .  .  Countthebrave (2022 c. by Speightster).
-		<hip>472</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Countthebrave</HorseName>
-		<HorseYOB>2022</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00472.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

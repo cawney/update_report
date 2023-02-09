@@ -3,168 +3,78 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    **Dirty Rush** (2003 f. by Wild Rush). 2 wins at 3, $77,373, 3rd Meafara S. [L] (HAW, $12,364). Dam of 11 foals, 10 to race, 8 winners--
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Dirty Rush**</HorseName>
-		<HorseYOB>2003</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>SATINET</DamDamName>
-		<SireName>h</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    **Dirty Rush** (2003 f. by Wild Rush). 2 wins at 3, $77,373, 3rd Meafara S. [L] (HAW, $12,364). Dam of 11 foals, 10 to race, 8 winners--
-Dam is in line 36:   SATINET, by Olympio. 4 wins at 2 and 3, $72,475. Half-sister to **PROMISE OF WAR** ($437,030, 1st Tri-State H. [L] (ELP, $46,250), etc.), **BALDWIN COUNTY** ($241,275, 1st Charlie Iles Express H. (ALB, $24,000)). Dam of 15 foals, 13 to race, 9 winners--
-+    .  Sister Mary B (2012 f. by Tiznow). Winner in 2 starts at 3, $52,920. Dam of 3 foals, 1 to race, 1 winner--
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sister Mary B</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Dirty Rush**</DamName>
-+    .  .  Trust Fund Girl (2018 f. by Afleet Alex). Winner in 2 starts at 2, $17,890.
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Trust Fund Girl</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
 +    .  Pressing Concern (2018 g. by California Chrome). Winner at 4, 2022, $33,436.
+Found Gen 3
 		<hip>357</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pressing Concern</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Dirty Rush**</DamName>
-+    .  Vezzali (2009 f. by Medaglia d'Oro). 2 wins at 4, 8,500 Euro, in Germany; winner at 4, 5,000 Euro, in France; placed in 1 start at 2, 514 Pounds, in England. Sent from United States to Ireland in 2010. (Total: $18,877). Dam of 5 foals, 3 to race--
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Vezzali</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**Dirty Rush**</DamName>
-+    .  .  =Hawa Alwidyan (KSA) (2015 f. by Raven's Pass). Placed at 3, 10,400 Riyals, in Saudi Arabia. (Total: $2,773).
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Hawa Alwidyan</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  =Black Power (KSA) (2020 c. by Power Broker). Placed at 2, 2022, 3,750 Riyals, in Saudi Arabia. (Total: $1,000).
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Black Power</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Bullock (2020 f. by Bolt d'Oro). Winner in 2 starts at 2, 2022, $17,080.
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bullock</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**Dirty Rush**</DamName>
-+    .  River Light (2015 f. by Union Rags). Winner in 1 start at 4, $16,800. Sent from United States to Australia in 2020. Dam of 1 foal--
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>River Light</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Dirty Rush**</DamName>
-+    .  Tiz Her Now (2016 f. by Tiznow). Unraced. Dam of 2 foals--
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tiz Her Now</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Dirty Rush**</DamName>
-+    Old South Ball (2013 f. by Drosselmeyer). 2 wins at 3, $30,380. Sent from United States to Saudi Arabia in 2022. Dam of 4 foals, 3 to race, 2 winners--
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Old South Ball</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>SATINET</DamDamName>
-		<SireName>r</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 71: +    Old South Ball (2013 f. by Drosselmeyer). 2 wins at 3, $30,380. Sent from United States to Saudi Arabia in 2022. Dam of 4 foals, 3 to race, 2 winners--
-Dam is in line 36:   SATINET, by Olympio. 4 wins at 2 and 3, $72,475. Half-sister to **PROMISE OF WAR** ($437,030, 1st Tri-State H. [L] (ELP, $46,250), etc.), **BALDWIN COUNTY** ($241,275, 1st Charlie Iles Express H. (ALB, $24,000)). Dam of 15 foals, 13 to race, 9 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00357.htm</UpdateLink>
 +    .  Slippery When Wet (2020 g. by Goldencents). Winner at 2, 2022, $26,163.
+Found Gen 3
 		<hip>357</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Slippery When Wet</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Old South Ball</DamName>
-+    .  Asian's Way (2013 f. by Trappe Shot). 4 wins, 2 to 5, $197,704. Dam of 2 foals--
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Asian's Way</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Dblsecretprobation</DamName>
-+    .  Academic Probation (2011 f. by Einstein (BRZ)). Winner at 2 and 4, $56,951. Dam of 2 foals--
-		<hip>357</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Academic Probation</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Dblsecretprobation</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00357.htm</UpdateLink>
 +    .  Tyler Time (2017 g. by Warrior's Reward). Winner at 4 and 5, placed at 6, 2023, $49,078.
+Found Gen 3
 		<hip>357</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tyler Time</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Dblsecretprobation</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00357.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,168 +3,54 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Game Warden (2020 c. by Tapit). Placed at 3, 2023, $20,728.
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Game Warden</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Glory and Power</DamName>
-+    .  Tap Gun (2015 f. by Tapit). 2 wins at 3, $66,030. Dam of 2 foals--
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tap Gun</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**QUIET GIANT**</DamName>
-+    .  Quiet Flirt (2014 f. by Malibu Moon). Placed in 1 start at 3, $15,000. Dam of 2 foals, 1 to race, 1 winner--
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Quiet Flirt</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**QUIET GIANT**</DamName>
-+    .  .  Green Jacket (2019 c. by Curlin). Winner at 4, 2023, 58,450 Dirhams, in United Arab Emirates; unplaced in 1 start, $5,400, in N.A./U.S. Sent from United States to United Arab Emirates in 2022. (Total: $21,317).
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Green Jacket</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Paulistinha (2016 f. by Tapit). Unraced. Dam of 2 foals--
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Paulistinha</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**QUIET GIANT**</DamName>
 +    .  **Gun It** (2016 g. by Tapit). 3 wins, 2 to 5, placed at 6, 2022, $422,149, 2nd Mineshaft S. **[G3]** (FG, $40,000), Louisiana S. **[G3]** (FG, $20,000).
+Found Gen 3
 		<hip>378</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Gun It**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>**Miss Besilu**</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00378.htm</UpdateLink>
 +    .  Lark's Mischief (2020 c. by Into Mischief). Placed at 2 and 3, 2023, $30,000.
+Found Gen 3
 		<hip>378</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lark's Mischief</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Miss Besilu**</DamName>
-+    .  Minha Paixao (2018 f. by Curlin). Unraced. Dam of 1 foal--
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Minha Paixao</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**Miss Besilu**</DamName>
-+    .  **LULL** (2014 f. by War Front). 5 wins, 2 to 4, $992,157, in N.A./U.S., 1st Honey Fox S. **[G3]** (GP, $148,800), Autumn Miss S. **[G3]** (SA, $60,000), Kentucky Downs Ladies Sprint S. [L] (KD, $206,150), Exacta Systems Juvenile Fillies S. (KD, $206,490), 2nd San Clemente H. **[G2]** (DMR, $40,000), Kentucky Downs Ladies Sprint S. **[G3]** (KD, $87,300), JPMorgan Chase Jessamine S. **[G3]** (KEE, $30,000), Soaring Softly S. [L] (BEL, $20,000), 3rd Longines Just a Game S. **[G1]** (BEL, $70,000), Buffalo Trace Franklin County S. **[G3]** (KEE, $10,000); placed in 1 start at 4, $17,500, in Canada, 3rd Royal North S. **[G2]** (WO, $17,500). (Total: $1,005,562). Dam of 3 foals, 1 to race--
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**LULL**</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Quiet Now</DamName>
-+    .  .  Parkway (2020 c. by Quality Road). Placed at 2, 2022, $19,200.
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Parkway</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Island Shadows (2004 f. by Silver Charm). Unplaced, $383. Dam of 6 foals, 5 to race, 2 winners--
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Island Shadows</HorseName>
-		<HorseYOB>2004</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Quiet Broad</DamName>
-+    .  .  Windshadows (2009 g. by Star Dabbler). 3 wins, 2 to 4, $19,093.
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Windshadows</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Shadow Code (2011 c. by Desert Code). Winner at 4, $17,444.
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Shadow Code</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Hannah Got Even (2013 f. by Stephen Got Even). Placed at 3, $2,940. Dam of 2 foals, 1 to race--
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hannah Got Even</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  **BUSTER'S READY** (2008 f. by More Than Ready). 4 wins at 2 and 3, $354,884, 1st Mother Goose S. **[G1]** (BEL, $150,000), 2nd Black-Eyed Susan S. **[G2]** (PIM, $50,000), 3rd Out Ruled S. (AQU, $6,000). Sent from United States to France in 2013. Returned to United States from France in 2016. Died 2019. Dam of 5 foals, 5 to race, 1 winner--
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**BUSTER'S READY**</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Beatem Buster</DamName>
-+    .  .  Ready to Smile (2013 f. by Distorted Humor). Winner at 3, 11,600 Euro, in France. Sent from United States to France in 2014. (Total: $12,906). Dam of 3 foals, 2 to race, 2 winners--
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ready to Smile</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Strapped (2019 c. by Candy Ride (ARG)). Placed at 3, 2022, $28,200.
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Strapped</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Hallucinante (GB) (2015 f. by Dubawi (IRE)). Placed in 2 starts at 3, 8,750 Euro, in France. Sent from France to United States in 2020. (Total: $10,588). Dam of 2 foals, 1 to race, 1 winner--
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hallucinante</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Stand Up (GB) (2014 g. by Distorted Humor). Placed at 3, 1,350 Euro, in France. (Total: $1,471).
-		<hip>378</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Stand Up</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00378.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

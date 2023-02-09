@@ -3,59 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  **Enliven** (2016 f. by Ghostzapper). Winner at 2, $93,274, 2nd Tempted S. **[G3]** (AQU, $30,000). Dam of 2 foals--
-		<hip>582</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Enliven**</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**IT'S TRICKY**</DamName>
-+    .  Too Complicated (2014 f. by Medaglia d'Oro). Unraced. Dam of 3 foals, 1 to race, 1 winner--
-		<hip>582</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Too Complicated</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**IT'S TRICKY**</DamName>
-+    .  .  Tax Code (2019 g. by Speightstown). Winner at 3, 2022, $27,945.
-		<hip>582</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tax Code</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Big Birthday (2015 f. by Mineshaft). Winner at 3 and 4, $136,050. Dam of 3 foals--
-		<hip>582</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Big Birthday</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Jellicle</DamName>
-+    .  Demeter (2018 f. by Bernardini). Placed at 2, $4,888. Dam of 1 foal--
-		<hip>582</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Demeter</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Jellicle</DamName>
-+    .  Practical Cat (2017 f. by Bernardini). Unraced. Dam of 1 foal--
-		<hip>582</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Practical Cat</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Jellicle</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

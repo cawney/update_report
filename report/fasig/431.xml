@@ -3,30 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    Mark the Moose (2019 g. by Mark Valeski). Winner at 2, placed at 3, 2022, $42,220.
-		<hip>431</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mark the Moose</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>HOLIDAY KISS</DamDamName>
-		<SireName>i</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 39: +    Mark the Moose (2019 g. by Mark Valeski). Winner at 2, placed at 3, 2022, $42,220.
-Dam is in line 35:   HOLIDAY KISS, by Harlan's Holiday. Placed at 3, $6,169. Half-sister to **REQUEST FOR PAROLE** ($1,372,224, 1st United Nations S. **[G1]** (MTH, $450,000), etc., sire). Dam of 5 foals, 3 to race, 3 winners--
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

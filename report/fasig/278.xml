@@ -4,148 +4,53 @@
 <FasigTiptonUpdates>
 	<Update>
 +    **MISS HARD KNOCKS** (2019 f. by Mr Speaker). 4 wins at 3, placed at 4, 2023, $136,511, 1st Island Fashion S. (SUN, $45,000), Borderplex S. (SUN, $39,000).
+		Gen 2
 		<hip>278</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**MISS HARD KNOCKS**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>MISS HISSY FIT</DamDamName>
-		<SireName>r</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>MISS HISSY FIT</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 36: +    **MISS HARD KNOCKS** (2019 f. by Mr Speaker). 4 wins at 3, placed at 4, 2023, $136,511, 1st Island Fashion S. (SUN, $45,000), Borderplex S. (SUN, $39,000).
-Dam is in line 33:   MISS HISSY FIT, by Aldebaran. Unraced. Half-sister to **RHUBARB RED** ($83,820, 1st Mom's Command S. (SUF, $15,000), etc.), **Southey** ($125,846, 2nd Bourbonette Breeders' Cup S. [L] (TP, $30,000), etc.). Dam of 9 foals, 8 to race, 4 winners--
-+    .  Berkshire Hills (2010 f. by Posse). 9 wins, 3 to 7, $87,835. Died 2022. Dam of 1 foal--
-		<hip>278</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Berkshire Hills</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**RHUBARB RED**</DamName>
-+    .  Watertown (2004 f. by Monarchos). Winner at 3, $18,496. Sent from United States to Venezuela in 2011. Dam of 2 foals, 2 to race, 2 winners--
-		<hip>278</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Watertown</HorseName>
-		<HorseYOB>2004</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**RHUBARB RED**</DamName>
-+    .  .  Franks Reward (2009 g. by Grand Reward). 4 wins at 3, $32,486.
-		<hip>278</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Franks Reward</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Foxy Bear (2010 f. by Harlan's Holiday). Winner at 2, $13,380, in Canada. (Total: $13,475).
-		<hip>278</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Foxy Bear</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00278.htm</UpdateLink>
 +    .  **=Scotch and Soda (ARG)** (2016 c. by Luhuk). 7 wins, 2 to 6, 2022, 3,708,593 Pesos, in Argentina, 2nd Jockey Club de Venezuela [L]. (Total: $38,910).
+Found Gen 3
 		<hip>278</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**=Scotch and Soda</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>She's My Lady</DamName>
-+    .  .  =Endozing (ARG) (2019 c. by Endorsement). Winner at 3, 2022, 2,649,450 Pesos, in Argentina. (Total: $18,497).
-		<hip>278</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Endozing</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  =She Is Love (ARG) (2013 f. by Luhuk). Unraced in Argentina. Dam of 2 foals, 1 to race, 1 winner--
-		<hip>278</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=She Is Love</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>She's My Lady</DamName>
-+    .  .  =Naeroby (ARG) (2019 f. by Senor Candy). 2 wins in 4 starts at 3, 2022, 1,729,000 Pesos, in Argentina. (Total: $11,303).
-		<hip>278</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Naeroby</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  =She Is Cute (ARG) (2009 f. by Southern Halo). Unplaced in 1 start in Argentina. Dam of 6 foals, 3 to race, 2 winners--
-		<hip>278</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=She Is Cute</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>She's My Lady</DamName>
-+    .  .  =Esos Contornos (ARG) (2017 f. by Grand Reward). 2 wins at 4, 866,150 Pesos, in Argentina. (Total: $9,102).
-		<hip>278</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Esos Contornos</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Cute Smile (ARG) (2016 f. by Indy Point (ARG)). Winner at 3 and 4, 470,150 Pesos, in Argentina. (Total: $7,236).
-		<hip>278</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Cute Smile</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  =Her Elegance (ARG) (2014 f. by The Leopard). Unraced in Argentina. Dam of 1 foal--
-		<hip>278</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Her Elegance</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  =Maxima Reserva (ARG) (2018 f. by =Flesh for Fantasy (ARG)). Winner at 4, 2022, 1,591,415 Pesos, in Argentina. (Total: $12,370).
-		<hip>278</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Maxima Reserva</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Purpura</DamName>
-+    .  He's a Fine Man (2017 g. by Discreet Cat). Winner at 5, 2022, $8,079.
-		<hip>278</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>He's a Fine Man</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>She's a Fine Lady</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00278.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

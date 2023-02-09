@@ -4,56 +4,29 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  Economic Hangover (2019 f. by We Miss Artie). Winner at 3, 2022, $42,054.
+Found Gen 3
 		<hip>248</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Economic Hangover</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Dark Rain</DamName>
-+    .  Azzaro Steel (2018 g. by Strong Mandate). 3 wins at 3 and 4, 2022, $135,345.
-		<hip>248</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Azzaro Steel</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Propelleroneway</DamName>
-+    Catch That Song (2009 f. by Unbridled's Song). Unraced. Dam of 7 foals, 5 to race, 2 winners--
-		<hip>248</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Catch That Song</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamDamName>CATCH THE BLUE HAT</DamDamName>
-		<SireName>g</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 55: +    Catch That Song (2009 f. by Unbridled's Song). Unraced. Dam of 7 foals, 5 to race, 2 winners--
-Dam is in line 36:   CATCH THE BLUE HAT, by Storm Cat. Placed in 2 starts at 2 and 3, 7,900 Euro, in France. Sent from United States to France in 2004. Returned to United States from France in 2006. (Total: $9,832). Half-sister to **ANTONIUS PIUS** (Total: $563,776, 1st Anheuser-Busch Railway S. **[G2]**, etc., sire), **Songoficeandfire** ($156,600, 2nd Orchid S. **[G3]** (GP, $38,400), etc.). Dam of 10 foals, 8 to race, 4 winners--
-+    .  Itzel (2020 f. by Mo Town). Winner in 2 starts at 3, 2023, $29,400.
-		<hip>248</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Itzel</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Catch That Song</DamName>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00248.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

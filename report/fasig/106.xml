@@ -4,53 +4,29 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Byzantine (2019 f. by Pioneerof the Nile). Winner at 3, 2022, $53,243.
+		Gen 2
 		<hip>106</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Byzantine</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>**CRISTINA'S JOURNEY**</DamDamName>
-		<SireName>e</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>**CRISTINA'S JOURNEY**</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 36: +    Byzantine (2019 f. by Pioneerof the Nile). Winner at 3, 2022, $53,243.
-Dam is in line 33:   **CRISTINA'S JOURNEY**, by Any Given Saturday. 2 wins at 2, $171,768, 1st Pocahontas S. **[G2]** (CD, $136,059). Dam of 5 foals, 3 to race, 1 winner--
-+    Abbey Cakes (2020 f. by Carpe Diem). Placed in 2 starts at 3, 2023, $3,000.
-		<hip>106</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Abbey Cakes</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>**CRISTINA'S JOURNEY**</DamDamName>
-		<SireName>m</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
-		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 39: +    Abbey Cakes (2020 f. by Carpe Diem). Placed in 2 starts at 3, 2023, $3,000.
-Dam is in line 33:   **CRISTINA'S JOURNEY**, by Any Given Saturday. 2 wins at 2, $171,768, 1st Pocahontas S. **[G2]** (CD, $136,059). Dam of 5 foals, 3 to race, 1 winner--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00106.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

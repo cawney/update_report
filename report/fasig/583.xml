@@ -3,33 +3,30 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Caring Touch (2015 f. by Elusive Quality). Winner at 2, 5,598 Pounds, in England; unplaced in 1 start, 7,345 Dirhams, in United Arab Emirates. Sent from United States to Great Britain in 2016. (Total: $9,434). Dam of 3 foals--
-		<hip>583</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Caring Touch</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Blue Petrel</DamName>
-+    .  Crozet Islands (2014 f. by Medaglia d'Oro). Unraced. Sent from United States to Great Britain in 2015. Dam of 3 foals, 1 to race--
-		<hip>583</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Crozet Islands</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Blue Petrel</DamName>
 +    .  =Komachi (IRE) (2018 g. by =Kingman (GB)). Winner at 2, 9,888 Pounds, in England; placed at 3 and 4, 2022, $22,590(AUS), in Australia. (Total: $28,534).
+Found Gen 3
 		<hip>583</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Komachi</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Kamakura</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00583.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

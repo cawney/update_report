@@ -4,294 +4,149 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Winooski (2020 g. by Midnight Lute). Placed at 2, 2022, $14,310.
+		Gen 2
 		<hip>40</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Winooski</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamDamName>BEEP BEEP BIRDIE</DamDamName>
-		<SireName>e</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>BEEP BEEP BIRDIE</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 38: +    Winooski (2020 g. by Midnight Lute). Placed at 2, 2022, $14,310.
-Dam is in line 34:   BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-sister to **CHANGING WORLD** ($394,749, 1st Violet H. **[G3]** (MED, $120,000), etc.), **STAR CHANNEL** ($411,941, 1st Dayton Andrews Dodge Sophomore Turf S.-R (TAM, $45,000), etc.), **Our Exploit** ($111,930, 2nd Frances A. Genter S. [L] (CRC, $20,000), etc.). Dam of 5 foals, 3 to race, 1 winner--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00040.htm</UpdateLink>
 +    Tactical Force (2019 g. by Tapiture). Placed at 3, 2022, $5,750.
+		Gen 2
 		<hip>40</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tactical Force</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamDamName>BEEP BEEP BIRDIE</DamDamName>
-		<SireName>e</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName>BEEP BEEP BIRDIE</DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 42: +    Tactical Force (2019 g. by Tapiture). Placed at 3, 2022, $5,750.
-Dam is in line 34:   BEEP BEEP BIRDIE, by Birdstone. Placed at 3, $4,710. Half-sister to **CHANGING WORLD** ($394,749, 1st Violet H. **[G3]** (MED, $120,000), etc.), **STAR CHANNEL** ($411,941, 1st Dayton Andrews Dodge Sophomore Turf S.-R (TAM, $45,000), etc.), **Our Exploit** ($111,930, 2nd Frances A. Genter S. [L] (CRC, $20,000), etc.). Dam of 5 foals, 3 to race, 1 winner--
-+    .  Granny Ramsey (2007 f. by Empire Maker). 3 wins in 6 starts at 3 and 4, $31,238. Dam of 7 foals, 6 to race, 3 winners--
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Granny Ramsey</HorseName>
-		<HorseYOB>2007</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**CHANGING WORLD**</DamName>
-+    .  .  Kentucky Kitten (2015 c. by Kitten's Joy). 4 wins, 2 to 5, $40,526.
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kentucky Kitten</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Kitten for Granny (2013 g. by Kitten's Joy). 4 wins at 4 and 6, $39,088.
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kitten for Granny</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Granny Makes Cents (2019 c. by Goldencents). Winner at 2, placed at 3, 2022, $20,750. Died 2022.
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Granny Makes Cents</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Change At the Top (2016 c. by Kitten's Joy). Placed at 2 and 3, $30,120, in Canada. (Total: $22,668).
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Change At the Top</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Kitten's Matriarch (2014 f. by Kitten's Joy). Placed at 3, $1,361. Dam of 2 foals, 1 to race, 1 winner--
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Kitten's Matriarch</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Allez Allez (2016 f. by Revolutionary). Winner at 3, $26,798. Dam of 1 foal--
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Allez Allez</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**CHANGING WORLD**</DamName>
-+    .  Lateen (2010 f. by Henrythenavigator). Winner at 5, $11,730. Dam of 5 foals, 3 to race, 1 winner--
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lateen</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**CHANGING WORLD**</DamName>
-+    .  .  Great Winner (2017 c. by Karakontie (JPN)). 2 wins at 2 in Russia. Sent from United States to Russia in 2018.
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Great Winner</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Le Griffon (2020 c. by Treasure Beach (GB)). Placed in 2 starts at 2, 2022, $7,000.
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Le Griffon</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Zartaj (2018 f. by Karakontie (JPN)). Placed at 3, 2,316 Pounds, in England. Sent from United States to Ireland in 2019. (Total: $3,188).
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Zartaj</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  A Change for Anna (2017 f. by Fast Anna). Unraced. Sent from United States to Jamaica in 2021. Dam of 1 foal--
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>A Change for Anna</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>**CHANGING WORLD**</DamName>
-+    .  Changing Fortunes (2015 f. by Cape Blanco (IRE)). Unraced. Dam of 3 foals, 1 to race, 1 winner--
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Changing Fortunes</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>**CHANGING WORLD**</DamName>
-+    .  .  Duke of Fenway (2019 c. by He's Had Enough). Winner at 3, 2022, $27,959.
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Duke of Fenway</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Worldly Heiress (2012 f. by Wildcat Heir). Unraced. Dam of 6 foals, 4 to race, 3 winners--
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Worldly Heiress</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**CHANGING WORLD**</DamName>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00040.htm</UpdateLink>
 +    .  .  Henry's World (2017 g. by Soldat). 7 wins, 2 to 5, 2022, $211,825.
+Found Gen 4
 		<hip>40</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Henry's World</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00040.htm</UpdateLink>
 +    .  .  Ensign Parker (2018 g. by Soldat). Winner at 2 and 3, placed at 4, 2022, $112,690.
+Found Gen 4
 		<hip>40</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ensign Parker</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Heir to Greatness (2019 c. by Lemon Drop Kid). Winner at 4, 2023, $29,459.
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Heir to Greatness</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00040.htm</UpdateLink>
 +    .  .  Where Ya Goin Owen (2017 g. by Khozan). 3 wins at 2 and 4, placed at 5, 2022, $80,624.
+Found Gen 4
 		<hip>40</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Where Ya Goin Owen</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00040.htm</UpdateLink>
 +    .  .  Distinct Flirt (2016 f. by With Distinction). 5 wins, 2 to 5, placed at 6, 2022, $69,413.
+Found Gen 4
 		<hip>40</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Distinct Flirt</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Bank On Jon (2014 g. by Factum). Winner at 2, $30,845, in N.A./U.S.; placed at 4, $5,189, in Canada. (Total: $34,790).
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bank On Jon</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  High Flirt (2013 c. by High Cotton). Winner at 3 in Panama. Sent from United States to Panama in 2014.
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>High Flirt</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Laveau (2019 f. by Cajun Breeze). Placed at 3, 2022, $19,330.
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Laveau</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Our Kitten (2008 f. by Kitten's Joy). 2 wins at 5, $23,977. Dam of 2 foals, 2 to race, 1 winner--
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Our Kitten</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Our Exploit**</DamName>
-+    .  .  Wonder Blondy (2017 f. by He's Had Enough). 6 wins at 3 and 4, $116,814.
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Wonder Blondy</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Harbor the Dream (2011 f. by Rockport Harbor). Winner at 3, $19,220. Sent from United States to Jamaica in 2016. Dam of 2 foals, 1 to race, 1 winner--
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Harbor the Dream</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Our Exploit**</DamName>
-+    .  .  =Enuffisenuff (JAM) (2016 g. by He's Had Enough). 5 wins at 3 and 4 in Jamaica.
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Enuffisenuff</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Arch Criminal (2009 f. by Arch). Winner at 3, $16,668. Dam of 1 foal, 1 to race--
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Arch Criminal</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Our Exploit**</DamName>
-+    .  .  Clever Criminal (2016 f. by Yes It's True). Placed at 3, $5,325.
-		<hip>40</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Clever Criminal</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00040.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

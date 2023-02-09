@@ -3,261 +3,78 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  .  Nonna Bella (2014 f. by Stay Thirsty). 2 wins at 3, $63,875. Dam of 4 foals--
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Nonna Bella</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Heavenly Vision (2006 f. by Forestry). 3 wins at 2 and 3, $85,544. Dam of 9 foals, 5 to race, 5 winners--
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Heavenly Vision</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**HOLY BUBBETTE**</DamName>
 +    .  .  Ruler of the Nile (2015 g. by Pioneerof the Nile). 14 wins, 3 to 7, 2022, $321,829.
+Found Gen 4
 		<hip>317</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ruler of the Nile</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  High Promise (2014 g. by Broken Vow). 2 wins at 4, $193,194.
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>High Promise</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Higher Authority (2016 g. by Bernardini). 6 wins, 4 to 7, 2023, $129,899.
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Higher Authority</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Lady Fatima (2017 f. by Bodemeister). Winner at 2, $91,270, in N.A./U.S.; winner in 2 starts at 2, $41,500, in Canada. (Total: $122,715).
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lady Fatima</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Zensational Vision (2011 g. by Zensational). Winner at 4 and 5, $35,349.
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Zensational Vision</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    **Ms Louisett** (1999 f. by Siphon (BRZ)). 2 wins at 3, $132,163, 3rd Oak Leaf S. **[G1]**. Dam of 12 foals, 12 to race, 10 winners--
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Ms Louisett**</HorseName>
-		<HorseYOB>1999</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>JULIAC</DamDamName>
-		<SireName>Z</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 61: +    **Ms Louisett** (1999 f. by Siphon (BRZ)). 2 wins at 3, $132,163, 3rd Oak Leaf S. **[G1]**. Dam of 12 foals, 12 to race, 10 winners--
-Dam is in line 37:   JULIAC, by Accipiter. Unplaced in 1 start. Half-sister to **MARAUDING** ($119,315, 1st Oil Capitol H.**-G3**, etc., sire), **Miss Megan** ($56,067, 2nd Miss East St. Louis S., etc.). Dam of 17 foals, 15 to race, 9 winners--
-+    .  **Surmount** (2008 f. by Speightstown). Winner at 2 and 3, $75,694, 2nd Mountaineer Juvenile Fillies S. [L] (MNR, $17,000). Sent from United States to Mexico in 2014. Dam of 8 foals, 7 to race, 6 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00317.htm</UpdateLink>
++    .  .  Higher Authority (2016 g. by Bernardini). 6 wins, 4 to 7, 2023, $129,899.
+Found Gen 4
 		<hip>317</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Surmount**</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Ms Louisett**</DamName>
-+    .  .  Jilotepec (2014 c. by Into Mischief). 3 wins at 2 and 3, $54,497, in N.A./U.S.; 3 wins at 4 and 7 in Mexico. Sent from United States to Mexico in 2018. (Total: $54,497).
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Jilotepec</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Intacto (2013 c. by Tiz Wonderful). Winner at 3, $28,888, in N.A./U.S.; 9 wins, 4 to 9, 2022 in Mexico. Sent from USA and Canada to Mexico in 2013. (Total: $28,888).
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Intacto</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  Chickasaw Gal (2009 f. by Indian Charlie). Winner in 2 starts at 3, $13,948. Dam of 8 foals, 5 to race, 3 winners--
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Chickasaw Gal</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**Ms Louisett**</DamName>
+		<HorseName></HorseName>
+		<HorseYOB>2016</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00317.htm</UpdateLink>
 +    .  .  **GREAT ESCAPE** (2019 c. by Midnight Storm). Winner at 2, placed at 4, 2023, $182,790, in N.A./U.S., 3rd Zia Park Derby [L] (ZIA, $25,000); winner at 3, 2022, $147,540, in Canada, 1st Canadian Derby **[G3]**-ntr, 1 1/4 miles in 2:01.35 (CTM, $120,000), 2nd Manitoba Derby [L] (ASD, $20,400). (Total: $296,586).
+Found Gen 4
 		<hip>317</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**GREAT ESCAPE**</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Stomp Dance (2015 g. by Eskendereya). 5 wins at 3 and 4, $121,546.
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Stomp Dance</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Little Lion Girl (2017 f. by Imagining). Winner at 2, $45,080.
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Little Lion Girl</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Pineapple (2010 f. by Forestry). 7 wins, 2 to 5, $60,136, in Canada. (Total: $56,886). Dam of 1 foal, 1 to race--
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Pineapple</HorseName>
-		<HorseYOB>2010</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**Ms Louisett**</DamName>
-+    .  Bear's True Gal (2006 f. by Yes It's True). 2 wins at 3, $17,628, in Canada. (Total: $15,989). Dam of 5 foals, 3 to race, 1 winner--
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bear's True Gal</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Ms Louisett**</DamName>
-+    .  .  Bear Force (2019 g. by Airoforce). Winner at 3, 2022, $24,945.
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bear Force</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Bearslittlewhisper (2014 f. by Teide). Placed at 3, $5,450, in Canada. (Total: $4,183). Died 2017.
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bearslittlewhisper</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Mr. Commish (2019 g. by Commissioner). Winner at 3, 2022, $15,320, in Canada; unplaced, $1,321, in N.A./U.S. (Total: $12,720).
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mr. Commish</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Ms Louisett**</DamName>
-+    .  .  =Ho O Sumiyoshi (JPN) (2019 c. by =Matsurida Gogh (JPN)). Winner at 3, 2022, 5,200,000 Yen, in Japan. (Total: $42,445).
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Ho O Sumiyoshi</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  =Ho O Navigator (JPN) (2018 c. by =Matsurida Gogh (JPN)). Winner at 3, 585,000 Yen, in Japan. (Total: $5,146).
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Ho O Navigator</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Tanya Darling (1998 f. by Devil On Ice). Winner at 2, $26,520. Dam of 8 foals, 7 to race, 5 winners--
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tanya Darling</HorseName>
-		<HorseYOB>1998</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Temper Tantrum</DamName>
-+    .  .  Tanya's Toad (2003 g. by Ihtimam). 9 wins, 3 to 11, $25,518, in N.A./U.S. Set tre at Kalispell, 2 furlongs in 0:23.00 (08/22/10); 8 wins, 5 to 8, $27,927, in Canada. Set ntr at Kamloops, about 6 1/2 furlongs in 1:16.41 (08/15/09). (Total: $51,947).
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tanya's Toad</HorseName>
-		<HorseYOB>2003</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Trygve's Besst (2012 g. by Parker's Storm Cat). 2 wins at 4, $21,766.
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Trygve's Besst</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  She's Only a Dream (2008 f. by Cahill Road). 4 wins at 3 and 4, $20,005. Dam of 1 foal, 1 to race--
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>She's Only a Dream</HorseName>
-		<HorseYOB>2008</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Betting On Dr Bow (2014 g. by War Power). 2 wins at 3, $9,225.
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Betting On Dr Bow</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Tuff Toad (2006 f. by Delineator). Winner at 3, $5,083.
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Tuff Toad</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Toadally Toad (2002 g. by Muqtarib). Placed at 4, $1,013.
-		<hip>317</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Toadally Toad</HorseName>
-		<HorseYOB>2002</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00317.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

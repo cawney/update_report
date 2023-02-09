@@ -3,118 +3,78 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  =Zultanite (TUR) (2015 f. by Denman (AUS)). Unraced in Turkey. Dam of 2 foals--
-		<hip>329</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Zultanite</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Cindys Vindication</DamName>
-+    .  Heroic Invasion (2009 f. by Invasor (ARG)). Unraced. Dam of 4 foals, 3 to race, 2 winners--
-		<hip>329</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Heroic Invasion</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Deputy's Hero</DamName>
 +    .  .  Discreet Invasion (2015 g. by Discreet Cat). 6 wins, 4 to 6, placed at 7, 2022, $162,069.
+Found Gen 4
 		<hip>329</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Discreet Invasion</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2015</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Herowinsthespoils (2013 f. by Midshipman). 3 wins at 3 and 5, $10,853.
-		<hip>329</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Herowinsthespoils</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Huachicol (2017 c. by Animal Kingdom). 7 wins in 11 starts, 3 to 5, 2022 in Mexico. Sent from USA and Canada to Mexico in 2018.
-		<hip>329</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Huachicol</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Oursaturdayspecial</DamName>
-+    .  Elusive Getaway (2016 f. by Elusive Quality). Placed at 3, $3,930, in N.A./U.S.; unplaced in 1 start, $400, in Canada. (Total: $4,230). Dam of 2 foals--
-		<hip>329</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Elusive Getaway</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Oursaturdayspecial</DamName>
-+    Awesome Bella (2009 f. by Awesome Again). Unraced. Dam of 8 foals, 5 to race, 3 winners--
-		<hip>329</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Awesome Bella</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>CINDAZANNO</DamDamName>
-		<SireName>n</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 91: +    Awesome Bella (2009 f. by Awesome Again). Unraced. Dam of 8 foals, 5 to race, 3 winners--
-Dam is in line 65:   CINDAZANNO, by Alleged. Winner at 4, $48,451. Died 2010. Half-sister to **ALL GLORY** (Champion older mare in Chile (2004), 1st Carlos Allende Navarro **[G2]**, etc.). Dam of 13 foals, 8 to race, 4 winners--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00329.htm</UpdateLink>
 +    .  Midnight Bella (2017 f. by Midnight Lute). 7 wins, 4 to 6, 2023, $166,229.
+Found Gen 3
 		<hip>329</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Midnight Bella</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Awesome Bella</DamName>
-+    .  Scat's Empire (2013 f. by Scat Daddy). Winner at 3, $23,290. Dam of 3 foals--
-		<hip>329</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Scat's Empire</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Unbridled Empire</DamName>
-+    .  Eve Harrington (2016 f. by Flatter). Winner at 3, 5,448 Pounds, in England; unplaced in 1 start, $730, in N.A./U.S. Sent from United States to Great Britain in 2017. Returned to United States from Great Britain in 2019. (Total: $7,736). Dam of 1 foal--
-		<hip>329</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Eve Harrington</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Unbridled Empire</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00329.htm</UpdateLink>
 +    .  Rrace Day Warrior (2018 g. by Race Day). 3 wins, 2 to 4, 2022, $108,280.
+Found Gen 3
 		<hip>329</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Rrace Day Warrior</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Causin a Storm</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00329.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

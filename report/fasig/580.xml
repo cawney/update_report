@@ -3,50 +3,6 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  =Murasaki (GB) (2015 f. by Dubawi (IRE)). Winner at 3, 12,600 Euro, in France; unplaced in 2 starts in England. (Total: $14,628). Dam of 3 foals, 1 to race--
-		<hip>580</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Murasaki</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**MICHITA**</DamName>
-+    .  Charged (2014 f. by Elusive Quality). 4 wins at 3 and 4, $111,151. Dam of 2 foals--
-		<hip>580</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Charged</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**Kiawah Cat**</DamName>
-+    .  .  Abe Honestly (2018 g. by Pharaoh Bob). Winner at 3, placed at 4, 2022, $39,960.
-		<hip>580</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Abe Honestly</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Magnetism (2018 f. by Street Boss). Winner in 2 starts at 2, $35,600. Dam of 1 foal--
-		<hip>580</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Magnetism</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Kahraba</DamName>
-+    .  Reflected (2016 f. by Elusive Quality). Winner at 2, $25,361. Dam of 2 foals--
-		<hip>580</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Reflected</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>Kahraba</DamName>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

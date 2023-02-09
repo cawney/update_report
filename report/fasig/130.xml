@@ -3,202 +3,174 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  Mardi Gras (2016 f. by Tiznow). Winner at 3, $20,650. Dam of 2 foals--
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mardi Gras</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**SPRING PARTY**</DamName>
-+    .  Julia's Music (2013 f. by Unbridled's Song). Unplaced in 2 starts, $3,400. Sent from United States to Australia in 2017. Returned to United States from Australia in 2022. Dam of 4 foals, 3 to race, 2 winners--
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Julia's Music</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**SPRING PARTY**</DamName>
-+    .  .  =Choir Boy (AUS) (2018 g. by =Divine Prophet (AUS)). 5 wins at 2 and 3, $132,490(AUS), in Australia. (Total: $96,059).
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Choir Boy</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
 +    .  .  =Altar Boy (AUS) (2019 g. by =The Mission (AUS)). 2 wins at 2, placed at 3, 2022, $87,950(AUS), in Australia. Racing in Australia as Altar Boy. (Total: $62,298).
+Found Gen 4
 		<hip>130</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Altar Boy</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =The Bishop (AUS) (2020 g. by =Performer (AUS)). Placed in 2 starts at 2, 2022, $6,600(AUS), in Australia. (Total: $4,510).
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=The Bishop</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Sassy Sadie (2014 f. by Malibu Moon). Unplaced in 1 start, $380. Dam of 5 foals, 2 to race, 1 winner--
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Sassy Sadie</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**SPRING PARTY**</DamName>
-+    .  .  Lindros (2018 g. by Liam's Map). 2 wins at 4, 2022, $60,240.
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lindros</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Simply Complicated (2019 f. by Overanalyze). Placed, 2 to 4, 2023, $20,860.
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Simply Complicated</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  **JACARANDA** (2012 f. by Congrats). 2 wins at 2, $207,200, 1st Tempted S. **[G3]** (AQU, $150,000). Dam of 6 foals, 2 to race, 1 winner--
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**JACARANDA**</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**Baffled**</DamName>
-+    .  .  **American West** (2018 f. by Curlin). Winner at 2, $56,038, 2nd Tempted S. [L] (AQU, $20,000). Dam of 1 foal--
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**American West**</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Constitutional Law (2018 c. by Tapit). Winner at 4, 2022, $84,319.
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Constitutional Law</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>**Baffled**</DamName>
-+    .  Benvenutta (2017 f. by Tapit). Unraced. Dam of 2 foals--
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Benvenutta</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**Baffled**</DamName>
-+    .  Baffling (2015 f. by Graydar). Unraced. Dam of 4 foals, 2 to race, 1 winner--
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Baffling</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamName>**Baffled**</DamName>
-+    .  .  Lady Baffled (2019 f. by Frosted). Winner at 2 and 3, 2022, $82,747.
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lady Baffled</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Lake Local (2016 f. by Street Boss). 3 wins in 6 starts, 2 to 4, $82,084. Dam of 1 foal--
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lake Local</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>White Waves</DamName>
-+    .  **Doc Amster** (2017 c. by Midshipman). 6 wins, 3 to 5, 2022, $208,080, 3rd Parx Dash S. (PRX, $19,300).
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Doc Amster**</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Gabeira</DamName>
-+    .  **Degree of Risk** (2019 g. by Cairo Prince). Winner at 2, placed at 3, 2022, $65,740, in N.A./U.S., 2nd Gold Rush S. (GG, $15,000), 3rd Qatar Golden Mile S. (DMR, $18,000); placed in 2 starts at 2, $65,000, in Canada, 2nd Soaring Free S. [L] (WO, $25,000), 3rd Summer S. **[G1]** (WO, $40,000). (Total: $116,552).
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Degree of Risk**</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>Wipe Out</DamName>
-+    .  Start Over (2016 f. by Midshipman). Unraced. Died 2020. Dam of 1 foal, 1 to race, 1 winner--
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Start Over</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Wipe Out</DamName>
-+    .  .  New York Thunder (2020 c. by Nyquist). 2 wins in 2 starts at 2, 2022, $67,200. Sent from United States to Ireland in 2021. Returned to United States from Great Britain in 2022.
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>New York Thunder</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    Alana B. (2015 f. by Animal Kingdom). Unraced. Dam of 1 foal, 1 to race, 1 winner--
-		<hip>130</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Alana B.</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>f</HorseSex>
-		<DamDamName>SURF CLUB</DamDamName>
-		<SireName>m</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 106: +    Alana B. (2015 f. by Animal Kingdom). Unraced. Dam of 1 foal, 1 to race, 1 winner--
-Dam is in line 39:   SURF CLUB, by Ocean Crest. 6 wins, 2 to 4, $114,397. Died 2022. Half-sister to **AWESOME HUMOR** ($848,950, 1st Spinaway S. **[G1]** (SAR, $120,000), etc.), **Dignified Donovan** ($459,483, 2nd San Juan County Commissioner's H. [L] (SRP, $16,500)). Dam of 13 foals, 10 to race, 9 winners--
-+    .  **Ironsides** (2020 g. by Midshipman). Winner at 3, 2023, $50,663, 3rd Leonatus S. (TP, $12,180).
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00130.htm</UpdateLink>
++    .  .  Lindros (2018 g. by Liam's Map). 2 wins at 4, 2022, $60,240.
+Found Gen 4
 		<hip>130</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**Ironsides**</HorseName>
+		<HorseName></HorseName>
+		<HorseYOB>2018</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00130.htm</UpdateLink>
++    .  Constitutional Law (2018 c. by Tapit). Winner at 4, 2022, $84,319.
+Found Gen 3
+		<hip>130</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName></HorseName>
+		<HorseYOB>2018</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00130.htm</UpdateLink>
++    .  .  Lady Baffled (2019 f. by Frosted). Winner at 2 and 3, 2022, $82,747.
+Found Gen 4
+		<hip>130</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName></HorseName>
+		<HorseYOB>2019</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00130.htm</UpdateLink>
++    .  **Doc Amster** (2017 c. by Midshipman). 6 wins, 3 to 5, 2022, $208,080, 3rd Parx Dash S. (PRX, $19,300).
+Found Gen 3
+		<hip>130</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName></HorseName>
+		<HorseYOB>2017</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00130.htm</UpdateLink>
++    .  .  New York Thunder (2020 c. by Nyquist). 2 wins in 2 starts at 2, 2022, $67,200. Sent from United States to Ireland in 2021. Returned to United States from Great Britain in 2022.
+Found Gen 4
+		<hip>130</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName></HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Alana B.</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00130.htm</UpdateLink>
++    .  **Ironsides** (2020 g. by Midshipman). Winner at 3, 2023, $50,663, 3rd Leonatus S. (TP, $12,180).
+Found Gen 3
+		<hip>130</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName></HorseName>
+		<HorseYOB>2020</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00130.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -3,274 +3,102 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
-+    .  .  =Dark Moonlight (IRE) (2017 g. by =Kodiac (GB)). 2 wins at 4 in Jersey; unplaced in England.
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Dark Moonlight</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  =Campeao (IRE) (2018 g. by =Acclamation (GB)). Placed at 2, 2,428 Pounds, in England; placed at 3, $18,379(AUS), in Australia. (Total: $16,264).
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>=Campeao</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Her Latest Film (2015 f. by War Front). Placed at 3, $37,629. Sent from United States to Turkey in 2021. Dam of 2 foals, 1 to race--
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Her Latest Film</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**FILM MAKER**</DamName>
-+    .  Miss Maker (2014 f. by Distorted Humor). Unplaced, $1,359. Sent from United States to Turkey in 2020. Dam of 2 foals, 1 to race, 1 winner--
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Miss Maker</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>**FILM MAKER**</DamName>
 +    .  .  Ready to Film (2019 f. by Noble Bird). 3 wins at 2 and 3, placed at 4, 2023, $62,880.
+Found Gen 4
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ready to Film</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  Parasol (2017 f. by Pioneerof the Nile). Unraced. Dam of 1 foal--
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Parasol</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Six Queens</DamName>
-+    .  Rock Song Five (2009 f. by Rock Hard Ten). 2 wins at 3, $32,500. Dam of 1 foal, 1 to race--
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Rock Song Five</HorseName>
-		<HorseYOB>2009</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Sazerac Song</DamName>
-+    .  Cactus Cocktail (2012 f. by Cactus Ridge). Winner at 3, $23,200. Dam of 2 foals, 2 to race, 2 winners--
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cactus Cocktail</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>c</HorseSex>
-		<DamName>Sazerac Song</DamName>
-+    .  .  Lichita (2018 f. by Cinco Charlie). 4 wins, 2 to 5, 2023, $92,116.
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Lichita</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Cash Customer (2019 g. by Cinco Charlie). Winner at 3, 2022, $18,744.
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Cash Customer</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  I'm the Truth (2006 f. by Yes It's True). Placed at 3, $10,327. Dam of 4 foals, 3 to race, 1 winner--
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>I'm the Truth</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Sazerac Song</DamName>
-+    .  .  Fearless Star (2012 f. by Star Cat). Winner at 4, $21,680.
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Fearless Star</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Bud Dee Love (2013 g. by Munnings). Placed at 3, $14,047.
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Bud Dee Love</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  Dyna Star (2012 f. by Harlan's Holiday). 2 wins at 4, $38,321. Dam of 3 foals--
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Dyna Star</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Cocktail Hour</DamName>
-+    .  Broadway Bella (2011 f. by English Channel). Winner at 3 and 4, $12,376, in Canada; unplaced, $2,470, in N.A./U.S. (Total: $12,935). Dam of 2 foals, 2 to race, 2 winners--
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Broadway Bella</HorseName>
-		<HorseYOB>2011</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>South Ocean Blvd</DamName>
-+    .  .  Nevvare (2018 g. by Boadini). 3 wins at 3 and 4, 2022, $34,920, in Canada. (Total: $27,484).
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Nevvare</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  Carrera Caballo (2020 g. by Car Talk (IRE)). Winner in 2 starts at 2, 2022, $11,000, in Canada. (Total: $8,442).
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Carrera Caballo</HorseName>
-		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  .  **DYNATAIL** (2014 f. by Hightail). 8 wins, 2 to 5, $546,475, 1st Penn Oaks [L] (PEN, $113,600), Susquehanna S. (PEN, $60,000), Salvatore M. Debunda PTHA President's Cup S. (PRX, $57,300), OBS Championship S.-R (OTC, $60,140), 2nd Hall of Fame S. (PRX, $20,000), 3rd Hilltop S. (PIM, $10,000). Dam of 2 foals--
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>**DYNATAIL**</HorseName>
-		<HorseYOB>2014</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Hackberry (2016 c. by English Channel). Winner at 3, $81,470.
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Hackberry</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>c</HorseSex>
-+    .  .  Zawadi (2017 f. by Red Rocks (IRE)). Winner at 4 and 5, 2022, $28,579.
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Zawadi</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  .  Justawildone (2015 g. by Snapy Halo (ARG)). Winner at 3, $10,338.
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Justawildone</HorseName>
-		<HorseYOB>2015</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Speed Chess (2019 f. by Dialed In). Placed in 1 start at 3, 2022, $3,400, in N.A./U.S.; placed at 3, 2022, $22,738, in Canada. (Total: $20,949).
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Speed Chess</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>f</HorseSex>
-+    .  English Tea (2012 f. by English Channel). Unplaced, $236. Dam of 4 foals, 2 to race, 1 winner--
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>English Tea</HorseName>
-		<HorseYOB>2012</HorseYOB>
-		<HorseSex>g</HorseSex>
-		<DamName>South Ocean Blvd</DamName>
-+    .  .  Americainaed (2018 g. by Americain). Winner at 3, placed at 4, 2022, $27,839.
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Americainaed</HorseName>
-		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    Weekend Prospect (2006 f. by A.P. Indy). Placed at 2, $9,830, in N.A./U.S.; unplaced, $5,160, in Canada. (Total: $14,601). Dam of 10 foals, 6 to race, 4 winners--
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Weekend Prospect</HorseName>
-		<HorseYOB>2006</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamDamName>MISS DU BOIS</DamDamName>
-		<SireName>y</SireName>
-		<OfficalPosition>3</OfficalPosition>
-		<RaceNumber>2</RaceNumber>
-		<RaceType>MCL</RaceType>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
 		<Grade></Grade>
-		<RaceDate>20200606</RaceDate>
-		<TrackName>CHURCHILL DOWNS</TrackName>
-		<UpdPosition>2</UpdPosition>
-		<Generation>2</Generation>
-		<Earnings>$2,200</Earnings>
-		<BlackType>N</BlackType>
-		<WhiteType>Y</WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00003.htm</UpdateLink>
-update on line 118: +    Weekend Prospect (2006 f. by A.P. Indy). Placed at 2, $9,830, in N.A./U.S.; unplaced, $5,160, in Canada. (Total: $14,601). Dam of 10 foals, 6 to race, 4 winners--
-Dam is in line 40:   MISS DU BOIS, by Mr. Prospector. Placed, 3 to 5, $25,535. Dam of 12 foals, 9 to race, 6 winners--
-+    .  Ox's Prospect (2016 f. by Oxbow). Unraced. Dam of 1 foal--
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00047.htm</UpdateLink>
++    .  .  Lichita (2018 f. by Cinco Charlie). 4 wins, 2 to 5, 2023, $92,116.
+Found Gen 4
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Ox's Prospect</HorseName>
-		<HorseYOB>2016</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Weekend Prospect</DamName>
-+    .  Mairsil (2013 f. by English Channel). Unplaced in 2 starts, $970. Dam of 3 foals, 2 to race, 2 winners--
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mairsil</HorseName>
-		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Weekend Prospect</DamName>
-+    .  .  Haloo (2019 g. by Producer (GB)). Winner at 3, 2022, $52,460.
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Haloo</HorseName>
-		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
-+    .  .  Mairsils First (2018 f. by Big Blue Kitten). Winner at 3, $21,860.
-		<hip>47</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Mairsils First</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
-+    .  Summer Cat (2019 f. by Summer Front). 3 wins at 3 and 4, 2023, $52,385.
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00047.htm</UpdateLink>
++    .  .  Haloo (2019 g. by Producer (GB)). Winner at 3, 2022, $52,460.
+Found Gen 4
 		<hip>47</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>Summer Cat</HorseName>
+		<HorseName></HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
-		<DamName>Fast and Loose</DamName>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00047.htm</UpdateLink>
++    .  Summer Cat (2019 f. by Summer Front). 3 wins at 3 and 4, 2023, $52,385.
+Found Gen 3
+		<hip>47</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName></HorseName>
+		<HorseYOB>2019</HorseYOB>
+		<HorseSex></HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName></SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00047.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>
