@@ -489,6 +489,110 @@ def main():
         n += 1
 
 
+    def get_markdown(file_name, horse, report_name):
+        """reads through a file and finds the lines that starts with a + and then prints them"""
+        f = open(f"{file_name}", 'r')
+        f2 = open(f"{report_name}", 'a')
+        
+        lines = f.readlines()
+        f.close()
+        gen1 = get_generation(file_name)[0]
+        gen2 = get_generation(file_name)[1]
+        gen3 = get_generation(file_name)[2]
+        gen4 = get_generation(file_name)[3]
+        i = 0
+        n = 0
+        the_strings = get_update_strings(lines)[0]
+        the_numbers = get_update_strings(lines)[1]
+        
+        # for line, string in zip(lines, the_strings):
+            # if i <= 20:
+            #     pass
+            # elif line.startswith('-'):
+            #     pass
+            # elif line.startswith('+'):
+        print("Horse number ", horse)
+        print("The strings ", the_strings)
+        print("The numbers ", the_numbers)
+        # f2.writelines(f"# Kentucky Winter Mixed Updates\n")
+        if len(the_strings) == 0: # If there are no updates, then don't make an xml file
+            pass
+        else:
+            # f2 = open(f"{p_report}/fasig/{horse}.xml", 'w')
+            f2.write(f"# Hip: {horse}\n\n")
+            for line, string in zip(the_numbers, the_strings):
+                # print(string)
+                if string in lines:
+                    # print("Found string", string, "in line", lines[line])
+                    f2.writelines(string)
+                    name_string = ''
+                    horse_yob = ''
+                    horse_sex = ''
+                    dam_name = ''
+                    dam_dam_name = ''
+                    sire_name = ''
+                    position = ''
+                    generation = ''
+                    earnings = ''
+                    bt = ''
+                    wt = ''
+                    # if 'RACE RECORD' in string:
+                    #     print("Butt")
+                    if line in gen1:
+                        name_string = get_names(string, 1)
+                        horse_sex = 'f'
+                        generation = 'Primary'
+                    elif line in gen2:
+                        dam_name = get_names(lines[get_closest(line, gen1)], 1)
+                        generation = '1'
+                        # f2.write(f"\t\t<DamDamName>{get_names(lines[get_closest(line, gen1)], 1)}</DamDamName>\n")
+                    elif line in gen3:
+                        dam_name = get_names(lines[get_closest(line, gen2)], 3)
+                        dam_dam_name = get_names(lines[get_closest(line, gen1)], 1)
+                        generation = '2'
+                    elif line in gen4:
+                        dam_name = get_names(lines[get_closest(line, gen3)], 4)
+                        generation = '3'
+                    else:
+                        pass
+                    name_string = re_name.search(string).group(1)
+                    horse_yob = re_yob.search(string)
+                    if horse_yob:
+                        horse_yob = horse_yob.group(1)
+                    if re_sex.search(string):
+                        horse_sex = re_sex.search(string).group(1)
+                    sire_name = re_sire.search(string)
+                    # earnings = re_money.search(line).group('money')
+                    if sire_name:
+                        sire_name = sire_name.group(1)
+                        sire_name = re.sub(r'by ', '', sire_name)
+                    if re_black_type.search(string):
+                        bt = 'Y'
+                        wt = 'N'
+                    else:
+                        bt = 'N'
+                        wt = 'Y'
+                    if re_money.search(string):
+                        if re_preferred_money.search(string):
+                            earnings = re_preferred_money.search(string).group('money')
+                        else:
+                            earnings = re_money.search(string).group('money')
+                    print(earnings)
+                    
+                    # f2.write(f"\t\t<hip>{horse}</hip>\n\t\t<SaleEntryCode>PH23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")
+                    f2.write(f"* {name_string} {name_string} ({horse_yob} {horse_sex} {sire_name})\n")
+                else:
+                    pass
+                i += 1
+        
+        #### Write the page:
+                
+        
+            # f2.write("\t</update>\n</FasigTiptonUpdates>\n</FasigTiptonSalesServices>")
+            f2.close()
+        n += 1
+
+
     def get_generation(file_name):
         """Gets the generation of the horse"""
         g1 = re.compile(r'^[\s+-]{2}([\w\*=]).+?(, by)')
@@ -540,7 +644,6 @@ def main():
     def get_substring(string, regex):
         """Gets the substring from a string"""
         return regex.search(string).group(1)
-        
 
 
 ##########################################################################################
@@ -673,7 +776,8 @@ def main():
 
     print("getting updates...")
     for horse in zip(source_list, hip_list):
-        get_updates(f"{p_report}/{horse[1]}.txt", horse[1])
+      #   get_updates(f"{p_report}/{horse[1]}.txt", horse[1])
+        get_markdown(f"{p_report}/{horse[1]}.txt", horse[1], f"{p_report}/report.md")
 
     print("Cleaning up...")
     for horse in zip(source_list, hip_list):
