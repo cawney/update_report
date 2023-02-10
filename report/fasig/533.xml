@@ -4,14 +4,13 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  .  Croatian (2015 g. by Medaglia d'Oro). 10 wins, 3 to 7, placed at 8, 2023, $388,431.
-		Found Gen 4
 		<hip>533</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Croatian</HorseName>
 		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>g</HorseSex>
 		<DamName>Red Barchetta</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Medaglia d'Oro</SireName>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00533.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  .  Queens Empire (IRE) (2017 g. by Empire Maker). Winner at 3 and 4, placed at 5, 2022, $50,770. Sent from Ireland to United States in 2018.
-		Found Gen 4
 		<hip>533</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Queens Empire</HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>g</HorseSex>
 		<DamName>**CROWN QUEEN**</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Empire Maker</SireName>
@@ -50,7 +48,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00533.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

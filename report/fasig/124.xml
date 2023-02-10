@@ -4,14 +4,13 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  .  Red Blue and True (2013 g. by Bring the Heat). 5 wins, 3 to 8, placed at 9, 2022, $94,086.
-		Found Gen 4
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Red Blue and True</HorseName>
 		<HorseYOB>2013</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>g</HorseSex>
 		<DamName>Karen's Angel</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Bring the Heat</SireName>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00124.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  .  Jeanie's Angel (2016 f. by Handsome Mike). 3 wins at 4 and 5, placed at 6, 2022, $62,183.
-		Found Gen 4
 		<hip>124</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Jeanie's Angel</HorseName>
 		<HorseYOB>2016</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>Karen's Angel</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Handsome Mike</SireName>
@@ -50,7 +48,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00124.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

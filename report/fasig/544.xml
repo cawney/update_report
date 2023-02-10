@@ -4,7 +4,6 @@
 <FasigTiptonUpdates>
 	<Update>
 +    **SPEAKING SCOUT** (2019 g. by Mr Speaker). 4 wins at 2 and 3, placed at 4, 2023, $593,668, 1st Hollywood Derby **[G1]** (DMR, $240,000), Hawthorne Derby (HAW, $60,000), 2nd Twilight Derby **[G2]** (SA, $40,000), Pulpit S. [L] (GP, $14,100), 3rd Pegasus World Cup Turf Invitational S. presented by Qatar Racing **[G1]** (GP, $93,000).
-		Gen 2
 		<hip>544</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00544.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  .  Cartouche (2017 f. by Liam's Map). 7 wins at 4 and 5, 2022, $223,805.
-		Found Gen 4
 		<hip>544</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Cartouche</HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>**Garnet Crystals**</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Liam's Map</SireName>
@@ -50,16 +48,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00544.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  .  Gregdar (2017 c. by Graydar). 4 wins, 3 to 5, 2022, $194,220.
-		Found Gen 4
 		<hip>544</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Gregdar</HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>c</HorseSex>
 		<DamName>Pearl Keys</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Graydar</SireName>
@@ -74,7 +71,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00544.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

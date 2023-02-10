@@ -4,7 +4,6 @@
 <FasigTiptonUpdates>
 	<Update>
 +    **TRIPOLI** (2017 c. by Kitten's Joy). 4 wins at 3 and 4, placed at 5, 2022, $924,460, 1st TVG Pacific Classic S. **[G1]** (DMR, $600,000), 2nd San Diego H. **[G2]** (DMR, $50,000).
-		Gen 2
 		<hip>164</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00164.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  **Parnelli** (2018 c. by Quality Road). 3 wins at 2 and 4, placed at 5, 2023, $213,320, 3rd San Pasqual S. **[G2]** (SA, $24,000), Sham S. **[G3]** (SA, $12,000), California Derby [L] (GG, $12,000).
-		Found Gen 3
 		<hip>164</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Parnelli**</HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>c</HorseSex>
 		<DamName>Sip Sip</DamName>
 		<DamDamName>**TOUCH LOVE**</DamDamName>
 		<SireName>Quality Road</SireName>
@@ -50,7 +48,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00164.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

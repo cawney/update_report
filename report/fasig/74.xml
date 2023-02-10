@@ -4,14 +4,13 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Curlin's Thrill (2017 g. by Curlin). 6 wins at 4 and 5, 2022, $101,325, in N.A./U.S.; placed at 3, $10,048, in Canada. (Total: $108,922).
-		Gen 2
 		<hip>74</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Curlin's Thrill</HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>g</HorseSex>
 		<DamName>**CATCH THE THRILL**</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Curlin</SireName>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00074.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  Almost a Factor (2017 f. by The Factor). Winner at 2 and 4, placed at 5, 2022, $144,832.
-		Found Gen 3
 		<hip>74</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Almost a Factor</HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>Tizn't Caught</DamName>
 		<DamDamName>**CATCH THE THRILL**</DamDamName>
 		<SireName>The Factor</SireName>
@@ -50,7 +48,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00074.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

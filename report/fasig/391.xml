@@ -4,7 +4,6 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  Tango Charlie (2018 g. by Hard Spun). 5 wins at 3 and 4, placed at 5, 2023, $184,357.
-		Found Gen 3
 		<hip>391</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00391.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  La Samana Laura (2019 f. by Tiznow). Winner at 3 and 4, 2023, $65,523.
-		Found Gen 3
 		<hip>391</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>La Samana Laura</HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>Gem</DamName>
 		<DamDamName>SKIPSTONE</DamDamName>
 		<SireName>Tiznow</SireName>
@@ -50,9 +48,8 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00391.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    Moon Sign (2020 g. by Malibu Moon). Placed at 2, 2022, $14,470.
-		Gen 2
 		<hip>391</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -74,7 +71,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00391.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

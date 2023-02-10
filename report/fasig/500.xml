@@ -4,7 +4,6 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  Kaon (2020 c. by City of Light). Placed at 2 and 3, 2023, $18,351.
-		Found Gen 3
 		<hip>500</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00500.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  .  Lace Revolution (2019 f. by Revolutionary). 2 wins at 3, 2022, $87,404.
-		Found Gen 4
 		<hip>500</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lace Revolution</HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>Arsenic and Lace</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Revolutionary</SireName>
@@ -50,9 +48,8 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00500.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  Mayan (2018 g. by Uncle Mo). Placed at 4 and 5, 2023, $15,410.
-		Found Gen 3
 		<hip>500</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -74,7 +71,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00500.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

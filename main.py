@@ -33,9 +33,10 @@ def main():
     sex_sire_re = re.compile(r'\(\d{4}\s') # Gets the sex and sire (technically gets the YOB, but it's the same thing)
     race_record_re = re.compile(r'RACE RECORD') # Gets the race record
     re_yob = re.compile(r"(?!\()(\d{4})\s") # Gets the YOB
-    re_sex = re.compile(r"(?!by\s)([fcgr])")
+   #  re_sex = re.compile(r"(?!by\s)([fcgr])")
+    re_sex = re.compile(r"\d{4}\s([fcgr])")
     re_money = re.compile(r"(Total:\s|\d,\s)\$(?P<money>\d+(?:\,\d+(?:\,\d+)?)?)")
-    re_sire = re.compile(r"(by (.)+?)\)")
+    re_sire = re.compile(r"(by (.)+?)(\)|\.)")
     re_date = re.compile(r', (?P<date>\d{4}),')
     re_name = re.compile(r'^[\s+]+.*?(([A-Z]|=\*).+?)((\s\()|(,))')
     produce_re = re.compile(r'^\d{4}')
@@ -240,7 +241,7 @@ def main():
         flines = f.readlines()
         flines2 = f2.readlines()
         diff = difflib.ndiff(flines, flines2) #, fromfile=f"{original}", tofile=f"{update}"
-        diffh = difflib.HtmlDiff().make_file(flines, flines2, f"{original}", f"{update}")
+        diffh = difflib.HtmlDiff(wrapcolumn=150).make_file(flines, flines2, f"{original}", f"{update}")
         f3.write(''.join(diff))
         f4.write(''.join(diffh))
 
@@ -410,18 +411,16 @@ def main():
                     if 'RACE RECORD' in string:
                         print("Butt")
                     if line in gen1:
-                        f2.write("Gen 1\n")
                         name_string = get_names(string, 1)
+                        horse_sex = 'f'
+                        # sire_name = 
                     elif line in gen2:
-                        f2.write("\t\tGen 2\n")
                         dam_name = get_names(lines[get_closest(line, gen1)], 1)
                         # f2.write(f"\t\t<DamDamName>{get_names(lines[get_closest(line, gen1)], 1)}</DamDamName>\n")
                     elif line in gen3:
-                        f2.write("\t\tFound Gen 3\n")
                         dam_name = get_names(lines[get_closest(line, gen2)], 3)
                         dam_dam_name = get_names(lines[get_closest(line, gen1)], 1)
                     elif line in gen4:
-                        f2.write("\t\tFound Gen 4\n")
                         dam_name = get_names(lines[get_closest(line, gen3)], 4)
                     else:
                         pass
@@ -429,7 +428,8 @@ def main():
                     horse_yob = re_yob.search(string)
                     if horse_yob:
                         horse_yob = horse_yob.group(1)
-                    horse_sex = re_sex.search(string).group(1)
+                    if re_sex.search(string):
+                        horse_sex = re_sex.search(string).group(1)
                     sire_name = re_sire.search(string)
                     if sire_name:
                         sire_name = sire_name.group(1)
@@ -452,7 +452,7 @@ def main():
                     f2.write(f"\t\t<Earnings></Earnings>\n")
                     f2.write(f"\t\t<BlackType></BlackType>\n") ## Y or N
                     f2.write(f"\t\t<WhiteType></WhiteType>\n") ## Y or N
-                    f2.write(f"\t\t<UpdateLink>http://www.test.equineline.com/to/be/determined/{horse.zfill(5)}.htm</UpdateLink>\n")
+                    f2.write(f"\t\t<UpdateLink></UpdateLink>\n")
                 else:
                     pass
                 i += 1

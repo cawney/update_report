@@ -4,14 +4,13 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  Drifaros (2019 f. by Kantharos). 3 wins in 4 starts at 3 and 4, 2023, $118,100.
-		Found Gen 3
 		<hip>356</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Drifaros</HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>Style Drift</DamName>
 		<DamDamName>NIKKI TOOTSIE</DamDamName>
 		<SireName>Kantharos</SireName>
@@ -26,7 +25,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00356.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

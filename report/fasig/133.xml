@@ -4,7 +4,6 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Double Shot (2017 g. by Bourbon Courage). 5 wins, 3 to 6, 2023, $235,910.
-		Gen 2
 		<hip>133</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00133.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    Wait a Sec (2019 f. by Uncaptured). Winner at 3, placed at 4, 2023, $33,953.
-		Gen 2
 		<hip>133</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Wait a Sec</HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>ELEGANT FINISH</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Uncaptured</SireName>
@@ -50,7 +48,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00133.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

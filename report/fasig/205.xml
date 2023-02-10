@@ -4,7 +4,6 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Klimt Ride (2019 g. by Klimt). Placed at 3, 2022, $15,150.
-		Gen 2
 		<hip>205</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00205.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  .  Texas Ascot Queen (2019 f. by Fast Anna). 4 wins, 2 to 4, 2023, $91,258.
-		Found Gen 4
 		<hip>205</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Texas Ascot Queen</HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>**BALMARAN**</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Fast Anna</SireName>
@@ -50,16 +48,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00205.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  Aiden Little King (2019 c. by Can the Man). 4 wins at 3, placed at 4, 2023, $27,518.
-		Found Gen 3
 		<hip>205</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Aiden Little King</HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseSex>c</HorseSex>
 		<DamName>Free Space</DamName>
 		<DamDamName>MEGUILTY</DamDamName>
 		<SireName>Can the Man</SireName>
@@ -74,16 +71,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00205.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  .  Targe (2018 f. by Will Take Charge). 5 wins at 2 and 4, 2022, $187,189.
-		Found Gen 4
 		<hip>205</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Targe</HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>Curio</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Will Take Charge</SireName>
@@ -98,7 +94,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00205.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

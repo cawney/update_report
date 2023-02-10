@@ -4,7 +4,6 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  Feline (2019 f. by Brethren). Placed at 3, 2022, $44,660.
-		Found Gen 3
 		<hip>405</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00405.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  =Karula Factor (JPN) (2019 f. by The Factor). 6 wins at 3, placed at 4, 2023, 5,994,000 Yen, in Japan. (Total: $44,137).
-		Found Gen 3
 		<hip>405</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Karula Factor</HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>Ys Dream</DamName>
 		<DamDamName>SHAPPY</DamDamName>
 		<SireName>The Factor</SireName>
@@ -50,7 +48,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00405.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

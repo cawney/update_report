@@ -4,14 +4,13 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  Crystal Orb (2018 f. by Orb). Winner at 3, placed at 4, 2022, $65,295.
-		Found Gen 3
 		<hip>196</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Crystal Orb</HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>Forbidden Brew</DamName>
 		<DamDamName>FORBIDDEN KISS</DamDamName>
 		<SireName>Orb</SireName>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00196.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  Appraisal (2018 g. by Paynter). Winner at 3 and 4, 2022, $90,681.
-		Found Gen 3
 		<hip>196</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Appraisal</HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>g</HorseSex>
 		<DamName>I Have a Price</DamName>
 		<DamDamName>FORBIDDEN KISS</DamDamName>
 		<SireName>Paynter</SireName>
@@ -50,7 +48,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00196.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

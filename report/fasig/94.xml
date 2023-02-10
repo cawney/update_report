@@ -4,14 +4,13 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  Southern Cents (2017 f. by Goldencents). 6 wins, 3 to 5, 2022, $133,881.
-		Found Gen 3
 		<hip>94</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Southern Cents</HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>Southern Prospect</DamName>
 		<DamDamName>AMERICAN SKIPPER</DamDamName>
 		<SireName>Goldencents</SireName>
@@ -26,9 +25,8 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00094.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  Lady Lana (2018 f. by Creative Cause). 2 wins at 3, placed at 4, 2022, $77,973.
-		Found Gen 3
 		<hip>94</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -50,16 +48,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00094.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  True Dakotan (2019 g. by Include). Winner at 3 and 4, 2023, $58,447.
-		Found Gen 3
 		<hip>94</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>True Dakotan</HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>g</HorseSex>
 		<DamName>Tri Again</DamName>
 		<DamDamName>TRI SKIPPING</DamDamName>
 		<SireName>Include</SireName>
@@ -74,7 +71,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00094.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

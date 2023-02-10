@@ -4,14 +4,13 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  Lucky Shore (2018 f. by Lookin At Lucky). Winner at 3, placed at 4, 2022, $33,417.
-		Found Gen 3
 		<hip>369</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lucky Shore</HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>Nearshore</DamName>
 		<DamDamName>SECRET OF THE SEA</DamDamName>
 		<SireName>Lookin At Lucky</SireName>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00369.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    High Treason (2019 f. by Connect). Placed at 3, 2022, $29,597, in Canada. (Total: $22,604).
-		Gen 2
 		<hip>369</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>High Treason</HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>SECRET OF THE SEA</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Connect</SireName>
@@ -50,7 +48,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00369.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

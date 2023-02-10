@@ -4,17 +4,16 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  Derby Quest (2018 f. by Nyquist). 3 wins at 2 and 4, placed at 5, 2023, $88,120.
-		Found Gen 3
 		<hip>37</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Derby Quest</HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>**Explainable**</DamName>
 		<DamDamName>**BANK AUDIT**</DamDamName>
-		<SireName>Quest (2018 f. Nyquist</SireName>
+		<SireName>Quest (2018 f</SireName>
 		<OfficialPosition></OfficialPosition>
 		<RaceNumber></RaceNumber>
 		<RaceType></RaceType>
@@ -26,9 +25,8 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00037.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  Explain This Audit (2019 c. by Vancouver (AUS)). Winner at 3 and 4, 2023, $63,020.
-		Found Gen 3
 		<hip>37</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -50,16 +48,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00037.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  Seiver (2019 f. by Noble Mission (GB)). Winner at 3, 2022, $47,589.
-		Found Gen 3
 		<hip>37</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Seiver</HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>Allie</DamName>
 		<DamDamName>**BANK AUDIT**</DamDamName>
 		<SireName>Noble Mission (GB</SireName>
@@ -74,7 +71,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00037.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

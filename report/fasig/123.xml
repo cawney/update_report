@@ -4,14 +4,13 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  Kara Para (2020 f. by The Factor). Placed at 2, 2022, $38,440.
-		Found Gen 3
 		<hip>123</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Kara Para</HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>White Rock Lake</DamName>
 		<DamDamName>ZEPA</DamDamName>
 		<SireName>The Factor</SireName>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00123.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  .  Catcake (2017 f. by D'wildcat). 5 wins, 2 to 5, 2022, $114,604.
-		Found Gen 4
 		<hip>123</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Catcake</HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>Lady Fingers</DamName>
 		<DamDamName></DamDamName>
 		<SireName>D'wildcat</SireName>
@@ -50,7 +48,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00123.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

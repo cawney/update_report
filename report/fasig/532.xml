@@ -4,14 +4,13 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Botero (2015 g. by Medaglia d'Oro). 8 wins, 4 to 8, 2023, $104,642 Set ntr at Arizona Downs, 5 1/2 furlongs in 1:02.32 (07/21/21). Set ntr at Arizona Downs, 5 1/2 furlongs in 1:01.56 (08/17/21).
-		Gen 2
 		<hip>532</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Botero</HorseName>
 		<HorseYOB>2015</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>g</HorseSex>
 		<DamName>**BURBAN**</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Medaglia d'Oro</SireName>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00532.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    Mostly Harmless (2019 f. by Violence). Winner at 4, 2023, $100,485.
-		Gen 2
 		<hip>532</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Mostly Harmless</HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>**BURBAN**</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Violence</SireName>
@@ -50,7 +48,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00532.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

@@ -4,14 +4,13 @@
 <FasigTiptonUpdates>
 	<Update>
 +    Proper Attire (2018 f. by Imagining). 10 wins, 2 to 5, 2023, $326,305.
-		Gen 2
 		<hip>305</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Proper Attire</HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>INSPIRED SAY EYE</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Imagining</SireName>
@@ -26,9 +25,8 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00305.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  Dangnabbit (2019 g. by Imagining). Winner at 2 and 3, 2022, $62,816.
-		Found Gen 3
 		<hip>305</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
@@ -50,7 +48,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00305.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

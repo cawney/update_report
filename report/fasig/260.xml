@@ -4,14 +4,13 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  =Ammaliare (JPN) (2020 f. by =Gold Ship (JPN)). Winner at 3, 2023, 10,120,000 Yen, in Japan. (Total: $76,697).
-		Found Gen 3
 		<hip>260</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Ammaliare</HorseName>
 		<HorseYOB>2020</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>Kalavinka</DamName>
 		<DamDamName>**TAP YOUR HEELS**</DamDamName>
 		<SireName>=Gold Ship (JPN</SireName>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00260.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  .  =Apsara (JPN) (2019 f. by Drefong). Winner at 3, 2022, 5,900,000 Yen, in Japan. (Total: $51,134).
-		Found Gen 4
 		<hip>260</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Apsara</HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>=Kinnaree</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Drefong</SireName>
@@ -50,16 +48,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00260.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  .  Quick Munny (2018 f. by Munnings). 3 wins at 4 and 5, 2023, $132,153.
-		Found Gen 4
 		<hip>260</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Quick Munny</HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>c</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>Quick Click</DamName>
 		<DamDamName></DamDamName>
 		<SireName>Munnings</SireName>
@@ -74,7 +71,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00260.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>

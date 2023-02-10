@@ -4,14 +4,13 @@
 <FasigTiptonUpdates>
 	<Update>
 +    =Young Blood (JPN) (2017 f. by =To the World (JPN)). 2 wins at 4, placed at 5, 2022, 13,824,000 Yen, in Japan. (Total: $125,600).
-		Gen 2
 		<hip>158</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Young Blood</HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex>g</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>**November Slew**</DamName>
 		<DamDamName></DamDamName>
 		<SireName>=To the World (JPN</SireName>
@@ -26,16 +25,15 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00158.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 +    .  =Lily Jasper (JPN) (2018 f. by =Just a Way (JPN)). 7 wins at 3 and 4, 2022, 2,657,000 Yen, in Japan. (Total: $20,873).
-		Found Gen 3
 		<hip>158</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
 		<HorseName>Lily Jasper</HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex>r</HorseSex>
+		<HorseSex>f</HorseSex>
 		<DamName>=Champagne Topaz</DamName>
 		<DamDamName>**November Slew**</DamDamName>
 		<SireName>=Just a Way (JPN</SireName>
@@ -50,7 +48,7 @@
 		<Earnings></Earnings>
 		<BlackType></BlackType>
 		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00158.htm</UpdateLink>
+		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>
