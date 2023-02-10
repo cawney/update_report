@@ -2,3 +2,9 @@
 # Ignores all the files that are the temp files
 ###
 *_*.txt
+
+###
+# Ignores the report files made
+###
+*.html
+*.xml

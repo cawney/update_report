@@ -4,17 +4,17 @@
 <FasigTiptonUpdates>
 	<Update>
 +    .  Southern Cents (2017 f. by Goldencents). 6 wins, 3 to 5, 2022, $133,881.
-Found Gen 3
+		Found Gen 3
 		<hip>94</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName></HorseName>
+		<HorseName>Southern Cents</HorseName>
 		<HorseYOB>2017</HorseYOB>
-		<HorseSex></HorseSex>
-		<DamName></DamName>
-		<DamDamName></DamDamName>
-		<SireName></SireName>
+		<HorseSex>r</HorseSex>
+		<DamName>Southern Prospect</DamName>
+		<DamDamName>AMERICAN SKIPPER</DamDamName>
+		<SireName>Goldencents</SireName>
 		<OfficialPosition></OfficialPosition>
 		<RaceNumber></RaceNumber>
 		<RaceType></RaceType>
@@ -28,17 +28,17 @@ Found Gen 3
 		<WhiteType></WhiteType>
 		<UpdateLink>http://www.test.equineline.com/to/be/determined/00094.htm</UpdateLink>
 +    .  Lady Lana (2018 f. by Creative Cause). 2 wins at 3, placed at 4, 2022, $77,973.
-Found Gen 3
+		Found Gen 3
 		<hip>94</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName></HorseName>
+		<HorseName>Lady Lana</HorseName>
 		<HorseYOB>2018</HorseYOB>
-		<HorseSex></HorseSex>
-		<DamName></DamName>
-		<DamDamName></DamDamName>
-		<SireName></SireName>
+		<HorseSex>f</HorseSex>
+		<DamName>**SANTINA DOND**</DamName>
+		<DamDamName>TRI SKIPPING</DamDamName>
+		<SireName>Creative Cause</SireName>
 		<OfficialPosition></OfficialPosition>
 		<RaceNumber></RaceNumber>
 		<RaceType></RaceType>
@@ -52,40 +52,17 @@ Found Gen 3
 		<WhiteType></WhiteType>
 		<UpdateLink>http://www.test.equineline.com/to/be/determined/00094.htm</UpdateLink>
 +    .  True Dakotan (2019 g. by Include). Winner at 3 and 4, 2023, $58,447.
-Found Gen 3
+		Found Gen 3
 		<hip>94</hip>
 		<SaleEntryCode>PH23</SaleEntryCode>
 		<SaleCode>FTFEB</SaleCode>
 		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName></HorseName>
+		<HorseName>True Dakotan</HorseName>
 		<HorseYOB>2019</HorseYOB>
-		<HorseSex></HorseSex>
-		<DamName></DamName>
-		<DamDamName></DamDamName>
-		<SireName></SireName>
-		<OfficialPosition></OfficialPosition>
-		<RaceNumber></RaceNumber>
-		<RaceType></RaceType>
-		<Grade></Grade>
-		<RaceDate></RaceDate>
-		<TrackName></TrackName>
-		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
-		<UpdateLink>http://www.test.equineline.com/to/be/determined/00094.htm</UpdateLink>
-+ 2017 Betty's Smile, f. by Normandy Invasion. 5 wins at 4 and 5, 2022, $95,300.
-		<hip>94</hip>
-		<SaleEntryCode>PH23</SaleEntryCode>
-		<SaleCode>FTFEB</SaleCode>
-		<SaleName>FT FEB MIXED 21</SaleName>
-		<HorseName>+ 2017 Betty's Smile,</HorseName>
-		<HorseYOB>2017</HorseYOB>
-		<HorseSex></HorseSex>
-		<DamName></DamName>
-		<DamDamName></DamDamName>
-		<SireName></SireName>
+		<HorseSex>r</HorseSex>
+		<DamName>Tri Again</DamName>
+		<DamDamName>TRI SKIPPING</DamDamName>
+		<SireName>Include</SireName>
 		<OfficialPosition></OfficialPosition>
 		<RaceNumber></RaceNumber>
 		<RaceType></RaceType>

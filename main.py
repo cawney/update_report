@@ -185,7 +185,6 @@ def main():
 
         lines = f.readlines()
         f.close()
-        # f = open(file_name, 'w')
         f = open(horse, 'w')
         f2 = open(new_file, 'w')
         i = 0
@@ -195,8 +194,6 @@ def main():
                 break
             else:
                 f.writelines(line)
-            # else:
-            #    f.writelines(line)
             i += 1
 
 
@@ -223,8 +220,6 @@ def main():
         num = 0
         for line in lines:
             if re_string.search(line):
-                # line_number = line_number.append(num)
-                # print(num)
                 line_number.append(num)
                 # i += 1
             else:
@@ -327,17 +322,6 @@ def main():
         line_starts_with_minus = re.compile(r'^\-')
         line_starts_with_question = re.compile(r'^\?')
         string_update = []
-        # for i, line in enumerate(list):
-        #     if line.startswith("+"):
-
-        #         if i < len(list) - 1 and list[i+1].startswith("?"):
-        #             re_string = re.finditer(r'[+^]', list[i+1])
-        #             index = [m.start() for m in re_string]
-        #             line_number.append(i)
-        #             string_update = {}
-        #             string_update[i] = line[min(index):max(index)]
-        #         else:
-        #             pass
         for i, line in enumerate(list):
             if i < 20:
                 pass
@@ -385,7 +369,7 @@ def main():
     def get_updates(file_name, horse):
         """reads through a file and finds the lines that starts with a + and then prints them"""
         f = open(f"{file_name}", 'r')
-        f2 = open(f"{p_report}/fasig/{horse}.xml", 'w')
+        
         lines = f.readlines()
         f.close()
         gen1 = get_generation(file_name)[0]
@@ -396,7 +380,7 @@ def main():
         n = 0
         the_strings = get_update_strings(lines)[0]
         the_numbers = get_update_strings(lines)[1]
-        f2.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<FasigTiptonSalesServices>\n<Service>saleUpdates</Service>\n<FasigTiptonUpdates>\n\t<Update>\n")
+        
         # for line, string in zip(lines, the_strings):
             # if i <= 20:
             #     pass
@@ -409,13 +393,13 @@ def main():
         if len(the_strings) == 0:
             pass
         else:
+            f2 = open(f"{p_report}/fasig/{horse}.xml", 'w')
+            f2.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<FasigTiptonSalesServices>\n<Service>saleUpdates</Service>\n<FasigTiptonUpdates>\n\t<Update>\n")
             for line, string in zip(the_numbers, the_strings):
                 # print(string)
                 if string in lines:
                     # print("Found string", string, "in line", lines[line])
                     f2.writelines(string)
-                    # f2.write(f"\t\t<hip>{horse}</hip>\n")
-                    # f2.write("\t\t<SaleEntryCode>PH23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")
                     name_string = ''
                     horse_yob = ''
                     horse_sex = ''
@@ -423,6 +407,8 @@ def main():
                     dam_dam_name = ''
                     sire_name = ''
                     position = ''
+                    if 'RACE RECORD' in string:
+                        print("Butt")
                     if line in gen1:
                         f2.write("Gen 1\n")
                         name_string = get_names(string, 1)
@@ -431,20 +417,26 @@ def main():
                         dam_name = get_names(lines[get_closest(line, gen1)], 1)
                         # f2.write(f"\t\t<DamDamName>{get_names(lines[get_closest(line, gen1)], 1)}</DamDamName>\n")
                     elif line in gen3:
-                        f2.write("Found Gen 3\n")
-                        # f2.write(f"\t\t<HorseYOB>{get_substring(string, re_yob)}</HorseYOB>\n")
-                        # f2.write(f"\t\t<HorseSex>{get_substring(string, re_sex)}</HorseSex>\n")
-                        # f2.write(f"\t\t<DamName>{get_names(lines[get_closest(line, gen2)], 2)}</DamName>\n")
+                        f2.write("\t\tFound Gen 3\n")
+                        dam_name = get_names(lines[get_closest(line, gen2)], 3)
+                        dam_dam_name = get_names(lines[get_closest(line, gen1)], 1)
                     elif line in gen4:
-                        f2.write("Found Gen 4\n")
-                        # f2.write(f"\t\t<HorseName>{get_names(string, 3)}</HorseName>\n")
-                        # f2.write(f"\t\t<HorseYOB>{get_substring(string, re_yob)}</HorseYOB>\n")
-                        # f2.write(f"\t\t<HorseSex>{get_substring(string, re_sex)}</HorseSex>\n")
+                        f2.write("\t\tFound Gen 4\n")
+                        dam_name = get_names(lines[get_closest(line, gen3)], 4)
                     else:
-                        name_string = re_name.search(string).group()
+                        pass
+                    name_string = re_name.search(string).group(1)
+                    horse_yob = re_yob.search(string)
+                    if horse_yob:
+                        horse_yob = horse_yob.group(1)
+                    horse_sex = re_sex.search(string).group(1)
+                    sire_name = re_sire.search(string)
+                    if sire_name:
+                        sire_name = sire_name.group(1)
+                        sire_name = re.sub(r'by ', '', sire_name)
                     f2.write(f"\t\t<hip>{horse}</hip>\n\t\t<SaleEntryCode>PH23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")
                     f2.write(f'\t\t<HorseName>{name_string}</HorseName>\n')
-                    f2.write(f"\t\t<HorseYOB>{get_substring(string, re_yob)}</HorseYOB>\n")
+                    f2.write(f"\t\t<HorseYOB>{horse_yob}</HorseYOB>\n")
                     f2.write(f"\t\t<HorseSex>{horse_sex}</HorseSex>\n")
                     f2.write(f"\t\t<DamName>{dam_name}</DamName>\n")
                     f2.write(f"\t\t<DamDamName>{dam_dam_name}</DamDamName>\n")
@@ -458,8 +450,8 @@ def main():
                     f2.write(f"\t\t<UpdPosition></UpdPosition>\n")
                     f2.write(f"\t\t<Generation></Generation>\n")
                     f2.write(f"\t\t<Earnings></Earnings>\n")
-                    f2.write(f"\t\t<BlackType></BlackType>\n")
-                    f2.write(f"\t\t<WhiteType></WhiteType>\n")
+                    f2.write(f"\t\t<BlackType></BlackType>\n") ## Y or N
+                    f2.write(f"\t\t<WhiteType></WhiteType>\n") ## Y or N
                     f2.write(f"\t\t<UpdateLink>http://www.test.equineline.com/to/be/determined/{horse.zfill(5)}.htm</UpdateLink>\n")
                 else:
                     pass
@@ -468,8 +460,8 @@ def main():
         #### Write the page:
                 
         
-        f2.write("\t</update>\n</FasigTiptonUpdates>\n</FasigTiptonSalesServices>")
-        f2.close()
+            f2.write("\t</update>\n</FasigTiptonUpdates>\n</FasigTiptonSalesServices>")
+            f2.close()
         n += 1
 
 
@@ -516,7 +508,10 @@ def main():
             return name.group('name')
         else:
             name = re_name.search(string)
-            return name.group(1)
+            if name:
+                return name.group(1)
+            else:
+                return None
 
     def get_substring(string, regex):
         """Gets the substring from a string"""
@@ -566,20 +561,35 @@ def main():
         line_sex_sire = get_line_number(f"{p_original}/{horse[0]}_1.txt", sex_sire_re)
         line_produce = get_line_number(f"{p_original}/{horse[0]}_produce.txt", produce_re)
         seperate_lines(f"{p_original}/{horse[0]}_produce.txt", f"{p_original}/{horse[0]}_4.txt", line_produce, False)
+        
         with open(f"{p_original}/{horse[0]}_rr.txt", "r") as f, open(f"{p_original}/{horse[0]}_2.txt", "w") as f2:
-            rr = f.readlines()
-            # f2.write(rr.replace('\n\s{4}', ' '))
-            print(rr)
-            for line in rr:
-                if 'no report' in line:
+            lines = f.readlines()
+            rr = []
+            record = ''
+            for line in lines:
+                if re.search(r'no report', line):
                     pass
                 else:
-                    line = line.replace('\n', ' ')
-                    line = line.strip()
-            newrr = ''.join(rr)
-            newrr = newrr.replace('\n', '')
-            newrr = newrr.replace('    ', ' ')
-            f2.write(newrr)
+                    rr.append(line)
+                record = ''.join(rr)
+                record = record.replace('\n', '')
+                record = record.replace('    ', ' ')
+                # record = re.sub(r"\n\s{5}", ' ', record)
+            f2.writelines(record+'\n')
+
+        with open(f"{p_update}/PH{horse[1].zfill(6)}_rr.txt", "r") as f, open(f"{p_update}/PH{horse[1].zfill(6)}_2.txt", "w") as f2:
+            lines = f.readlines()
+            rr = []
+            record = ''
+            for line in lines:
+                if re.search(r'no report', line):
+                    pass
+                else:
+                    rr.append(line)
+                record = ''.join(rr)
+                record = record.replace('\n', '')
+                record = record.replace('    ', ' ')
+            f2.writelines(record+'\n')
 
         seperate_lines(f"{p_original}/{horse[0]}_1.txt", f"{p_original}/{horse[0]}_4.txt", line_sex_sire, True)
         line_sex_sire = get_line_number(f"{p_update}/PH{horse[1].zfill(6)}_1.txt", sex_sire_re)
@@ -651,6 +661,8 @@ def main():
         os.remove(f"{p_original}/{horse[0]}_norr.txt")
         os.remove(f"{p_original}/{horse[0]}_test.txt")
         os.remove(f"{p_original}/{horse[0]}_final.txt")
+        os.remove(f"{p_original}/{horse[0]}_produce.txt")
+        os.remove(f"{p_original}/{horse[0]}_rr.txt")
         os.remove(f"{p_update}/PH{horse[1].zfill(6)}_1.txt")
         os.remove(f"{p_update}/PH{horse[1].zfill(6)}_2.txt")
         os.remove(f"{p_update}/PH{horse[1].zfill(6)}_3.txt")
@@ -659,6 +671,8 @@ def main():
         os.remove(f"{p_update}/{horse[1]}_norr.txt")
         os.remove(f"{p_update}/PH{horse[1].zfill(6)}_final.txt")
         os.remove(f"{p_update}/PH{horse[1].zfill(6)}_test.txt")
+        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_produce.txt")
+        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_rr.txt")
     # print("Done cleaning up")
 
     print("Done")

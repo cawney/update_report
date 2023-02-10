@@ -3,6 +3,29 @@
 <Service>saleUpdates</Service>
 <FasigTiptonUpdates>
 	<Update>
++ RACE RECORD for Sage Hill: In Canada. At 2, unraced; at 3, 2022, three times 3rd. Earned  $6,800. In N.A./U.S. At 4, 2023, one win in 2 starts; . Totals: 1 win in 2 starts. Earned $10,938. (Total: $16,239.)
+		<hip>496</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>RACE RECORD for Sage Hill: In Canada. At 2</HorseName>
+		<HorseYOB>None</HorseYOB>
+		<HorseSex>f</HorseSex>
+		<DamName></DamName>
+		<DamDamName></DamDamName>
+		<SireName>None</SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation></Generation>
+		<Earnings></Earnings>
+		<BlackType></BlackType>
+		<WhiteType></WhiteType>
+		<UpdateLink>http://www.test.equineline.com/to/be/determined/00496.htm</UpdateLink>
 	</update>
 </FasigTiptonUpdates>
 </FasigTiptonSalesServices>
