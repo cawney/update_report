@@ -21,10 +21,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>1</Generation>
+		<Earnings>149,860</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  Demand Ransom (2015 g. by Munnings). 4 wins, 2 to 6, placed at 7, 2022, $111,959.
 		<hip>403</hip>
@@ -44,10 +44,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>2</Generation>
+		<Earnings>111,959</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>

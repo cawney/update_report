@@ -21,10 +21,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>1</Generation>
+		<Earnings>200,298</Earnings>
+		<BlackType>Y</BlackType>
+		<WhiteType>N</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  Greg's Honor (2019 g. by Nyquist). Winner at 3, placed at 4, 2023, $47,340.
 		<hip>376</hip>
@@ -44,10 +44,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>2</Generation>
+		<Earnings>47,340</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>

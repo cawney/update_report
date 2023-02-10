@@ -21,10 +21,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>2</Generation>
+		<Earnings>38,440</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  Catcake (2017 f. by D'wildcat). 5 wins, 2 to 5, 2022, $114,604.
 		<hip>123</hip>
@@ -44,10 +44,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>3</Generation>
+		<Earnings>114,604</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>

@@ -21,10 +21,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>1</Generation>
+		<Earnings>130,669</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    Forth (2018 g. by Run Away and Hide). 3 wins, 3 to 5, 2023, $107,812.
 		<hip>116</hip>
@@ -44,10 +44,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>1</Generation>
+		<Earnings>107,812</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>

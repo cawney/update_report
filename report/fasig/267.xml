@@ -21,10 +21,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>2</Generation>
+		<Earnings>175,062</Earnings>
+		<BlackType>Y</BlackType>
+		<WhiteType>N</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  Raison the Glass (2017 f. by Raison d'Etat). Winner at 4 and 6, 2023, $46,180.
 		<hip>267</hip>
@@ -44,10 +44,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>2</Generation>
+		<Earnings>46,180</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  Sargeant Barger (2019 g. by War Correspondent). 2 wins at 3, 2022, $54,100.
 		<hip>267</hip>
@@ -67,10 +67,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>3</Generation>
+		<Earnings>54,100</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>

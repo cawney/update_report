@@ -21,10 +21,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>1</Generation>
+		<Earnings>540,240</Earnings>
+		<BlackType>Y</BlackType>
+		<WhiteType>N</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  Another Hot Mess (2019 f. by Hard Spun). 3 wins in 6 starts at 3 and 4, 2023, $79,350.
 		<hip>182</hip>
@@ -44,10 +44,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>2</Generation>
+		<Earnings>79,350</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>

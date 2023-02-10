@@ -21,10 +21,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>3</Generation>
+		<Earnings>884,078</Earnings>
+		<BlackType>Y</BlackType>
+		<WhiteType>N</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  Restless Rambler (2013 g. by Ghostzapper). 20 wins, 3 to 10, 2023, $341,210, in N.A./U.S.; unplaced in 2 starts, 660 Euro, in Ireland. Sent from United States to Ireland in 2014. Returned to United States from Ireland in 2015. (Total: $341,930).
 		<hip>218</hip>
@@ -44,10 +44,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>3</Generation>
+		<Earnings>341,930</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  .  Java Buzz (2019 g. by Mshawish). Winner at 3, placed at 4, 2023, $154,840.
 		<hip>218</hip>
@@ -68,9 +68,9 @@
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
 		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Earnings>154,840</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>

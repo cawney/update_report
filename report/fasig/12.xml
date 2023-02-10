@@ -21,10 +21,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>1</Generation>
+		<Earnings>109,786</Earnings>
+		<BlackType>Y</BlackType>
+		<WhiteType>N</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  =Arctic Fox (GB) (2016 f. by Mastercraftsman (IRE)). 5 wins at 3 and 6, 2022, 57,510 Pounds, in England. (Total: $72,981).
 		<hip>12</hip>
@@ -44,10 +44,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>3</Generation>
+		<Earnings>72,981</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  =Rough Stream (JPN) (2018 c. by =Duramente (JPN)). 3 wins, 2 to 4, 2022, 32,771,000 Yen, in Japan. (Total: $278,423).
 		<hip>12</hip>
@@ -67,10 +67,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>3</Generation>
+		<Earnings>278,423</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  Nottoway (2015 g. by Twirling Candy). 9 wins, 3 to 6, placed at 7, 2022, $302,034.
 		<hip>12</hip>
@@ -90,10 +90,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>3</Generation>
+		<Earnings>302,034</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  Social Circle (2016 f. by Stay Thirsty). 9 wins, 3 to 6, 2022, $139,040.
 		<hip>12</hip>
@@ -113,10 +113,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>3</Generation>
+		<Earnings>139,040</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>

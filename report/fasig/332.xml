@@ -22,9 +22,9 @@
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
 		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Earnings>79,100</Earnings>
+		<BlackType>Y</BlackType>
+		<WhiteType>N</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  Spearette (2014 f. by Colonel John). 16 wins, 3 to 8, 2022, $126,931.
 		<hip>332</hip>
@@ -44,10 +44,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>3</Generation>
+		<Earnings>126,931</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  .  Rose's Crystal (2017 f. by Grazen). 2 wins at 4, placed at 5, 2022, $165,292.
 		<hip>332</hip>
@@ -68,9 +68,9 @@
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
 		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Earnings>165,292</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  .  **Street Ready** (2017 g. by More Than Ready). 4 wins, 2 to 5, 2022, $303,657, 2nd Kentucky Utilities Transylvania S. **[G3]** (KEE, $20,000), 3rd Ft. Lauderdale S. **[G2]** (GP, $18,600).
 		<hip>332</hip>
@@ -91,9 +91,9 @@
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
 		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Earnings>303,657</Earnings>
+		<BlackType>Y</BlackType>
+		<WhiteType>N</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  Burning Man (2016 g. by Street Sense). 5 wins, 3 to 6, 2022, $174,820, in Canada; placed at 3, $13,260, in N.A./U.S. (Total: $147,423).
 		<hip>332</hip>
@@ -113,10 +113,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>3</Generation>
+		<Earnings>147,423</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>

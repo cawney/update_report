@@ -21,10 +21,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>2</Generation>
+		<Earnings>185,128</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  .  Lemon Popper (2017 f. by Elusive Quality). 5 wins, 3 to 5, 2022, $92,181.
 		<hip>157</hip>
@@ -45,9 +45,9 @@
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
 		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Earnings>92,181</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  .  Illusion of Hope (2019 f. by Union Jackson). 2 wins at 3, 2022, $52,874.
 		<hip>157</hip>
@@ -68,9 +68,9 @@
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
 		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Earnings>52,874</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  .  Solib (2019 f. by American Pharoah). Winner at 2, placed at 3, 2022, $92,693.
 		<hip>157</hip>
@@ -91,9 +91,9 @@
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
 		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Earnings>92,693</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  Nana's Shoes (2016 f. by Done Talking). 8 wins, 2 to 6, 2022, $199,658.
 		<hip>157</hip>
@@ -113,10 +113,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>3</Generation>
+		<Earnings>199,658</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  .  Miss Fussy Pants (2020 f. by Done Talking). Winner at 2 and 3, 2023, $73,420.
 		<hip>157</hip>
@@ -136,10 +136,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>3</Generation>
+		<Earnings>73,420</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>

@@ -21,10 +21,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>2</Generation>
+		<Earnings>88,120</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  Explain This Audit (2019 c. by Vancouver (AUS)). Winner at 3 and 4, 2023, $63,020.
 		<hip>37</hip>
@@ -44,10 +44,33 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>2</Generation>
+		<Earnings>63,020</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
+		<UpdateLink></UpdateLink>
++    .  .  **=ELECTRIC LIGHT (CHI)** (2019 f. by Lookin At Lucky). 2 wins in 4 starts at 3, 2022, 15,025,000 Pesos, in Chile, 1st Luis Davila Larrain [L], 3rd Jorge Baraona Puelma [L]. (Total: $16,712).
+		<hip>37</hip>
+		<SaleEntryCode>PH23</SaleEntryCode>
+		<SaleCode>FTFEB</SaleCode>
+		<SaleName>FT FEB MIXED 21</SaleName>
+		<HorseName>ELECTRIC LIGHT</HorseName>
+		<HorseYOB>2019</HorseYOB>
+		<HorseSex>f</HorseSex>
+		<DamName>Egocentrica</DamName>
+		<DamDamName></DamDamName>
+		<SireName>Lookin At Lucky</SireName>
+		<OfficialPosition></OfficialPosition>
+		<RaceNumber></RaceNumber>
+		<RaceType></RaceType>
+		<Grade></Grade>
+		<RaceDate></RaceDate>
+		<TrackName></TrackName>
+		<UpdPosition></UpdPosition>
+		<Generation>3</Generation>
+		<Earnings>16,712</Earnings>
+		<BlackType>Y</BlackType>
+		<WhiteType>N</WhiteType>
 		<UpdateLink></UpdateLink>
 +    .  Seiver (2019 f. by Noble Mission (GB)). Winner at 3, 2022, $47,589.
 		<hip>37</hip>
@@ -67,10 +90,10 @@
 		<RaceDate></RaceDate>
 		<TrackName></TrackName>
 		<UpdPosition></UpdPosition>
-		<Generation></Generation>
-		<Earnings></Earnings>
-		<BlackType></BlackType>
-		<WhiteType></WhiteType>
+		<Generation>2</Generation>
+		<Earnings>47,589</Earnings>
+		<BlackType>N</BlackType>
+		<WhiteType>Y</WhiteType>
 		<UpdateLink></UpdateLink>
 	</update>
 </FasigTiptonUpdates>

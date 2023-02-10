@@ -35,11 +35,13 @@ def main():
     re_yob = re.compile(r"(?!\()(\d{4})\s") # Gets the YOB
    #  re_sex = re.compile(r"(?!by\s)([fcgr])")
     re_sex = re.compile(r"\d{4}\s([fcgr])")
+    re_preferred_money = re.compile(r"(Total:\s)\$(?P<money>\d+(?:\,\d+(?:\,\d+)?)?)")
     re_money = re.compile(r"(Total:\s|\d,\s)\$(?P<money>\d+(?:\,\d+(?:\,\d+)?)?)")
     re_sire = re.compile(r"(by (.)+?)(\)|\.)")
     re_date = re.compile(r', (?P<date>\d{4}),')
     re_name = re.compile(r'^[\s+]+.*?(([A-Z]|=\*).+?)((\s\()|(,))')
     produce_re = re.compile(r'^\d{4}')
+    re_black_type = re.compile(r'\*{2}')
 
     ############################################################
     # Paths
@@ -147,7 +149,6 @@ def main():
         if type(num2) == int:
             n2 = num2
         if n1 == 0 and n2 == 0:
-            # print("First String is 0. Everything was written.")
             f2.writelines(lines)
         elif n1 != 0 and n2 != 0:
             print("N1 was 0, but n2 was something")
@@ -177,8 +178,6 @@ def main():
                 break
             else:
                 f.writelines(line)
-            # else:
-            #    f.writelines(line)
             i += 1
 
     def get_produce(file_name, new_file, horse):
@@ -358,6 +357,10 @@ def main():
                     # print("Found date ", i)
                     string_update.append(line)
                     line_number.append(i)
+                # Adding a black type horse update that doesn't have money above the threshold
+                elif re.search(re_black_type, line) and re.search(re_date, line):
+                    string_update.append(line)
+                    line_number.append(i)
                 else:
                     pass
             else:
@@ -391,7 +394,7 @@ def main():
         print("Horse number ", horse)
         print("The strings ", the_strings)
         print("The numbers ", the_numbers)
-        if len(the_strings) == 0:
+        if len(the_strings) == 0: # If there are no updates, then don't make an xml file
             pass
         else:
             f2 = open(f"{p_report}/fasig/{horse}.xml", 'w')
@@ -408,20 +411,27 @@ def main():
                     dam_dam_name = ''
                     sire_name = ''
                     position = ''
-                    if 'RACE RECORD' in string:
-                        print("Butt")
+                    generation = ''
+                    earnings = ''
+                    bt = ''
+                    wt = ''
+                    # if 'RACE RECORD' in string:
+                    #     print("Butt")
                     if line in gen1:
                         name_string = get_names(string, 1)
                         horse_sex = 'f'
-                        # sire_name = 
+                        generation = 'Primary'
                     elif line in gen2:
                         dam_name = get_names(lines[get_closest(line, gen1)], 1)
+                        generation = '1'
                         # f2.write(f"\t\t<DamDamName>{get_names(lines[get_closest(line, gen1)], 1)}</DamDamName>\n")
                     elif line in gen3:
                         dam_name = get_names(lines[get_closest(line, gen2)], 3)
                         dam_dam_name = get_names(lines[get_closest(line, gen1)], 1)
+                        generation = '2'
                     elif line in gen4:
                         dam_name = get_names(lines[get_closest(line, gen3)], 4)
+                        generation = '3'
                     else:
                         pass
                     name_string = re_name.search(string).group(1)
@@ -431,9 +441,23 @@ def main():
                     if re_sex.search(string):
                         horse_sex = re_sex.search(string).group(1)
                     sire_name = re_sire.search(string)
+                    # earnings = re_money.search(line).group('money')
                     if sire_name:
                         sire_name = sire_name.group(1)
                         sire_name = re.sub(r'by ', '', sire_name)
+                    if re_black_type.search(string):
+                        bt = 'Y'
+                        wt = 'N'
+                    else:
+                        bt = 'N'
+                        wt = 'Y'
+                    if re_money.search(string):
+                        if re_preferred_money.search(string):
+                            earnings = re_preferred_money.search(string).group('money')
+                        else:
+                            earnings = re_money.search(string).group('money')
+                    print(earnings)
+                    
                     f2.write(f"\t\t<hip>{horse}</hip>\n\t\t<SaleEntryCode>PH23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")
                     f2.write(f'\t\t<HorseName>{name_string}</HorseName>\n')
                     f2.write(f"\t\t<HorseYOB>{horse_yob}</HorseYOB>\n")
@@ -448,10 +472,10 @@ def main():
                     f2.write(f"\t\t<RaceDate></RaceDate>\n")
                     f2.write(f"\t\t<TrackName></TrackName>\n")
                     f2.write(f"\t\t<UpdPosition></UpdPosition>\n")
-                    f2.write(f"\t\t<Generation></Generation>\n")
-                    f2.write(f"\t\t<Earnings></Earnings>\n")
-                    f2.write(f"\t\t<BlackType></BlackType>\n") ## Y or N
-                    f2.write(f"\t\t<WhiteType></WhiteType>\n") ## Y or N
+                    f2.write(f"\t\t<Generation>{generation}</Generation>\n")
+                    f2.write(f"\t\t<Earnings>{earnings}</Earnings>\n")
+                    f2.write(f"\t\t<BlackType>{bt}</BlackType>\n") ## Y or N
+                    f2.write(f"\t\t<WhiteType>{wt}</WhiteType>\n") ## Y or N
                     f2.write(f"\t\t<UpdateLink></UpdateLink>\n")
                 else:
                     pass
