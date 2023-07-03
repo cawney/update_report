@@ -20,7 +20,7 @@ start_time = timeit.default_timer() # I was curious how long the script takes to
 
 
 def main():
-    script, file_name = argv
+    script, file_name, sale_code = argv
 
     ############################################################
     # Regex
@@ -51,6 +51,59 @@ def main():
     p_original = p_source + r"/original"
     p_update = p_source + r"/update"
     p_report =  os.getcwd() + r"/report"
+
+
+    ############################################################
+    # HTML Code
+    ############################################################
+
+    html_start = '''
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+
+<head>
+    <meta http-equiv="Content-Type"
+          content="text/html; charset=utf-8" />
+    <title></title>
+    <style type="text/css">
+        table.diff {font-family:Courier; border:medium;}
+        .diff_header {background-color:#e0e0e0}
+        td.diff_header {text-align:right}
+        .diff_next {background-color:#c0c0c0}
+        .diff_add {background-color:#aaffaa}
+        .diff_chg {background-color:#ffff77}
+        .diff_sub {background-color:#ffaaaa}
+        td:nth-child(3) {background: #aaaaaa; max-width: 600px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+        /* tbody { overflow-x: auto;} */
+    </style>
+</head>
+
+<body>
+    
+    '''
+    html_end = '''
+    <table class="diff" summary="Legends">
+        <tr> <th colspan="2"> Legends </th> </tr>
+        <tr> <td> <table border="" summary="Colors">
+                      <tr><th> Colors </th> </tr>
+                      <tr><td class="diff_add">&nbsp;Added&nbsp;</td></tr>
+                      <tr><td class="diff_chg">Changed</td> </tr>
+                      <tr><td class="diff_sub">Deleted</td> </tr>
+                  </table></td>
+             <td> <table border="" summary="Links">
+                      <tr><th colspan="2"> Links </th> </tr>
+                      <tr><td>(f)irst change</td> </tr>
+                      <tr><td>(n)ext change</td> </tr>
+                      <tr><td>(t)op</td> </tr>
+                  </table></td> </tr>
+    </table>
+</body>
+
+</html>
+'''
+
 
     ############################################################
     # Functions
@@ -237,12 +290,28 @@ def main():
         f2 = open(update, "r")
         f3 = open(report, 'w')
         f4 = open(f"{p_report}/pp/{hip}.html", 'w')
+        f5 = open(f"{p_report}/pp/{hip}-table.html", "w")
         flines = f.readlines()
         flines2 = f2.readlines()
         diff = difflib.ndiff(flines, flines2) #, fromfile=f"{original}", tofile=f"{update}"
-        diffh = difflib.HtmlDiff(wrapcolumn=150).make_file(flines, flines2, f"{original}", f"{update}")
+        diffh = difflib.HtmlDiff().make_file(flines, flines2, f"{original}", f"{update}")
+        # This is a table:
+        
+        diffa = difflib.HtmlDiff().make_table(flines, flines2, hip)
+        hip_number = int(hip)
+        hip_plus = hip_number + 1
+        hip_minus = hip_number - 1
+
+        
         f3.write(''.join(diff))
         f4.write(''.join(diffh))
+        
+        f5.write(html_start)
+        f5.write(f"<h4>Hip Number: {hip_number}</h4><p><a href='{hip_minus}.html'>Previous</a> | <a href='{hip_plus}.html'>Next</a></p>")
+        f5.write(''.join(diffa))
+        f5.write(f"<h1>Hip Number: {hip_number}</h1></br><h2><a href='{hip_minus}.html'>Previous</a></h2> <h2><a href='{hip_plus}.html'>Next</a></h2>")
+        f5.write(html_end)
+
 
 
     def get_difference(list):
@@ -458,7 +527,7 @@ def main():
                             earnings = re_money.search(string).group('money')
                     print(earnings)
                     
-                    f2.write(f"\t\t<hip>{horse}</hip>\n\t\t<SaleEntryCode>PH23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")
+                    f2.write(f"\t\t<hip>{horse}</hip>\n\t\t<SaleEntryCode>{sale_code}23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")
                     f2.write(f'\t\t<HorseName>{name_string}</HorseName>\n')
                     f2.write(f"\t\t<HorseYOB>{horse_yob}</HorseYOB>\n")
                     f2.write(f"\t\t<HorseSex>{horse_sex}</HorseSex>\n")
@@ -519,7 +588,7 @@ def main():
             pass
         else:
             # f2 = open(f"{p_report}/fasig/{horse}.xml", 'w')
-            f2.write(f"# Hip: {horse}\n\n")
+            f2.write(f"## Hip: {horse}\n\n")
             for line, string in zip(the_numbers, the_strings):
                 # print(string)
                 if string in lines:
@@ -579,8 +648,8 @@ def main():
                             earnings = re_money.search(string).group('money')
                     print(earnings)
                     
-                    # f2.write(f"\t\t<hip>{horse}</hip>\n\t\t<SaleEntryCode>PH23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")
-                    f2.write(f"* {name_string} {name_string} ({horse_yob} {horse_sex} {sire_name})\n")
+                    # f2.write(f"\t\t<hip>{horse}</hip>\n\t\t<SaleEntryCode>{sale_code}23</SaleEntryCode>\n\t\t<SaleCode>FTFEB</SaleCode>\n\t\t<SaleName>FT FEB MIXED 21</SaleName>\n")
+                    # f2.write(f"* {name_string} {name_string} ({horse_yob} {horse_sex} {sire_name})\n")
                 else:
                     pass
                 i += 1
@@ -676,11 +745,11 @@ def main():
 
     print("Shortening files for update...") # This seperated the update files into 3 main groups to append later
     for horse in zip(source_list, hip_list):
-        get_rr(f"{p_update}/PH{horse[1].zfill(6)}.txt", f"{p_update}/PH{horse[1].zfill(6)}_2.txt", f"{p_update}/{horse[1]}_norr.txt") # Gets the Record and Produce of the update file
-        get_produce(f"{p_update}/PH{horse[1].zfill(6)}_2.txt", f"{p_update}/PH{horse[1].zfill(6)}_produce.txt", f"{p_update}/PH{horse[1].zfill(6)}_rr.txt")
-        line_1st_dam = get_line_number(f"{p_update}/PH{horse[1].zfill(6)}.txt", one_dam_re)
-        shorten_file(f"{p_update}/PH{horse[1].zfill(6)}.txt", f"{p_update}/PH{horse[1].zfill(6)}_3.txt", 0, line_1st_dam) # Gets the 3x of the update file
-        get_middle(f"{p_update}/{horse[1]}_norr.txt", f"{p_update}/PH{horse[1].zfill(6)}_1.txt", '1st dam', '3rd dam')
+        get_rr(f"{p_update}/{sale_code}{horse[1].zfill(6)}.txt", f"{p_update}/{sale_code}{horse[1].zfill(6)}_2.txt", f"{p_update}/{horse[1]}_norr.txt") # Gets the Record and Produce of the update file
+        get_produce(f"{p_update}/{sale_code}{horse[1].zfill(6)}_2.txt", f"{p_update}/{sale_code}{horse[1].zfill(6)}_produce.txt", f"{p_update}/{sale_code}{horse[1].zfill(6)}_rr.txt")
+        line_1st_dam = get_line_number(f"{p_update}/{sale_code}{horse[1].zfill(6)}.txt", one_dam_re)
+        shorten_file(f"{p_update}/{sale_code}{horse[1].zfill(6)}.txt", f"{p_update}/{sale_code}{horse[1].zfill(6)}_3.txt", 0, line_1st_dam) # Gets the 3x of the update file
+        get_middle(f"{p_update}/{horse[1]}_norr.txt", f"{p_update}/{sale_code}{horse[1].zfill(6)}_1.txt", '1st dam', '3rd dam')
 
 
     print("Seperating the lines...")
@@ -704,7 +773,7 @@ def main():
                 # record = re.sub(r"\n\s{5}", ' ', record)
             f2.writelines(record+'\n')
 
-        with open(f"{p_update}/PH{horse[1].zfill(6)}_rr.txt", "r") as f, open(f"{p_update}/PH{horse[1].zfill(6)}_2.txt", "w") as f2:
+        with open(f"{p_update}/{sale_code}{horse[1].zfill(6)}_rr.txt", "r") as f, open(f"{p_update}/{sale_code}{horse[1].zfill(6)}_2.txt", "w") as f2:
             lines = f.readlines()
             rr = []
             record = ''
@@ -719,30 +788,30 @@ def main():
             f2.writelines(record+'\n')
 
         seperate_lines(f"{p_original}/{horse[0]}_1.txt", f"{p_original}/{horse[0]}_4.txt", line_sex_sire, True)
-        line_sex_sire = get_line_number(f"{p_update}/PH{horse[1].zfill(6)}_1.txt", sex_sire_re)
-        seperate_lines(f"{p_update}/PH{horse[1].zfill(6)}_1.txt", f"{p_update}/PH{horse[1].zfill(6)}_4.txt", line_sex_sire, True)
+        line_sex_sire = get_line_number(f"{p_update}/{sale_code}{horse[1].zfill(6)}_1.txt", sex_sire_re)
+        seperate_lines(f"{p_update}/{sale_code}{horse[1].zfill(6)}_1.txt", f"{p_update}/{sale_code}{horse[1].zfill(6)}_4.txt", line_sex_sire, True)
 
 
     print("Cleaning files...")
     for horse in zip(source_list, hip_list):
         clean_file(f"{p_original}/{horse[0]}_4.txt", f"{p_original}/{horse[0]}_5.txt")
-        clean_file(f"{p_update}/PH{horse[1].zfill(6)}_4.txt", f"{p_update}/PH{horse[1].zfill(6)}_5.txt")
+        clean_file(f"{p_update}/{sale_code}{horse[1].zfill(6)}_4.txt", f"{p_update}/{sale_code}{horse[1].zfill(6)}_5.txt")
     print("Done cleaning files")
 
     print("Jettisoning files...")
     for horse in zip(source_list, hip_list):
         jettison_shit(f"{p_original}/{horse[0]}_5.txt", f"{p_original}/{horse[0]}_test.txt")
-        jettison_shit(f"{p_update}/PH{horse[1].zfill(6)}_5.txt", f"{p_update}/PH{horse[1].zfill(6)}_test.txt")
+        jettison_shit(f"{p_update}/{sale_code}{horse[1].zfill(6)}_5.txt", f"{p_update}/{sale_code}{horse[1].zfill(6)}_test.txt")
 
     print("Appending files...")
     for horse in zip(source_list, hip_list): # I'm changing out _5 with _test
         append_files(f"{p_original}/{horse[0]}_3.txt", f"{p_original}/{horse[0]}_test.txt", f"{p_original}/{horse[0]}_2.txt", f"{p_original}/{horse[0]}_final.txt")
-        append_files(f"{p_update}/PH{horse[1].zfill(6)}_3.txt", f"{p_update}/PH{horse[1].zfill(6)}_test.txt", f"{p_update}/PH{horse[1].zfill(6)}_2.txt", f"{p_update}/PH{horse[1].zfill(6)}_final.txt")
+        append_files(f"{p_update}/{sale_code}{horse[1].zfill(6)}_3.txt", f"{p_update}/{sale_code}{horse[1].zfill(6)}_test.txt", f"{p_update}/{sale_code}{horse[1].zfill(6)}_2.txt", f"{p_update}/{sale_code}{horse[1].zfill(6)}_final.txt")
     print("Done appending files")
     
     print("Comparing files...")
     for horse in zip(source_list, hip_list):
-        diff_report(f"{p_original}/{horse[0]}_final.txt", f"{p_update}/PH{horse[1].zfill(6)}_final.txt", f"{p_report}/{horse[1]}.txt", horse[1])
+        diff_report(f"{p_original}/{horse[0]}_final.txt", f"{p_update}/{sale_code}{horse[1].zfill(6)}_final.txt", f"{p_report}/{horse[1]}.txt", horse[1])
     print("Done comparing files")
 
     print("Cleaning up HTML...")
@@ -756,6 +825,15 @@ def main():
                 line = line.replace('[22m', '</strong>')
                 f.writelines(line)
     print("Done cleaning the diff")
+
+    for horse in zip(source_list, hip_list):
+        with open(f"{p_report}/pp/{horse[1]}-table.html", 'r') as f:
+            flines = f.readlines()
+        with open(f"{p_report}/pp/{horse[1]}.html", 'w') as f:
+            for line in flines:
+                line = line.replace('[1m', '<strong>')
+                line = line.replace('[22m', '</strong>')
+                f.writelines(line)
 
     print("Making text file markdown...")
     # This is so I can manipulate the text file to make it look better
@@ -791,16 +869,17 @@ def main():
         os.remove(f"{p_original}/{horse[0]}_final.txt")
         os.remove(f"{p_original}/{horse[0]}_produce.txt")
         os.remove(f"{p_original}/{horse[0]}_rr.txt")
-        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_1.txt")
-        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_2.txt")
-        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_3.txt")
-        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_4.txt")
-        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_5.txt")
+        os.remove(f"{p_update}/{sale_code}{horse[1].zfill(6)}_1.txt")
+        os.remove(f"{p_update}/{sale_code}{horse[1].zfill(6)}_2.txt")
+        os.remove(f"{p_update}/{sale_code}{horse[1].zfill(6)}_3.txt")
+        os.remove(f"{p_update}/{sale_code}{horse[1].zfill(6)}_4.txt")
+        os.remove(f"{p_update}/{sale_code}{horse[1].zfill(6)}_5.txt")
         os.remove(f"{p_update}/{horse[1]}_norr.txt")
-        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_final.txt")
-        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_test.txt")
-        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_produce.txt")
-        os.remove(f"{p_update}/PH{horse[1].zfill(6)}_rr.txt")
+        os.remove(f"{p_update}/{sale_code}{horse[1].zfill(6)}_final.txt")
+        os.remove(f"{p_update}/{sale_code}{horse[1].zfill(6)}_test.txt")
+        os.remove(f"{p_update}/{sale_code}{horse[1].zfill(6)}_produce.txt")
+        os.remove(f"{p_update}/{sale_code}{horse[1].zfill(6)}_rr.txt")
+        os.remove(f"{p_report}/pp/{horse[1]}-table.html")
     # print("Done cleaning up")
 
     print("Done")
