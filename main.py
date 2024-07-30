@@ -729,6 +729,7 @@ def main():
     print("Getting meta data...")
     # get_meta_data()
     hip_list = get_meta_data()[0]
+    print(hip_list)
     source_list = get_meta_data()[1]
     print("Done with meta data")
 
