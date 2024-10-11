@@ -56,7 +56,8 @@ def main():
     ############################################################
     # HTML Code
     ############################################################
-
+# td:nth-child(3) {background: #aaaaaa; max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+# Put back at line 78
     html_start = '''
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
           "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -75,12 +76,30 @@ def main():
         .diff_add {background-color:#aaffaa}
         .diff_chg {background-color:#ffff77}
         .diff_sub {background-color:#ffaaaa}
-        td:nth-child(3) {background: #aaaaaa; max-width: 600px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+        td:nth-child(-n+3) {background: #aaaaaa; max-width: 0px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+        td:nth-child(6) {background: #ffffff; max-width: 1500px; display: block; white-space: normal; word-wrap: break-word; padding-right: 25px; text-indent: 0px; border-bottom: 1px solid #ddd;}
+        td:nth-child(6)::before {content: ''; display: block; margin-left: -40px; width: 40px;}
         /* tbody { overflow-x: auto;} */
     </style>
 </head>
 
 <body>
+<form id="fileForm" action="#" method="get">
+        <label for="fileName">Go to hip:</label>
+        <input type="text" id="fileName" name="fileName" required>
+        <button type="submit">Load File</button>
+    </form>
+    
+    <script>
+        document.getElementById('fileForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            let fileName = document.getElementById('fileName').value;
+            if (!fileName.endsWith('.html')) {
+                fileName += '.html';
+            }
+            window.location.href = fileName;
+        });
+    </script>
     
     '''
     html_end = '''
@@ -284,20 +303,33 @@ def main():
     def diff_report(original, update, report, hip):
         '''Creates a report for each hip number. Takes the lists from get_meta_data() and the path to the report directory'''
         i = 0
-        if os.path.isdir(report):
-            os.remove(report)
-        f = open(original, "r")
-        f2 = open(update, "r")
-        f3 = open(report, 'w')
-        f4 = open(f"{p_report}/pp/{hip}.html", 'w')
-        f5 = open(f"{p_report}/pp/{hip}-table.html", "w")
+        # i is the index of the hip number
+        if os.path.isdir(report): # If the directory exists, then remove it
+            os.remove(report) # Remove the directory
+        f = open(original, "r") # Open the original file
+        f2 = open(update, "r") # Open the update file
+        f3 = open(report, 'w') # Open the report file
+        f4 = open(f"{p_report}/pp/{hip}.html", 'w') # Open the html file
+        f5 = open(f"{p_report}/pp/{hip}-table.html", "w") # Open the html table file
         flines = f.readlines()
         flines2 = f2.readlines()
         diff = difflib.ndiff(flines, flines2) #, fromfile=f"{original}", tofile=f"{update}"
-        diffh = difflib.HtmlDiff().make_file(flines, flines2, f"{original}", f"{update}")
+        diffh = difflib.HtmlDiff().make_file(flines, flines2, f"{original}", f"{update}") # This is a table:
+
         # This is a table:
         
         diffa = difflib.HtmlDiff().make_table(flines, flines2, hip)
+
+        # Remove the first 3 colums of the table
+        # soup = BeautifulSoup(diffa, 'html.parser')
+        # for row in soup.find_all('tr'):
+        #     cols = row.find_all('td')
+        #     for col in cols[3:]:
+        #         col.decompose()
+        # modified_diffa = str(soup)
+        # modified_diffa = modified_diffa.replace('&nbsp;', ' ')
+        # print(modified_diffa)
+
         hip_number = int(hip)
         hip_plus = hip_number + 1
         hip_minus = hip_number - 1
@@ -309,6 +341,7 @@ def main():
         f5.write(html_start)
         f5.write(f"<h4>Hip Number: {hip_number}</h4><p><a href='{hip_minus}.html'>Previous</a> | <a href='{hip_plus}.html'>Next</a></p>")
         f5.write(''.join(diffa))
+        # f5.write(''.join(modified_diffa))
         f5.write(f"<h1>Hip Number: {hip_number}</h1></br><h2><a href='{hip_minus}.html'>Previous</a></h2> <h2><a href='{hip_plus}.html'>Next</a></h2>")
         f5.write(html_end)
 
@@ -332,7 +365,6 @@ def main():
         re_junk = re.compile(r'(?!^)(\s{3}\.?([\s\.])*)')
         for line in lines:
             if re_junk.search(line):
-                # print("Found junk")
                 line = re.sub(re_junk, ' ', line)
                 f2.writelines(line)
             else:
@@ -413,7 +445,7 @@ def main():
                                 og_money = int(og_money.group('money').replace(',', ''))
                             else:
                                 og_money = 0
-                            if update_money > og_money+1000: # If the update money is more than 5k greater than the original money, then it's a potential update
+                            if update_money > og_money+10000: # If the update money is more than 5k greater than the original money, then it's a potential update
                                 # line_number.append(i)
                                 # f1.writelines(line)
                                 # print('Update', line)
@@ -460,9 +492,9 @@ def main():
             # elif line.startswith('-'):
             #     pass
             # elif line.startswith('+'):
-        print("Horse number ", horse)
-        print("The strings ", the_strings)
-        print("The numbers ", the_numbers)
+        # print("Horse number ", horse)
+        # print("The strings ", the_strings)
+        # print("The numbers ", the_numbers)
         if len(the_strings) == 0: # If there are no updates, then don't make an xml file
             pass
         else:
@@ -816,24 +848,28 @@ def main():
     print("Done comparing files")
 
     print("Cleaning up HTML...")
-    for horse in zip(source_list, hip_list):
-        with open(f"{p_report}/pp/{horse[1]}.html", 'r') as f:
-            flines = f.readlines()
-        with open(f"{p_report}/pp/{horse[1]}.html", 'w') as f:
-            for line in flines:
-                # [1mCATNIP[22m
-                line = line.replace('[1m', '<strong>')
-                line = line.replace('[22m', '</strong>')
-                f.writelines(line)
-    print("Done cleaning the diff")
+    # for horse in zip(source_list, hip_list):
+    #     with open(f"{p_report}/pp/{horse[1]}.html", 'r') as f:
+    #         flines = f.readlines()
+    #     with open(f"{p_report}/pp/{horse[1]}.html", 'w') as f:
+    #         for line in flines:
+    #             # [1mCATNIP[22m
+    #             line = line.replace('[1m', '<strong>')
+    #             line = line.replace('[22m', '</strong>')
+    #             f.writelines(line)
+    # print("Done cleaning the diff")
 
     for horse in zip(source_list, hip_list):
         with open(f"{p_report}/pp/{horse[1]}-table.html", 'r') as f:
             flines = f.readlines()
         with open(f"{p_report}/pp/{horse[1]}.html", 'w') as f:
             for line in flines:
+                # Replace all &nbsp; in regex with space
+                # re_space = re.compile(r'&nbsp;')
+                # line = re.sub(re_space, ' ', line)
                 line = line.replace('[1m', '<strong>')
                 line = line.replace('[22m', '</strong>')
+                
                 f.writelines(line)
 
     print("Making text file markdown...")
@@ -854,6 +890,9 @@ def main():
                 i += 1
 
     print("getting updates...")
+    # delete report.md before starting
+    if os.path.exists(f"{p_report}/report.md"):
+        os.remove(f"{p_report}/report.md")
     for horse in zip(source_list, hip_list):
       #   get_updates(f"{p_report}/{horse[1]}.txt", horse[1])
         get_markdown(f"{p_report}/{horse[1]}.txt", horse[1], f"{p_report}/report.md")
@@ -881,6 +920,7 @@ def main():
         os.remove(f"{p_update}/{sale_code}{horse[1].zfill(6)}_produce.txt")
         os.remove(f"{p_update}/{sale_code}{horse[1].zfill(6)}_rr.txt")
         os.remove(f"{p_report}/pp/{horse[1]}-table.html")
+    print("Done cleaning up")
     # print("Done cleaning up")
 
     print("Done")
