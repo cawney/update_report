@@ -1,473 +1,364 @@
-## Hip: 2
-
-+    .  Fun Notion (2020 g. by Great Notion). 3 wins at 3 and 4, 2024, $134,850.
-+    **Midnight Humor** (2022 g. by Spun to Run). Winner at 2, 2024, $58,198, 2nd Texas Thoroughbred Association Futurity-R (LS, $30,000).
-## Hip: 3
-
-+    .  Highway Harmony (2020 f. by Mo Town). Winner at 2, placed at 4, 2024, $95,218.
 ## Hip: 4
 
-+    .  .  Just a Irish Lad (2018 g. by Paddy O'Prado). 5 wins, 2 to 5, placed at 6, 2024, $125,923.
++    .  .  My Expression (2014 f. by Afleet Express). 9 wins, 3 to 7, placed at 9, 2023, $78,191, in N.A./U.S.; placed at 9, 2023, $960, in Canada. (Total: $78,915).
 ## Hip: 5
 
-+    Sacred Thunder (2022 c. by Holy Boss). Winner at 2, 2024, $55,500.
-## Hip: 15
++    **Kissedbyanangel** (2021 f. by Golden Lad). 2 wins at 2, 2023, $76,930, 3rd Maryland Million Lassie S.-R (LRL, $10,000).
+## Hip: 6
 
-+    Ariel Moon (2021 f. by Mosler). Placed at 2 and 3, 2024, $29,400.
++    Angel Art (2020 f. by Imagining). Winner at 2 and 3, 2023, $88,810.
++    .  Shoopthereitis (2020 f. by Carpe Diem). 2 wins at 3, 2023, $48,814.
+## Hip: 7
+
++    .  .  **AOIFE'S MAGIC** (2021 f. by Smarty Jones). 3 wins in 3 starts at 2, 2023, $148,800, 1st Imply S.-R (PRX, $82,800).
++    .  .  Refund Rigler (2019 g. by Peace and Justice). 3 wins at 3 and 4, 2023, $78,651.
++    .  .  Rhumjar (2019 g. by Holy Boss). 2 wins at 3, placed at 4, 2023, $117,830.
++    .  Dial for Love (2020 f. by Dialed In). Winner at 3, 2023, $39,314.
+## Hip: 8
+
++    .  .  Moral Turpitude (2020 f. by Empire Maker). Winner at 3, 2023, $64,507, in Canada; unplaced, $6,050, in N.A./U.S. (Total: $54,372).
++    .  .  Slime Queen (2017 f. by Karakontie (JPN)). 6 wins, 4 to 6, 2023, $175,223.
+## Hip: 9
+
++    Full Proof (2021 g. by Bourbon Courage). Winner at 2, 2023, $49,350.
+## Hip: 11
+
++    .  .  .  Full Authority (2017 c. by Summer Front). 6 wins, 3 to 6, 2023, $356,062.
++    .  .  **Secrets Told** (2018 f. by Broken Vow). Winner at 4 and 5, 2023, $116,130, in N.A./U.S., 3rd Camilla Urso S. (GG, $9,000); winner at 4, $205,779, in Canada. (Total: $278,436).
++    .  .  Broken Proposal (2019 f. by Broken Vow). 2 wins at 3, $90,667, in Canada; winner at 4, 2023, $19,860, in N.A./U.S. (Total: $89,862).
++    .  .  .  Gun Rush (2019 g. by Violence). 6 wins at 3 and 4, 2023, $103,168.
++    .  .  .  Kissed by Fire (2020 f. by Friesan Fire). 3 wins at 3, 2023, $171,100.
+## Hip: 13
+
++    .  .  Light Fast Feet (2018 f. by Declassify). 4 wins, 2 to 5, 2023, $75,293, in Canada. (Total: $57,749).
 ## Hip: 16
 
-+    .  .  You're the One (2020 f. by Bandbox). 4 wins at 3, placed at 4, 2024, $125,026.
-+    .  .  Dalinar (2021 g. by Uncle Lino). 2 wins at 3, 2024, $93,814.
-## Hip: 18
-
-+    **Tidewater** (2020 g. by Outflanker). 3 wins at 3 and 4, 2024, $180,100, 2nd Maryland Million Turf Sprint S.-R (LRL, $20,000), Ben's Cat S.-R (LRL, $15,000).
-+    Beltane (2021 g. by Outflanker). 2 wins at 3, 2024, $131,500.
-+    Benny Havens (2017 g. by Outflanker). Winner at 2, placed at 7, 2024, $118,381.
++    All the Way (2021 g. by Uncle Lino). Winner at 2, 2023, $29,550.
 ## Hip: 19
 
-+    **Circle Home** (2019 f. by Bodemeister). 3 wins at 4 and 5, 2024, $206,167, 3rd All Along S. (LRL, $10,000).
++    Mim (2020 f. by Practical Joke). Winner at 3, 2023, $70,330.
 ## Hip: 20
 
-+    Whiteknuckleflyer (2019 f. by Uncle Lino). 4 wins, 2 to 5, 2024, $203,965.
-## Hip: 21
++    .  **Liquidator** (2020 f. by Divining Rod). 7 wins at 2 and 3, 2023, $282,620, 2nd Miss Disco S.-R (LRL, $15,000).
++    .  .  Domineer (2017 f. by Kantharos). 8 wins, 3 to 5, placed at 6, 2023, $195,630.
+## Hip: 22
 
-+    Great Kisser (2021 g. by Great Notion). 2 wins at 3, 2024, $47,140.
-+    .  **Wish Me Home** (2019 g. by Midshipman). 5 wins, 2 to 5, 2024, $253,400, 3rd Laurel Futurity (LRL, $15,000), Exacta Systems Rosie's S. (CNL, $11,000), Find S.-R (LRL, $7,500).
-+    .  .  **TOO MANY KISSES** (2020 f. by Arrogate). 3 wins at 3 and 4, 2024, $146,730, 1st Conniver S.-R (LRL, $45,000).
-+    .  .  Sing Scat (2020 f. by Irish War Cry). 5 wins at 3 and 4, 2024, $128,625.
-## Hip: 23
-
-+    Devil Pays in Gold (2020 f. by Uncle Lino). 6 wins at 3 and 4, 2024, $223,328.
++    .  Stormin Melly (2020 f. by Mo Town). 2 wins at 3, 2023, $24,080.
++    .  .  Acasha's Intuition (2018 g. by Shackleford). 2 wins at 5, 2023, $56,470.
 ## Hip: 24
 
-+    .  .  Haley Who (2019 f. by Tonalist). Winner at 3 and 4, placed at 5, 2024, $51,133.
-+    .  .  =Nishino Succubus (JPN) (2020 f. by =Nero (JPN)). 4 wins at 3 and 4, 2024, 9,990,000 Yen, in Japan. (Total: $66,137).
-## Hip: 28
++    .  Walks Like a Lady (2018 f. by Vancouver (AUS)). 5 wins at 4 and 5, 2023, $117,260.
++    .  Mad Magic (2019 g. by Munnings). Winner at 4, 2023, $59,361.
++    .  Alcohol (2021 f. by Vino Rosso). 2 wins in 4 starts at 2, 2023, $57,018.
+## Hip: 26
 
-+    Granuaile (2021 f. by Holy Boss). Placed at 3, 2024, $38,085.
-+    Beautiful Gorgeous (2019 f. by Holy Boss). Winner at 4 and 5, 2024, $97,565.
-+    Dead Sexy (2021 f. by Holy Boss). Placed at 3, 2024, $46,535.
++    .  .  =Sea Stone (IRE) (2019 g. by =Sea The Stars (IRE)). 3 wins at 3 and 4, 2023, 38,844 Pounds, in England; placed at 4, 2023, 24,250 Dirhams, in United Arab Emirates. (Total: $54,731).
++    .  .  **=AL NEFUD (GB)** (2018 g. by Dubawi (IRE)). 3 wins in 5 starts, 3 to 5, 2023, 671,069 Dirhams, in United Arab Emirates, 1st Dubai Creek Mile Presented By Palm Beach Towers [L], 2nd The Longines Record Al Maktoum Challenge Round 2 **[G2]**; placed at 3, 3,771 Pounds, in England. (Total: $187,965).
++    .  .  Bryce Canyon (2018 g. by Ghostzapper). 5 wins, 2 to 5, 2023, $119,468.
++    .  .  .  =Eeetee (IRE) (2018 g. by =Fast Company (IRE)). 4 wins at 4 and 5, 2023, 33,229 Pounds, in England; placed at 2, 18,020 Euro, in France. (Total: $61,335).
++    .  .  Son of a Saint (2014 g. by Speightstown). 10 wins, 3 to 9, 2023, $224,280.
++    .  .  =Gold Crest (JPN) (2017 c. by =Kizuna (JPN)). 13 wins, 3 to 5, placed at 6, 2023, 20,032,000 Yen, in Japan. (Total: $153,049).
++    .  .  =Proud Heritage (JPN) (2019 c. by =Just a Way (JPN)). Winner at 3 and 4, 2023, 14,400,000 Yen, in Japan. (Total: $103,230).
++    .  .  Neogem (2020 f. by Neolithic). 2 wins at 3, 2023, $66,950.
++    .  .  Trade Secret (2019 f. by Goldencents). 4 wins at 2 and 3, placed at 4, 2023, $207,115.
+## Hip: 27
+
++    Love Is Wicked (2021 g. by Wicked Strong). Placed at 2, 2023, $19,168.
 ## Hip: 29
 
-+    .  .  Appealingtothe Eye (2020 f. by Mastery). 3 wins at 3 and 4, 2024, $66,780.
++    Classic Dancer (2020 g. by Collected). Winner at 3, 2023, $44,478, in Canada; unplaced in 2 starts in N.A./U.S. (Total: $32,714).
+## Hip: 30
+
++    .  .  .  =Nishino Cashmere (JPN) (2020 f. by Discreet Cat). 3 wins at 2 and 3, 2023, 31,080,000 Yen, in Japan. (Total: $222,154).
++    .  .  .  =Nishino Lana (JPN) (2019 f. by The Factor). Winner at 3 and 4, 2023, 17,100,000 Yen, in Japan. (Total: $131,786).
++    .  .  .  =Nishino Bryant (JPN) (2018 c. by =Tanino Gimlet (JPN)). 5 wins, 3 to 5, 2023, 10,355,000 Yen, in Japan. (Total: $79,148).
++    .  .  .  =Moeyo Dragon (JPN) (2019 g. by Asia Express). 4 wins at 2 and 4, 2023, 10,710,000 Yen, in Japan. (Total: $87,689).
++    .  .  =Clap Thunder (JPN) (2019 c. by =Just a Way (JPN)). Winner at 3, placed at 4, 2023, 15,970,000 Yen, in Japan. (Total: $120,054).
 ## Hip: 33
 
-+    .  Corona Campione (2021 f. by Peace and Justice). 5 wins at 2 and 3, 2024, $111,472.
-+    .  .  Coalville (2020 g. by Into Mischief). Winner at 4, 2024, $107,150.
-+    .  .  Carolo Rapido (2021 c. by Curlin). 2 wins at 3, 2024, $97,528.
-+    .  =Mugello (JPN) (2020 c. by =Heart's Cry (JPN)). Winner at 3 and 4, 2024, 31,217,000 Yen, in Japan. (Total: $207,764).
-## Hip: 37
++    .  .  Sag Harbor (2017 c. by Palace). 5 wins at 4 and 6, 2023, $124,628.
++    .  .  My Girl Jal (2020 f. by Palace). 2 wins at 3, 2023, $53,758.
++    .  .  Candy Caramel (2020 f. by Candy Ride (ARG)). 2 wins at 3, 2023, $93,130.
+## Hip: 34
 
-+    .  .  Winning Connection (2020 g. by Connect). 2 wins at 3, placed at 4, 2024, $139,634.
-## Hip: 40
++    .  **Easy Action** (2020 g. by Speightstown). 2 wins at 3, 2023, $203,510, 2nd Star De Naskra S.-R (LRL, $15,000).
+## Hip: 36
 
-+    .  .  Hector (2021 g. by Maclean's Music). 3 wins at 2 and 3, 2024, $105,325.
-## Hip: 41
++    .  Fun Notion (2020 g. by Great Notion). 2 wins at 3, 2023, $93,940.
+## Hip: 39
 
-+    .  .  **AOIFE'S MAGIC** (2021 f. by Smarty Jones). 4 wins at 2, placed at 3, 2024, $304,680, 1st Miss Behaviour S.-R (PRX, $112,800), Imply S.-R (PRX, $82,800), 3rd Beyond The Wire S. (LRL, $10,000).
-+    .  .  Rhumjar (2019 g. by Holy Boss). 6 wins, 3 to 5, 2024, $204,250.
-+    .  .  Gurt's Warrior (2020 g. by Warrior's Reward). 3 wins at 4, 2024, $69,378.
++    .  =Chikappa (JPN) (2021 c. by =Real Steel (JPN)). Winner at 2, 2023, 17,202,000 Yen, in Japan. (Total: $116,081).
 ## Hip: 42
 
-+    .  Luz de La Luna (2019 f. by Uncaptured). 7 wins, 2 to 5, 2024, $341,405, in Canada. (Total: $257,584).
-## Hip: 43
-
-+    .  .  **FIERCENESS** (2021 c. by City of Light). 5 wins in 8 starts at 2 and 3, 2024, $2,666,350, champion 2-year-old colt in U.S. (2023), 1st Breeders' Cup Juvenile **[G1]** (SA, $1,040,000), Draftkings Travers S. **[G1]** (SAR, $687,500), Curlin Florida Derby **[G1]** (GP, $576,600), Jim Dandy S. Presented by Mohegan Sun **[G2]** (SAR, $275,000), 3rd Holy Bull S. **[G3]** (GP, $24,500).
-+    .  .  Mentee (2022 c. by City of Light). Winner in 2 starts at 2, 2024, $51,750 Set ntr at Belmont At The Big A, 5 furlongs in 0:56.97 (06/15/24).
-## Hip: 44
-
-+    In Traffic (2019 f. by Cross Traffic). 5 wins, 3 to 5, 2024, $91,542.
++    Hardspun Reason (2019 g. by Hard Spun). 3 wins at 3 and 4, 2023, $110,265.
 ## Hip: 45
 
-+    .  **HOT GIRL WALK** (2022 f. by Bodexpress). 2 wins in 3 starts at 2, 2024, $117,000, 1st Generous Portion S.-R (DMR, $57,000).
++    .  **HONOR MARIE** (2021 c. by Honor Code). 2 wins in 3 starts at 2, 2023, $318,175, 1st Kentucky Jockey Club S. **[G2]** (CD, $240,455).
++    .  .  =Tomila (FR) (2020 f. by =Siyouni (FR)). 3 wins at 2 and 3, 2023, 55,500 Euro, in France. (Total: $58,013).
++    .  .  =Adjuvant (IRE) (2019 g. by =New Bay (GB)). 4 wins, 2 to 4, 2023, 106,138 Pounds, in England; unplaced in 1 start, 2,500 Euro, in Ireland. (Total: $135,370).
++    .  .  Paleo's Princess (2019 f. by Square Eddie). 3 wins at 3 and 4, 2023, $99,980.
++    .  =Yellowbrick Road (IRE) (2019 g. by Golden Horn (GB)). Winner in 1 start at 2, 3,510 Pounds, in England; winner at 4, 2023, $45,480(AUS), in Australia. (Total: $33,872).
 ## Hip: 46
 
-+    .  She's Always Rosie (2021 f. by Tapiture). Winner at 3, 2024, $79,753.
-## Hip: 48
++    .  Doin'ittherightway (2019 g. by Super Saver). 7 wins, 2 to 4, 2023, $183,949.
++    .  .  Nature Trail (2019 f. by Petionville). Winner at 4, 2023, $67,443.
++    .  .  On an Island (2020 g. by Petionville). Winner at 3, 2023, $52,618.
+## Hip: 50
 
-+    **TOO MANY KISSES** (2020 f. by Arrogate). 3 wins at 3 and 4, 2024, $146,730, 1st Conniver S.-R (LRL, $45,000).
-## Hip: 49
-
-+    **MONDAY MORNING QB** (2017 g. by Imagining). 7 wins, 2 to 7, 2024, $443,515, 1st Heft S. [L] (LRL, $60,000), Maryland Million Classic S.-R (LRL, $85,155), 2nd Discovery S. **[G3]** (AQU, $20,000), Federico Tesio S. (LRL, $20,000).
-+    .  **Tapit Shoes** (2020 g. by Tapit). Winner at 2 and 4, 2024, $170,620, 2nd Bath House Row S. [L] (OP, $37,600).
-+    .  Riley Jean (2020 f. by Gun Runner). 3 wins at 4, 2024, $141,705.
-+    .  K Kake Pop (2021 f. by Munnings). 2 wins at 3, 2024, $81,110.
++    .  .  **AOIFE'S MAGIC** (2021 f. by Smarty Jones). 3 wins in 3 starts at 2, 2023, $148,800, 1st Imply S.-R (PRX, $82,800).
++    .  .  Refund Rigler (2019 g. by Peace and Justice). 3 wins at 3 and 4, 2023, $78,651.
++    .  .  Rhumjar (2019 g. by Holy Boss). 2 wins at 3, placed at 4, 2023, $117,830.
++    .  Dial for Love (2020 f. by Dialed In). Winner at 3, 2023, $39,314.
 ## Hip: 51
 
-+    .  Kerness K (2022 g. by Great Notion). Winner at 2, 2024, $51,215.
++    **Exact Estimate** (2019 c. by Into Mischief). 3 wins at 4, 2023, $226,190, 2nd Artie Schiller S. [L] (AQU, $30,000).
+## Hip: 52
+
++    Suga Steve (2021 c. by Goldencents). Winner at 2, 2023, $36,452.
++    **Exact Estimate** (2019 c. by Into Mischief). 3 wins at 4, 2023, $226,190, 2nd Artie Schiller S. [L] (AQU, $30,000).
+## Hip: 54
+
++    **AMANDA'S FOLLY** (2020 f. by Mendelssohn). 5 wins at 3, 2023, $345,630, 1st Ticonderoga S.-R (BAQ, $110,000), 2nd Fleet Indian S.-R (SAR, $40,000).
++    .  .  Private Lake (2016 g. by Hamazing Destiny). 7 wins, 4 to 6, $104,810, in N.A./U.S.; winner at 7, 2023, $11,840, in Canada. (Total: $113,711).
++    .  .  Swaggy George (2018 g. by Not This Time). 3 wins at 2 and 4, placed at 5, 2023, $87,346.
+## Hip: 55
+
++    Talking Wonders (2020 f. by Klimt). Winner at 3, 2023, $39,214, in Canada. (Total: $28,765).
++    **AMANDA'S FOLLY** (2020 f. by Mendelssohn). 5 wins at 3, 2023, $345,630, 1st Ticonderoga S.-R (BAQ, $110,000), 2nd Fleet Indian S.-R (SAR, $40,000).
 ## Hip: 57
 
-+    Tactical Humor (2021 g. by Command Post). Winner at 3, 2024, $29,226.
-+    .  Party At Sam's (2021 g. by Weigelia). Winner at 2 and 3, 2024, $102,383.
++    **Final Shot** (2015 g. by Talent Search). 7 wins, 3 to 8, 2023, $368,667, 3rd Banjo Picker Sprint S.-R (PRX, $9,875).
 ## Hip: 59
 
-+    .  **RED RIVER REBEL** (2018 g. by Reload). 7 wins, 2 to 6, 2024, $440,035, in Canada, 1st Frost King S.-R (WO, $60,000), Lake Erie S.-R (FE, $48,000), 3rd Queenston S.-R (WO, $13,750); placed in 1 start at 6, 2024, $3,410, in N.A./U.S. (Total: $334,920).
-## Hip: 60
-
-+    Artistic Reason (2017 g. by Munnings). 10 wins, 3 to 7, 2024, $244,316.
++    Burningupthedough (2021 g. by Friesan Fire). Placed at 2, 2023, $16,963.
 ## Hip: 62
 
-+    .  .  Crimson Nights (2020 f. by Souper Speedy). Winner at 4, 2024, $92,806, in Canada. (Total: $68,343).
-## Hip: 63
-
-+    Grouch (2020 g. by Hey Chub). 3 wins at 3 and 4, 2024, $197,624.
-+    Changing the Karma (2019 g. by Midshipman). Placed, 3 to 5, 2024, $94,265.
-## Hip: 64
-
-+    Beautiful Gorgeous (2019 f. by Holy Boss). Winner at 4 and 5, 2024, $97,565.
-+    .  Granuaile (2021 f. by Holy Boss). Placed at 3, 2024, $38,085.
-+    Dead Sexy (2021 f. by Holy Boss). Placed at 3, 2024, $46,535.
-## Hip: 65
-
-+    Bold Looker (2019 g. by Arrogate). Winner at 4 and 5, 2024, $141,461.
++    .  **CATAHOULA MOON** (2021 c. by Golden Lad). 2 wins at 2, 2023, $109,420, 1st Maryland Million Nursery S.-R (LRL, $55,000).
 ## Hip: 66
 
-+    .  .  .  =Ginnivan (AUS) (2020 g. by =Universal Ruler (AUS)). 5 wins at 3 and 4, 2024, $505,120(AUS), in Australia. (Total: $337,057).
-## Hip: 67
++    .  **Sweetie** (2018 f. by Effinex). 3 wins in 6 starts at 5, 2023, $166,050, 3rd Ticonderoga S.-R (BAQ, $24,000).
+## Hip: 70
 
-+    .  Kissing Medals (2021 f. by Medal Count). 3 wins at 3, 2024, $64,698.
-## Hip: 75
++    .  Kiss Upon a Star (2019 f. by Twirling Candy). 3 wins at 4, 2023, $37,298.
++    .  .  Ready Pursuit (2019 g. by Klimt). Winner at 2 and 3, placed at 4, 2023, $87,743.
++    .  Jubay (2020 g. by Juba). 3 wins at 3, 2023, $27,788.
++    .  .  Leg Up (2019 g. by Windsor Castle). 4 wins at 3 and 4, 2023, $89,548.
+## Hip: 71
 
-+    Mystic Power (2021 g. by Good Magic). 2 wins at 3, 2024, $21,369.
++    .  **Lambeau** (2016 g. by First Samurai). 4 wins, 3 to 7, 2023, $160,971, 3rd Lure S.-R (SA, $8,976).
+## Hip: 78
+
++    Little Bit of That (2019 f. by Great Notion). 6 wins, 2 to 4, 2023, $121,792.
++    .  .  .  Roman Goddess (2020 f. by Twirling Candy). 2 wins at 3, 2023, $87,659.
+## Hip: 80
+
++    Margie's Fun Son (2020 g. by Keen Ice). Winner at 3, 2023, $50,560.
 ## Hip: 82
 
-+    .  Taz Marking (2021 g. by Marking). Placed at 3, 2024, $23,608.
-+    .  **Kayla** (2019 f. by Midshipman). 4 wins, 3 to 5, 2024, $202,601, 2nd Iowa Breeders' Oaks-R (PRM, $19,900), Hawkeyes H.-R (PRM, $14,600).
-+    .  Society's Thunder (2019 g. by Society's Chairman). 3 wins at 4 and 5, 2024, $133,884, in Canada. (Total: $99,033).
-## Hip: 83
++    **VACATION DANCE** (2020 c. by The Lieutenant). 3 wins at 2 and 3, 2023, $252,380, 1st Atlantic Beach S. (AQU, $66,000), 3rd Futurity S. **[G3]** (BAQ, $18,000), Paradise Creek S. [L] (BEL, $18,000), New York Stallion Series S.-R (SAR, $18,000).
+## Hip: 84
 
-+    .  .  **J J ZO ZO** (2022 c. by Sea Wizard). 2 wins in 4 starts at 2, 2024, $121,593, 1st Smoke Glacken S. (MTH, $75,000).
++    **DISCO EBO** (2019 f. by Weigelia). 9 wins in 18 starts, 2 to 4, 2023, $534,644, 1st Youngstown Oaks (MVR, $58,200), Penn's Landing S. (PRX, $41,400), Shamrock Rose S.-R (PEN, $120,000), 2nd Unique Bella S.-R (PRX, $25,000), 3rd Garland of Roses S. [L] (AQU, $14,400), Society Hill S. (PRX, $10,000).
++    .  Covert Kat (2019 g. by Run Away and Hide). 2 wins at 4, 2023, $128,680.
++    .  Kool Kathmandu (2020 g. by Frosted). Winner at 2 and 3, 2023, $87,630.
+## Hip: 85
+
++    .  **PRIVATE CREED** (2020 c. by Jimmy Creed). 5 wins at 2 and 3, 2023, $1,329,166, 1st Exacta Systems Franklin-Simpson S. **[G2]** (KD, $585,960), Global Tote Juvenile Sprint S. [L] (KD, $310,000), Indian Summer S. [L] (KEE, $145,313), 2nd Mahony S. [L] (SAR, $30,000), Bob Bork Texas Turf Mile S. (HOU, $19,600), 3rd Breeders' Cup Juvenile Turf Sprint **[G1]** (KEE, $90,000), Skidmore S. (SAR, $18,000).
++    .  **Tufani** (2020 f. by Distorted Humor). 3 wins in 6 starts at 3, 2023, $113,942, 2nd Brookmeade S.-R (CNL, $25,000).
 ## Hip: 86
 
-+    **Komorebino Omoide (JPN)** (2020 c. by California Chrome). 3 wins at 4, 2024, $217,766, 3rd Charles Town Classic S. **[G2]** (CT, $94,000), West Virginia Governor's S. **[G3]** (MNR, $20,000), Texas Turf Classic S. (LS, $26,263). Sent from Japan to United States in 2022.
-## Hip: 87
++    .  Second Exchange (2017 f. by Baryshnikov). 6 wins, 3 to 6, 2023, $106,400.
+## Hip: 90
 
-+    .  .  Fainor's Filets (2021 f. by Preservationist). 3 wins at 2 and 3, 2024, $80,670.
-+    .  .  Chaparrita (2020 f. by Malibu Moon). 4 wins, 2 to 4, 2024, $59,838.
-+    .  Victoria's Dancer (2021 f. by Munnings). Winner at 3, 2024, $65,475.
-## Hip: 88
++    Nick's Little Boy (2020 g. by Long River). 2 wins at 3, 2023, $37,018.
+## Hip: 91
 
-+    .  **SUPER ACCELERATE** (2020 c. by Accelerate). 3 wins at 3, placed at 4, 2024, $167,550, 1st Star De Naskra S.-R (LRL, $45,000), 3rd Howard and Sondra Bender Memorial S.-R (LRL, $7,500).
-+    Old Bay (2021 f. by Golden Lad). Winner at 2 and 3, 2024, $111,357.
++    Hammerin Aamer (2014 g. by Jump Start). 13 wins, 3 to 9, 2023, $614,254.
++    .  Northern Glow (2020 f. by Union Rags). Winner at 3, 2023, $60,210.
++    .  .  Your Analysis (2019 g. by Practical Joke). 3 wins at 4, 2023, $116,615.
++    .  .  **Feeling Woozy** (2020 g. by Irish War Cry). Winner at 2 and 3, 2023, $147,950, 3rd Miracle Wood S. (LRL, $10,000).
 ## Hip: 92
 
-+    Bold Fortune (2022 g. by Central Banker). Winner in 2 starts at 2, 2024, $52,050.
-## Hip: 94
++    .  .  **=The Rosstafarian (IRE)** (2018 g. by Starspangledbanner (AUS)). Winner at 2, 10,088 Pounds, in England, 3rd Ebfstallions.com Silver Tankard S. [L]; 3 wins at 4 and 5, 2023, $7,446,500(HK), in Hong Kong, 2nd Sa Sa Ladies Purse H. **[G3]**; unplaced in 1 start in Ireland. Racing in Hong Kong as Champion Dragon. (Total: $965,163).
+## Hip: 93
 
-+    Warrior's Vendetta (2020 g. by Warrior's Reward). 4 wins at 3 and 4, 2024, $144,314.
-+    Lou's Birthday (2022 g. by Blofeld). Placed at 2, 2024, $29,525.
-+    **SMOOTH B** (2015 c. by Weigelia). 12 wins, 2 to 9, 2024, $1,043,447, 1st Turf Monster S. [L] (PRX, $150,000), Danzig S.-R (PEN, $75,000), Marshall Jenney H.-R (PRX, $58,800), Marshall Jenney H.-R (PRX, $60,000), 2nd Turf Monster S. **[G3]** (PRX, $44,000), City of Laurel S. [L] (LRL, $20,000), Fishtown S. (PRX, $14,400), Crowd Pleaser S.-R (PRX, $25,000), Marshall Jenney H.-R (PRX, $24,750), Marshall Jenney H.-R (PRX, $20,000), 3rd Dave's Friend S. [L] (LRL, $10,000), Jim McKay Turf Sprint S. [L] (PIM, $10,000), Marshall Jenney H.-R (PRX, $12,500), Marshall Jenney H.-R (PRX, $12,000), Jump Start S.-R (PRX, $9,600).
-+    .  Covert Kat (2019 g. by Run Away and Hide). 3 wins at 4 and 5, 2024, $176,970.
-+    **FORE HARP** (2018 g. by Weigelia). 6 wins, 3 to 5, placed at 6, 2024, $377,782, 1st Laurel Dash S. (LRL, $60,000), 2nd Alphabet Soup H.-R (PRX, $18,400).
-+    .  Maximus Angelicus (2022 f. by Maximus Mischief). Placed at 2, 2024, $32,720.
-## Hip: 95
-
-+    .  **MARVELOUS MAUDE** (2018 f. by Slumber (GB)). 5 wins, 3 to 5, placed at 6, 2024, $447,500, 1st Mount Vernon S.-R (BEL, $68,750), 2nd Yaddo H.-R (SAR, $40,000), John Hettinger S.-R (BAQ, $25,000), 3rd Plenty of Grace S. [L] (AQU, $18,000).
-## Hip: 97
-
-+    Written Consent (2020 f. by Tapwrit). 3 wins at 4, 2024, $45,693.
-+    .  .  April Clover (2021 f. by Mitole). Winner at 2, placed at 3, 2024, $51,550.
++    .  Hunter Joe (2018 g. by Palace Malice). 5 wins, 3 to 5, 2023, $181,320.
 ## Hip: 98
 
-+    Moon Fall (2020 g. by Tapwrit). 3 wins at 3 and 4, 2024, $58,727.
-## Hip: 102
-
-+    **Secret Rules** (2017 g. by Secret Circle). 6 wins, 2 to 7, 2024, $438,887, 2nd Jimmy Winkfield S. (AQU, $21,000).
++    .  My Assistant (2020 f. by Cross Traffic). Winner at 3, 2023, $34,996, in Canada. (Total: $25,863).
 ## Hip: 103
 
-+    Moon Spun (2021 f. by Hard Spun). Winner at 3, 2024, $126,500.
++    Willow Wood (2019 g. by Divining Rod). 3 wins at 3 and 4, 2023, $99,625.
++    .  .  Aluma (2019 f. by Lo Maximo). 7 wins at 3 and 4, 2023, $54,146.
 ## Hip: 106
 
-+    .  Dazzlemesilver (2020 g. by Tapwrit). Winner at 3 and 4, 2024, $137,476.
-+    .  **Antisocial** (2022 c. by Not This Time). Placed in 1 start at 2, 2024, $10,000, 3rd Smoke Glacken S. (MTH, $10,000).
++    .  .  .  Illusion of Hope (2019 f. by Union Jackson). 3 wins at 3 and 4, 2023, $90,024.
++    .  .  .  Solib (2019 f. by American Pharoah). 3 wins at 2 and 4, 2023, $203,408.
++    .  .  Nana's Shoes (2016 f. by Done Talking). 8 wins, 2 to 6, placed at 7, 2023, $201,588.
++    .  .  Miss Fussy Pants (2020 f. by Done Talking). 3 wins at 2 and 3, 2023, $111,595.
++    .  .  Best Choice Baby (2020 g. by Madefromlucky). 3 wins at 3, 2023, $54,008.
 ## Hip: 107
 
-+    Harmonizing (2021 f. by Unified). 2 wins at 3, 2024, $56,540.
-## Hip: 108
-
-+    Mr. Georgie (2021 g. by Competitive Edge). Winner at 3, 2024, $25,100.
-## Hip: 109
-
-+    .  **=SING THAT SONG (JPN)** (2020 f. by =Duramente (JPN)). Winner at 2 and 3, placed at 4, 2024, 99,204,002 Yen, in Japan, 1st Hochi Hai Fillies Revue **[G2]**, 2nd Yukan Fuji Hai Opal S. [L], 3rd Azuchijo S. [L], Elfin S. [L]. (Total: $703,343).
-## Hip: 110
-
-+    Little Josie Wales (2020 f. by Great Notion). Winner at 3 and 4, 2024, $93,095.
++    .  .  Cute Dinero Queen (2019 f. by Mo Tom). Winner at 3 and 4, 2023, $87,640.
++    .  .  Lt. Bonura (2018 g. by Paynter). 5 wins, 2 to 4, placed at 5, 2023, $83,220.
 ## Hip: 111
 
-+    Cabra Chica (2019 f. by Street Magician). 11 wins, 2 to 5, 2024, $276,228.
-+    .  .  **POST TIME** (2020 c. by Frosted). 9 wins in 13 starts, 2 to 4, 2024, $997,910, 1st Carter S. Presented by NYRA Bets **[G2]** (AQU, $165,000), General George S. **[G3]** (LRL, $120,000), City of Laurel S. [L] (LRL, $60,000), Polynesian S. (LRL, $60,000), Maryland Juvenile S.-R (LRL, $60,000), Jennings S.-R (LRL, $45,000), 2nd Hill 'n' Dale Metropolitan H. **[G1]** (SAR, $200,000), Westchester S. **[G3]** (BAQ, $35,000), 3rd Whitney S. **[G1]** (SAR, $120,000), Perryville S. [L] (KEE, $19,750).
-+    .  .  What Does It Take (2018 g. by Munnings). 7 wins, 4 to 6, 2024, $285,756.
-+    .  .  Battle of Bastogne (2019 g. by Street Magician). Winner at 4 and 5, 2024, $51,095.
-+    .  .  Whatsyourbigidea (2020 f. by Great Notion). Winner at 3, placed at 4, 2024, $64,280.
-+    .  .  .  Copperhead Creek (2017 g. by Golddigger's Boy). 7 wins, 4 to 7, 2024, $176,502.
-## Hip: 112
++    **VACATION DANCE** (2020 c. by The Lieutenant). 3 wins at 2 and 3, 2023, $252,380, 1st Atlantic Beach S. (AQU, $66,000), 3rd Futurity S. **[G3]** (BAQ, $18,000), Paradise Creek S. [L] (BEL, $18,000), New York Stallion Series S.-R (SAR, $18,000).
+## Hip: 114
 
-+    Eff Thirty Five (2021 g. by Yoshida (JPN)). 2 wins at 3, 2024, $79,870 Set ncr at Penn National, about 1 mile 70 yards in 1:38.22 (08/28/24).
-+    .  .  Peacelovenkarma (2018 f. by Americain). 5 wins, 3 to 5, placed at 6, 2024, $132,721.
-## Hip: 113
-
-+    .  **HOPE ROAD** (2021 f. by Quality Road). 3 wins in 6 starts at 3, 2024, $198,020, 1st Torrey Pines S. **[G3]** (DMR, $90,000).
++    .  .  =Pleasure Cruise (JPN) (2020 f. by =Daiwa Major (JPN)). Winner at 2 and 3, 2023, 13,980,000 Yen, in Japan. (Total: $96,659).
 ## Hip: 115
 
-+    Kerness K (2022 g. by Great Notion). Winner at 2, 2024, $51,215.
-## Hip: 119
-
-+    .  **GUN SONG** (2021 f. by Gun Runner). 4 wins at 2 and 3, 2024, $678,840, 1st George E. Mitchell Black-Eyed Susan S. **[G2]** (PIM, $180,000), Cathryn Sophia S. (PRX, $117,000), 2nd Cotillion S. **[G1]** (PRX, $195,500), Monmouth Oaks **[G3]** (MTH, $50,000).
-+    .  Ready to Roll (2017 g. by City Zip). 5 wins, 3 to 7, 2024, $176,985.
-## Hip: 121
-
-+    =Koning (AUS) (2020 g. by =Kingman (GB)). Winner at 3, placed at 4, 2024, $81,150(AUS), in Australia. (Total: $52,770).
++    .  .  Tootie (2019 f. by Euroears). 6 wins at 3 and 4, 2023, $92,265.
 ## Hip: 123
 
-+    .  **Doctor Abbie** (2020 f. by Sky Kingdom). 8 wins, 2 to 4, 2024, $265,194, 2nd Heavenly Cause S. (LRL, $20,000), Unique Bella S.-R (PRX, $18,400).
-+    .  Designated (2021 f. by Bucchero). 3 wins at 2 and 3, 2024, $91,590.
-+    .  Curvino (2022 c. by Vino Rosso). Placed at 2, 2024, $22,920.
++    .  Chica Rabiosa (2019 f. by Imagining). 3 wins at 2 and 3, placed at 4, 2023, $121,972.
++    .  Ride the Rapids (2020 f. by Long River). 3 wins at 2 and 3, 2023, $52,349.
++    .  .  Coalville (2020 g. by Into Mischief). Placed at 3, 2023, $51,600.
++    .  =Shonan Addeybb (JPN) (2019 c. by =Deep Impact (JPN)). 2 wins at 3, placed at 4, 2023, 36,910,000 Yen, in Japan. (Total: $287,833).
++    .  =Satono Sky Turf (JPN) (2018 c. by =Deep Impact (JPN)). Winner at 3, placed at 5, 2023, 33,150,000 Yen, in Japan. (Total: $276,142).
++    .  .  Satono Mustang (2018 c. by Mineshaft). 3 wins, 2 to 5, 2023, 21,660,000 Yen, in Japan. Sent from United States to Japan in 2020. (Total: $194,222).
 ## Hip: 125
 
-+    Lost Weekend (2020 g. by Great Notion). 3 wins at 2 and 4, 2024, $138,051.
-## Hip: 126
-
-+    .  .  .  =A Shin Sturm (JPN) (2019 c. by =A Shin Hikari (JPN)). 6 wins, 2 to 5, 2024, 16,296,000 Yen, in Japan. (Total: $126,229).
-+    .  .  .  Mamba Out (2020 f. by Mor Spirit). 4 wins at 4, 2024, $71,573.
-+    .  .  Freedom's Way (2019 g. by Declaration of War). Winner at 3 and 4, placed at 5, 2024, $139,781.
++    .  Myra's Boy (2021 g. by Catholic Boy). Placed at 2, 2023, $19,122, in Canada. (Total: $13,914).
++    .  .  Moon Dog (2019 g. by California Chrome). 3 wins at 3 and 4, 2023, $87,205.
++    .  .  Uncle Frank (2018 g. by California Chrome). 4 wins at 3 and 4, placed at 5, 2023, $78,355.
++    .  .  .  =Sirius Colt (JPN) (2021 c. by =Makfi (GB)). 2 wins in 3 starts at 2, 2023, 26,496,000 Yen, in Japan. (Total: $179,494).
++    .  .  .  =Saimon Coral (JPN) (2020 f. by Beach Patrol). Winner at 3, 2023, 6,800,000 Yen, in Japan. (Total: $50,712).
++    .  .  Avance (2016 c. by Uncle Mo). 8 wins, 3 to 6, placed at 7, 2023, 58,991,000 Yen, in Japan. Sent from United States to Japan in 2018. (Total: $512,247).
++    .  .  Isaias (2020 c. by California Chrome). Placed at 2 and 3, 2023, 16,090,000 Yen, in Japan. Sent from United States to Japan in 2021. (Total: $112,692).
++    .  .  .  =Grace Rouge (JPN) (2021 f. by Declaration of War). Winner at 2, 2023, 7,700,000 Yen, in Japan. (Total: $51,844).
++    .  .  =Dream Again (JPN) (2018 f. by =Kizuna (JPN)). Winner at 3, placed at 5, 2023, 12,660,000 Yen, in Japan. (Total: $101,853).
++    .  .  Driftwood (2017 g. by Courageous Cat). 9 wins, 2 to 6, 2023, $211,333.
 ## Hip: 129
 
-+    Unfaithful Ways (2019 f. by Street Boss). 6 wins, 3 to 5, 2024, $187,790.
-+    .  **APPREHEND** (2019 c. by Arrogate). 3 wins at 2 and 3, $203,000, in N.A./U.S., 2nd Zia Park Derby [L] (ZIA, $50,000); 3 wins in 4 starts at 5, 2024, $55,700, in Canada, 1st S. W. Randall Plate H. (HST, $27,500). (Total: $243,853).
-## Hip: 131
-
-+    Snappy Ride (2019 f. by Uptowncharlybrown). 6 wins, 3 to 5, 2024, $197,546.
++    .  .  Systematic (2018 f. by Outwork). Winner at 3, $55,055, in N.A./U.S.; winner at 4 and 5, 2023, $92,382, in Canada. (Total: $124,955).
++    .  .  Stardust Ziggy (2020 g. by Imagining). 3 wins at 2 and 3, 2023, $80,110.
++    .  .  .  Martharita (2019 f. by Bourbon Courage). Winner at 3, placed at 4, 2023, $60,048.
++    .  .  **One Bay Hemingway** (2020 r. by Danger Bay). 4 wins at 2 and 3, 2023, $275,763, in Canada, 2nd Grey S. **[G3]** (WO, $36,000), Bull Page S.-R (WO, $20,000), Lake Superior S.-R (WO, $20,000). (Total: $204,558).
++    .  .  Hit and Run (2018 f. by Signature Red). 4 wins at 3 and 5, 2023, $189,266, in Canada. (Total: $146,792).
++    .  .  Varsity Flygirl (2018 f. by Summer Front). 9 wins, 3 to 5, 2023, $110,992.
++    .  .  No Sniveling (2016 f. by Telling). 4 wins, 3 to 6, placed at 7, 2023, $69,517.
 ## Hip: 132
 
-+    Quagmire Magic (2020 g. by Good Magic). Winner at 2 and 4, 2024, $43,370.
++    .  .  The Calabrese Kid (2019 g. by Finnegans Wake). 7 wins at 4, 2023, $84,000.
++    .  .  .  Phantom Smoke (2018 g. by Ghostzapper). 4 wins, 2 to 5, 2023, $254,980.
++    .  .  .  Smokin' Hot Kitty (2019 f. by Kitten's Joy). Winner at 3 and 4, 2023, $96,032.
++    .  .  .  **Aggregation** (2019 g. by Flatter). 4 wins in 8 starts at 3 and 4, 2023, $206,250, 3rd New York Derby-R (FL, $18,000).
++    .  .  .  Blurt (2018 g. by Street Sense). 6 wins at 4 and 5, 2023, $108,197.
++    .  .  **Night Time** (2017 c. by Majesticperfection). 5 wins, 2 to 6, 2023, $488,137, 2nd Big Daddy S. (TP, $24,360), 3rd Forego S. (TP, $12,260), TwinSpires Ellis Park Juvenile S. (ELP, $9,850).
++    .  .  Russian Tank (2019 c. by Tourist). 3 wins, 2 to 4, 2023, $86,781.
+## Hip: 133
+
++    .  .  Spooky One (2018 g. by Lord Shanakill). 4 wins at 4 and 5, 2023, $83,642.
++    .  .  Fashionista (2019 f. by Street Magician). Winner at 4, 2023, $105,331.
+## Hip: 134
+
++    **IT'S OFFICIAL** (2017 g. by Flat Out). 6 wins, 2 to 6, 2023, $212,438, 1st Cardinal H.-R (MVR, $45,000), 2nd Cleveland Kindergarten S.-R (TDN, $15,000).
 ## Hip: 135
 
-+    **Excellorator** (2018 g. by Orb). 9 wins, 2 to 6, 2024, $390,724, in N.A./U.S., 2nd Federico Tesio S. (PIM, $25,000), 3rd Private Terms S. (LRL, $10,000); placed at 2, $36,720, in Canada. (Total: $418,430).
-## Hip: 137
++    Irish Warlock (2020 g. by Irish War Cry). 2 wins at 3, 2023, $50,344.
+## Hip: 136
 
-+    .  Blame the Warrior (2021 f. by Warrior's Reward). Placed at 3, 2024, $14,200.
-+    .  Positive Change (2021 g. by Forever d'Oro). Winner at 2 and 3, 2024, $69,921.
-## Hip: 144
++    **Kissedbyanangel** (2021 f. by Golden Lad). 2 wins at 2, 2023, $76,930, 3rd Maryland Million Lassie S.-R (LRL, $10,000).
+## Hip: 142
 
-+    **Circle Home** (2019 f. by Bodemeister). 3 wins at 4 and 5, 2024, $206,167, 3rd All Along S. (LRL, $10,000).
-+    .  .  Bourbon's Hope (2019 g. by Exaggerator). 3 wins at 2 and 4, placed at 5, 2024, $186,998.
-## Hip: 148
++    Burningupthedough (2021 g. by Friesan Fire). Placed at 2, 2023, $16,963.
+## Hip: 145
 
-+    Showstopper Copper (2021 g. by Air Force Blue). 2 wins in 4 starts at 3, 2024, $49,100.
-+    .  .  Pam Pam (2021 f. by Army Mule). Winner at 3, 2024, $50,923.
-## Hip: 151
++    .  My Assistant (2020 f. by Cross Traffic). Winner at 3, 2023, $34,996, in Canada. (Total: $25,863).
+## Hip: 152
 
-+    War Master (2021 g. by Mastery). 2 wins at 2, placed at 3, 2024, $53,340.
++    .  Hunter Joe (2018 g. by Palace Malice). 5 wins, 3 to 5, 2023, $181,320.
+## Hip: 153
+
++    Magic Petition (2020 c. by Good Magic). Winner at 3, 2023, 131,092 Dirhams, in United Arab Emirates. Sent from United States to United Arab Emirates in 2022. (Total: $35,697).
 ## Hip: 155
 
-+    .  .  Liam's Kiss (2019 f. by Liam's Map). 3 wins at 3 and 5, 2024, $100,684.
-## Hip: 157
++    .  .  Bourbon Delight (2019 g. by Keen Ice). 5 wins at 3 and 4, 2023, $61,430.
++    .  .  =Angle Land (GB) (2019 f. by =Mayson (GB)). 6 wins, 2 to 4, 2023, 77,606 Pounds, in England. (Total: $96,193).
++    .  .  Team Leader (2020 g. by Street Boss). 2 wins at 3, 2023, $56,161.
++    .  .  Rosebud's Hope (2015 f. by Cowboy Cal). 5 wins at 3 and 5, placed at 8, 2023, $154,716, in N.A./U.S.; 7 wins, 4 to 8, 2023, $379,655, in Canada. Set ncr at Woodbine, 1 mile in 1:35.53 (07/13/19). Set ncr at Woodbine, about 1 mile in 1:33.71 (06/11/22). (Total: $446,437).
+## Hip: 162
 
-+    **COASTAL MISSION** (2019 g. by Great Notion). 13 wins in 24 starts, 2 to 5, 2024, $954,153, 1st Parx Dirt Mile S. [L] (PRX, $175,500), Russell Road S. (CT, $144,000), Frank Y. Whiteley S. (LRL, $60,000), Sam Huff West Virginia Breeders' Classic S.-R (CT, $135,000), Confucius Say S.-R (CT, $45,780), 2nd John A. Nerud S. **[G2]** (BAQ, $40,000), Salvator Mile S. **[G3]** (MTH, $30,000), Spectacular Bid S. (LRL, $20,000), Maryland Million Nursery S.-R (LRL, $20,000), 3rd Maryland Juvenile Championship S.-R (LRL, $10,000).
-+    .  Great Andrei (2022 f. by Sky Mesa). 2 wins in 4 starts at 2, 2024, $78,630.
-## Hip: 158
++    .  .  .  Overly Critical (2019 g. by Overanalyze). 6 wins at 3 and 4, 2023, $149,417.
++    .  .  Cherry Gardens (2020 f. by Souper Speedy). Placed at 2 and 3, 2023, $67,192, in Canada. (Total: $49,696).
++    .  .  .  =Matnight (FR) (2019 g. by =Night Wish (GER)). 3 wins at 4, 2023, 90,865 Euro, in France. (Total: $96,650).
++    .  .  .  =Monjules (FR) (2018 g. by =Rajsaman (FR)). 4 wins, 3 to 5, 2023, 34,191 Pounds, in England; placed at 3, 14,590 Euro, in France. (Total: $59,979).
+## Hip: 164
 
-+    Sprezzatura (2020 f. by Mendelssohn). Winner at 4, 2024, $50,250.
-## Hip: 159
-
-+    Must Be Love (2019 g. by Paynter). 5 wins, 3 to 5, 2024, $195,902.
-+    At First Sight (2021 f. by Great Notion). 3 wins at 3, 2024, $72,180.
-+    .  .  **Bella Mela** (2020 f. by Bustin Stones). 4 wins at 2 and 3, placed at 4, 2024, $133,416, 3rd Its Binn Too Long S.-R (CT, $8,344).
-+    .  .  **Pork Chop Pete** (2021 g. by Golden Years). 2 wins at 3, 2024, $77,030, 2nd It's Only Money S.-R (CT, $15,290).
-+    .  .  My Noble Knight (2021 g. by Noble Bird). 3 wins at 3, 2024, $62,995.
-## Hip: 161
-
-+    .  Polterer (2018 g. by Ghostzapper). 13 wins, 3 to 6, 2024, $366,372, in N.A./U.S.; unplaced, $6,980, in Canada. (Total: $371,685).
-## Hip: 163
-
-+    All the Hardways (2022 g. by Paynter). Winner at 2, 2024, $53,720.
-+    Falsely Accused (2018 g. by Strong Mandate). 5 wins, 3 to 6, 2024, $159,064.
++ RACE RECORD for Amplio Esquema: In N.A./U.S. At 2, unplaced in 1 start; at 3, three times 2nd, twice 3rd; at 4, one win (set ncr at Colonial Downs, 1 1/16 miles in 1:40.00), once 2nd, 3 times 3rd; at 5, one win, once 3rd (Maryland Million Ladies S.-R (LRL, $12,500)); at 6, 2023, once 2nd, once 3rd; . Totals: 2 wins, five times 2nd, 7 times 3rd. Earned $151,235. In Canada. At 3, once 3rd in 1 start. Earned  $3,740. (Total: $154,098.)
 ## Hip: 165
 
-+    .  .  John Hall (2020 g. by Violence). 4 wins, 2 to 4, 2024, $146,450.
-+    .  .  Comida Comida (2020 f. by Blofeld). 5 wins at 3 and 4, 2024, $55,795.
-+    .  .  Hot Love (2020 c. by Golden Lad). Winner at 2, placed at 4, 2024, $69,820.
-+    .  .  Jumpingjaggerflash (2021 c. by Street Magician). Winner at 2 and 3, 2024, $64,155.
-+    .  .  .  Love Me Tender (2021 c. by Uncle Lino). 2 wins in 2 starts at 3, 2024, $78,000 Set ntr at Colonial Downs, 5 1/2 furlongs in 1:01.30 (07/13/24).
-+    .  .  Scat Factor (2021 g. by The Factor). 2 wins at 3, 2024, $57,978, in Canada. (Total: $42,534).
-## Hip: 166
++    .  .  Lime (2018 f. by Iqbaal). 2 wins at 3, $80,790, in N.A./U.S.; placed, 3 to 5, 2023, $21,770, in Canada. (Total: $97,821).
+## Hip: 167
 
-+    .  **Ran Out of Trainer** (2021 f. by Tonalist). Winner at 2 and 3, 2024, $97,485, 2nd Rachel's Turn S.-R (CT, $15,200), West Virginia Triple Crown Nutrition Breeders' Classic S.-R (CT, $14,850), 3rd Henry Mercer Memorial S.-R (CT, $8,404), James and Eleanor Casey Memorial S.-R (CT, $8,349).
-+    .  **Juba's Heart** (2022 g. by Juba). Winner at 2, 2024, $29,229, 3rd Henry Mercer Memorial S.-R (CT, $8,393).
-## Hip: 169
++    .  .  =Sharpthorne (JPN) (2020 f. by =Fine Needle (JPN)). Winner at 3, 2023, 12,400,000 Yen, in Japan. (Total: $92,543).
+## Hip: 168
 
-+    Roshiell My Belle (2022 f. by Laoban). Winner at 2, 2024, $52,550.
++    **POST TIME** (2020 c. by Frosted). 5 wins in 6 starts at 2 and 3, 2023, $252,910, 1st City of Laurel S. [L] (LRL, $60,000), Maryland Juvenile S.-R (LRL, $60,000), 3rd Perryville S. [L] (KEE, $19,750).
++    What Does It Take (2018 g. by Munnings). 6 wins at 4 and 5, 2023, $207,006.
 ## Hip: 171
 
-+    .  Easy Play (2019 f. by Big Brown). 6 wins, 3 to 5, 2024, $212,135.
++    Running River (2020 g. by Long River). 3 wins at 3, 2023, $84,120.
+## Hip: 174
+
++    .  .  E J Won the Cup (2021 c. by Omaha Beach). Placed at 2, 2023, $52,540.
++    .  .  Bee by the Sea (2017 g. by With Distinction). 6 wins, 3 to 6, 2023, $193,077.
 ## Hip: 175
 
-+    .  She's Got Rhythm (2020 f. by Social Inclusion). 2 wins at 4, 2024, $38,440.
-## Hip: 180
++    Big Prankster (2021 c. by Practical Joke). Placed in 2 starts at 2, 2023, $29,000.
+## Hip: 178
 
-+    **WINE ME UP BABY** (2018 f. by Kantharos). 11 wins, 2 to 5, placed at 6, 2024, $375,134, 1st Michael G. Mackey Memorial Angenora S.-R (TDN, $45,000), 2nd Michael G. Mackey Memorial Angenora S.-R (TDN, $15,000).
-+    .  .  Sassy Einstein (2017 f. by Einstein (BRZ)). 3 wins, 4 to 7, 2024, $66,571.
-## Hip: 183
++    .  Lat Long (2021 c. by Liam's Map). Placed at 2, 2023, $54,750.
++    .  Naptown (2021 c. by Munnings). Winner in 2 starts at 2, 2023, $65,180, in Canada; placed in 1 start at 2, 2023, $5,200, in N.A./U.S. (Total: $52,341).
+## Hip: 181
 
-+    .  .  The Great Gazoo (2018 g. by Malibu Moon). Winner at 5 and 6, 2024, $121,453.
-+    .  .  **GUN SONG** (2021 f. by Gun Runner). 4 wins at 2 and 3, 2024, $678,840, 1st George E. Mitchell Black-Eyed Susan S. **[G2]** (PIM, $180,000), Cathryn Sophia S. (PRX, $117,000), 2nd Cotillion S. **[G1]** (PRX, $195,500), Monmouth Oaks **[G3]** (MTH, $50,000).
-+    .  .  Ready to Roll (2017 g. by City Zip). 5 wins, 3 to 7, 2024, $176,985.
-## Hip: 184
-
-+    .  **PARAMOUNT PRINCE** (2020 g. by Society's Chairman). 5 wins, 2 to 4, 2024, $1,081,980, in Canada, champion 3-year-old colt in Canada (2023), 1st Seagram Cup S. **[G2]** (WO, $126,000), Dominion Day S. **[G3]** (WO, $108,000), King's Plate S.-R (WO, $600,000), Plate Trial S.-R (WO, $90,000), 2nd Queenston S.-R (WO, $25,000), 3rd bet365 Eclipse S. **[G2]** (WO, $23,100), Prince of Wales S.-R (FE, $40,000), Clarendon S.-R (WO, $16,500); winner in 1 start at 4, 2024, $43,200, in N.A./U.S. (Total: $842,222).
-+    .  **SOUPER SUPREME** (2022 f. by Souper Speedy). 3 wins in 4 starts at 2, 2024, $241,680, in Canada, 1st Muskoka S.-R (WO, $120,000), Victorian Queen S.-R (WO, $60,000). (Total: $177,083).
-+    .  **Its Time to Shine** (2021 c. by Souper Speedy). Winner at 3, 2024, $67,502, in Canada, 3rd Lake Erie S.-R (FE, $10,000). (Total: $49,479).
-## Hip: 185
-
-+    .  Akfeek (2020 c. by Macho Uno). 4 wins at 3 and 4, 2024, 358,000 Riyals, in Saudi Arabia. Sent from United States to Saudi Arabia in 2022. (Total: $95,467).
++    .  .  My Man Flint (2018 g. by Flintshire (GB)). 3 wins at 3 and 4, placed at 5, 2023, $83,000.
 ## Hip: 188
 
-+    True Sunshine (2021 f. by Palace). 4 wins at 2 and 3, 2024, $109,950.
++    .  .  Drop Anchor (2018 g. by Anchor Down). Winner at 2 and 5, 2023, $75,737.
++    .  .  .  Hippodrome (2019 g. by Ghostzapper). Winner at 3 and 4, 2023, $184,757.
++    .  .  A Shin Vision (2013 c. by Lonhro (AUS)). 22 wins, 3 to 10, 2023, 94,988,000 Yen, in Japan. Sent from United States to Japan in 2014. (Total: $836,266).
++    .  .  Merry Sense (2019 c. by Street Sense). Winner at 3, placed at 4, 2023, 10,212,000 Yen, in Japan. Sent from United States to Japan in 2020. (Total: $85,054).
+## Hip: 190
+
++    .  .  .  Classic Bet (2019 g. by Classic Empire). 4 wins at 3 and 4, 2023, $67,699.
++    .  .  **=Suave Charles (JPN)** (2016 c. by =Lord Kanaloa (JPN)). 7 wins, 3 to 7, 2023, 117,361,001 Yen, in Japan, 3rd Lumiere Autumn Dash [L]. (Total: $988,104).
++    .  .  =Atrorubens (JPN) (2021 f. by =Real Steel (JPN)). Winner in 2 starts at 2, 2023, 13,652,000 Yen, in Japan. (Total: $96,954).
++    .  .  .  Yarrow (2018 g. by Lookin At Lucky). 3 wins at 4 and 5, 2023, $235,250.
 ## Hip: 191
 
-+    **Wish Me Home** (2019 g. by Midshipman). 5 wins, 2 to 5, 2024, $253,400, 3rd Laurel Futurity (LRL, $15,000), Exacta Systems Rosie's S. (CNL, $11,000), Find S.-R (LRL, $7,500).
-+    .  .  **TOO MANY KISSES** (2020 f. by Arrogate). 3 wins at 3 and 4, 2024, $146,730, 1st Conniver S.-R (LRL, $45,000).
-+    .  .  Sing Scat (2020 f. by Irish War Cry). 5 wins at 3 and 4, 2024, $128,625.
-+    .  Great Kisser (2021 g. by Great Notion). 2 wins at 3, 2024, $47,140.
++    **SOMEDAY IS TODAY** (2018 f. by Carpe Diem). 9 wins, 3 to 5, 2023, $250,452, 1st My Sister Pearl S.-R (CT, $45,540), 3rd My Sister Pearl S.-R (CT, $8,443).
++    .  .  Estilo Varonil (2018 g. by Hit It a Bomb). 6 wins, 3 to 5, 2023, $83,047.
 ## Hip: 192
 
-+    .  .  **TICKER TAPE HOME** (2020 f. by Medaglia d'Oro). 4 wins in 8 starts, 2 to 4, 2024, $353,400, in Canada, 1st Seaway S. **[G3]** (WO, $97,200), Fury S.-R (WO, $75,000), 2nd Display S. [L] (WO, $30,000); unplaced, $6,460, in N.A./U.S. (Total: $267,975).
-+    .  .  **Scipio** (2022 r. by Caravaggio). Placed in 2 starts at 2, 2024, $21,000, 3rd Del Mar Juvenile Turf S. **[G3]** (DMR, $12,000).
-+    .  .  Dark Dahlia (2019 f. by Violence). 3 wins at 4 and 5, 2024, $69,468, in N.A./U.S.; placed in 1 start at 3, $14,000, in Canada. (Total: $79,730).
-+    .  .  Get Them Justin (2018 g. by Half Ours). 7 wins, 2 to 6, 2024, $160,700.
++    Upstriker (2018 g. by Upstart). 6 wins, 2 to 5, 2023, $287,847.
 ## Hip: 194
 
-+    Beyond Best (2019 g. by Curlin). 4 wins at 4 and 5, 2024, $176,662.
-## Hip: 195
++    Kid's Last Laugh (2020 f. by Practical Joke). Winner at 3, 2023, $85,574.
+## Hip: 196
 
-+    .  **POST TIME** (2020 c. by Frosted). 9 wins in 13 starts, 2 to 4, 2024, $997,910, 1st Carter S. Presented by NYRA Bets **[G2]** (AQU, $165,000), General George S. **[G3]** (LRL, $120,000), City of Laurel S. [L] (LRL, $60,000), Polynesian S. (LRL, $60,000), Maryland Juvenile S.-R (LRL, $60,000), Jennings S.-R (LRL, $45,000), 2nd Hill 'n' Dale Metropolitan H. **[G1]** (SAR, $200,000), Westchester S. **[G3]** (BAQ, $35,000), 3rd Whitney S. **[G1]** (SAR, $120,000), Perryville S. [L] (KEE, $19,750).
-## Hip: 197
-
-+    .  John Hall (2020 g. by Violence). 4 wins, 2 to 4, 2024, $146,450.
-+    .  Comida Comida (2020 f. by Blofeld). 5 wins at 3 and 4, 2024, $55,795.
-+    .  .  Love Me Tender (2021 c. by Uncle Lino). 2 wins in 2 starts at 3, 2024, $78,000 Set ntr at Colonial Downs, 5 1/2 furlongs in 1:01.30 (07/13/24).
-+    .  .  Scat Factor (2021 g. by The Factor). 2 wins at 3, 2024, $57,978, in Canada. (Total: $42,534).
-## Hip: 200
-
-+    .  Westward Look (2018 g. by Vancouver (AUS)). 8 wins, 3 to 6, 2024, $134,833.
-+    .  **=KEIAI PURPLE (JPN)** (2016 c. by Pyro). 9 wins, 3 to 8, 2024, 210,073,001 Yen, in Japan, 1st Saga Kinen [LR], Hakusan Daishoten [LR], 2nd Heian S. **[G3]**, Nagoya Grand Prix [LR], Nagoya Daishoten [LR] twice. (Total: $1,774,846).
-+    .  **=KEIAI DORIE (JPN)** (2017 c. by Espoir City (JPN)). 8 wins, 3 to 6, placed at 7, 2024, 199,659,000 Yen, in Japan, 1st Hokkaido Sprint Cup [LR], 2nd Hyogo Gold Trophy [LR], Tokyo Sprint [LR], 3rd Cluster Cup [LR]; unplaced in 1 start in United Arab Emirates; unplaced in 1 start, 112,500 Riyals, in Saudi Arabia. (Total: $1,590,842).
-+    Grande Soiree (2019 g. by Connect). 3 wins at 4, placed at 5, 2024, $67,550, in N.A./U.S.; winner in 2 starts at 5, 2024, $17,574, in Canada. (Total: $80,440).
-## Hip: 202
-
-+    Trophy Room (2020 g. by Outwork). 5 wins at 3 and 4, 2024, $97,000.
-## Hip: 203
-
-+    **There Are No Words** (2019 g. by California Chrome). 4 wins, 2 to 4, placed at 5, 2024, $394,444, 2nd Oceanport S. [L] (MTH, $28,000) twice, Cliff Hanger S. [L] (MTH, $28,000), Red Bank S. (MTH, $28,000), 3rd Red Bank S. [L] (MTH, $14,000).
-+    Word for Word (2020 g. by California Chrome). Winner at 3 and 4, 2024, $80,437.
-## Hip: 205
-
-+    .  **EL DINERO** (2021 g. by El Deal). 4 wins at 2 and 3, 2024, $348,240, 1st Crescent City Derby-R (FG, $75,000), LA Bred Premier Prince S.-R (DED, $60,000), Joseph R. Peluso Memorial S.-R (FG, $45,000), D. S. Shine Young Futurity-R (EVD, $42,000), 2nd Louisiana Legacy S.-R (DED, $20,000), Louisiana Champions Day Juvenile S.-R (FG, $20,000), Louisiana Stallion Of The Year Star Guitar S.-R (FG, $20,000), Louisiana Legends Cheval S.-R (EVD, $19,000), Louisiana Stallion S. Presented by Coteau Grove Farms-R (EVD, $20,000), 3rd Louisiana Cup Juvenile S.-R (LAD, $8,250), Louisiana Cup Sprint S.-R (LAD, $8,250).
-## Hip: 208
-
-+    Safe Trust (2022 f. by Mosler). Winner at 2, 2024, $51,080.
-## Hip: 209
-
-+    .  **Wish Me Home** (2019 g. by Midshipman). 5 wins, 2 to 5, 2024, $253,400, 3rd Laurel Futurity (LRL, $15,000), Exacta Systems Rosie's S. (CNL, $11,000), Find S.-R (LRL, $7,500).
-+    .  .  **TOO MANY KISSES** (2020 f. by Arrogate). 3 wins at 3 and 4, 2024, $146,730, 1st Conniver S.-R (LRL, $45,000).
-+    .  .  Sing Scat (2020 f. by Irish War Cry). 5 wins at 3 and 4, 2024, $128,625.
-+    .  Great Kisser (2021 g. by Great Notion). 2 wins at 3, 2024, $47,140.
-## Hip: 211
-
-+    Barnstorming (2020 c. by Quality Road). Winner at 3, placed at 4, 2024, $86,915.
++    .  .  .  Give It a Whirl (2021 c. by Hard Spun). 2 wins at 2, 2023, $76,900.
++    .  .  Curlin's Thrill (2017 g. by Curlin). 8 wins, 4 to 6, 2023, $140,202, in N.A./U.S.; placed at 3, $10,048, in Canada. (Total: $147,799).
++    .  .  .  Chloe's Crown (2019 f. by Declaration of War). Winner at 4, 2023, $59,120.
++    .  .  Muskoka Giant (2017 g. by Curlin). Winner at 3 and 6, 2023, $159,487, in Canada. (Total: $120,203).
++    .  .  Whiterose Jewel (2019 g. by Kitten's Joy). 2 wins at 4, 2023, $50,414.
++    .  .  Baseline Beater (2020 g. by Flatter). Winner at 3, 2023, $92,948.
++    .  .  Adhwaa (2017 f. by Daaher). 6 wins, 3 to 6, 2023, $227,682.
++    .  .  Group Eighteen (2019 g. by Ironicus). 4 wins at 3 and 4, 2023, $180,968.
++    .  .  Kitchi (2016 g. by Giant Oak). 14 wins, 2 to 7, 2023, $171,631.
++    .  .  Winnemac Avenue (2020 g. by Tapwrit). 2 wins at 3, 2023, $72,200.
++    .  .  Malibu Uproar (2015 g. by Malibu Moon). 5 wins, 3 to 7, placed at 8, 2023, $250,432, in Canada; winner at 3, $12,450, in N.A./U.S. (Total: $202,440).
++    .  .  .  Tapadine (2020 c. by Tapit). Winner at 3, 2023, $58,963.
++    .  .  Hallanvaara (2019 f. by Mr Speaker). Winner at 3, placed at 4, 2023, $64,260, in Canada; unplaced in 2 starts, $1,020, in N.A./U.S. (Total: $50,886).
++    .  .  Loving Lucky (2018 g. by Lookin At Lucky). 3 wins at 4 and 5, 2023, $64,971.
 ## Hip: 213
 
-+    **Regaled** (2021 f. by Mohaymen). 2 wins at 3, 2024, $109,120, 3rd Delaware Oaks **[G3]** (DEL, $32,000).
-+    .  Jumeirah Coast (2018 c. by Bernardini). 5 wins, 3 to 6, 2024, $48,540, in Canada. (Total: $37,267).
++    .  Run for Your Honey (2021 f. by Tapizar). Winner at 2, 2023, $67,003.
+## Hip: 214
+
++    .  Choose Joy (2017 f. by Munnings). 8 wins, 2 to 6, 2023, $321,575.
 ## Hip: 215
 
-+    .  Binnie (2021 f. by Great Notion). 3 wins in 4 starts at 2 and 3, 2024, $113,460.
-## Hip: 216
-
-+    **TAKE A HINT** (2020 g. by Bandbox). 5 wins at 3 and 4, 2024, $226,119, 1st Not For Love S.-R (LRL, $45,000).
-## Hip: 218
-
-+    **WESTON** (2018 g. by Hit It a Bomb). 14 wins in 24 starts, 2 to 6, 2024, $212,472, 1st Best Pal S. **[G2]** (DMR, $90,000), 3rd Runhappy Del Mar Futurity **[G1]** (DMR, $30,000).
-## Hip: 219
-
-+    .  .  Quinn's Promise (2022 f. by Promises Fulfilled). Winner at 2, 2024, $50,908.
-+    .  Starship Mocha (2021 g. by Always Dreaming). 3 wins at 3, 2024, $55,880.
-## Hip: 223
-
-+    .  My Boy Tullio (2021 g. by Hoppertunity). Winner at 3, 2024, $21,056.
-## Hip: 224
-
-+    River Boy (2020 g. by Sharp Azteca). 7 wins, 2 to 4, 2024, $104,674.
-## Hip: 225
-
-+    Determind Princess (2021 f. by Ghostzapper). 2 wins at 3, 2024, $82,080.
-## Hip: 230
-
-+    For Love and Honor (2021 f. by Sky Mesa). Winner at 3, 2024, $118,220.
-## Hip: 232
-
-+    .  Clearly Creeps (2021 f. by Clearly Now). 2 wins at 3, 2024, $30,580.
-## Hip: 235
-
-+    **TOO MANY KISSES** (2020 f. by Arrogate). 3 wins at 3 and 4, 2024, $146,730, 1st Conniver S.-R (LRL, $45,000).
-## Hip: 238
-
-+    .  Golden Charm (2020 f. by Blofeld). 3 wins at 4, 2024, $207,460.
-## Hip: 239
-
-+    .  .  **FOXY JUNIOR** (2020 f. by Cuba). 7 wins, 2 to 4, 2024, $217,669, 1st Plum Pretty S.-R (PRX, $58,800).
-## Hip: 241
-
-+    Class Wizard (2019 g. by Street Magician). 3 wins at 3 and 5, 2024, $101,259.
-+    Heard On Thestreet (2021 g. by Street Magician). 2 wins at 3, 2024, $72,480.
-## Hip: 243
-
-+    .  .  Highlands (2021 f. by Audible). 3 wins at 2 and 3, 2024, $79,680.
-+    .  Mad Magic (2019 g. by Munnings). 3 wins at 4 and 5, 2024, $85,003.
-## Hip: 245
-
-+    **Xcellent Start** (2020 c. by Upstart). 5 wins, 2 to 4, 2024, $124,403, 2nd Henry Mercer Memorial S.-R (CT, $15,205).
-## Hip: 247
-
-+    .  Two Beers by Ten (2021 c. by Omaha Beach). Winner at 3, 2024, $27,190.
-## Hip: 248
-
-+    Super Freaky Girl (2021 f. by Bucchero). 2 wins in 4 starts at 3, 2024, $80,650.
-## Hip: 249
-
-+    Beautiful Thief (2021 f. by Dialed In). Winner in 2 starts at 3, 2024, $54,600.
-+    .  **Cousin Kristi** (2019 f. by Kantharos). 3 wins at 4 and 5, 2024, $161,323, 2nd Musical Romance H. (GP, $14,850).
-## Hip: 250
-
-+    Binnie (2021 f. by Great Notion). 3 wins in 4 starts at 2 and 3, 2024, $113,460.
-## Hip: 251
-
-+    Surfside Moon (2022 c. by Malibu Moon). Winner at 2, 2024, $37,900.
-## Hip: 254
-
-+    Mazoku (2019 f. by Protonico). 5 wins at 4 and 5, 2024, $160,176.
-+    .  .  Not Yet Charlie (2019 g. by Fed Biz). 8 wins, 2 to 5, 2024, $141,812.
-+    .  .  Cinque Amore (2018 f. by Cinco Charlie). 3 wins at 3 and 4, placed at 6, 2024, $73,654.
-## Hip: 258
-
-+    Chochocho (2021 c. by Audible). Winner at 3, 2024, $27,825.
-+    .  **Dorothy Crowfoot** (2021 f. by Audible). Winner at 2 and 3, 2024, $67,026, 3rd Prairie Meadows Debutante S. (PRM, $9,850).
-## Hip: 263
-
-+    .  **Heart Headed** (2021 c. by Oscar Performance). 3 wins at 2 and 3, 2024, $141,233, 2nd Baffle S. (SA, $20,000).
-## Hip: 264
-
-+    Maximo Madness (2021 f. by Preservationist). Winner at 3, 2024, $22,940.
-## Hip: 268
-
-+    **Disarmed** (2020 c. by Maclean's Music). 6 wins at 3 and 4, 2024, $436,910, 2nd Kingston S.-R (SAR, $25,000).
-## Hip: 270
-
-+    .  .  Prayforpeace (2019 g. by Liam's Map). 3 wins at 3, placed at 5, 2024, $149,233, in N.A./U.S.; 3 wins, 3 to 5, 2024, $58,471, in Canada. (Total: $193,363).
-## Hip: 272
-
-+    Determined Blue (2021 f. by Kantharos). 2 wins at 3, 2024, $83,175.
-## Hip: 273
-
-+    Dulce Kiara (2018 f. by Bandbox). 9 wins, 3 to 6, 2024, $274,037.
-+    .  Magnificent Mile (2020 g. by Quality Road). Winner at 3 and 4, 2024, $173,477.
++    .  .  Its Five Somewhere (2016 g. by Stay Thirsty). 7 wins, 2 to 5, placed at 7, 2023, $100,389.
