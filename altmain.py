@@ -18,8 +18,9 @@ script, file_source = argv
 re_hip_number = re.compile(r'HIP NUMBER:(\d)+')
 re_hip_withdrawn = re.compile(r'HIP NUMBER:\d+ WITHDRAWN')
 re_original_source = re.compile(r'(?P<salecode>[A-Za-z]{2})\d{6}\.TXT')
-re_end_horse = re.compile(r'(\.|-)$')
+re_end_horse = re.compile(r'^\s{3}[^\s].+(\.|-|ing\))$')
 re_dam_number = re.compile(r'\d[stndrh]{2} dam')
+re_primary_dam_end = re.compile(r'^\s{6}.+-$')
 
 
 
@@ -29,7 +30,9 @@ re_dam_number = re.compile(r'\d[stndrh]{2} dam')
 
 
 p_update = os.getcwd() + "/source/update/"
+# p_update_temp = os.getcwd() + "/source/update/temp/"
 p_original = os.getcwd() + "/source/original/"
+# p_original_temp = os.getcwd() + "/source/original/temp/"
 p_reports = os.getcwd() + "/report/"
 P_fasig = p_reports + 'fasig/'
 p_pp = p_reports + 'pp/'
@@ -66,7 +69,6 @@ def get_meta_data(file):
                     hip_number = hip_number.split(':')[1]
             if re_original_source.search(line):
                 original_source = re_original_source.search(line).group()
-                print(original_source)
                 sale_code = original_source[:2]
             update_file = sale_code + hip_number.zfill(6) + '.TXT'
             if hip_number and original_source:
@@ -81,40 +83,40 @@ def get_meta_data(file):
     return meta_data
 
 
-def seperate_lines(file):
+def seperate_lines(file_path, name):
     '''
     Seperates the lines of a file into seperate horses so each horse takes up a line by itself.
     It will output a new file where each horse is on a seperate line.
     '''
     ending_lines = []
+    file = file_path + name
     with open(file, 'r') as f:
         lines = f.readlines()
     for i, line in enumerate(lines):
         if re_dam_number.search(line):
             ending_lines.append(i)
-        if re_end_horse.search(line):
+        if re_primary_dam_end.search(line):
             ending_lines.append(i)
-    print(ending_lines)
-    difference = get_difference(ending_lines)
-    print(difference)
-    # remove the \n on the lines between the horses
-    for i in range(len(difference)):
-        lines[ending_lines[i]] = lines[ending_lines[i]].strip('\n') + ' '
-    with open(file, 'w') as f:
+        elif re_end_horse.search(line):
+            ending_lines.append(i)
+    temp_file = file_path + 'temp/' + name
+    if not os.path.exists(file_path + 'temp/'):
+        os.makedirs(file_path + 'temp/')
+    with open(temp_file, 'w') as f:
         for i, line in enumerate(lines):
-            # if i is less than the first ending line then write the line to the file
             if i < ending_lines[0]:
                 f.write(line)
-            
-        f.writelines(lines)
-    
+            else:
+                if i in ending_lines:
+                    f.write(line)
+                else:
+                    f.write(line.rstrip() + ' ')
 
 def get_difference(list):
     '''
     Gets the difference between the 1st number and the next number in a list until the end of the list
     returns a new list with the differences
     '''
-
     difference = []
     for i in range(len(list) - 1):
         difference.append(list[i + 1] - list[i])
@@ -134,11 +136,10 @@ def get_difference(list):
 if __name__ == '__main__':
     meta_data = get_meta_data(file_source)
     # meta_data is a list of dictionaries that have the hip number, original source file, and the update file
-    print(meta_data)
+    # print(meta_data)
 
     for item in meta_data:
-        print(item['hip_number'])
-        print(item['original_source'])
-        seperate_lines(f"{p_original}" + item['original_source'])
-        print(item['update_file'])
+        # makes a new file with each horse on a seperate line
+        seperate_lines(f"{p_original}", item['original_source'])
+        seperate_lines(f"{p_update}", item['update_file'])
 
