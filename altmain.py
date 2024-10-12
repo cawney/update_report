@@ -15,13 +15,17 @@ script, file_source = argv
 # Regex
 #################################################
 
+
 re_hip_number = re.compile(r'HIP NUMBER:(\d)+')
 re_hip_withdrawn = re.compile(r'HIP NUMBER:\d+ WITHDRAWN')
 re_original_source = re.compile(r'(?P<salecode>[A-Za-z]{2})\d{6}\.TXT')
 re_end_horse = re.compile(r'^\s{3}[^\s].+(\.|-|ing\))$')
+re_start_horse = re.compile(r'(\(\d{4} )|(, by )')
 re_dam_number = re.compile(r'\d[stndrh]{2} dam')
 re_primary_dam_end = re.compile(r'^\s{6}.+-$')
 
+re_begin_bold = re.compile(r'\[1m')
+re_end_bold = re.compile(r'\[22m')
 
 
 #################################################
@@ -89,12 +93,16 @@ def seperate_lines(file_path, name):
     It will output a new file where each horse is on a seperate line.
     '''
     ending_lines = []
+    horse_start_lines = []
     file = file_path + name
     with open(file, 'r') as f:
         lines = f.readlines()
     for i, line in enumerate(lines):
         if re_dam_number.search(line):
             ending_lines.append(i)
+            horse_start_lines.append(i)
+        elif re_start_horse.search(line):
+            horse_start_lines.append(i)
         if re_primary_dam_end.search(line):
             ending_lines.append(i)
         elif re_end_horse.search(line):
@@ -103,25 +111,47 @@ def seperate_lines(file_path, name):
     if not os.path.exists(file_path + 'temp/'):
         os.makedirs(file_path + 'temp/')
     with open(temp_file, 'w') as f:
-        for i, line in enumerate(lines):
-            if i < ending_lines[0]:
-                f.write(line)
+        # for i, line in enumerate(lines):
+        #     if i < ending_lines[0]:
+        #         f.write(line)
+        #     else:
+        #         if i in ending_lines:
+        #             f.write(line)
+        #         else:
+        #             f.write(line.rstrip() + ' ')
+        for i, line in enumerate(range(len(horse_start_lines)-1)):
+            print(horse_start_lines[i])
+            if i < horse_start_lines[0]:
+                f.write(lines[i])
             else:
-                if i in ending_lines:
-                    f.write(line)
-                else:
-                    f.write(line.rstrip() + ' ')
+                if i in horse_start_lines:
+                    if i + 1 in horse_start_lines:
+                        f.write(lines[i])
+                    elif re_dam_number.search(lines[i]):
+                        f.write('\n')
+                        f.write("Found")
+                        f.write(lines[i])
+                    else:
+                        f.write(lines[i].rstrip() + ' ')
+            
+            # f.write(lines[i].rstrip())
 
-def get_difference(list):
-    '''
-    Gets the difference between the 1st number and the next number in a list until the end of the list
-    returns a new list with the differences
-    '''
-    difference = []
-    for i in range(len(list) - 1):
-        difference.append(list[i + 1] - list[i])
-    return difference
+            
 
+def clean_file(file_path, name):
+    '''
+    Cleans up the file by removing the extra spaces and making sure the horses are on seperate lines.
+    '''
+    file = file_path + name
+    with open(file, 'r') as f:
+        lines = f.readlines()
+    for line in lines:
+        # search for bold characters
+        if re_begin_bold.search(line):
+            line = re_begin_bold.sub('**', line)
+        if re_end_bold.search(line):
+            line = re_end_bold.sub('**', line)
+        # print(line)
         
 
 
@@ -140,6 +170,10 @@ if __name__ == '__main__':
 
     for item in meta_data:
         # makes a new file with each horse on a seperate line
+        print("seperating file: " + item['hip_number'])
         seperate_lines(f"{p_original}", item['original_source'])
         seperate_lines(f"{p_update}", item['update_file'])
+        print(f"cleaning file: {item['original_source']}")
+        clean_file(f"{p_original}temp/", item['original_source'])
+        clean_file(f"{p_update}temp/", item['update_file'])
 
