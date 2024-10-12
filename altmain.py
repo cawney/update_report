@@ -26,6 +26,7 @@ re_primary_dam_end = re.compile(r'^\s{6}.+-$')
 
 re_begin_bold = re.compile(r'\[1m')
 re_end_bold = re.compile(r'\[22m')
+re_extra_space = re.compile(r'\S(?P<space>\s|\.){3,}\S')
 
 
 #################################################
@@ -121,15 +122,14 @@ def seperate_lines(file_path, name):
         #             f.write(line.rstrip() + ' ')
         for i, line in enumerate(range(len(horse_start_lines)-1)):
             print(horse_start_lines[i])
-            if i < horse_start_lines[0]:
+            if i <= horse_start_lines[0]:
                 f.write(lines[i])
             else:
-                if i in horse_start_lines:
-                    if i + 1 in horse_start_lines:
-                        f.write(lines[i])
-                    elif re_dam_number.search(lines[i]):
+                if i in range(len(horse_start_lines)-1):
+                    if re_dam_number.search(lines[i]):
                         f.write('\n')
-                        f.write("Found")
+                        f.write(lines[i])
+                    elif i + 1 in horse_start_lines:
                         f.write(lines[i])
                     else:
                         f.write(lines[i].rstrip() + ' ')
@@ -145,13 +145,28 @@ def clean_file(file_path, name):
     file = file_path + name
     with open(file, 'r') as f:
         lines = f.readlines()
-    for line in lines:
+    for i, line in enumerate(lines):
         # search for bold characters
         if re_begin_bold.search(line):
             line = re_begin_bold.sub('**', line)
         if re_end_bold.search(line):
             line = re_end_bold.sub('**', line)
+        # remove extra spaces
+        if i > 28:
+            if re_extra_space.search(line):
+                line = 'match'
+                # match = re_extra_space.search(line).group('space')
+                # print("match on line: " + str(i))
+                # print(line)
+                # line = line.replace(match, ' ')
+                # print(line)
+                # lines[i] = line
+                # print(lines[i])
+                # line = re_extra_space.sub(match, line)
         # print(line)
+    with open(file, 'w') as f:
+        for line in lines:
+            f.write(line)
         
 
 
