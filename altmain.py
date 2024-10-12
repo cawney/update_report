@@ -20,7 +20,7 @@ re_hip_number = re.compile(r'HIP NUMBER:(\d)+')
 re_hip_withdrawn = re.compile(r'HIP NUMBER:\d+ WITHDRAWN')
 re_original_source = re.compile(r'(?P<salecode>[A-Za-z]{2})\d{6}\.TXT')
 re_end_horse = re.compile(r'^\s{3}[^\s].+(\.|-|ing\))$')
-re_start_horse = re.compile(r'(\(\d{4} )|(, by )')
+re_start_horse = re.compile(r'((\(\d{4} )|^([\dA-Z]))')
 re_dam_number = re.compile(r'\d[stndrh]{2} dam')
 re_primary_dam_end = re.compile(r'^\s{6}.+-$')
 
@@ -57,6 +57,7 @@ def get_meta_data(file):
     Gets all the hip numbers and the original source files from the pedigree file and puts them in
     a list of dictionaries
     '''
+    
     meta_data = []
     
     with open(file, 'r') as f:
@@ -93,33 +94,34 @@ def seperate_lines(file_path, name):
     Seperates the lines of a file into seperate horses so each horse takes up a line by itself.
     It will output a new file where each horse is on a seperate line.
     '''
-    ending_lines = []
+    
+    print("starting seperating lines")
     horse_start_lines = []
     file = file_path + name
+    
     with open(file, 'r') as f:
         lines = f.readlines()
+    
+    first_dam_line = 0
+
     for i, line in enumerate(lines):
         if re_dam_number.search(line):
-            ending_lines.append(i)
-            horse_start_lines.append(i)
+            first_dam_line = i
+            break
+
+    for i, line in enumerate(lines):
+        if i < first_dam_line:
+            pass
         elif re_start_horse.search(line):
             horse_start_lines.append(i)
-        if re_primary_dam_end.search(line):
-            ending_lines.append(i)
-        elif re_end_horse.search(line):
-            ending_lines.append(i)
+        elif re_dam_number.search(line):
+            horse_start_lines.append(i)
+    
     temp_file = file_path + 'temp/' + name
     if not os.path.exists(file_path + 'temp/'):
         os.makedirs(file_path + 'temp/')
+    
     with open(temp_file, 'w') as f:
-        # for i, line in enumerate(lines):
-        #     if i < ending_lines[0]:
-        #         f.write(line)
-        #     else:
-        #         if i in ending_lines:
-        #             f.write(line)
-        #         else:
-        #             f.write(line.rstrip() + ' ')
         for i, line in enumerate(range(len(horse_start_lines)-1)):
             print(horse_start_lines[i])
             if i <= horse_start_lines[0]:
@@ -133,10 +135,9 @@ def seperate_lines(file_path, name):
                         f.write(lines[i])
                     else:
                         f.write(lines[i].rstrip() + ' ')
-            
-            # f.write(lines[i].rstrip())
+                # else:
+                #     f.write(lines[i])            
 
-            
 
 def clean_file(file_path, name):
     '''
@@ -154,16 +155,10 @@ def clean_file(file_path, name):
         # remove extra spaces
         if i > 28:
             if re_extra_space.search(line):
-                line = 'match'
-                # match = re_extra_space.search(line).group('space')
-                # print("match on line: " + str(i))
-                # print(line)
-                # line = line.replace(match, ' ')
-                # print(line)
-                # lines[i] = line
-                # print(lines[i])
-                # line = re_extra_space.sub(match, line)
-        # print(line)
+                match = re_extra_space.search(line).group()
+                match = match[1:-1]
+                line = line.replace(match, ' ')
+        lines[i] = line
     with open(file, 'w') as f:
         for line in lines:
             f.write(line)
@@ -181,11 +176,12 @@ def clean_file(file_path, name):
 if __name__ == '__main__':
     meta_data = get_meta_data(file_source)
     # meta_data is a list of dictionaries that have the hip number, original source file, and the update file
-    # print(meta_data)
 
     for item in meta_data:
         # makes a new file with each horse on a seperate line
         print("seperating file: " + item['hip_number'])
+        print("File: " + item['original_source'])
+        print("update file: " + item['update_file'])
         seperate_lines(f"{p_original}", item['original_source'])
         seperate_lines(f"{p_update}", item['update_file'])
         print(f"cleaning file: {item['original_source']}")
